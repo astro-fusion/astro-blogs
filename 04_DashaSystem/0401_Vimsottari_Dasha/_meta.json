@@ -1,0 +1,49 @@
+{
+    "Vimsottari Dasha": [
+        {
+            "file": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md",
+            "title": "Vimsottari Dasha of Ketu (7 years)",
+            "order": 1
+        },
+        {
+            "file": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md",
+            "title": "Vimsottari Dasha of Shukra (Venus - 20 years)",
+            "order": 2
+        },
+        {
+            "file": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.md",
+            "title": "Vimsottari Dasha of Surya (Sun - 6 years)",
+            "order": 3
+        },
+        {
+            "file": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md",
+            "title": "Vimsottari Dasha of Chandra (Moon - 10 years)",
+            "order": 4
+        },
+        {
+            "file": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md",
+            "title": "Vimsottari Dasha of Mangala (Mars - 7 years)",
+            "order": 5
+        },
+        {
+            "file": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md",
+            "title": "Vimsottari Dasha of Rahu (18 years)",
+            "order": 6
+        },
+        {
+            "file": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md",
+            "title": "Vimsottari Dasha of Guru (Jupiter - 16 years)",
+            "order": 7
+        },
+        {
+            "file": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md",
+            "title": "Vimsottari Dasha of Shani (Saturn - 19 years)",
+            "order": 8
+        },
+        {
+            "file": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md",
+            "title": "Vimsottari Dasha of Budha (Mercury - 17 years)",
+            "order": 9
+        }
+    ]
+}

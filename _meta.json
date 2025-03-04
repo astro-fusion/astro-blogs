@@ -1,0 +1,149 @@
+{
+  "Vedic Astrology": [
+    {
+      "title": "Rasi",
+      "folder": "01_Rasi",
+      "children": [
+        { "name": "0101_Mesha.md", "title": "Mesha (Aries)" },
+        { "name": "0102_Vrishabha.md", "title": "Vrishabha (Taurus)" },
+        { "name": "0103_Mithuna.md", "title": "Mithuna (Gemini)" },
+        { "name": "0104_Karka.md", "title": "Karka (Cancer)" },
+        { "name": "0105_Simha.md", "title": "Simha (Leo)" },
+        { "name": "0106_Kanya.md", "title": "Kanya (Virgo)" },
+        { "name": "0107_Tula.md", "title": "Tula (Libra)" },
+        { "name": "0108_Vrishchika.md", "title": "Vrishchika (Scorpio)" },
+        { "name": "0109_Dhanu.md", "title": "Dhanu (Sagittarius)" },
+        { "name": "0110_Makara.md", "title": "Makara (Capricorn)" },
+        { "name": "0111_Kumbha.md", "title": "Kumbha (Aquarius)" },
+        { "name": "0112_Meena.md", "title": "Meena (Pisces)" }
+      ]
+    },
+    {
+      "title": "Houses",
+      "folder": "02_Houses",
+      "children": [
+        { "name": "201_1th_House_in_Vedic_Astrology.md", "title": "1st House" },
+        { "name": "202_2th_House_in_Vedic_Astrology.md", "title": "2nd House" },
+        { "name": "203_3th_House_in_Vedic_Astrology.md", "title": "3rd House" },
+        { "name": "204_4th_House_in_Vedic_Astrology.md", "title": "4th House" },
+        { "name": "205_5th_House_in_Vedic_Astrology.md", "title": "5th House" },
+        { "name": "206_6th_House_in_Vedic_Astrology.md", "title": "6th House" },
+        { "name": "207_7th_House_in_Vedic_Astrology.md", "title": "7th House" },
+        { "name": "208_8th_House_in_Vedic_Astrology.md", "title": "8th House" },
+        { "name": "209_9th_House_in_Vedic_Astrology.md", "title": "9th House" },
+        { "name": "210_10th_House_in_Vedic_Astrology.md", "title": "10th House" },
+        { "name": "211_11th_House_in_Vedic_Astrology.md", "title": "11th House" },
+        { "name": "212_12th_House_in_Vedic_Astrology.md", "title": "12th House" }
+      ]
+    },
+    {
+      "title": "Planets",
+      "folder": "03_Planets",
+      "children": [
+        { "name": "0301_Sun.md", "title": "Sun" },
+        { "name": "0302_Moon.md", "title": "Moon" },
+        { "name": "0303_Mars.md", "title": "Mars" },
+        { "name": "0304_Mercury.md", "title": "Mercury" },
+        { "name": "0305_Jupiter.md", "title": "Jupiter" },
+        { "name": "0306_Venus.md", "title": "Venus" },
+        { "name": "0307_Saturn.md", "title": "Saturn" },
+        { "name": "0308_Rahu.md", "title": "Rahu" },
+        { "name": "0309_Ketu.md", "title": "Ketu" },
+        {
+          "title": "Upagrahas",
+          "children": [
+            { "name": "0310_Uranus.md", "title": "Uranus" },
+            { "name": "0311_Neptune.md", "title": "Neptune" },
+            { "name": "0312_Pluto.md", "title": "Pluto" },
+            { "name": "0313_Dhooma.md", "title": "Dhooma" },
+            { "name": "0314_Vyatipata.md", "title": "Vyatipata" },
+            { "name": "0315_Parivesha.md", "title": "Parivesha" },
+            { "name": "0316_Indra Chapa.md", "title": "Indra Chapa" },
+            { "name": "0317_Upaketu.md", "title": "Upaketu" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dasha System",
+      "folder": "04_DashaSystem",
+      "children": [
+        {
+          "title": "Vimsottari Dasha",
+          "children": [
+            { "name": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md", "title": "Ketu Dasha" },
+            { "name": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md", "title": "Shukra (Venus) Dasha" },
+            { "name": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.md", "title": "Surya (Sun) Dasha" },
+            { "name": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md", "title": "Chandra (Moon) Dasha" },
+            { "name": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md", "title": "Mangala (Mars) Dasha" },
+            { "name": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md", "title": "Rahu Dasha" },
+            { "name": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md", "title": "Guru (Jupiter) Dasha" },
+            { "name": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md", "title": "Shani (Saturn) Dasha" },
+            { "name": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md", "title": "Budha (Mercury) Dasha" }
+          ]
+        },
+        {
+          "title": "Yogani Dasha",
+          "children": [
+            { "name": "0501_Mangala_Moon_1.md", "title": "Mangala-Moon Dasha" },
+            { "name": "0502_Pingala_Sun_2.md", "title": "Pingala-Sun Dasha" },
+            { "name": "0503_Dhanya_Jupiter_3.md", "title": "Dhanya-Jupiter Dasha" },
+            { "name": "0504_Bhramari_Mars_4.md", "title": "Bhramari-Mars Dasha" },
+            { "name": "0505_Bhadrika_Mercury_5.md", "title": "Bhadrika-Mercury Dasha" },
+            { "name": "0506_Ulka_Saturn_6.md", "title": "Ulka-Saturn Dasha" },
+            { "name": "0507_Siddha_Venus_7.md", "title": "Siddha-Venus Dasha" },
+            { "name": "0508_Sankata_Rahu_8.md", "title": "Sankata-Rahu Dasha" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nakshatra",
+      "folder": "05_Nakshatra"
+    },
+    {
+      "title": "Planet in Houses",
+      "folder": "06_Planet_in_Houses"
+    },
+    {
+      "title": "House Lord Placements",
+      "folder": "07_House_Lord_Placements"
+    },
+    {
+      "title": "Planet in Rasi Placement",
+      "folder": "08_Planet_In_Rasi_Placement"
+    },
+    {
+      "title": "Remedies",
+      "folder": "09_Remedies"
+    },
+    {
+      "title": "Lord in Houses",
+      "folder": "10_Lord_in_Houses"
+    },
+    {
+      "title": "Planets Conjunctions",
+      "folder": "11_Planets_Conjunctions"
+    },
+    {
+      "title": "Chart Analysis",
+      "folder": "12_Chart_Analysis"
+    },
+    {
+      "title": "Planet in Nakshatra",
+      "folder": "16_Planet in Nakshatra"
+    },
+    {
+      "title": "Ashtakavarga",
+      "folder": "17_Ashtakavarga"
+    },
+    {
+      "title": "Vastu",
+      "folder": "18_Vastu"
+    },
+    {
+      "title": "Numerology",
+      "folder": "19_Numerology"
+    }
+  ]
+}

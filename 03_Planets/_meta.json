@@ -1,0 +1,40 @@
+{
+  "Planets": [
+    {
+      "file": "0301_Sun.md",
+      "title": "Sun - Soul"
+    },
+    {
+      "file": "0302_Moon.md",
+      "title": "Moon - Mind"
+    },
+    {
+      "file": "0303_Mars.md",
+      "title": "Mars - Energy"
+    },
+    {
+      "file": "0304_Mercury.md",
+      "title": "Mercury - Intellect"
+    },
+    {
+      "file": "0305_Jupiter.md",
+      "title": "Jupiter - Wisdom"
+    },
+    {
+      "file": "0306_Venus.md",
+      "title": "Venus - Love"
+    },
+    {
+      "file": "0307_Saturn.md",
+      "title": "Saturn - Discipline"
+    },
+    {
+      "file": "0308_Rahu.md",
+      "title": "Rahu - Desires"
+    },
+    {
+      "file": "0309_Ketu.md",
+      "title": "Ketu - Spirituality"
+    }
+  ]
+}

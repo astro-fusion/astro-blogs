@@ -1,0 +1,210 @@
+## Sun
+
+**The Sun in the First House**
+
+* The native will be endowed with beauty, wealth, happiness,
+fame, respect, honour, and will be free from diseases. He will
+be a king or equal to a king.
+
+**The Sun in the Second House**
+
+* The native will be bereft of wealth, respect, and happiness.
+He will be troubled by diseases, and will be short-tempered.
+He will be inimical to his relatives, and will have wicked
+friends.
+
+**The Sun in the Third House**
+
+* The native will be endowed with wealth, happiness, and
+fame. He will be strong, victorious, and will have many
+brothers.
+
+**The Sun in the Fourth House**
+
+* The native will be devoid of happiness, and will be troubled
+by diseases. He will be inimical to his mother, and will be
+bereft of landed property and vehicles.
+
+**The Sun in the Fifth House**
+
+* The native will be bereft of wealth and sons. He will be
+unhappy, and will have few friends.
+
+**The Sun in the Sixth House**
+
+* The native will be victorious over his enemies. He will be
+endowed with wealth and happiness, and will be free from
+diseases.
+
+**The Sun in the Seventh House**
+
+* The native will have a sickly wife. He will be bereft of
+happiness, and will be troubled by diseases.
+
+**The Sun in the Eighth House**
+
+* The native will be short-lived, bereft of wealth, and will
+suffer from diseases of the eyes.
+
+**The Sun in the Ninth House**
+
+* The native will be bereft of wealth and happiness. He will
+be irreligious, and will have an unhappy father.
+
+**The Sun in the Tenth House**
+
+* The native will be endowed with wealth, happiness, and
+fame. He will be engaged in virtuous deeds, and will be
+respected by the king.
+
+**The Sun in the Eleventh House**
+
+* The native will be endowed with wealth, happiness, and
+fame. He will have many friends, and will be engaged in
+virtuous deeds.
+
+**The Sun in the Twelfth House**
+
+* The native will be bereft of wealth and happiness. He will
+be troubled by diseases, and will incur expenditure.
+
+**Explanation of the Above Sutras**
+
+The Sun is the significator of the soul, the father, the king,
+and the government. It is also the significator of health,
+vitality, and courage. When the Sun is well-placed in a
+horoscope, it gives the native all these good qualities.
+However, when the Sun is ill-placed, it can give the native
+the opposite qualities.
+
+The first house is the house of the self. When the Sun is in
+the first house, it makes the native self-confident, courageous,
+and ambitious. The native is also likely to be healthy and
+long-lived.
+
+The second house is the house of wealth and family. When the
+Sun is in the second house, it can make the native wealthy,
+but it can also make the native short-tempered and inimical
+to his relatives.
+
+The third house is the house of courage and communication.
+When the Sun is in the third house, it makes the native
+courageous, communicative, and successful in his endeavors.
+The native is also likely to have many brothers.
+
+The fourth house is the house of the mother and home. When
+the Sun is in the fourth house, it can make the native
+unhappy and troubled by diseases. The native is also likely to
+be inimical to his mother and bereft of landed property and
+vehicles.
+
+The fifth house is the house of children and intelligence.
+When the Sun is in the fifth house, it can make the native
+bereft of children and intelligence. The native is also likely to
+be unhappy and have few friends.
+
+The sixth house is the house of enemies and diseases. When
+the Sun is in the sixth house, it makes the native victorious
+over his enemies and free from diseases. The native is also
+likely to be wealthy and happy.
+
+The seventh house is the house of marriage and partnership.
+When the Sun is in the seventh house, it can make the native's
+wife sickly. The native is also likely to be bereft of happiness
+and troubled by diseases.
+
+The eighth house is the house of longevity and inheritance.
+When the Sun is in the eighth house, it can make the native
+short-lived and bereft of wealth. The native is also likely to
+suffer from diseases of the eyes.
+
+The ninth house is the house of father and religion. When the
+Sun is in the ninth house, it can make the native bereft of
+wealth and happiness. The native is also likely to be
+irreligious and have an unhappy father.
+
+The tenth house is the house of career and profession. When
+the Sun is in the tenth house, it makes the native successful in
+his career and respected by the king. The native is also likely
+to be wealthy, happy, and engaged in virtuous deeds.
+
+The eleventh house is the house of gains and friends. When
+the Sun is in the eleventh house, it makes the native wealthy,
+happy, and famous. The native is also likely to have many
+friends and be engaged in virtuous deeds.
+
+The twelfth house is the house of losses and expenditure.
+When the Sun is in the twelfth house, it can make the native
+bereft of wealth and happiness. The native is also likely to be
+troubled by diseases and incur expenditure.
+
+**Characteristics of the Sun**
+
+The Sun is a fiery planet. It is hot, dry, and masculine. It
+represents the soul, the father, the king, and the government.
+It is also the significator of health, vitality, and courage. The
+Sun is exalted in Aries and debilitated in Libra. It is friendly
+to Mars, Jupiter, and the Moon, and inimical to Venus and
+Saturn. Mercury is neutral to the Sun.
+
+The Sun's gem is the ruby. Its metal is gold. Its direction is
+east. Its day is Sunday. Its color is orange. Its element is fire.
+Its taste is pungent. Its quality is sattvic. Its deity is Surya.
+
+The Sun rules the sign Leo. It is the lord of the fifth house in
+the natural zodiac.
+
+The Sun is a benefic planet. It gives good results when it is
+well-placed in a horoscope. However, it can also give bad
+results when it is ill-placed.
+
+Some of the good qualities that the Sun can give are:
+
+* Self-confidence
+* Courage
+* Ambition
+* Leadership qualities
+* Health
+* Vitality
+* Longevity
+* Fame
+* Respect
+* Honour
+* Wealth
+* Happiness
+
+Some of the bad qualities that the Sun can give are:
+
+* Short temper
+* Anger
+* Ego
+* Pride
+* Arrogance
+* Dominance
+* Cruelty
+* Violence
+* Diseases
+* Losses
+
+The Sun is a very important planet in astrology. It is the
+significator of the soul, and it can have a profound impact on a
+person's life. When the Sun is well-placed in a horoscope, it
+can give the native all the good qualities that it represents.
+However, when the Sun is ill-placed, it can give the native the
+opposite qualities.
+
+It is important to consult an astrologer to get a detailed
+analysis of your horoscope and to find out how the Sun is
+placed in your chart.
+
+**Remedies for a Weak Sun**
+
+There are a number of remedies that can be done to strengthen
+a weak Sun in a horoscope. Some of these remedies are:
+
+* Wearing a ruby gemstone
+* Worshiping the Sun god
+* Chanting the Gayatri Mantra
+* Offering water to the Sun god
+* Donating wheat, jaggery, and copper on Sundays
+* Fasting on Sundays

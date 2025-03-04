@@ -1,0 +1,31 @@
+Aspects:
+
+if Mars is in Sign and the Sun aspects it
+
+If Mars is in Aries and the Sun aspects it, the native is a great hero, commander of an army, is engaged in adventurous deeds, and is short-tempered. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Taurus and the Sun aspects it, the native is wealthy, learned, and famous. He is also a good speaker and writer. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Gemini and the Sun aspects it, the native is intelligent, learned, and wealthy. He is also a good speaker and writer. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Cancer and the Sun aspects it, the native is devoid of happiness, and is troubled by diseases. He is inimical to his mother, and is bereft of landed property and vehicles. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Leo and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He is strong, victorious, and has many brothers. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Virgo and the Sun aspects it, the native is bereft of wealth and sons. He is unhappy, and has few friends. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Libra and the Sun aspects it, the native is victorious over his enemies. He is endowed with wealth and happiness, and is free from diseases. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Scorpio and the Sun aspects it, the native has a sickly wife. He is bereft of happiness, and is troubled by diseases. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Sagittarius and the Sun aspects it, the native is short-lived, bereft of wealth, and suffers from diseases of the eyes. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Capricorn and the Sun aspects it, the native is bereft of wealth and happiness. He is irreligious, and has an unhappy father. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Aquarius and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He is engaged in virtuous deeds, and is respected by the king. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Mars is in Pisces and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He has many friends, and is engaged in virtuous deeds. The Moon makes him lustful, passionate, and adulterous. Mercury makes him a liar, wanderer, and adulterous. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Venus makes him lustful, passionate, and adulterous. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+(e) General:
+
+Mars is considered a malefic planet, but it can also give good results if it is well-placed in a horoscope. It is important to consult an astrologer to get a detailed analysis of your horoscope and to find out how Mars is placed in your chart.

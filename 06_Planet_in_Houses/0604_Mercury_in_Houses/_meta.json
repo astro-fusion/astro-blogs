@@ -1,0 +1,79 @@
+{
+    "Mercury in Houses": [
+        {
+            "file": "0604001_mercury_in_Houses.md",
+            "title": "Mercury - Overview",
+            "order": 1
+        },
+        {
+            "file": "0604002_mercury_in_sign.md",
+            "title": "Mercury - Signs",
+            "order": 2
+        },
+        {
+            "file": "0604003_mercury_aspects_by_Sun.md",
+            "title": "Mercury - Aspects by Sun",
+            "order": 3
+        },
+        {
+            "file": "060401_Mercury_in_1th_House.md",
+            "title": "Mercury in 1st House",
+            "order": 4
+        },
+        {
+            "file": "060402_Mercury_in_2th_House.md",
+            "title": "Mercury in 2nd House",
+            "order": 5
+        },
+        {
+            "file": "060403_Mercury_in_3th_House.md",
+            "title": "Mercury in 3rd House",
+            "order": 6
+        },
+        {
+            "file": "060404_Mercury_in_4th_House.md",
+            "title": "Mercury in 4th House",
+            "order": 7
+        },
+        {
+            "file": "060405_Mercury_in_5th_House.md",
+            "title": "Mercury in 5th House",
+            "order": 8
+        },
+        {
+            "file": "060406_Mercury_in_6th_House.md",
+            "title": "Mercury in 6th House",
+            "order": 9
+        },
+        {
+            "file": "060407_Mercury_in_7th_House.md",
+            "title": "Mercury in 7th House",
+            "order": 10
+        },
+        {
+            "file": "060408_Mercury_in_8th_House.md",
+            "title": "Mercury in 8th House",
+            "order": 11
+        },
+        {
+            "file": "060409_Mercury_in_9th_House.md",
+            "title": "Mercury in 9th House",
+            "order": 12
+        },
+        {
+            "file": "060410_Mercury_in_10th_House.md",
+            "title": "Mercury in 10th House",
+            "order": 13
+        },
+        {
+            "file": "060411_Mercury_in_11th_House.md",
+            "title": "Mercury in 11th House",
+            "order": 14
+        },
+        {
+            "file": "060412_Mercury_in_12th_House.md",
+            "title": "Mercury in 12th House",
+            "order": 15
+        }
+    ]
+}

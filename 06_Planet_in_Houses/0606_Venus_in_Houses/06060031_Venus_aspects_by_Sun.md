@@ -1,0 +1,36 @@
+---
+title: 'Venus in sign Aspects by Sun'
+description: |
+  Venus in sign Aspects by Sun
+pubDate: '2024-08-21'
+---
+
+Venus in sign Aspects by Sun
+
+If Venus is in Aries and the Sun aspects it, the native is handsome, wealthy, and famous. He is fond of music and fine arts. He is also lustful and passionate. The Moon makes him even more handsome and charming. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Taurus and the Sun aspects it, the native is very wealthy and prosperous. He is also very beautiful and charming. He is fond of music and fine arts. The Moon makes him even more wealthy and prosperous. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Gemini and the Sun aspects it, the native is intelligent, learned, and wealthy. He is a good speaker and writer. He is also fond of traveling and the occult sciences. The Moon makes him even more intelligent and learned. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Cancer and the Sun aspects it, the native is endowed with happiness, vehicles, and landed property. He is loved by his mother, and has a charming personality. The Moon makes him even more happy and endowed with vehicles and landed property. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Leo and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He is strong, victorious, and has many brothers. The Moon makes him even more wealthy and happy. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Virgo and the Sun aspects it, the native is bereft of wealth and sons. He is unhappy, and has few friends. The Moon makes him even more unhappy and bereft of friends. Mars makes him courageous and adventurous, but also short-tempered and prone to accidents. Mercury makes him a skilled craftsman or artisan, but he may also be deceitful and cunning. Jupiter makes him wealthy, happy, and famous, but he may also be extravagant and wasteful. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Libra and the Sun aspects it, the native is very beautiful and charming. He is also very wealthy and prosperous. He is fond of music and fine arts. The Moon makes him even more beautiful and charming. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Scorpio and the Sun aspects it, the native has a sickly wife. He is bereft of happiness, and is troubled by diseases. The Moon makes him even more bereft of happiness and troubled by diseases. Mars makes him courageous and adventurous, but also short-tempered and prone to accidents. Mercury makes him a skilled craftsman or artisan, but he may also be deceitful and cunning. Jupiter makes him wealthy, happy, and famous, but he may also be extravagant and wasteful. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Sagittarius and the Sun aspects it, the native is endowed with wealth and happiness. He is religious, and has a happy father. The Moon makes him even more wealthy and happy. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Capricorn and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He is engaged in virtuous deeds, and is respected by the king. The Moon makes him even more wealthy, happy, and famous. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Aquarius and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He has many friends, and is engaged in virtuous deeds. The Moon makes him even more wealthy, happy, and famous. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+If Venus is in Pisces and the Sun aspects it, the native is endowed with wealth, happiness, and fame. He has many friends, and is engaged in virtuous deeds. The Moon makes him even more wealthy, happy, and famous. Mars makes him courageous and adventurous. Mercury makes him a skilled craftsman or artisan. Jupiter makes him wealthy, happy, and famous. He is also religious and charitable. Saturn makes him jealous, envious, and quarrelsome. He is also likely to suffer from diseases.
+
+(e) General:
+
+Venus is considered a benefic planet, and it generally gives good results when it is well-placed in a horoscope. It is important to consult an astrologer to get a detailed analysis of your horoscope and to find out how Venus is placed in your chart.
