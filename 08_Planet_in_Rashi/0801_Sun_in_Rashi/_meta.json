@@ -1,0 +1,64 @@
+{
+  "0801 Sun in Rashi": [
+    {
+      "file": "080101_Sun_in_Aries.md",
+      "title": "Sun in Aries",
+      "order": 80101
+    },
+    {
+      "file": "080102_Sun_in_Taurus.md",
+      "title": "Sun in Taurus",
+      "order": 80102
+    },
+    {
+      "file": "080103_Sun_in_Gemini.md",
+      "title": "Sun in Gemini",
+      "order": 80103
+    },
+    {
+      "file": "080104_Sun_in_Cancer.md",
+      "title": "Sun in Cancer",
+      "order": 80104
+    },
+    {
+      "file": "080105_Sun_in_Leo.md",
+      "title": "Sun in Leo",
+      "order": 80105
+    },
+    {
+      "file": "080106_Sun_in_Virgo.md",
+      "title": "Sun in Virgo",
+      "order": 80106
+    },
+    {
+      "file": "080107_Sun_in_Libra.md",
+      "title": "Sun in Libra",
+      "order": 80107
+    },
+    {
+      "file": "080108_Sun_in_Scorpio.md",
+      "title": "Sun in Scorpio",
+      "order": 80108
+    },
+    {
+      "file": "080109_Sun_in_Sagittarius.md",
+      "title": "Sun in Sagittarius",
+      "order": 80109
+    },
+    {
+      "file": "080110_Sun_in_Capricorn.md",
+      "title": "Sun in Capricorn",
+      "order": 80110
+    },
+    {
+      "file": "080111_Sun_in_Aquarius.md",
+      "title": "Sun in Aquarius",
+      "order": 80111
+    },
+    {
+      "file": "080112_Sun_in_Pisces.md",
+      "title": "Sun in Pisces",
+      "order": 80112
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "0802 Moon in Rashi": [
+    {
+      "file": "080201_Moon_in_Aries.md",
+      "title": "Moon in Aries",
+      "order": 80201
+    },
+    {
+      "file": "080202_Moon_in_Taurus.md",
+      "title": "Moon in Taurus",
+      "order": 80202
+    },
+    {
+      "file": "080203_Moon_in_Gemini.md",
+      "title": "Moon in Gemini",
+      "order": 80203
+    },
+    {
+      "file": "080204_Moon_in_Cancer.md",
+      "title": "Moon in Cancer",
+      "order": 80204
+    },
+    {
+      "file": "080205_Moon_in_Leo.md",
+      "title": "Moon in Leo",
+      "order": 80205
+    },
+    {
+      "file": "080206_Moon_in_Virgo.md",
+      "title": "Moon in Virgo",
+      "order": 80206
+    },
+    {
+      "file": "080207_Moon_in_Libra.md",
+      "title": "Moon in Libra",
+      "order": 80207
+    },
+    {
+      "file": "080208_Moon_in_Scorpio.md",
+      "title": "Moon in Scorpio",
+      "order": 80208
+    },
+    {
+      "file": "080209_Moon_in_Sagittarius.md",
+      "title": "Moon in Sagittarius",
+      "order": 80209
+    },
+    {
+      "file": "080210_Moon_in_Capricorn.md",
+      "title": "Moon in Capricorn",
+      "order": 80210
+    },
+    {
+      "file": "080211_Moon_in_Aquarius.md",
+      "title": "Moon in Aquarius",
+      "order": 80211
+    },
+    {
+      "file": "080212_Moon_in_Pisces.md",
+      "title": "Moon in Pisces",
+      "order": 80212
+    }
+  ]
+}

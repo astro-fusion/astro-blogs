@@ -1,0 +1,64 @@
+{
+  "0807 Saturn in Rasi": [
+    {
+      "file": "080701_Saturn_in_Aries.md",
+      "title": "Saturn in Aries",
+      "order": 80701
+    },
+    {
+      "file": "080702_Saturn_in_Taurus.md",
+      "title": "Saturn in Taurus",
+      "order": 80702
+    },
+    {
+      "file": "080703_Saturn_in_Gemini.md",
+      "title": "Saturn in Gemini",
+      "order": 80703
+    },
+    {
+      "file": "080704_Saturn_in_Cancer.md",
+      "title": "Saturn in Cancer",
+      "order": 80704
+    },
+    {
+      "file": "080705_Saturn_in_Leo.md",
+      "title": "Saturn in Leo",
+      "order": 80705
+    },
+    {
+      "file": "080706_Saturn_in_Virgo.md",
+      "title": "Saturn in Virgo",
+      "order": 80706
+    },
+    {
+      "file": "080707_Saturn_in_Libra.md",
+      "title": "Saturn in Libra",
+      "order": 80707
+    },
+    {
+      "file": "080708_Saturn_in_Scorpio.md",
+      "title": "Saturn in Scorpio",
+      "order": 80708
+    },
+    {
+      "file": "080709_Saturn_in_Sagittarius.md",
+      "title": "Saturn in Sagittarius",
+      "order": 80709
+    },
+    {
+      "file": "080710_Saturn_in_Capricorn.md",
+      "title": "Saturn in Capricorn",
+      "order": 80710
+    },
+    {
+      "file": "080711_Saturn_in_Aquarius.md",
+      "title": "Saturn in Aquarius",
+      "order": 80711
+    },
+    {
+      "file": "080712_Saturn_in_Pisces.md",
+      "title": "Saturn in Pisces",
+      "order": 80712
+    }
+  ]
+}

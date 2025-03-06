@@ -1,0 +1,64 @@
+{
+  "0804 Mercury in Rashi": [
+    {
+      "file": "080401_Mercury_in_Aries.md",
+      "title": "Mercury in Aries",
+      "order": 80401
+    },
+    {
+      "file": "080402_Mercury_in_Taurus.md",
+      "title": "Mercury in Taurus",
+      "order": 80402
+    },
+    {
+      "file": "080403_Mercury_in_Gemini.md",
+      "title": "Mercury in Gemini",
+      "order": 80403
+    },
+    {
+      "file": "080404_Mercury_in_Cancer.md",
+      "title": "Mercury in Cancer",
+      "order": 80404
+    },
+    {
+      "file": "080405_Mercury_in_Leo.md",
+      "title": "Mercury in Leo",
+      "order": 80405
+    },
+    {
+      "file": "080406_Mercury_in_Virgo.md",
+      "title": "Mercury in Virgo",
+      "order": 80406
+    },
+    {
+      "file": "080407_Mercury_in_Libra.md",
+      "title": "Mercury in Libra",
+      "order": 80407
+    },
+    {
+      "file": "080408_Mercury_in_Scorpio.md",
+      "title": "Mercury in Scorpio",
+      "order": 80408
+    },
+    {
+      "file": "080409_Mercury_in_Sagittarius.md",
+      "title": "Mercury in Sagittarius",
+      "order": 80409
+    },
+    {
+      "file": "080410_Mercury_in_Capricorn.md",
+      "title": "Mercury in Capricorn",
+      "order": 80410
+    },
+    {
+      "file": "080411_Mercury_in_Aquarius.md",
+      "title": "Mercury in Aquarius",
+      "order": 80411
+    },
+    {
+      "file": "080412_Mercury_in_Pisces.md",
+      "title": "Mercury in Pisces",
+      "order": 80412
+    }
+  ]
+}
