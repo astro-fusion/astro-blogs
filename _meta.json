@@ -19,41 +19,116 @@
           "title": "Mithuna (Gemini)",
           "path": "01_Rasi/0103_Mithuna.md"
         },
-        { "name": "0104_Karka.md", "title": "Karka (Cancer)" },
-        { "name": "0105_Simha.md", "title": "Simha (Leo)" },
-        { "name": "0106_Kanya.md", "title": "Kanya (Virgo)" },
-        { "name": "0107_Tula.md", "title": "Tula (Libra)" },
-        { "name": "0108_Vrishchika.md", "title": "Vrishchika (Scorpio)" },
-        { "name": "0109_Dhanu.md", "title": "Dhanu (Sagittarius)" },
-        { "name": "0110_Makara.md", "title": "Makara (Capricorn)" },
-        { "name": "0111_Kumbha.md", "title": "Kumbha (Aquarius)" },
-        { "name": "0112_Meena.md", "title": "Meena (Pisces)" }
+        {
+          "name": "0104_Karka.md",
+          "title": "Karka (Cancer)",
+          "path": "01_Rasi/0104_Karka.md"
+        },
+        {
+          "name": "0105_Simha.md",
+          "title": "Simha (Leo)",
+          "path": "01_Rasi/0105_Simha.md"
+        },
+        {
+          "name": "0106_Kanya.md",
+          "title": "Kanya (Virgo)",
+          "path": "01_Rasi/0106_Kanya.md"
+        },
+        {
+          "name": "0107_Tula.md",
+          "title": "Tula (Libra)",
+          "path": "01_Rasi/0107_Tula.md"
+        },
+        {
+          "name": "0108_Vrishchika.md",
+          "title": "Vrishchika (Scorpio)",
+          "path": "01_Rasi/0108_Vrishchika.md"
+        },
+        {
+          "name": "0109_Dhanu.md",
+          "title": "Dhanu (Sagittarius)",
+          "path": "01_Rasi/0109_Dhanu.md"
+        },
+        {
+          "name": "0110_Makara.md",
+          "title": "Makara (Capricorn)",
+          "path": "01_Rasi/0110_Makara.md"
+        },
+        {
+          "name": "0111_Kumbha.md",
+          "title": "Kumbha (Aquarius)",
+          "path": "01_Rasi/0111_Kumbha.md"
+        },
+        {
+          "name": "0112_Meena.md",
+          "title": "Meena (Pisces)",
+          "path": "01_Rasi/0112_Meena.md"
+        }
       ]
     },
     {
       "title": "Houses",
       "folder": "02_Houses",
       "children": [
-        { "name": "201_1th_House_in_Vedic_Astrology.md", "title": "1st House" },
-        { "name": "202_2th_House_in_Vedic_Astrology.md", "title": "2nd House" },
-        { "name": "203_3th_House_in_Vedic_Astrology.md", "title": "3rd House" },
-        { "name": "204_4th_House_in_Vedic_Astrology.md", "title": "4th House" },
-        { "name": "205_5th_House_in_Vedic_Astrology.md", "title": "5th House" },
-        { "name": "206_6th_House_in_Vedic_Astrology.md", "title": "6th House" },
-        { "name": "207_7th_House_in_Vedic_Astrology.md", "title": "7th House" },
-        { "name": "208_8th_House_in_Vedic_Astrology.md", "title": "8th House" },
-        { "name": "209_9th_House_in_Vedic_Astrology.md", "title": "9th House" },
+        {
+          "name": "201_1th_House_in_Vedic_Astrology.md",
+          "title": "1st House",
+          "path": "02_Houses/201_1th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "202_2th_House_in_Vedic_Astrology.md",
+          "title": "2nd House",
+          "path": "02_Houses/202_2th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "203_3th_House_in_Vedic_Astrology.md",
+          "title": "3rd House",
+          "path": "02_Houses/203_3th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "204_4th_House_in_Vedic_Astrology.md",
+          "title": "4th House",
+          "path": "02_Houses/204_4th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "205_5th_House_in_Vedic_Astrology.md",
+          "title": "5th House",
+          "path": "02_Houses/205_5th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "206_6th_House_in_Vedic_Astrology.md",
+          "title": "6th House",
+          "path": "02_Houses/206_6th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "207_7th_House_in_Vedic_Astrology.md",
+          "title": "7th House",
+          "path": "02_Houses/207_7th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "208_8th_House_in_Vedic_Astrology.md",
+          "title": "8th House",
+          "path": "02_Houses/208_8th_House_in_Vedic_Astrology.md"
+        },
+        {
+          "name": "209_9th_House_in_Vedic_Astrology.md",
+          "title": "9th House",
+          "path": "02_Houses/209_9th_House_in_Vedic_Astrology.md"
+        },
         {
           "name": "210_10th_House_in_Vedic_Astrology.md",
-          "title": "10th House"
+          "title": "10th House",
+          "path": "02_Houses/210_10th_House_in_Vedic_Astrology.md"
         },
         {
           "name": "211_11th_House_in_Vedic_Astrology.md",
-          "title": "11th House"
+          "title": "11th House",
+          "path": "02_Houses/211_11th_House_in_Vedic_Astrology.md"
         },
         {
           "name": "212_12th_House_in_Vedic_Astrology.md",
-          "title": "12th House"
+          "title": "12th House",
+          "path": "02_Houses/212_12th_House_in_Vedic_Astrology.md"
         }
       ]
     },
@@ -61,26 +136,94 @@
       "title": "Planets",
       "folder": "03_Planets",
       "children": [
-        { "name": "0301_Sun.md", "title": "Sun" },
-        { "name": "0302_Moon.md", "title": "Moon" },
-        { "name": "0303_Mars.md", "title": "Mars" },
-        { "name": "0304_Mercury.md", "title": "Mercury" },
-        { "name": "0305_Jupiter.md", "title": "Jupiter" },
-        { "name": "0306_Venus.md", "title": "Venus" },
-        { "name": "0307_Saturn.md", "title": "Saturn" },
-        { "name": "0308_Rahu.md", "title": "Rahu" },
-        { "name": "0309_Ketu.md", "title": "Ketu" },
+        {
+          "name": "0301_Sun.md",
+          "title": "Sun",
+          "path": "03_Planets/0301_Sun.md"
+        },
+        {
+          "name": "0302_Moon.md",
+          "title": "Moon",
+          "path": "03_Planets/0302_Moon.md"
+        },
+        {
+          "name": "0303_Mars.md",
+          "title": "Mars",
+          "path": "03_Planets/0303_Mars.md"
+        },
+        {
+          "name": "0304_Mercury.md",
+          "title": "Mercury",
+          "path": "03_Planets/0304_Mercury.md"
+        },
+        {
+          "name": "0305_Jupiter.md",
+          "title": "Jupiter",
+          "path": "03_Planets/0305_Jupiter.md"
+        },
+        {
+          "name": "0306_Venus.md",
+          "title": "Venus",
+          "path": "03_Planets/0306_Venus.md"
+        },
+        {
+          "name": "0307_Saturn.md",
+          "title": "Saturn",
+          "path": "03_Planets/0307_Saturn.md"
+        },
+        {
+          "name": "0308_Rahu.md",
+          "title": "Rahu",
+          "path": "03_Planets/0308_Rahu.md"
+        },
+        {
+          "name": "0309_Ketu.md",
+          "title": "Ketu",
+          "path": "03_Planets/0309_Ketu.md"
+        },
         {
           "title": "Upagrahas",
           "children": [
-            { "name": "0310_Uranus.md", "title": "Uranus" },
-            { "name": "0311_Neptune.md", "title": "Neptune" },
-            { "name": "0312_Pluto.md", "title": "Pluto" },
-            { "name": "0313_Dhooma.md", "title": "Dhooma" },
-            { "name": "0314_Vyatipata.md", "title": "Vyatipata" },
-            { "name": "0315_Parivesha.md", "title": "Parivesha" },
-            { "name": "0316_Indra Chapa.md", "title": "Indra Chapa" },
-            { "name": "0317_Upaketu.md", "title": "Upaketu" }
+            {
+              "name": "0310_Uranus.md",
+              "title": "Uranus",
+              "path": "03_Planets/0310_Uranus.md"
+            },
+            {
+              "name": "0311_Neptune.md",
+              "title": "Neptune",
+              "path": "03_Planets/0311_Neptune.md"
+            },
+            {
+              "name": "0312_Pluto.md",
+              "title": "Pluto",
+              "path": "03_Planets/0312_Pluto.md"
+            },
+            {
+              "name": "0313_Dhooma.md",
+              "title": "Dhooma",
+              "path": "03_Planets/0313_Dhooma.md"
+            },
+            {
+              "name": "0314_Vyatipata.md",
+              "title": "Vyatipata",
+              "path": "03_Planets/0314_Vyatipata.md"
+            },
+            {
+              "name": "0315_Parivesha.md",
+              "title": "Parivesha",
+              "path": "03_Planets/0315_Parivesha.md"
+            },
+            {
+              "name": "0316_Indra Chapa.md",
+              "title": "Indra Chapa",
+              "path": "03_Planets/0316_Indra Chapa.md"
+            },
+            {
+              "name": "0317_Upaketu.md",
+              "title": "Upaketu",
+              "path": "03_Planets/0317_Upaketu.md"
+            }
           ]
         }
       ]
@@ -91,116 +234,2285 @@
       "children": [
         {
           "title": "Vimsottari Dasha",
+          "folder": "0401_Vimsottari_Dasha",
           "children": [
             {
               "name": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md",
-              "title": "Ketu Dasha"
+              "title": "Ketu Dasha",
+              "path": "04_DashaSystem/040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md"
             },
             {
               "name": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md",
-              "title": "Shukra (Venus) Dasha"
+              "title": "Shukra (Venus) Dasha",
+              "path": "04_DashaSystem/040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md"
             },
             {
               "name": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.md",
-              "title": "Surya (Sun) Dasha"
+              "title": "Surya (Sun) Dasha",
+              "path": "04_DashaSystem/040103_Vimsottari_Dasha_of_Surya_Sun_6years.md"
             },
             {
               "name": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md",
-              "title": "Chandra (Moon) Dasha"
+              "title": "Chandra (Moon) Dasha",
+              "path": "04_DashaSystem/040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md"
             },
             {
               "name": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md",
-              "title": "Mangala (Mars) Dasha"
+              "title": "Mangala (Mars) Dasha",
+              "path": "04_DashaSystem/040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md"
             },
             {
               "name": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md",
-              "title": "Rahu Dasha"
+              "title": "Rahu Dasha",
+              "path": "04_DashaSystem/040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md"
             },
             {
               "name": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md",
-              "title": "Guru (Jupiter) Dasha"
+              "title": "Guru (Jupiter) Dasha",
+              "path": "04_DashaSystem/040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md"
             },
             {
               "name": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md",
-              "title": "Shani (Saturn) Dasha"
+              "title": "Shani (Saturn) Dasha",
+              "path": "04_DashaSystem/040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md"
             },
             {
               "name": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md",
-              "title": "Budha (Mercury) Dasha"
+              "title": "Budha (Mercury) Dasha",
+              "path": "04_DashaSystem/040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md"
             }
           ]
         },
         {
           "title": "Yogani Dasha",
           "children": [
-            { "name": "0501_Mangala_Moon_1.md", "title": "Mangala-Moon Dasha" },
-            { "name": "0502_Pingala_Sun_2.md", "title": "Pingala-Sun Dasha" },
+            {
+              "name": "0501_Mangala_Moon_1.md",
+              "title": "Mangala-Moon Dasha",
+              "path": "04_DashaSystem/0501_Mangala_Moon_1.md"
+            },
+            {
+              "name": "0502_Pingala_Sun_2.md",
+              "title": "Pingala-Sun Dasha",
+              "path": "04_DashaSystem/0502_Pingala_Sun_2.md"
+            },
             {
               "name": "0503_Dhanya_Jupiter_3.md",
-              "title": "Dhanya-Jupiter Dasha"
+              "title": "Dhanya-Jupiter Dasha",
+              "path": "04_DashaSystem/0503_Dhanya_Jupiter_3.md"
             },
             {
               "name": "0504_Bhramari_Mars_4.md",
-              "title": "Bhramari-Mars Dasha"
+              "title": "Bhramari-Mars Dasha",
+              "path": "04_DashaSystem/0504_Bhramari_Mars_4.md"
             },
             {
               "name": "0505_Bhadrika_Mercury_5.md",
-              "title": "Bhadrika-Mercury Dasha"
+              "title": "Bhadrika-Mercury Dasha",
+              "path": "04_DashaSystem/0505_Bhadrika_Mercury_5.md"
             },
-            { "name": "0506_Ulka_Saturn_6.md", "title": "Ulka-Saturn Dasha" },
-            { "name": "0507_Siddha_Venus_7.md", "title": "Siddha-Venus Dasha" },
-            { "name": "0508_Sankata_Rahu_8.md", "title": "Sankata-Rahu Dasha" }
+            {
+              "name": "0506_Ulka_Saturn_6.md",
+              "title": "Ulka-Saturn Dasha",
+              "path": "04_DashaSystem/0506_Ulka_Saturn_6.md"
+            },
+            {
+              "name": "0507_Siddha_Venus_7.md",
+              "title": "Siddha-Venus Dasha",
+              "path": "04_DashaSystem/0507_Siddha_Venus_7.md"
+            },
+            {
+              "name": "0508_Sankata_Rahu_8.md",
+              "title": "Sankata-Rahu Dasha",
+              "path": "04_DashaSystem/0508_Sankata_Rahu_8.md"
+            }
           ]
         }
       ]
     },
     {
       "title": "Nakshatra",
-      "folder": "05_Nakshatra"
+      "folder": "05_Nakshatra",
+      "children": [
+        {
+          "name": "0501_Aashvini.md",
+          "title": "Aashvini",
+          "path": "05_Nakshatra/0501_Aashvini.md"
+        },
+        {
+          "name": "0502_Bharani.md",
+          "title": "Bharani",
+          "path": "05_Nakshatra/0502_Bharani.md"
+        },
+        {
+          "name": "0503_Krittika.md",
+          "title": "Krittika",
+          "path": "05_Nakshatra/0503_Krittika.md"
+        },
+        {
+          "name": "0504_Rohini.md",
+          "title": "Rohini",
+          "path": "05_Nakshatra/0504_Rohini.md"
+        },
+        {
+          "name": "0505_Mrigashira.md",
+          "title": "Mrigashira",
+          "path": "05_Nakshatra/0505_Mrigashira.md"
+        },
+        {
+          "name": "0506_Ardra.md",
+          "title": "Ardra",
+          "path": "05_Nakshatra/0506_Ardra.md"
+        },
+        {
+          "name": "0507_Punarvasu.md",
+          "title": "Punarvasu",
+          "path": "05_Nakshatra/0507_Punarvasu.md"
+        },
+        {
+          "name": "0508_Pushya.md",
+          "title": "Pushya",
+          "path": "05_Nakshatra/0508_Pushya.md"
+        },
+        {
+          "name": "0509_Ashlesha.md",
+          "title": "Ashlesha",
+          "path": "05_Nakshatra/0509_Ashlesha.md"
+        },
+        {
+          "name": "0510_Magha.md",
+          "title": "Magha",
+          "path": "05_Nakshatra/0510_Magha.md"
+        },
+        {
+          "name": "0511_Purva_Phalguni.md",
+          "title": "Purva Phalguni",
+          "path": "05_Nakshatra/0511_Purva_Phalguni.md"
+        },
+        {
+          "name": "0512_Uttara_Phalguni.md",
+          "title": "Uttara Phalguni",
+          "path": "05_Nakshatra/0512_Uttara_Phalguni.md"
+        },
+        {
+          "name": "0513_Hasta.md",
+          "title": "Hasta",
+          "path": "05_Nakshatra/0513_Hasta.md"
+        },
+        {
+          "name": "0514_Chitra.md",
+          "title": "Chitra",
+          "path": "05_Nakshatra/0514_Chitra.md"
+        },
+        {
+          "name": "0515_Swati.md",
+          "title": "Swati",
+          "path": "05_Nakshatra/0515_Swati.md"
+        },
+        {
+          "name": "0516_Vishakha.md",
+          "title": "Vishakha",
+          "path": "05_Nakshatra/0516_Vishakha.md"
+        },
+        {
+          "name": "0517_Anuradha.md",
+          "title": "Anuradha",
+          "path": "05_Nakshatra/0517_Anuradha.md"
+        },
+        {
+          "name": "0518_Jyeshtha.md",
+          "title": "Jyeshtha",
+          "path": "05_Nakshatra/0518_Jyeshtha.md"
+        },
+        {
+          "name": "0519_Mula.md",
+          "title": "Mula",
+          "path": "05_Nakshatra/0519_Mula.md"
+        },
+        {
+          "name": "0520_Purva_Ashadha.md",
+          "title": "Purva Ashadha",
+          "path": "05_Nakshatra/0520_Purva_Ashadha.md"
+        },
+        {
+          "name": "0521_Uttara_Ashadha.md",
+          "title": "Uttara Ashadha",
+          "path": "05_Nakshatra/0521_Uttara_Ashadha.md"
+        },
+        {
+          "name": "0522_Shravana.md",
+          "title": "Shravana",
+          "path": "05_Nakshatra/0522_Shravana.md"
+        },
+        {
+          "name": "0523_Dhanishta.md",
+          "title": "Dhanishta",
+          "path": "05_Nakshatra/0523_Dhanishta.md"
+        },
+        {
+          "name": "0524_Shatabhisha.md",
+          "title": "Shatabhisha",
+          "path": "05_Nakshatra/0524_Shatabhisha.md"
+        },
+        {
+          "name": "0525_Purva_Bhadrapada.md",
+          "title": "Purva Bhadrapada",
+          "path": "05_Nakshatra/0525_Purva_Bhadrapada.md"
+        },
+        {
+          "name": "0526_Uttara_Bhadrapada.md",
+          "title": "Uttara Bhadrapada",
+          "path": "05_Nakshatra/0526_Uttara_Bhadrapada.md"
+        },
+        {
+          "name": "0527_Revati.md",
+          "title": "Revati",
+          "path": "05_Nakshatra/0527_Revati.md"
+        }
+      ]
     },
     {
       "title": "Planet in Houses",
-      "folder": "06_Planet_in_Houses"
+      "folder": "06_Planet_in_Houses",
+      "children": [
+        {
+          "title": "Sun in Houses",
+          "folder": "06_Planet_in_Houses/0601_Sun_in_Houses",
+          "children": [
+            {
+              "name": "060100_sun_knowledge.md",
+              "title": "Sun Knowledge",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060100_sun_knowledge.md"
+            },
+            {
+              "name": "060101_Sun_in_1st_House.md",
+              "title": "Sun in 1st House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.md"
+            },
+            {
+              "name": "060102_Sun_in_2nd_House.md",
+              "title": "Sun in 2nd House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060102_Sun_in_2nd_House.md"
+            },
+            {
+              "name": "060103_Sun_in_3rd_House.md",
+              "title": "Sun in 3rd House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060103_Sun_in_3rd_House.md"
+            },
+            {
+              "name": "060104_Sun_in_4th_House.md",
+              "title": "Sun in 4th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060104_Sun_in_4th_House.md"
+            },
+            {
+              "name": "060105_Sun_in_5th_House.md",
+              "title": "Sun in 5th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060105_Sun_in_5th_House.md"
+            },
+            {
+              "name": "060106_Sun_in_6th_House.md",
+              "title": "Sun in 6th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060106_Sun_in_6th_House.md"
+            },
+            {
+              "name": "060107_Sun_in_7th_House.md",
+              "title": "Sun in 7th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060107_Sun_in_7th_House.md"
+            },
+            {
+              "name": "060108_Sun_in_8th_House.md",
+              "title": "Sun in 8th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060108_Sun_in_8th_House.md"
+            },
+            {
+              "name": "060109_Sun_in_9th_House.md",
+              "title": "Sun in 9th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060109_Sun_in_9th_House.md"
+            },
+            {
+              "name": "060110_Sun_in_10th_House.md",
+              "title": "Sun in 10th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060110_Sun_in_10th_House.md"
+            },
+            {
+              "name": "060111_Sun_in_11th_House.md",
+              "title": "Sun in 11th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060111_Sun_in_11th_House.md"
+            },
+            {
+              "name": "060112_Sun_in_12th_House.md",
+              "title": "Sun in 12th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060112_Sun_in_12th_House.md"
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "House Lord Placements",
-      "folder": "07_House_Lord_Placements"
+      "folder": "07_House_Lord_Placements",
+      "children": []
     },
     {
       "title": "Planet in Rasi Placement",
-      "folder": "08_Planet_In_Rasi_Placement"
+      "folder": "08_Planet_In_Rasi_Placement",
+      "children": []
     },
     {
       "title": "Remedies",
-      "folder": "09_Remedies"
+      "folder": "09_Remedies",
+      "children": []
     },
     {
       "title": "Lord in Houses",
-      "folder": "10_Lord_in_Houses"
+      "folder": "10_Lord_in_Houses",
+      "children": [
+        {
+          "title": "1st Lord in Houses",
+          "folder": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100101_1st_Lord_in_1st_House.md",
+              "title": "1st Lord in 1st House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100102_1st_Lord_in_2nd_House.md",
+              "title": "1st Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100102_1st_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100103_1st_Lord_in_3rd_House.md",
+              "title": "1st Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100103_1st_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100104_1st_Lord_in_4th_House.md",
+              "title": "1st Lord in 4th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100104_1st_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100105_1st_Lord_in_5th_House.md",
+              "title": "1st Lord in 5th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100105_1st_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100106_1st_Lord_in_6th_House.md",
+              "title": "1st Lord in 6th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100106_1st_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100107_1st_Lord_in_7th_House.md",
+              "title": "1st Lord in 7th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100107_1st_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100108_1st_Lord_in_8th_House.md",
+              "title": "1st Lord in 8th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100108_1st_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100109_1st_Lord_in_9th_House.md",
+              "title": "1st Lord in 9th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100109_1st_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100110_1st_Lord_in_10th_House.md",
+              "title": "1st Lord in 10th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100110_1st_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100111_1st_Lord_in_11th_House.md",
+              "title": "1st Lord in 11th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100111_1st_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100112_1st_Lord_in_12th_House.md",
+              "title": "1st Lord in 12th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "2nd Lord in Houses",
+          "folder": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100201_2nd_Lord_in_1st_House.md",
+              "title": "2nd Lord in 1st House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100202_2nd_Lord_in_2nd_House.md",
+              "title": "2nd Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100202_2nd_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100203_2nd_Lord_in_3rd_House.md",
+              "title": "2nd Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100203_2nd_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100204_2nd_Lord_in_4th_House.md",
+              "title": "2nd Lord in 4th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100204_2nd_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100205_2nd_Lord_in_5th_House.md",
+              "title": "2nd Lord in 5th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100205_2nd_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100206_2nd_Lord_in_6th_House.md",
+              "title": "2nd Lord in 6th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100206_2nd_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100207_2nd_Lord_in_7th_House.md",
+              "title": "2nd Lord in 7th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100207_2nd_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100208_2nd_Lord_in_8th_House.md",
+              "title": "2nd Lord in 8th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100208_2nd_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100209_2nd_Lord_in_9th_House.md",
+              "title": "2nd Lord in 9th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100209_2nd_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100210_2nd_Lord_in_10th_House.md",
+              "title": "2nd Lord in 10th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100210_2nd_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100211_2nd_Lord_in_11th_House.md",
+              "title": "2nd Lord in 11th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100211_2nd_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100212_2nd_Lord_in_12th_House.md",
+              "title": "2nd Lord in 12th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100212_2nd_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "3rd Lord in Houses",
+          "folder": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100301_3rd_Lord_in_1st_House.md",
+              "title": "3rd Lord in 1st House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100302_3rd_Lord_in_2nd_House.md",
+              "title": "3rd Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100302_3rd_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100303_3rd_Lord_in_3rd_House.md",
+              "title": "3rd Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100303_3rd_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100304_3rd_Lord_in_4th_House.md",
+              "title": "3rd Lord in 4th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100304_3rd_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100305_3rd_Lord_in_5th_House.md",
+              "title": "3rd Lord in 5th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100305_3rd_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100306_3rd_Lord_in_6th_House.md",
+              "title": "3rd Lord in 6th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100306_3rd_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100307_3rd_Lord_in_7th_House.md",
+              "title": "3rd Lord in 7th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100307_3rd_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100308_3rd_Lord_in_8th_House.md",
+              "title": "3rd Lord in 8th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100308_3rd_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100309_3rd_Lord_in_9th_House.md",
+              "title": "3rd Lord in 9th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100309_3rd_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100310_3rd_Lord_in_10th_House.md",
+              "title": "3rd Lord in 10th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100310_3rd_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100311_3rd_Lord_in_11th_House.md",
+              "title": "3rd Lord in 11th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100311_3rd_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100312_3rd_Lord_in_12th_House.md",
+              "title": "3rd Lord in 12th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100312_3rd_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "4th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100401_4th_Lord_in_1st_House.md",
+              "title": "4th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100402_4th_Lord_in_2nd_House.md",
+              "title": "4th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100402_4th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100403_4th_Lord_in_3rd_House.md",
+              "title": "4th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100403_4th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100404_4th_Lord_in_4th_House.md",
+              "title": "4th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100404_4th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100405_4th_Lord_in_5th_House.md",
+              "title": "4th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100405_4th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100406_4th_Lord_in_6th_House.md",
+              "title": "4th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100406_4th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100407_4th_Lord_in_7th_House.md",
+              "title": "4th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100407_4th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100408_4th_Lord_in_8th_House.md",
+              "title": "4th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100408_4th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100409_4th_Lord_in_9th_House.md",
+              "title": "4th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100409_4th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100410_4th_Lord_in_10th_House.md",
+              "title": "4th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100410_4th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100411_4th_Lord_in_11th_House.md",
+              "title": "4th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100411_4th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100412_4th_Lord_in_12th_House.md",
+              "title": "4th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100412_4th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "5th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100501_5th_Lord_in_1st_House.md",
+              "title": "5th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100502_5th_Lord_in_2nd_House.md",
+              "title": "5th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100502_5th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100503_5th_Lord_in_3rd_House.md",
+              "title": "5th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100503_5th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100504_5th_Lord_in_4th_House.md",
+              "title": "5th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100504_5th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100505_5th_Lord_in_5th_House.md",
+              "title": "5th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100505_5th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100506_5th_Lord_in_6th_House.md",
+              "title": "5th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100506_5th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100507_5th_Lord_in_7th_House.md",
+              "title": "5th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100507_5th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100508_5th_Lord_in_8th_House.md",
+              "title": "5th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100508_5th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100509_5th_Lord_in_9th_House.md",
+              "title": "5th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100509_5th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100510_5th_Lord_in_10th_House.md",
+              "title": "5th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100510_5th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100511_5th_Lord_in_11th_House.md",
+              "title": "5th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100511_5th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100512_5th_Lord_in_12th_House.md",
+              "title": "5th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100512_5th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "6th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100601_6th_Lord_in_1st_House.md",
+              "title": "6th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100602_6th_Lord_in_2nd_House.md",
+              "title": "6th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100602_6th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100603_6th_Lord_in_3rd_House.md",
+              "title": "6th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100603_6th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100604_6th_Lord_in_4th_House.md",
+              "title": "6th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100604_6th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100605_6th_Lord_in_5th_House.md",
+              "title": "6th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100605_6th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100606_6th_Lord_in_6th_House.md",
+              "title": "6th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100606_6th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100607_6th_Lord_in_7th_House.md",
+              "title": "6th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100607_6th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100608_6th_Lord_in_8th_House.md",
+              "title": "6th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100608_6th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100609_6th_Lord_in_9th_House.md",
+              "title": "6th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100609_6th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100610_6th_Lord_in_10th_House.md",
+              "title": "6th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100610_6th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100611_6th_Lord_in_11th_House.md",
+              "title": "6th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100611_6th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100612_6th_Lord_in_12th_House.md",
+              "title": "6th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100612_6th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "7th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100701_7th_Lord_in_1st_House.md",
+              "title": "7th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100702_7th_Lord_in_2nd_House.md",
+              "title": "7th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100702_7th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100703_7th_Lord_in_3rd_House.md",
+              "title": "7th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100703_7th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100704_7th_Lord_in_4th_House.md",
+              "title": "7th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100704_7th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100705_7th_Lord_in_5th_House.md",
+              "title": "7th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100705_7th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100706_7th_Lord_in_6th_House.md",
+              "title": "7th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100706_7th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100707_7th_Lord_in_7th_House.md",
+              "title": "7th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100707_7th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100708_7th_Lord_in_8th_House.md",
+              "title": "7th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100708_7th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100709_7th_Lord_in_9th_House.md",
+              "title": "7th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100709_7th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100710_7th_Lord_in_10th_House.md",
+              "title": "7th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100710_7th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100711_7th_Lord_in_11th_House.md",
+              "title": "7th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100711_7th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100712_7th_Lord_in_12th_House.md",
+              "title": "7th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100712_7th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "8th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100801_8th_Lord_in_1st_House.md",
+              "title": "8th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100802_8th_Lord_in_2nd_House.md",
+              "title": "8th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100803_8th_Lord_in_3rd_House.md",
+              "title": "8th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100803_8th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100804_8th_Lord_in_4th_House.md",
+              "title": "8th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100804_8th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100805_8th_Lord_in_5th_House.md",
+              "title": "8th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100805_8th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100806_8th_Lord_in_6th_House.md",
+              "title": "8th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100806_8th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100807_8th_Lord_in_7th_House.md",
+              "title": "8th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100807_8th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100808_8th_Lord_in_8th_House.md",
+              "title": "8th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100808_8th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100809_8th_Lord_in_9th_House.md",
+              "title": "8th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100809_8th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100810_8th_Lord_in_10th_House.md",
+              "title": "8th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100810_8th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100811_8th_Lord_in_11th_House.md",
+              "title": "8th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100811_8th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100812_8th_Lord_in_12th_House.md",
+              "title": "8th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100812_8th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "9th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100901_9th_Lord_in_1st_House.md",
+              "title": "9th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100902_9th_Lord_in_2nd_House.md",
+              "title": "9th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100902_9th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100903_9th_Lord_in_3rd_House.md",
+              "title": "9th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100903_9th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100904_9th_Lord_in_4th_House.md",
+              "title": "9th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100904_9th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100905_9th_Lord_in_5th_House.md",
+              "title": "9th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100905_9th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100906_9th_Lord_in_6th_House.md",
+              "title": "9th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100906_9th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100907_9th_Lord_in_7th_House.md",
+              "title": "9th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100907_9th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100908_9th_Lord_in_8th_House.md",
+              "title": "9th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100908_9th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100909_9th_Lord_in_9th_House.md",
+              "title": "9th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100909_9th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100910_9th_Lord_in_10th_House.md",
+              "title": "9th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100910_9th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100911_9th_Lord_in_11th_House.md",
+              "title": "9th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100911_9th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100912_9th_Lord_in_12th_House.md",
+              "title": "9th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100912_9th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "10th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101001_10th_Lord_in_1st_House.md",
+              "title": "10th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101002_10th_Lord_in_2nd_House.md",
+              "title": "10th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101002_10th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101003_10th_Lord_in_3rd_House.md",
+              "title": "10th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101003_10th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101004_10th_Lord_in_4th_House.md",
+              "title": "10th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101004_10th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101005_10th_Lord_in_5th_House.md",
+              "title": "10th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101005_10th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101006_10th_Lord_in_6th_House.md",
+              "title": "10th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101006_10th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101007_10th_Lord_in_7th_House.md",
+              "title": "10th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101007_10th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101008_10th_Lord_in_8th_House.md",
+              "title": "10th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101008_10th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101009_10th_Lord_in_9th_House.md",
+              "title": "10th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101009_10th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101010_10th_Lord_in_10th_House.md",
+              "title": "10th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101010_10th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101011_10th_Lord_in_11th_House.md",
+              "title": "10th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101011_10th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101012_10th_Lord_in_12th_House.md",
+              "title": "10th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101012_10th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "11th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101101_11th_Lord_in_1st_House.md",
+              "title": "11th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101102_11th_Lord_in_2nd_House.md",
+              "title": "11th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101102_11th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101103_11th_Lord_in_3rd_House.md",
+              "title": "11th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101103_11th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101104_11th_Lord_in_4th_House.md",
+              "title": "11th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101104_11th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101105_11th_Lord_in_5th_House.md",
+              "title": "11th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101105_11th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101106_11th_Lord_in_6th_House.md",
+              "title": "11th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101106_11th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101107_11th_Lord_in_7th_House.md",
+              "title": "11th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101107_11th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101108_11th_Lord_in_8th_House.md",
+              "title": "11th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101108_11th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101109_11th_Lord_in_9th_House.md",
+              "title": "11th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101109_11th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101110_11th_Lord_in_10th_House.md",
+              "title": "11th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101110_11th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101111_11th_Lord_in_11th_House.md",
+              "title": "11th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101111_11th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101112_11th_Lord_in_12th_House.md",
+              "title": "11th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101112_11th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "12th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101201_12th_Lord_in_1st_House.md",
+              "title": "12th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101202_12th_Lord_in_2nd_House.md",
+              "title": "12th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101202_12th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101203_12th_Lord_in_3rd_House.md",
+              "title": "12th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101203_12th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101204_12th_Lord_in_4th_House.md",
+              "title": "12th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101204_12th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101205_12th_Lord_in_5th_House.md",
+              "title": "12th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101205_12th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101206_12th_Lord_in_6th_House.md",
+              "title": "12th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101206_12th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101207_12th_Lord_in_7th_House.md",
+              "title": "12th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101207_12th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101208_12th_Lord_in_8th_House.md",
+              "title": "12th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101208_12th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101209_12th_Lord_in_9th_House.md",
+              "title": "12th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101209_12th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101210_12th_Lord_in_10th_House.md",
+              "title": "12th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101210_12th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101211_12th_Lord_in_11th_House.md",
+              "title": "12th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101211_12th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101212_12th_Lord_in_12th_House.md",
+              "title": "12th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101212_12th_Lord_in_12th_House.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Planet in Rasi Placement",
+      "folder": "08_Planet_In_Rasi_Placement",
+      "children": []
+    },
+    {
+      "title": "Remedies",
+      "folder": "09_Remedies",
+      "children": []
+    },
+    {
+      "title": "Lord in Houses",
+      "folder": "10_Lord_in_Houses",
+      "children": [
+        {
+          "title": "1st Lord in Houses",
+          "folder": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100101_1st_Lord_in_1st_House.md",
+              "title": "1st Lord in 1st House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100102_1st_Lord_in_2nd_House.md",
+              "title": "1st Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100102_1st_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100103_1st_Lord_in_3rd_House.md",
+              "title": "1st Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100103_1st_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100104_1st_Lord_in_4th_House.md",
+              "title": "1st Lord in 4th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100104_1st_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100105_1st_Lord_in_5th_House.md",
+              "title": "1st Lord in 5th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100105_1st_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100106_1st_Lord_in_6th_House.md",
+              "title": "1st Lord in 6th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100106_1st_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100107_1st_Lord_in_7th_House.md",
+              "title": "1st Lord in 7th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100107_1st_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100108_1st_Lord_in_8th_House.md",
+              "title": "1st Lord in 8th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100108_1st_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100109_1st_Lord_in_9th_House.md",
+              "title": "1st Lord in 9th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100109_1st_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100110_1st_Lord_in_10th_House.md",
+              "title": "1st Lord in 10th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100110_1st_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100111_1st_Lord_in_11th_House.md",
+              "title": "1st Lord in 11th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100111_1st_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100112_1st_Lord_in_12th_House.md",
+              "title": "1st Lord in 12th House",
+              "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "2nd Lord in Houses",
+          "folder": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100201_2nd_Lord_in_1st_House.md",
+              "title": "2nd Lord in 1st House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100202_2nd_Lord_in_2nd_House.md",
+              "title": "2nd Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100202_2nd_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100203_2nd_Lord_in_3rd_House.md",
+              "title": "2nd Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100203_2nd_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100204_2nd_Lord_in_4th_House.md",
+              "title": "2nd Lord in 4th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100204_2nd_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100205_2nd_Lord_in_5th_House.md",
+              "title": "2nd Lord in 5th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100205_2nd_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100206_2nd_Lord_in_6th_House.md",
+              "title": "2nd Lord in 6th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100206_2nd_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100207_2nd_Lord_in_7th_House.md",
+              "title": "2nd Lord in 7th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100207_2nd_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100208_2nd_Lord_in_8th_House.md",
+              "title": "2nd Lord in 8th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100208_2nd_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100209_2nd_Lord_in_9th_House.md",
+              "title": "2nd Lord in 9th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100209_2nd_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100210_2nd_Lord_in_10th_House.md",
+              "title": "2nd Lord in 10th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100210_2nd_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100211_2nd_Lord_in_11th_House.md",
+              "title": "2nd Lord in 11th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100211_2nd_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100212_2nd_Lord_in_12th_House.md",
+              "title": "2nd Lord in 12th House",
+              "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100212_2nd_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "3rd Lord in Houses",
+          "folder": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100301_3rd_Lord_in_1th_House.md",
+              "title": "3rd Lord in 1st House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1th_House.md"
+            },
+            {
+              "name": "100302_3rd_Lord_in_2th_House.md",
+              "title": "3rd Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100302_3rd_Lord_in_2th_House.md"
+            },
+            {
+              "name": "100303_3rd_Lord_in_3th_House.md",
+              "title": "3rd Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100303_3rd_Lord_in_3th_House.md"
+            },
+            {
+              "name": "100304_3rd_Lord_in_4th_House.md",
+              "title": "3rd Lord in 4th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100304_3rd_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100305_3rd_Lord_in_5th_House.md",
+              "title": "3rd Lord in 5th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100305_3rd_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100306_3rd_Lord_in_6th_House.md",
+              "title": "3rd Lord in 6th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100306_3rd_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100307_3rd_Lord_in_7th_House.md",
+              "title": "3rd Lord in 7th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100307_3rd_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100308_3rd_Lord_in_8th_House.md",
+              "title": "3rd Lord in 8th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100308_3rd_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100309_3rd_Lord_in_9th_House.md",
+              "title": "3rd Lord in 9th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100309_3rd_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100310_3rd_Lord_in_10th_House.md",
+              "title": "3rd Lord in 10th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100310_3rd_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100311_3rd_Lord_in_11th_House.md",
+              "title": "3rd Lord in 11th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100311_3rd_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100312_3rd_Lord_in_12th_House.md",
+              "title": "3rd Lord in 12th House",
+              "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100312_3rd_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "4th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100400_4th_Lord_in_All_12_Houses.md",
+              "title": "4th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100400_4th_Lord_in_All_12_Houses.md"
+            },
+            {
+              "name": "100401_4th_Lord_in_1st_House.md",
+              "title": "4th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100402_4th_Lord_in_2nd_House.md",
+              "title": "4th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100402_4th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100403_4th_Lord_in_3rd_House.md",
+              "title": "4th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100403_4th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100404_4th_Lord_in_4th_House.md",
+              "title": "4th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100404_4th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100405_4th_Lord_in_5th_House.md",
+              "title": "4th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100405_4th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100406_4th_Lord_in_6th_House.md",
+              "title": "4th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100406_4th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100407_4th_Lord_in_7th_House.md",
+              "title": "4th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100407_4th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100408_4th_Lord_in_8th_House.md",
+              "title": "4th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100408_4th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100409_4th_Lord_in_9th_House.md",
+              "title": "4th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100409_4th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100410_4th_Lord_in_10th_House.md",
+              "title": "4th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100410_4th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100411_4th_Lord_in_11th_House.md",
+              "title": "4th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100411_4th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100412_4th_Lord_in_12th_House.md",
+              "title": "4th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100412_4th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "5th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100500_5th_Lord_in_all_12_Houses.md",
+              "title": "5th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100500_5th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "100501_5th_Lord_in_1st_House.md",
+              "title": "5th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100502_5th_Lord_in_2nd_House.md",
+              "title": "5th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100502_5th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100503_5th_Lord_in_3rd_House.md",
+              "title": "5th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100503_5th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100504_5th_Lord_in_4th_House.md",
+              "title": "5th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100504_5th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100505_5th_Lord_in_5th_House.md",
+              "title": "5th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100505_5th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100506_5th_Lord_in_6th_House.md",
+              "title": "5th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100506_5th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100507_5th_Lord_in_7th_House.md",
+              "title": "5th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100507_5th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100508_5th_Lord_in_8th_House.md",
+              "title": "5th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100508_5th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100509_5th_Lord_in_9th_House.md",
+              "title": "5th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100509_5th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100510_5th_Lord_in_10th_House.md",
+              "title": "5th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100510_5th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100511_5th_Lord_in_11th_House.md",
+              "title": "5th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100511_5th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100512_5th_Lord_in_12th_House.md",
+              "title": "5th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100512_5th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "6th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100600_6th_Lord_in_all_12 Houses_knowledge.md",
+              "title": "6th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100600_6th_Lord_in_all_12 Houses_knowledge.md"
+            },
+            {
+              "name": "100601_6th_Lord_in_1st_House.md",
+              "title": "6th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100602_6th_Lord_in_2nd_House.md",
+              "title": "6th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100602_6th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100603_6th_Lord_in_3rd_House.md",
+              "title": "6th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100603_6th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100604_6th_Lord_in_4th_House.md",
+              "title": "6th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100604_6th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100605_6th_Lord_in_5th_House.md",
+              "title": "6th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100605_6th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100606_6th_Lord_in_6th_House.md",
+              "title": "6th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100606_6th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100607_6th_Lord_in_7th_House.md",
+              "title": "6th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100607_6th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100608_6th_Lord_in_8th_House.md",
+              "title": "6th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100608_6th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100609_6th_Lord_in_9th_House.md",
+              "title": "6th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100609_6th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100610_6th_Lord_in_10th_House.md",
+              "title": "6th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100610_6th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100611_6th_Lord_in_11th_House.md",
+              "title": "6th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100611_6th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100612_6th_Lord_in_12th_House.md",
+              "title": "6th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100612_6th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "7th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100700_7th_Lord_in_all_12 Houses_knowledge.md",
+              "title": "7th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100700_7th_Lord_in_all_12 Houses_knowledge.md"
+            },
+            {
+              "name": "100701_7th_Lord_in_1th_House.md",
+              "title": "7th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1th_House.md"
+            },
+            {
+              "name": "100702_7th_Lord_in_2th_House.md",
+              "title": "7th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100702_7th_Lord_in_2th_House.md"
+            },
+            {
+              "name": "100703_7th_Lord_in_3th_House.md",
+              "title": "7th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100703_7th_Lord_in_3th_House.md"
+            },
+            {
+              "name": "100704_7th_Lord_in_4th_House.md",
+              "title": "7th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100704_7th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100705_7th_Lord_in_5th_House.md",
+              "title": "7th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100705_7th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100706_7th_Lord_in_6th_House.md",
+              "title": "7th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100706_7th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100707_7th_Lord_in_7th_House.md",
+              "title": "7th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100707_7th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100708_7th_Lord_in_8th_House.md",
+              "title": "7th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100708_7th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100709_7th_Lord_in_9th_House.md",
+              "title": "7th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100709_7th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100710_7th_Lord_in_10th_House.md",
+              "title": "7th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100710_7th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100711_7th_Lord_in_11th_House.md",
+              "title": "7th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100711_7th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100712_7th_Lord_in_12th_House.md",
+              "title": "7th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100712_7th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "8th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100800_8th_Lord_in_all_12_Houses.md",
+              "title": "8th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100800_8th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "100801_8th_Lord_in_1th_House.md",
+              "title": "8th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1th_House.md"
+            },
+            {
+              "name": "100802_8th_Lord_in_2th_House.md",
+              "title": "8th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2th_House.md"
+            },
+            {
+              "name": "100803_8th_Lord_in_3th_House.md",
+              "title": "8th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100803_8th_Lord_in_3th_House.md"
+            },
+            {
+              "name": "100804_8th_Lord_in_4th_House.md",
+              "title": "8th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100804_8th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100805_8th_Lord_in_5th_House.md",
+              "title": "8th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100805_8th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100806_8th_Lord_in_6th_House.md",
+              "title": "8th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100806_8th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100807_8th_Lord_in_7th_House.md",
+              "title": "8th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100807_8th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100808_8th_Lord_in_8th_House.md",
+              "title": "8th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100808_8th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100809_8th_Lord_in_9th_House.md",
+              "title": "8th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100809_8th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100810_8th_Lord_in_10th_House.md",
+              "title": "8th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100810_8th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100811_8th_Lord_in_11th_House.md",
+              "title": "8th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100811_8th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100812_8th_Lord_in_12th_House.md",
+              "title": "8th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100812_8th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "9th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "100900_9th_Lord_in_all_12_Houses.md",
+              "title": "9th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100900_9th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "100901_9th_Lord_in_1st_House.md",
+              "title": "9th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "100902_9th_Lord_in_2nd_House.md",
+              "title": "9th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100902_9th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "100903_9th_Lord_in_3rd_House.md",
+              "title": "9th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100903_9th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "100904_9th_Lord_in_4th_House.md",
+              "title": "9th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100904_9th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "100905_9th_Lord_in_5th_House.md",
+              "title": "9th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100905_9th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "100906_9th_Lord_in_6th_House.md",
+              "title": "9th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100906_9th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "100907_9th_Lord_in_7th_House.md",
+              "title": "9th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100907_9th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "100908_9th_Lord_in_8th_House.md",
+              "title": "9th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100908_9th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "100909_9th_Lord_in_9th_House.md",
+              "title": "9th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100909_9th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "100910_9th_Lord_in_10th_House.md",
+              "title": "9th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100910_9th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "100911_9th_Lord_in_11th_House.md",
+              "title": "9th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100911_9th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "100912_9th_Lord_in_12th_House.md",
+              "title": "9th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100912_9th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "10th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101000_10th_Lord_in_all_12_Houses.md",
+              "title": "10th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101000_10th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "101001_10th_Lord_in_1st_House.md",
+              "title": "10th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101002_10th_Lord_in_2nd_House.md",
+              "title": "10th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101002_10th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101003_10th_Lord_in_3rd_House.md",
+              "title": "10th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101003_10th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101004_10th_Lord_in_4th_House.md",
+              "title": "10th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101004_10th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101005_10th_Lord_in_5th_House.md",
+              "title": "10th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101005_10th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101006_10th_Lord_in_6th_House.md",
+              "title": "10th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101006_10th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101007_10th_Lord_in_7th_House.md",
+              "title": "10th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101007_10th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101008_10th_Lord_in_8th_House.md",
+              "title": "10th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101008_10th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101009_10th_Lord_in_9th_House.md",
+              "title": "10th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101009_10th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101010_10th_Lord_in_10th_House.md",
+              "title": "10th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101010_10th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101011_10th_Lord_in_11th_House.md",
+              "title": "10th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101011_10th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101012_10th_Lord_in_12th_House.md",
+              "title": "10th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101012_10th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "11th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101100_11th_Lord_in_all_12_Houses.md",
+              "title": "11th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101100_11th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "101101_11th_Lord_in_1st_House.md",
+              "title": "11th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101102_11th_Lord_in_2nd_House.md",
+              "title": "11th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101102_11th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101103_11th_Lord_in_3rd_House.md",
+              "title": "11th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101103_11th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101104_11th_Lord_in_4th_House.md",
+              "title": "11th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101104_11th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101105_11th_Lord_in_5th_House.md",
+              "title": "11th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101105_11th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101106_11th_Lord_in_6th_House.md",
+              "title": "11th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101106_11th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101107_11th_Lord_in_7th_House.md",
+              "title": "11th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101107_11th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101108_11th_Lord_in_8th_House.md",
+              "title": "11th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101108_11th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101109_11th_Lord_in_9th_House.md",
+              "title": "11th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101109_11th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101110_11th_Lord_in_10th_House.md",
+              "title": "11th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101110_11th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101111_11th_Lord_in_11th_House.md",
+              "title": "11th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101111_11th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101112_11th_Lord_in_12th_House.md",
+              "title": "11th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/101112_11th_Lord_in_12th_House.md"
+            }
+          ]
+        },
+        {
+          "title": "12th Lord in Houses",
+          "folder": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses",
+          "children": [
+            {
+              "name": "101200_12th_Lord_in_all_12_Houses.md",
+              "title": "12th Lord in All 12 Houses",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101200_12th_Lord_in_all_12_Houses.md"
+            },
+            {
+              "name": "101201_12th_Lord_in_1st_House.md",
+              "title": "12th Lord in 1st House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.md"
+            },
+            {
+              "name": "101202_12th_Lord_in_2nd_House.md",
+              "title": "12th Lord in 2nd House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101202_12th_Lord_in_2nd_House.md"
+            },
+            {
+              "name": "101203_12th_Lord_in_3rd_House.md",
+              "title": "12th Lord in 3rd House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101203_12th_Lord_in_3rd_House.md"
+            },
+            {
+              "name": "101204_12th_Lord_in_4th_House.md",
+              "title": "12th Lord in 4th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101204_12th_Lord_in_4th_House.md"
+            },
+            {
+              "name": "101205_12th_Lord_in_5th_House.md",
+              "title": "12th Lord in 5th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101205_12th_Lord_in_5th_House.md"
+            },
+            {
+              "name": "101206_12th_Lord_in_6th_House.md",
+              "title": "12th Lord in 6th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101206_12th_Lord_in_6th_House.md"
+            },
+            {
+              "name": "101207_12th_Lord_in_7th_House.md",
+              "title": "12th Lord in 7th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101207_12th_Lord_in_7th_House.md"
+            },
+            {
+              "name": "101208_12th_Lord_in_8th_House.md",
+              "title": "12th Lord in 8th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101208_12th_Lord_in_8th_House.md"
+            },
+            {
+              "name": "101209_12th_Lord_in_9th_House.md",
+              "title": "12th Lord in 9th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101209_12th_Lord_in_9th_House.md"
+            },
+            {
+              "name": "101210_12th_Lord_in_10th_House.md",
+              "title": "12th Lord in 10th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101210_12th_Lord_in_10th_House.md"
+            },
+            {
+              "name": "101211_12th_Lord_in_11th_House.md",
+              "title": "12th Lord in 11th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101211_12th_Lord_in_11th_House.md"
+            },
+            {
+              "name": "101212_12th_Lord_in_12th_House.md",
+              "title": "12th Lord in 12th House",
+              "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/101212_12th_Lord_in_12th_House.md"
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "Planets Conjunctions",
-      "folder": "11_Planets_Conjunctions"
+      "folder": "11_Planets_Conjunctions",
+      "children": []
     },
     {
       "title": "Chart Analysis",
-      "folder": "12_Chart_Analysis"
+      "folder": "12_Chart_Analysis",
+      "children": []
     },
     {
       "title": "Planet in Nakshatra",
-      "folder": "16_Planet in Nakshatra"
+      "folder": "16_Planet in Nakshatra",
+      "children": []
     },
     {
       "title": "Ashtakavarga",
-      "folder": "17_Ashtakavarga"
+      "folder": "17_Ashtakavarga",
+      "children": []
     },
     {
       "title": "Vastu",
-      "folder": "18_Vastu"
+      "folder": "18_Vastu",
+      "children": []
     },
     {
       "title": "Numerology",
-      "folder": "19_Numerology"
+      "folder": "19_Numerology",
+      "children": []
+    },
+    {
+      "title": "Transit",
+      "folder": "20_Transit",
+      "children": [
+        {
+          "title": "Venus Transit",
+          "folder": "20_Transit/06_Venus_Transit",
+          "children": [
+            {
+              "name": "200601_Venus_transit_1st_House_from_natal_moon.md",
+              "title": "Venus Transit in 1st House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200601_Venus_transit_1st_House_from_natal_moon.md"
+            },
+            {
+              "name": "200602_Venus_transit_2nd_House_from_natal_moon.md",
+              "title": "Venus Transit in 2nd House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200602_Venus_transit_2nd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200603_Venus_transit_3rd_House_from_natal_moon.md",
+              "title": "Venus Transit in 3rd House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200603_Venus_transit_3rd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200604_Venus_transit_4th_House_from_natal_moon.md",
+              "title": "Venus Transit in 4th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200604_Venus_transit_4th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200605_Venus_transit_5th_House_from_natal_moon.md",
+              "title": "Venus Transit in 5th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200605_Venus_transit_5th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200606_Venus_transit_6th_House_from_natal_moon.md",
+              "title": "Venus Transit in 6th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200606_Venus_transit_6th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200607_Venus_transit_7th_House_from_natal_moon.md",
+              "title": "Venus Transit in 7th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200607_Venus_transit_7th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200608_Venus_transit_8th_House_from_natal_moon.md",
+              "title": "Venus Transit in 8th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200608_Venus_transit_8th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200609_Venus_transit_9th_House_from_natal_moon.md",
+              "title": "Venus Transit in 9th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200609_Venus_transit_9th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200610_Venus_transit_10th_House_from_natal_moon.md",
+              "title": "Venus Transit in 10th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200610_Venus_transit_10th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200611_Venus_transit_11th_House_from_natal_moon.md",
+              "title": "Venus Transit in 11th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200611_Venus_transit_11th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200612_Venus_transit_12th_House_from_natal_moon.md",
+              "title": "Venus Transit in 12th House from Natal Moon",
+              "path": "20_Transit/06_Venus_Transit/200612_Venus_transit_12th_House_from_natal_moon.md"
+            }
+          ]
+        },
+        {
+          "title": "Saturn Transit",
+          "folder": "20_Transit/07_Saturn_Transit",
+          "children": [
+            {
+              "name": "200701_Saturn_transit_1st_House_from_natal_moon.md",
+              "title": "Saturn Transit in 1st House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200701_Saturn_transit_1st_House_from_natal_moon.md"
+            },
+            {
+              "name": "200702_Saturn_transit_2nd_House_from_natal_moon.md",
+              "title": "Saturn Transit in 2nd House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200702_Saturn_transit_2nd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200703_Saturn_transit_3rd_House_from_natal_moon.md",
+              "title": "Saturn Transit in 3rd House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200703_Saturn_transit_3rd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200704_Saturn_transit_4th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 4th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200704_Saturn_transit_4th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200705_Saturn_transit_5th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 5th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200705_Saturn_transit_5th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200706_Saturn_transit_6th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 6th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200706_Saturn_transit_6th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200707_Saturn_transit_7th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 7th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200707_Saturn_transit_7th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200708_Saturn_transit_8th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 8th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200708_Saturn_transit_8th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200709_Saturn_transit_9th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 9th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200709_Saturn_transit_9th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200710_Saturn_transit_10th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 10th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200710_Saturn_transit_10th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200711_Saturn_transit_11th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 11th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200711_Saturn_transit_11th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200712_Saturn_transit_12th_House_from_natal_moon.md",
+              "title": "Saturn Transit in 12th House from Natal Moon",
+              "path": "20_Transit/07_Saturn_Transit/200712_Saturn_transit_12th_House_from_natal_moon.md"
+            }
+          ]
+        },
+        {
+          "title": "Rahu Transit",
+          "folder": "20_Transit/08_Rahu_Transit",
+          "children": [
+            {
+              "name": "200801_Rahu_transit_1st_House_from_natal_moon.md",
+              "title": "Rahu Transit in 1st House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200801_Rahu_transit_1st_House_from_natal_moon.md"
+            },
+            {
+              "name": "200802_Rahu_transit_2nd_House_from_natal_moon.md",
+              "title": "Rahu Transit in 2nd House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200802_Rahu_transit_2nd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200803_Rahu_transit_3rd_House_from_natal_moon.md",
+              "title": "Rahu Transit in 3rd House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200803_Rahu_transit_3rd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200804_Rahu_transit_4th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 4th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200804_Rahu_transit_4th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200805_Rahu_transit_5th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 5th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200805_Rahu_transit_5th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200806_Rahu_transit_6th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 6th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200806_Rahu_transit_6th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200807_Rahu_transit_7th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 7th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200807_Rahu_transit_7th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200808_Rahu_transit_8th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 8th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200808_Rahu_transit_8th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200809_Rahu_transit_9th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 9th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200809_Rahu_transit_9th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200810_Rahu_transit_10th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 10th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200810_Rahu_transit_10th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200811_Rahu_transit_11th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 11th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200811_Rahu_transit_11th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200812_Rahu_transit_12th_House_from_natal_moon.md",
+              "title": "Rahu Transit in 12th House from Natal Moon",
+              "path": "20_Transit/08_Rahu_Transit/200812_Rahu_transit_12th_House_from_natal_moon.md"
+            }
+          ]
+        },
+        {
+          "title": "Ketu Transit",
+          "folder": "20_Transit/09_Ketu_Transit",
+          "children": [
+            {
+              "name": "200901_Ketu_transit_1st_House_from_natal_moon.md",
+              "title": "Ketu Transit in 1st House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200901_Ketu_transit_1st_House_from_natal_moon.md"
+            },
+            {
+              "name": "200902_Ketu_transit_2nd_House_from_natal_moon.md",
+              "title": "Ketu Transit in 2nd House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200902_Ketu_transit_2nd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200903_Ketu_transit_3rd_House_from_natal_moon.md",
+              "title": "Ketu Transit in 3rd House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200903_Ketu_transit_3rd_House_from_natal_moon.md"
+            },
+            {
+              "name": "200904_Ketu_transit_4th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 4th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200904_Ketu_transit_4th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200905_Ketu_transit_5th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 5th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200905_Ketu_transit_5th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200906_Ketu_transit_6th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 6th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200906_Ketu_transit_6th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200907_Ketu_transit_7th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 7th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200907_Ketu_transit_7th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200908_Ketu_transit_8th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 8th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200908_Ketu_transit_8th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200909_Ketu_transit_9th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 9th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200909_Ketu_transit_9th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200910_Ketu_transit_10th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 10th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200910_Ketu_transit_10th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200911_Ketu_transit_11th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 11th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200911_Ketu_transit_11th_House_from_natal_moon.md"
+            },
+            {
+              "name": "200912_Ketu_transit_12th_House_from_natal_moon.md",
+              "title": "Ketu Transit in 12th House from Natal Moon",
+              "path": "20_Transit/09_Ketu_Transit/200912_Ketu_transit_12th_House_from_natal_moon.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
