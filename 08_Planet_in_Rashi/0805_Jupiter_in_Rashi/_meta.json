@@ -1,0 +1,64 @@
+{
+  "0805 Jupiter in Rasi": [
+    {
+      "file": "080501_Jupiter_in_Aries.md",
+      "title": "Jupiter in Aries",
+      "order": 80501
+    },
+    {
+      "file": "080502_Jupiter_in_Taurus.md",
+      "title": "Jupiter in Taurus",
+      "order": 80502
+    },
+    {
+      "file": "080503_Jupiter_in_Gemini.md",
+      "title": "Jupiter in Gemini",
+      "order": 80503
+    },
+    {
+      "file": "080504_Jupiter_in_Cancer.md",
+      "title": "Jupiter in Cancer",
+      "order": 80504
+    },
+    {
+      "file": "080505_Jupiter_in_Leo.md",
+      "title": "Jupiter in Leo",
+      "order": 80505
+    },
+    {
+      "file": "080506_Jupiter_in_Virgo.md",
+      "title": "Jupiter in Virgo",
+      "order": 80506
+    },
+    {
+      "file": "080507_Jupiter_in_Libra.md",
+      "title": "Jupiter in Libra",
+      "order": 80507
+    },
+    {
+      "file": "080508_Jupiter_in_Scorpio.md",
+      "title": "Jupiter in Scorpio",
+      "order": 80508
+    },
+    {
+      "file": "080509_Jupiter_in_Sagittarius.md",
+      "title": "Jupiter in Sagittarius",
+      "order": 80509
+    },
+    {
+      "file": "080510_Jupiter_in_Capricorn.md",
+      "title": "Jupiter in Capricorn",
+      "order": 80510
+    },
+    {
+      "file": "080511_Jupiter_in_Aquarius.md",
+      "title": "Jupiter in Aquarius",
+      "order": 80511
+    },
+    {
+      "file": "080512_Jupiter_in_Pisces.md",
+      "title": "Jupiter in Pisces",
+      "order": 80512
+    }
+  ]
+}
