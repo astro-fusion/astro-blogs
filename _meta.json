@@ -284,47 +284,48 @@
           ]
         },
         {
-          "title": "Yogani Dasha",
+          "title": "Yogini Dasha",
+          "folder": "0402_Yogini_Dasha",
           "children": [
             {
               "name": "0501_Mangala_Moon_1.md",
               "title": "Mangala-Moon Dasha",
-              "path": "04_DashaSystem/0501_Mangala_Moon_1.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0501_Mangala_Moon_1.md"
             },
             {
               "name": "0502_Pingala_Sun_2.md",
               "title": "Pingala-Sun Dasha",
-              "path": "04_DashaSystem/0502_Pingala_Sun_2.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0502_Pingala_Sun_2.md"
             },
             {
               "name": "0503_Dhanya_Jupiter_3.md",
               "title": "Dhanya-Jupiter Dasha",
-              "path": "04_DashaSystem/0503_Dhanya_Jupiter_3.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0503_Dhanya_Jupiter_3.md"
             },
             {
               "name": "0504_Bhramari_Mars_4.md",
               "title": "Bhramari-Mars Dasha",
-              "path": "04_DashaSystem/0504_Bhramari_Mars_4.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0504_Bhramari_Mars_4.md"
             },
             {
               "name": "0505_Bhadrika_Mercury_5.md",
               "title": "Bhadrika-Mercury Dasha",
-              "path": "04_DashaSystem/0505_Bhadrika_Mercury_5.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0505_Bhadrika_Mercury_5.md"
             },
             {
               "name": "0506_Ulka_Saturn_6.md",
               "title": "Ulka-Saturn Dasha",
-              "path": "04_DashaSystem/0506_Ulka_Saturn_6.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0506_Ulka_Saturn_6.md"
             },
             {
               "name": "0507_Siddha_Venus_7.md",
               "title": "Siddha-Venus Dasha",
-              "path": "04_DashaSystem/0507_Siddha_Venus_7.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0507_Siddha_Venus_7.md"
             },
             {
               "name": "0508_Sankata_Rahu_8.md",
               "title": "Sankata-Rahu Dasha",
-              "path": "04_DashaSystem/0508_Sankata_Rahu_8.md"
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0508_Sankata_Rahu_8.md"
             }
           ]
         }
