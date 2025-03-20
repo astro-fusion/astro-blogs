@@ -4,9 +4,21 @@
       "title": "Rasi",
       "folder": "01_Rasi",
       "children": [
-        { "name": "0101_Mesha.md", "title": "Mesha (Aries)" },
-        { "name": "0102_Vrishabha.md", "title": "Vrishabha (Taurus)" },
-        { "name": "0103_Mithuna.md", "title": "Mithuna (Gemini)" },
+        {
+          "name": "0101_Mesha.md",
+          "title": "Mesha (Aries)",
+          "path": "01_Rasi/0101_Mesha.md"
+        },
+        {
+          "name": "0102_Vrishabha.md",
+          "title": "Vrishabha (Taurus)",
+          "path": "01_Rasi/0102_Vrishabha.md"
+        },
+        {
+          "name": "0103_Mithuna.md",
+          "title": "Mithuna (Gemini)",
+          "path": "01_Rasi/0103_Mithuna.md"
+        },
         { "name": "0104_Karka.md", "title": "Karka (Cancer)" },
         { "name": "0105_Simha.md", "title": "Simha (Leo)" },
         { "name": "0106_Kanya.md", "title": "Kanya (Virgo)" },
@@ -31,9 +43,18 @@
         { "name": "207_7th_House_in_Vedic_Astrology.md", "title": "7th House" },
         { "name": "208_8th_House_in_Vedic_Astrology.md", "title": "8th House" },
         { "name": "209_9th_House_in_Vedic_Astrology.md", "title": "9th House" },
-        { "name": "210_10th_House_in_Vedic_Astrology.md", "title": "10th House" },
-        { "name": "211_11th_House_in_Vedic_Astrology.md", "title": "11th House" },
-        { "name": "212_12th_House_in_Vedic_Astrology.md", "title": "12th House" }
+        {
+          "name": "210_10th_House_in_Vedic_Astrology.md",
+          "title": "10th House"
+        },
+        {
+          "name": "211_11th_House_in_Vedic_Astrology.md",
+          "title": "11th House"
+        },
+        {
+          "name": "212_12th_House_in_Vedic_Astrology.md",
+          "title": "12th House"
+        }
       ]
     },
     {
@@ -71,15 +92,42 @@
         {
           "title": "Vimsottari Dasha",
           "children": [
-            { "name": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md", "title": "Ketu Dasha" },
-            { "name": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md", "title": "Shukra (Venus) Dasha" },
-            { "name": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.md", "title": "Surya (Sun) Dasha" },
-            { "name": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md", "title": "Chandra (Moon) Dasha" },
-            { "name": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md", "title": "Mangala (Mars) Dasha" },
-            { "name": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md", "title": "Rahu Dasha" },
-            { "name": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md", "title": "Guru (Jupiter) Dasha" },
-            { "name": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md", "title": "Shani (Saturn) Dasha" },
-            { "name": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md", "title": "Budha (Mercury) Dasha" }
+            {
+              "name": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.md",
+              "title": "Ketu Dasha"
+            },
+            {
+              "name": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.md",
+              "title": "Shukra (Venus) Dasha"
+            },
+            {
+              "name": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.md",
+              "title": "Surya (Sun) Dasha"
+            },
+            {
+              "name": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.md",
+              "title": "Chandra (Moon) Dasha"
+            },
+            {
+              "name": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.md",
+              "title": "Mangala (Mars) Dasha"
+            },
+            {
+              "name": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.md",
+              "title": "Rahu Dasha"
+            },
+            {
+              "name": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.md",
+              "title": "Guru (Jupiter) Dasha"
+            },
+            {
+              "name": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.md",
+              "title": "Shani (Saturn) Dasha"
+            },
+            {
+              "name": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.md",
+              "title": "Budha (Mercury) Dasha"
+            }
           ]
         },
         {
@@ -87,9 +135,18 @@
           "children": [
             { "name": "0501_Mangala_Moon_1.md", "title": "Mangala-Moon Dasha" },
             { "name": "0502_Pingala_Sun_2.md", "title": "Pingala-Sun Dasha" },
-            { "name": "0503_Dhanya_Jupiter_3.md", "title": "Dhanya-Jupiter Dasha" },
-            { "name": "0504_Bhramari_Mars_4.md", "title": "Bhramari-Mars Dasha" },
-            { "name": "0505_Bhadrika_Mercury_5.md", "title": "Bhadrika-Mercury Dasha" },
+            {
+              "name": "0503_Dhanya_Jupiter_3.md",
+              "title": "Dhanya-Jupiter Dasha"
+            },
+            {
+              "name": "0504_Bhramari_Mars_4.md",
+              "title": "Bhramari-Mars Dasha"
+            },
+            {
+              "name": "0505_Bhadrika_Mercury_5.md",
+              "title": "Bhadrika-Mercury Dasha"
+            },
             { "name": "0506_Ulka_Saturn_6.md", "title": "Ulka-Saturn Dasha" },
             { "name": "0507_Siddha_Venus_7.md", "title": "Siddha-Venus Dasha" },
             { "name": "0508_Sankata_Rahu_8.md", "title": "Sankata-Rahu Dasha" }
