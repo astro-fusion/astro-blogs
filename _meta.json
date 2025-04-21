@@ -5,69 +5,64 @@
       "folder": "01_Rasi",
       "children": [
         {
-          "name": "0101_Mesha.md",
+          "name": "0101_Mesha.mdx",
           "title": "1 - Mesha - Aries - ♈️",
-          "path": "01_Rasi/0101_Mesha.md"
+          "path": "01_Rasi/0101_Mesha.mdx"
         },
         {
-          "name": "0102_Vrishabha.md",
+          "name": "0102_Vrishabha.mdx",
           "title": "2 - Vrishabha - Taurus - ♉️",
-          "path": "01_Rasi/0102_Vrishabha.md"
+          "path": "01_Rasi/0102_Vrishabha.mdx"
         },
         {
-          "name": "0103_Mithuna.md",
+          "name": "0103_Mithuna.mdx",
           "title": "3 - Mithuna - Gemini - ♊️",
-          "path": "01_Rasi/0103_Mithuna.md"
+          "path": "01_Rasi/0103_Mithuna.mdx"
         },
         {
-          "name": "0104_Karka.md",
+          "name": "0104_Karka.mdx",
           "title": "4 - Karka - Cancer - ♋️",
-          "path": "01_Rasi/0104_Karka.md"
+          "path": "01_Rasi/0104_Karka.mdx"
         },
         {
-          "name": "0105_Simha.md",
+          "name": "0105_Simha.mdx",
           "title": "5 - Simha - Leo - ♌️",
-          "path": "01_Rasi/0105_Simha.md"
+          "path": "01_Rasi/0105_Simha.mdx"
         },
         {
-          "name": "0106_Kanya.md",
+          "name": "0106_Kanya.mdx",
           "title": "6 - Kanya - Virgo - ♍️",
-          "path": "01_Rasi/0106_Kanya.md"
+          "path": "01_Rasi/0106_Kanya.mdx"
         },
         {
-          "name": "0107_Tula.md",
+          "name": "0107_Tula.mdx",
           "title": "7 - Tula - Libra - ♎️",
-          "path": "01_Rasi/0107_Tula.md"
+          "path": "01_Rasi/0107_Tula.mdx"
         },
         {
-          "name": "0108_Vrishchika.md",
+          "name": "0108_Vrishchika.mdx",
           "title": "8 - Vrishchika - Scorpio - ♏️",
-          "path": "01_Rasi/0108_Vrishchika.md"
+          "path": "01_Rasi/0108_Vrishchika.mdx"
         },
         {
-          "name": "0109_Dhanu.md",
+          "name": "0109_Dhanu.mdx",
           "title": "9 - Dhanu - Sagittarius - ♐️",
-          "path": "01_Rasi/0109_Dhanu.md"
+          "path": "01_Rasi/0109_Dhanu.mdx"
         },
         {
-          "name": "0110_Makara.md",
+          "name": "0110_Makara.mdx",
           "title": "10 - Makara - Capricorn - ♑️",
-          "path": "01_Rasi/0110_Makara.md"
+          "path": "01_Rasi/0110_Makara.mdx"
         },
         {
-          "name": "0111_Kumbha.md",
+          "name": "0111_Kumbha.mdx",
           "title": "11 - Kumbha - Aquarius - ♒️",
-          "path": "01_Rasi/0111_Kumbha.md"
+          "path": "01_Rasi/0111_Kumbha.mdx"
         },
         {
-          "name": "0112_Meena.md",
+          "name": "0112_Meena.mdx",
           "title": "12 - Meena - Pisces - ♓️",
-          "path": "01_Rasi/0112_Meena.md"
-        },
-        {
-          "title": "Csvs",
-          "folder": "01_Rasi/CSVs",
-          "children": []
+          "path": "01_Rasi/0112_Meena.mdx"
         }
       ]
     },

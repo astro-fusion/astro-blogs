@@ -3,73 +3,7 @@
     {
       "title": "Rasi",
       "folder": "01_Rasi",
-      "children": [
-        {
-          "name": "0101_Mesha.md",
-          "title": "1 - Mesha - Aries - ♈️",
-          "path": "01_Rasi/0101_Mesha.md"
-        },
-        {
-          "name": "0102_Vrishabha.md",
-          "title": "2 - Vrishabha - Taurus - ♉️",
-          "path": "01_Rasi/0102_Vrishabha.md"
-        },
-        {
-          "name": "0103_Mithuna.md",
-          "title": "3 - Mithuna - Gemini - ♊️",
-          "path": "01_Rasi/0103_Mithuna.md"
-        },
-        {
-          "name": "0104_Karka.md",
-          "title": "4 - Karka - Cancer - ♋️",
-          "path": "01_Rasi/0104_Karka.md"
-        },
-        {
-          "name": "0105_Simha.md",
-          "title": "5 - Simha - Leo - ♌️",
-          "path": "01_Rasi/0105_Simha.md"
-        },
-        {
-          "name": "0106_Kanya.md",
-          "title": "6 - Kanya - Virgo - ♍️",
-          "path": "01_Rasi/0106_Kanya.md"
-        },
-        {
-          "name": "0107_Tula.md",
-          "title": "7 - Tula - Libra - ♎️",
-          "path": "01_Rasi/0107_Tula.md"
-        },
-        {
-          "name": "0108_Vrishchika.md",
-          "title": "8 - Vrishchika - Scorpio - ♏️",
-          "path": "01_Rasi/0108_Vrishchika.md"
-        },
-        {
-          "name": "0109_Dhanu.md",
-          "title": "9 - Dhanu - Sagittarius - ♐️",
-          "path": "01_Rasi/0109_Dhanu.md"
-        },
-        {
-          "name": "0110_Makara.md",
-          "title": "10 - Makara - Capricorn - ♑️",
-          "path": "01_Rasi/0110_Makara.md"
-        },
-        {
-          "name": "0111_Kumbha.md",
-          "title": "11 - Kumbha - Aquarius - ♒️",
-          "path": "01_Rasi/0111_Kumbha.md"
-        },
-        {
-          "name": "0112_Meena.md",
-          "title": "12 - Meena - Pisces - ♓️",
-          "path": "01_Rasi/0112_Meena.md"
-        },
-        {
-          "title": "Csvs",
-          "folder": "01_Rasi/CSVs",
-          "children": []
-        }
-      ]
+      "children": []
     },
     {
       "title": "Houses",
