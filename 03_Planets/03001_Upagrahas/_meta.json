@@ -1,38 +1,36 @@
 {
-  "title": "Upagrahas",
-  "items": [
+  "Upagrahas": [
     {
-      "file": "0310_Uranus.md",
+      "file": "0310_Uranus.mdx",
       "title": "Uranus - Innovation"
     },
     {
-      "file": "0311_Neptune.md",
+      "file": "0311_Neptune.mdx",
       "title": "Neptune - Mysticism"
     },
     {
-      "file": "0312_Pluto.md",
+      "file": "0312_Pluto.mdx",
       "title": "Pluto - Transformation"
     },
     {
-      "file": "0313_Dhooma.md",
+      "file": "0313_Dhooma.mdx",
       "title": "Dhooma - Misfortune"
     },
     {
-      "file": "0314_Vyatipata.md",
+      "file": "0314_Vyatipata.mdx",
       "title": "Vyatipata - Calamity"
     },
     {
-      "file": "0315_Parivesha.md",
+      "file": "0315_Parivesha.mdx",
       "title": "Parivesha - Turmoil"
     },
     {
-      "file": "0316_Indra Chapa.md",
+      "file": "0316_Indra Chapa.mdx",
       "title": "Indra Chapa - Illusions"
     },
     {
-      "file": "0317_Upaketu.md",
+      "file": "0317_Upaketu.mdx",
       "title": "Upaketu - Obstacles"
     }
   ]
 }
-
