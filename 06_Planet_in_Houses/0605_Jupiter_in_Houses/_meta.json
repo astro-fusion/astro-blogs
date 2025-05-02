@@ -1,77 +1,77 @@
 {
     "Jupiter in Astrology": [
         {
-            "file": "0605001_Jupiter_in_Houses.md",
+            "file": "0605001_Jupiter_in_Houses.mdx",
             "title": "Jupiter - Overview",
             "order": 1
         },
         {
-            "file": "0605002_jupiter_in_sign.md",
+            "file": "0605002_jupiter_in_sign.mdx",
             "title": "Jupiter - Signs",
             "order": 2
         },
         {
-            "file": "060501_Jupiter_in_1th_House.md",
+            "file": "060501_Jupiter_in_1th_House.mdx",
             "title": "Jupiter in 1st House",
             "order": 4
         },
         {
-            "file": "060502_Jupiter_in_2th_House.md",
+            "file": "060502_Jupiter_in_2th_House.mdx",
             "title": "Jupiter in 2nd House",
             "order": 5
         },
         {
-            "file": "060503_Jupiter_in_3th_House.md",
+            "file": "060503_Jupiter_in_3th_House.mdx",
             "title": "Jupiter in 3rd House",
             "order": 6
         },
         {
-            "file": "060504_Jupiter_in_4th_House.md",
+            "file": "060504_Jupiter_in_4th_House.mdx",
             "title": "Jupiter in 4th House",
             "order": 7
         },
         {
-            "file": "060505_Jupiter_in_5th_House.md",
+            "file": "060505_Jupiter_in_5th_House.mdx",
             "title": "Jupiter in 5th House",
             "order": 8
         },
         {
-            "file": "060506_Jupiter_in_6th_House.md",
+            "file": "060506_Jupiter_in_6th_House.mdx",
             "title": "Jupiter in 6th House",
             "order": 9
         },
         {
-            "file": "060507_Jupiter_in_7th_House.md",
+            "file": "060507_Jupiter_in_7th_House.mdx",
             "title": "Jupiter in 7th House",
             "order": 10
         },
         {
-            "file": "060508_Jupiter_in_8th_House.md",
+            "file": "060508_Jupiter_in_8th_House.mdx",
             "title": "Jupiter in 8th House",
             "order": 11
         },
         {
-            "file": "060509_Jupiter_in_9th_House.md",
+            "file": "060509_Jupiter_in_9th_House.mdx",
             "title": "Jupiter in 9th House",
             "order": 12
         },
         {
-            "file": "060510_Jupiter_in_10th_House.md",
+            "file": "060510_Jupiter_in_10th_House.mdx",
             "title": "Jupiter in 10th House",
             "order": 13
         },
         {
-            "file": "060511_Jupiter_in_11th_House.md",
+            "file": "060511_Jupiter_in_11th_House.mdx",
             "title": "Jupiter in 11th House",
             "order": 14
         },
         {
-            "file": "060512_Jupiter_in_12th_House.md",
+            "file": "060512_Jupiter_in_12th_House.mdx",
             "title": "Jupiter in 12th House",
             "order": 15
         },
         {
-            "file": "06050031_Jupiter_aspects_by_Sun.md",
+            "file": "06050031_Jupiter_aspects_by_Sun.mdx",
             "title": "Jupiter - Aspects by Sun",
             "order": 18
         }
