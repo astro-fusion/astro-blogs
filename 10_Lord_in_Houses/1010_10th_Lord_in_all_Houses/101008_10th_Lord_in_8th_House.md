@@ -86,3 +86,14 @@ A: Yes, past actions could come back as challenges but addressing them through p
 ---
 
 By understanding these dynamics better through Vedic astrology principles outlined above will allow individuals better equipped manage navigate challenging yet rewarding astrological placement known as having their tenth lord residing eighth house
+---
+
+## Previous Article
+- [10th Lord in 7th House](/blogs-md/1010_10th_Lord_in_all_Houses/101007_10th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 9th House](/blogs-md/1010_10th_Lord_in_all_Houses/101009_10th_Lord_in_9th_House.md)
+
+---

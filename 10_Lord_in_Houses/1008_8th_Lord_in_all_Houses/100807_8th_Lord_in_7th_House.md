@@ -79,3 +79,14 @@ By understanding these nuances better through structured analysis based upon ind
 ---
 
 This blog aims at providing comprehensive insights into one specific yet intriguing aspect within Vedic Astrology while encouraging readers towards self-reflection & practical application
+---
+
+## Previous Article
+- [8th Lord in 6th House](/blogs-md/1008_8th_Lord_in_all_Houses/100806_8th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 8th House](/blogs-md/1008_8th_Lord_in_all_Houses/100808_8th_Lord_in_8th_House.md)
+
+---

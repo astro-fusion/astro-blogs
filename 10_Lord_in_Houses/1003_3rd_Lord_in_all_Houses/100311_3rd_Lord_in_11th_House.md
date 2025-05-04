@@ -102,3 +102,14 @@ A: Engage practices enhancing verbal expression skills like public speaking/writ
 ---
 
 This structured approach aims at providing readers with comprehensive knowledge regarding significances associated specifically towards third lords occupying eleventh houses alike
+---
+
+## Previous Article
+- [3rd Lord in 10th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100310_3rd_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 12th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100312_3rd_Lord_in_12th_House.md)
+
+---

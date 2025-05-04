@@ -90,3 +90,14 @@ A: Regular rituals like reciting mantras associated with the planet (e.g., "Om K
 ---
 
 By understanding how the 5th Lord interacts with different houses like the 11th House, individuals can gain deeper insights into their astrological profile and navigate life's challenges more effectively.
+---
+
+## Previous Article
+- [5th Lord in 10th House](/blogs-md/1005_5th_Lord_in_all_Houses/100510_5th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 12th House](/blogs-md/1005_5th_Lord_in_all_Houses/100512_5th_Lord_in_12th_House.md)
+
+---

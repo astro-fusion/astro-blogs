@@ -65,3 +65,14 @@ A: Engage in spiritual practices like Puja for your specific planetary lordship;
 ## References
 
 For detailed astrological interpretations and personalized advice tailored specifically for your birth chart, consult an experienced astrologer who can provide insights based on individual planetary positions and other chart factors.
+---
+
+## Previous Article
+- [9th Lord in 6th House](/blogs-md/1009_9th_Lord_in_all_Houses/100906_9th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 8th House](/blogs-md/1009_9th_Lord_in_all_Houses/100908_9th_Lord_in_8th_House.md)
+
+---

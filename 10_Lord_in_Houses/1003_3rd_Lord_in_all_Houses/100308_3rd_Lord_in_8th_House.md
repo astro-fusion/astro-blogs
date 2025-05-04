@@ -83,3 +83,14 @@ By understanding how planets interact within specific houses like this one—3rd
 ---
 
 This blog aims at providing an in-depth look into how placing your third house ruler (3rd Lord) within eighth house influences various aspects such as sibling relationships & intellectual pursuits while highlighting both positive & negative impacts along with suggested remedies ensuring better management thereof
+---
+
+## Previous Article
+- [3rd Lord in 7th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100307_3rd_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 9th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100309_3rd_Lord_in_9th_House.md)
+
+---

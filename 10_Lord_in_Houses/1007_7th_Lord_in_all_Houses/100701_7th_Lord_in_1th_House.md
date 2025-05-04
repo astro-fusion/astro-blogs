@@ -75,3 +75,14 @@ For detailed analysis and personalized readings:
 ---
 
 This blog provides an in-depth look at how having the 7th Lord in your 1st House impacts your life through Vedic astrology principles. Understanding these dynamics can help individuals navigate their relationships more effectively while maintaining emotional balance and personal growth.
+---
+
+## Previous Article
+- [7th Lord in All 12 Houses](/blogs-md/1007_7th_Lord_in_all_Houses/100700_7th_Lord_in_all_12_Houses_knowledge.md)
+
+---
+
+## Next Article
+- [7th Lord in 2nd House](/blogs-md/1007_7th_Lord_in_all_Houses/100702_7th_Lord_in_2th_House.md)
+
+---

@@ -99,3 +99,14 @@ The position of the 1st Lord in the 10th House is influential in Vedic astrology
 - [AstroSage Vedic Astrology Insights](https://www.astrosage.com)
 
 ---
+---
+
+## Previous Article
+- [1st Lord in 9th House](/blogs-md/1001_1st_Lord_in_all_Houses/100109_1st_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 11th House](/blogs-md/1001_1st_Lord_in_all_Houses/100111_1st_Lord_in_11th_House.md)
+
+---

@@ -76,3 +76,15 @@ For detailed insights into Vedic astrology principles concerning planetary place
 - "The Essentials of Vedic Astrology" by James Braha
 
 This article aims at providing comprehensive information about how the placement of the 9th Lord in the third house influences various aspects of life according to Vedic astrology principles while offering practical remedies for balancing these energies effectively.
+
+---
+
+## Previous Article
+- [9th Lord in 2nd House](/blogs-md/1009_9th_Lord_in_all_Houses/100902_9th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 4th House](/blogs-md/1009_9th_Lord_in_all_Houses/100904_9th_Lord_in_4th_House.md)
+
+---

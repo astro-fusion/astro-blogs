@@ -40,3 +40,14 @@ With the 4th lord in the 12th house, there can be a connection between home and 
 
 ### Conclusion
 The position of the 4th lord in various houses of the horoscope provides valuable insights into an individual's emotional foundation, family life, and sense of security. Each placement brings its unique influences, shaping how one experiences home, family, and inner peace. Understanding these influences can help individuals navigate their domestic life and find emotional fulfillment.
+---
+
+## Previous Article
+- [4th Lord in 12th House](/blogs-md/1004_4th_Lord_in_all_Houses/100412_4th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 1st House](/blogs-md/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.md)
+
+---

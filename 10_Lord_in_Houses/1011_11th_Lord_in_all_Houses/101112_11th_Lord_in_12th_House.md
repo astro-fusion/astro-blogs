@@ -79,3 +79,14 @@ A: Success may be more internal rather than external; it's about personal satisf
 For further study on Vedic astrology:
 - "The Essentials of Vedic Astrology" by David Frawley
 - "Vedic Astrology: A Comprehensive Guide" by James Braha
+---
+
+## Previous Article
+- [11th Lord in 11th House](/blogs-md/1011_11th_Lord_in_all_Houses/101111_11th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in All 12 Houses](/blogs-md/1011_11th_Lord_in_all_Houses/101100_11th_Lord_in_all_12_Houses.md)
+
+---

@@ -96,3 +96,15 @@ For further reading on Vedic astrology:
 * "Prashna Marga" by M.N. Devasomayajulu
 
 This comprehensive guide should provide a thorough understanding of how the 8th lord behaves when placed in various houses, including its specific influence when situated within the realm of solitude and spirituality represented by the 12th house.
+
+---
+
+## Previous Article
+- [8th Lord in 11th House](/blogs-md/1008_8th_Lord_in_all_Houses/100811_8th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in All 12 Houses](/blogs-md/1008_8th_Lord_in_all_Houses/100800_8th_Lord_in_all_12_Houses.md)
+
+---

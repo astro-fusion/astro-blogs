@@ -78,3 +78,14 @@ A: Practicing mindfulness, engaging in creative activities regularly, seeking sp
 ---
 
 This article provides comprehensive insights into how the placement of the 5th Lord in the 8th House influences various aspects of life while offering practical advice on balancing its effects through astrology-focused remedies.
+---
+
+## Previous Article
+- [5th Lord in 7th House](/blogs-md/1005_5th_Lord_in_all_Houses/100507_5th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 9th House](/blogs-md/1005_5th_Lord_in_all_Houses/100509_5th_Lord_in_9th_House.md)
+
+---

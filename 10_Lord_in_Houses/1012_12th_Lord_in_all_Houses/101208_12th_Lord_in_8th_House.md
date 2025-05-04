@@ -113,3 +113,14 @@ A: Engage in regular meditation and yoga practices, explore esoteric traditions 
 ---
 
 This article aims to provide a comprehensive understanding of the 12th Lord's placement in the 8th house from both positive and negative perspectives while offering practical remedies for balancing these energies.
+---
+
+## Previous Article
+- [12th Lord in 7th House](/blogs-md/1012_12th_Lord_in_all_Houses/101207_12th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 9th House](/blogs-md/1012_12th_Lord_in_all_Houses/101209_12th_Lord_in_9th_House.md)
+
+---

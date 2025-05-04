@@ -95,3 +95,14 @@ The placement of the 2nd Lord in the 1st House offers a unique terrain to explor
 ---
 
 By incorporating the additional keywords "Vedic astrology houses," "Planets and their significance," "Zodiac signs," "Indian horoscope," "birth chart," and "Jyotish," we subtly increase the article's relevance to more aspects of Vedic astrology without compromising the integrity or readability of the content. The keyword density should now appropriately reflect the target without over-stuffing, making it more likely to perform well in search engine rankings.
+---
+
+## Previous Article
+- [2nd Lord in 12th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100212_2nd_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 2nd House](/blogs-md/1002_2nd_Lord_in_all_Houses/100202_2nd_Lord_in_2nd_House.md)
+
+---

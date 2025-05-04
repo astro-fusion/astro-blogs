@@ -109,3 +109,14 @@ The 2nd lord's placement in the 3rd house under **Vedic astrology** underscores 
 ---
 
 This SEO-optimized version incorporates the specified keywords with a focus to enhance visibility and relevance in the field of **Vedic astrology**.
+---
+
+## Previous Article
+- [2nd Lord in 2nd House](/blogs-md/1002_2nd_Lord_in_all_Houses/100202_2nd_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 4th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100204_2nd_Lord_in_4th_House.md)
+
+---

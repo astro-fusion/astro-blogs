@@ -111,3 +111,14 @@ These classic texts provide comprehensive insights into Vedic astrology principl
 ---
 
 This blog aims at providing insightful information about how the placement of your fifth lord influences various facets of life when situated within ninth house according to principles outlined within Vedic Astrology tradition ensuring readers gain deeper understanding unlocking hidden potential within their natal charts
+---
+
+## Previous Article
+- [5th Lord in 8th House](/blogs-md/1005_5th_Lord_in_all_Houses/100508_5th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 10th House](/blogs-md/1005_5th_Lord_in_all_Houses/100510_5th_Lord_in_10th_House.md)
+
+---

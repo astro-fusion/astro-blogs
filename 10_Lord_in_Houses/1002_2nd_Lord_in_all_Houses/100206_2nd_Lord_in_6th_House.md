@@ -96,3 +96,14 @@ The placement of the 2nd Lord in the 6th house presents a complex scenario withi
 ---
 
 SEO Optimized Blog:
+---
+
+## Previous Article
+- [2nd Lord in 5th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100205_2nd_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 7th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100207_2nd_Lord_in_7th_House.md)
+
+---

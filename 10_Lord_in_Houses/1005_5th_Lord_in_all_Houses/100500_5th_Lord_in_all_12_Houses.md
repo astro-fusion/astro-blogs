@@ -40,3 +40,14 @@ When the 5th lord is placed in the 12th house, there is a connection between cre
 
 ### Conclusion
 The position of the 5th lord in different houses of the horoscope provides valuable insights into how an individual’s creativity, intellect, and romantic life will manifest. Each placement brings unique influences, shaping one’s experiences in areas related to education, children, and speculative gains. Understanding these influences can help individuals harness their creative potential and navigate their intellectual and romantic pursuits with greater awareness and success.
+---
+
+## Previous Article
+- [5th Lord in 12th House](/blogs-md/1005_5th_Lord_in_all_Houses/100512_5th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 1st House](/blogs-md/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.md)
+
+---

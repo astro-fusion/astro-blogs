@@ -76,3 +76,14 @@ For further understanding, refer to classical texts like "Jataka Parijata" by Va
 ---
 
 This article aims to provide comprehensive insights into how having the 11th lord placed in the 8th house influences an individual’s life path according to Vedic astrology principles. By understanding both positive and negative aspects associated with this placement, one can better navigate their journey towards achieving balance and harmony in their relationships and overall well-being.
+---
+
+## Previous Article
+- [11th Lord in 7th House](/blogs-md/1011_11th_Lord_in_all_Houses/101107_11th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 9th House](/blogs-md/1011_11th_Lord_in_all_Houses/101109_11th_Lord_in_9th_House.md)
+
+---

@@ -68,3 +68,14 @@ A: Secrets can strain relationships if not handled transparently; open communica
 - **Jataka Bharanam** by Parasara Muni
 
 This article aims to provide comprehensive insights into how having one's 8th House Lord placed within their 6th House might shape their life journey according to Vedic astrological principles.
+---
+
+## Previous Article
+- [8th Lord in 5th House](/blogs-md/1008_8th_Lord_in_all_Houses/100805_8th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 7th House](/blogs-md/1008_8th_Lord_in_all_Houses/100807_8th_Lord_in_7th_House.md)
+
+---

@@ -82,3 +82,14 @@ This article provides comprehensive understanding about astrological implication
 ---
 
 Feel free to ask if you need further customization
+---
+
+## Previous Article
+- [11th Lord in 5th House](/blogs-md/1011_11th_Lord_in_all_Houses/101105_11th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 7th House](/blogs-md/1011_11th_Lord_in_all_Houses/101107_11th_Lord_in_7th_House.md)
+
+---

@@ -82,3 +82,15 @@ For deeper understanding and personalized analysis:
 
 This blog post aims to provide an in-depth analysis of what it means when the 8th Lord is placed in the 11th House according to Vedic Astrology principles. By understanding both positive and negative influences associated with this placement, readers can better navigate their lives' complexities while leveraging opportunities for personal growth.
 
+
+---
+
+## Previous Article
+- [8th Lord in 10th House](/blogs-md/1008_8th_Lord_in_all_Houses/100810_8th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 12th House](/blogs-md/1008_8th_Lord_in_all_Houses/100812_8th_Lord_in_12th_House.md)
+
+---

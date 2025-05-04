@@ -101,3 +101,14 @@ While the 1st Lord in the 6th house presents unique challenges, it also equips i
 ## References
 - [The Art of Vedic Astrology](https://www.vedicastrology.com)
 - [AstroSage](https://www.astrosage.com)
+---
+
+## Previous Article
+- [1st Lord in 5th House](/blogs-md/1001_1st_Lord_in_all_Houses/100105_1st_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 7th House](/blogs-md/1001_1st_Lord_in_all_Houses/100107_1st_Lord_in_7th_House.md)
+
+---

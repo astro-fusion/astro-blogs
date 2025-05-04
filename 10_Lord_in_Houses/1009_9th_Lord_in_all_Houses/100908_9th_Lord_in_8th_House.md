@@ -146,3 +146,14 @@ By exploring these insights further through practical application and seeking gu
 
 
 ---
+---
+
+## Previous Article
+- [9th Lord in 7th House](/blogs-md/1009_9th_Lord_in_all_Houses/100907_9th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 9th House](/blogs-md/1009_9th_Lord_in_all_Houses/100909_9th_Lord_in_9th_House.md)
+
+---

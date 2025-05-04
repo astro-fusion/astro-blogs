@@ -87,3 +87,14 @@ For detailed analysis and personalized horoscopes, consult with an experienced V
 
 
 ---
+---
+
+## Previous Article
+- [10th Lord in 8th House](/blogs-md/1010_10th_Lord_in_all_Houses/101008_10th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 10th House](/blogs-md/1010_10th_Lord_in_all_Houses/101010_10th_Lord_in_10th_House.md)
+
+---

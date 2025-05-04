@@ -78,3 +78,14 @@ A: Yes Engaging with ancestral heritage, practicing creative expression therapy,
 ---
 
 By understanding the intricacies of planetary placements like this one, individuals can gain deeper insights into their astrological profiles and make informed decisions about their lives based on these cosmic influences.
+---
+
+## Previous Article
+- [4th Lord in 4th House](/blogs-md/1004_4th_Lord_in_all_Houses/100404_4th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 6th House](/blogs-md/1004_4th_Lord_in_all_Houses/100406_4th_Lord_in_6th_House.md)
+
+---

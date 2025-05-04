@@ -93,3 +93,14 @@ With potent influence on personality and life, the positioning of the 1st Lord i
 - [Astrology Insights into Zodiac Signs and Planets](https://www.astrologyinsights.com)
 
 The adjusted content enriches the understanding of Vedic astrology, explicitly focusing on Vedic astrology houses, the planets and their significance, and the interaction with zodiac signs, thus boosting SEO effectively.
+---
+
+## Previous Article
+- [1st Lord in 12th House](/blogs-md/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 2nd House](/blogs-md/1001_1st_Lord_in_all_Houses/100102_1st_Lord_in_2nd_House.md)
+
+---

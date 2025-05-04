@@ -108,3 +108,14 @@ The 2nd lord’s presence in its own house is a powerful configuration with pote
 --- 
 
 SEO Optimization is ensured by maintaining a keyword density of around 3%, focusing on terms like Vedic astrology, birth chart, and Jyotish, enhancing both readability and search visibility.
+---
+
+## Previous Article
+- [2nd Lord in 1st House](/blogs-md/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 3rd House](/blogs-md/1002_2nd_Lord_in_all_Houses/100203_2nd_Lord_in_3rd_House.md)
+
+---

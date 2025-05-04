@@ -78,3 +78,14 @@ A: Short journeys might hold deeper meanings related to personal growth or spiri
 ---
 
 This article provides an in-depth look at how the placement of the 12th Lord in the 3rd House can significantly influence various aspects of an individual's life—from communication styles to relationships with siblings—and offers practical remedies for balancing its effects.
+---
+
+## Previous Article
+- [12th Lord in 2nd House](/blogs-md/1012_12th_Lord_in_all_Houses/101202_12th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 4th House](/blogs-md/1012_12th_Lord_in_all_Houses/101204_12th_Lord_in_4th_House.md)
+
+---

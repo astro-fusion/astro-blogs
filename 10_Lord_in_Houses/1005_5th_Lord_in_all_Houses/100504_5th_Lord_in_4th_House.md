@@ -62,3 +62,14 @@ A: Mars in any house increases energy levels but also potential conflicts when i
 ---
 
 This blog aims to provide a comprehensive understanding of having the 5th Lord placed in the 4th House through astrological insights while offering practical remedies for better life balance.
+---
+
+## Previous Article
+- [5th Lord in 3rd House](/blogs-md/1005_5th_Lord_in_all_Houses/100503_5th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 5th House](/blogs-md/1005_5th_Lord_in_all_Houses/100505_5th_Lord_in_5th_House.md)
+
+---

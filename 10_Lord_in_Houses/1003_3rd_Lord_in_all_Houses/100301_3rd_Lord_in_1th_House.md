@@ -136,3 +136,14 @@ References:
 1. **Bhavishya Phala**: A comprehensive guide covering various aspects related planetary movements influences experienced life events accordingly.
 2. **Jaimini Sutras**: Ancient texts providing detailed insights into astrological principles governing celestial movements impacting human lives significantly.
 3. **Vimshottari Dasha**: Systematic approach understanding long-term predictions based upon planetary transits occurring throughout life cycle individuals concerned here
+---
+
+## Previous Article
+- [3rd Lord in 12th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100312_3rd_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 2nd House](/blogs-md/1003_3rd_Lord_in_all_Houses/100302_3rd_Lord_in_2th_House.md)
+
+---

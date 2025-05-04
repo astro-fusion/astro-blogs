@@ -70,3 +70,15 @@ For deeper understanding:
 ---
 
 This blog aims to provide comprehensive insights into how the placement of the 9th Lord in Vedic astrology affects different aspects of life when it resides in the second house. By understanding these influences, individuals can better navigate their life journey towards achieving their long-term goals while maintaining stable financial conditions.
+
+---
+
+## Previous Article
+- [9th Lord in 1st House](/blogs-md/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 3rd House](/blogs-md/1009_9th_Lord_in_all_Houses/100903_9th_Lord_in_3rd_House.md)
+
+---

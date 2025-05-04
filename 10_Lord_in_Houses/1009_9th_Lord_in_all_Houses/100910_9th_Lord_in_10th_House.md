@@ -91,3 +91,14 @@ For further insights into Vedic astrology placements including detailed interpre
 ---
 
 This article aims at providing comprehensive understanding regarding significances associated when placing ninth house ruler within tenth house position within vedic astrological context while offering practical advice/remedies aimed towards balancing potentially conflicting energies present during such placements ensuring overall holistic approach towards achieving both career success/spiritual enlightenment simultaneously throughout life journey
+---
+
+## Previous Article
+- [9th Lord in 9th House](/blogs-md/1009_9th_Lord_in_all_Houses/100909_9th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 11th House](/blogs-md/1009_9th_Lord_in_all_Houses/100911_9th_Lord_in_11th_House.md)
+
+---

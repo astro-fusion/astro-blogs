@@ -88,3 +88,14 @@ References:
 ---
 
 This structured approach ensures that readers gain comprehensive insights into the astrological significance of having the 12th lord placed in their 10th house, along with practical remedies to balance these influences effectively throughout their lives.
+---
+
+## Previous Article
+- [12th Lord in 9th House](/blogs-md/1012_12th_Lord_in_all_Houses/101209_12th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 11th House](/blogs-md/1012_12th_Lord_in_all_Houses/101211_12th_Lord_in_11th_House.md)
+
+---

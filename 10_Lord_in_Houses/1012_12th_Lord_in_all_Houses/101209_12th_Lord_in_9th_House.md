@@ -102,3 +102,14 @@ By understanding these intricacies and applying appropriate remedies, individual
 
 
 ---
+---
+
+## Previous Article
+- [12th Lord in 8th House](/blogs-md/1012_12th_Lord_in_all_Houses/101208_12th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 10th House](/blogs-md/1012_12th_Lord_in_all_Houses/101210_12th_Lord_in_10th_House.md)
+
+---

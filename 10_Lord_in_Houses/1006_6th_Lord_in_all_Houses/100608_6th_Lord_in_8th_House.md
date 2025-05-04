@@ -93,3 +93,14 @@ A: Regular health check-ups; meditation/yoga practices; developing conflict reso
 ---
 
 This article provides a comprehensive overview of how having the 6th Lord placed within Vedic astrology's eighth house affects an individual's life trajectory concerning various themes like health/diseases/enemies/intimacies/inheriting shared resources among family members/partnerships alike By understanding these influences both positively/negatively alike along practical remedies suggested here today—individuals can better navigate their destinies while mitigating adverse impacts along way too
+---
+
+## Previous Article
+- [6th Lord in 7th House](/blogs-md/1006_6th_Lord_in_all_Houses/100607_6th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 9th House](/blogs-md/1006_6th_Lord_in_all_Houses/100609_6th_Lord_in_9th_House.md)
+
+---

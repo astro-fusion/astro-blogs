@@ -66,3 +66,14 @@ For deeper understanding, refer to classic texts such as "Brihat Parasara Hora S
 ---
 
 This structured approach ensures that readers gain comprehensive knowledge about how the 12th Lord interacts with themes related to friendships and spiritual growth within their horoscope chart.
+---
+
+## Previous Article
+- [12th Lord in 10th House](/blogs-md/1012_12th_Lord_in_all_Houses/101210_12th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 12th House](/blogs-md/1012_12th_Lord_in_all_Houses/101212_12th_Lord_in_12th_House.md)
+
+---

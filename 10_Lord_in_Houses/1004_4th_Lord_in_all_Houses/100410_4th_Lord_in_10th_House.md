@@ -84,3 +84,15 @@ For detailed analysis and personalized horoscope readings related to planetary p
 - [Astrology Book Title] by [Author Name]
 
 By understanding how planetary positions shape our lives through astrology, we can make informed decisions about our future paths while embracing both opportunities and challenges along the way.
+
+---
+
+## Previous Article
+- [4th Lord in 9th House](/blogs-md/1004_4th_Lord_in_all_Houses/100409_4th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 11th House](/blogs-md/1004_4th_Lord_in_all_Houses/100411_4th_Lord_in_11th_House.md)
+
+---

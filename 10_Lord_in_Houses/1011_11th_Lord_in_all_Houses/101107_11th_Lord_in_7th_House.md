@@ -58,3 +58,14 @@ For detailed insights into Vedic astrology and planetary influences:
 ---
 
 This article provides a comprehensive overview of the astrological significance of having the 11th Lord placed in the 7th House according to Vedic astrology principles. By understanding these insights, individuals can better navigate their personal lives and relationships while leveraging remedial measures for enhanced positivity.
+---
+
+## Previous Article
+- [11th Lord in 6th House](/blogs-md/1011_11th_Lord_in_all_Houses/101106_11th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 8th House](/blogs-md/1011_11th_Lord_in_all_Houses/101108_11th_Lord_in_8th_House.md)
+
+---

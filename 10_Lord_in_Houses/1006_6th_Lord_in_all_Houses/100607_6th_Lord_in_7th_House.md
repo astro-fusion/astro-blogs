@@ -127,3 +127,14 @@ A: Emotionally sensitive nature leading towards empathetic connections within re
 
 ## References
 For deeper understanding consult any reputed astrology text such as Brihat Parasara Hora Shastra by Parasara Muni or similar classics providing detailed explanations about planetary influences across various houses including specifics regarding their interactions/dynamics together forming complex patterns governing individual lives accordingly
+---
+
+## Previous Article
+- [6th Lord in 6th House](/blogs-md/1006_6th_Lord_in_all_Houses/100606_6th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 8th House](/blogs-md/1006_6th_Lord_in_all_Houses/100608_6th_Lord_in_8th_House.md)
+
+---

@@ -65,3 +65,14 @@ For further reading on Vedic astrology concepts related to planetary placements 
 ---
 
 This article aims to provide comprehensive insights into understanding how having the 7th lord placed within its own house influences various aspects related to partnerships and collaborations according to Vedic astrology principles while offering practical remedies for better management of these influences.
+---
+
+## Previous Article
+- [7th Lord in 6th House](/blogs-md/1007_7th_Lord_in_all_Houses/100706_7th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 8th House](/blogs-md/1007_7th_Lord_in_all_Houses/100708_7th_Lord_in_8th_House.md)
+
+---

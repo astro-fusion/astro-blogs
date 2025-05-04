@@ -81,3 +81,14 @@ For deeper astrological insights into how planetary placements shape our lives:
 - "Vedic Astrology: The Study of Light on the Self" by David Frawley
 
 By understanding these astrological influences better, individuals can navigate life's challenges more effectively while harnessing their creative potential for greater success.
+---
+
+## Previous Article
+- [5th Lord in 1st House](/blogs-md/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 3rd House](/blogs-md/1005_5th_Lord_in_all_Houses/100503_5th_Lord_in_3rd_House.md)
+
+---

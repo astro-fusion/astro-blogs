@@ -87,3 +87,14 @@ A: Yes, short travels might be more common due to work or leisure activities; ho
 For deeper understanding refer:
 * "The Essence of Vedic Astrology" by B.V. Raman
 * "Astrology for Beginners" by Liz Greene & Howard Sasportas
+---
+
+## Previous Article
+- [3rd Lord in 2nd House](/blogs-md/1003_3rd_Lord_in_all_Houses/100302_3rd_Lord_in_2th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 4th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100304_3rd_Lord_in_4th_House.md)
+
+---

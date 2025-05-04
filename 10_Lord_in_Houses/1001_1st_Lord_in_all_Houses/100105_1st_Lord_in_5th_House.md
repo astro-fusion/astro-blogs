@@ -85,3 +85,14 @@ The placement of the 1st Lord in the 5th House blends one’s identity with them
 ## References
 - [The Art of Vedic Astrology](https://www.theartofvedicastrology.com/)
 - [AstroSage Vedic Astrology](https://www.astrosage.com/)
+---
+
+## Previous Article
+- [1st Lord in 4th House](/blogs-md/1001_1st_Lord_in_all_Houses/100104_1st_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 6th House](/blogs-md/1001_1st_Lord_in_all_Houses/100106_1st_Lord_in_6th_House.md)
+
+---

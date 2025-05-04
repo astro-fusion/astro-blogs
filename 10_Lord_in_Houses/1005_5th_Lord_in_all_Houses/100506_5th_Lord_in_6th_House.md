@@ -64,3 +64,14 @@ For more detailed information on planetary placements and their interpretations 
 ---
 
 This template has been adapted to provide a structured yet comprehensive guide on understanding the influence of having the 5th Lord placed within the domain governed by Saturn (the 6th House). The insights offered here should help readers navigate through potential challenges while leveraging opportunities created by this unique planetary alignment.
+---
+
+## Previous Article
+- [5th Lord in 5th House](/blogs-md/1005_5th_Lord_in_all_Houses/100505_5th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 7th House](/blogs-md/1005_5th_Lord_in_all_Houses/100507_5th_Lord_in_7th_House.md)
+
+---

@@ -101,3 +101,14 @@ A: While there's no direct prediction method available in astrology for inherita
 ---
 
 This blog aims to provide comprehensive insights into how having the 8th lord placed in your 4th house might influence different aspects of your life while offering practical remedies for better management and growth opportunities from such placements in horoscopes.
+---
+
+## Previous Article
+- [8th Lord in 3rd House](/blogs-md/1008_8th_Lord_in_all_Houses/100803_8th_Lord_in_3th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 5th House](/blogs-md/1008_8th_Lord_in_all_Houses/100805_8th_Lord_in_5th_House.md)
+
+---

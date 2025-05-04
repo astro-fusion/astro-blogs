@@ -102,3 +102,14 @@ A: Adopt disciplined approach daily routine ensuring timely completion tasks ass
 ---
 
 This structured approach ensures comprehensive coverage while maintaining SEO-friendly content relevant readers seeking deeper insights into astrological interpretations surrounding specific planetary placements within horoscope configurations
+---
+
+## Previous Article
+- [10th Lord in 4th House](/blogs-md/1010_10th_Lord_in_all_Houses/101004_10th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 6th House](/blogs-md/1010_10th_Lord_in_all_Houses/101006_10th_Lord_in_6th_House.md)
+
+---

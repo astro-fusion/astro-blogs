@@ -80,3 +80,14 @@ For further reading on Vedic Astrology and planetary placements:
 ---
 
 This article provides a comprehensive understanding of how having the 5th Lord in the 12th House influences various aspects of life while offering practical solutions to manage its effects effectively.
+---
+
+## Previous Article
+- [5th Lord in 11th House](/blogs-md/1005_5th_Lord_in_all_Houses/100511_5th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in All 12 Houses](/blogs-md/1005_5th_Lord_in_all_Houses/100500_5th_Lord_in_all_12_Houses.md)
+
+---

@@ -103,3 +103,15 @@ For further understanding of Vedic astrology concepts:
 3. [Astrological Newsletters] - Regular newsletters providing updates on astrological events and their impacts.
 
 This article aims to provide readers with a deeper understanding of one specific combination within Vedic astrology—how the influence of the 6th house lord placed in the 9th house shapes various aspects of life including health, education, spirituality, and overall well-being through balanced management techniques.
+
+---
+
+## Previous Article
+- [6th Lord in 8th House](/blogs-md/1006_6th_Lord_in_all_Houses/100608_6th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 10th House](/blogs-md/1006_6th_Lord_in_all_Houses/100610_6th_Lord_in_10th_House.md)
+
+---

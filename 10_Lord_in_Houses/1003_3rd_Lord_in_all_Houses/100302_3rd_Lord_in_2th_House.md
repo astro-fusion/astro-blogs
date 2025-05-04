@@ -62,3 +62,14 @@ A: Strong family support can provide emotional stability during financial challe
 3. **Horary Astrology** by Ravi Ravindra
 
 By understanding these astrological insights into how planets influence different domains across our horoscopes, we can better navigate life's challenges while leveraging opportunities for growth and success.
+---
+
+## Previous Article
+- [3rd Lord in 1st House](/blogs-md/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 3rd House](/blogs-md/1003_3rd_Lord_in_all_Houses/100303_3rd_Lord_in_3th_House.md)
+
+---

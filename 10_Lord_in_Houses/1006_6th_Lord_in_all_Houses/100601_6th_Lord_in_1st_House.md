@@ -79,3 +79,14 @@ By understanding these astrological principles, individuals can navigate life's 
 ---
 
 This article provides a comprehensive overview of how the placement of the 6th Lord in the 1st House impacts various aspects of life according to Vedic astrology principles.
+---
+
+## Previous Article
+- [6th Lord in All 12 Houses](/blogs-md/1006_6th_Lord_in_all_Houses/100600_6th_Lord_in_all_12_Houses_knowledge.md)
+
+---
+
+## Next Article
+- [6th Lord in 2nd House](/blogs-md/1006_6th_Lord_in_all_Houses/100602_6th_Lord_in_2nd_House.md)
+
+---

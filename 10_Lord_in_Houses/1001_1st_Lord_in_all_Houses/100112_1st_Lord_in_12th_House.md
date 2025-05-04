@@ -89,3 +89,15 @@ The 1st Lord in the 12th house is a complex but deeply enriching placement in Ve
 ## References
 - [Comprehensive Analysis of Astrological Houses](https://www.astrology.com/houses)
 - [Study on Planetary Influences and Personalities](https://www.vedicastrology.org)
+
+---
+
+## Previous Article
+- [1st Lord in 11th House](/blogs-md/1001_1st_Lord_in_all_Houses/100111_1st_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 1st House](/blogs-md/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.md)
+
+---

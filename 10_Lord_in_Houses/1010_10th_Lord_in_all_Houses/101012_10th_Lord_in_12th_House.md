@@ -101,3 +101,14 @@ For further reading on Vedic Astrology and its applications, refer to classic te
 ---
 
 This blog aims to provide comprehensive insights into how the placement of the 10th Lord in the 12th House influences one's career trajectory and public image while highlighting both positive and negative aspects along with practical remedies for balancing these influences.
+---
+
+## Previous Article
+- [10th Lord in 11th House](/blogs-md/1010_10th_Lord_in_all_Houses/101011_10th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in All 12 Houses](/blogs-md/1010_10th_Lord_in_all_Houses/101000_10th_Lord_in_all_12_Houses.md)
+
+---

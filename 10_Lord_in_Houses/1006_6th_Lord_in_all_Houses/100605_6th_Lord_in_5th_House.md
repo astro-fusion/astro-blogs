@@ -62,3 +62,14 @@ For deeper understanding, consult Vedic astrology texts such as "Brihat Parasara
 ---
 
 This blog aims at providing comprehensive insights into how the 6th Lord's placement in different houses impacts various aspects of life according to Vedic Astrology principles.
+---
+
+## Previous Article
+- [6th Lord in 4th House](/blogs-md/1006_6th_Lord_in_all_Houses/100604_6th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 6th House](/blogs-md/1006_6th_Lord_in_all_Houses/100606_6th_Lord_in_6th_House.md)
+
+---

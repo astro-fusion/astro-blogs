@@ -76,3 +76,14 @@ For more detailed insights into Vedic astrology and planetary influences, refer 
 ---
 
 This article aims to provide comprehensive insights into how the placement of the 7th Lord in the 5th house affects relationships and offers practical advice for balancing its influences.
+---
+
+## Previous Article
+- [7th Lord in 4th House](/blogs-md/1007_7th_Lord_in_all_Houses/100704_7th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 6th House](/blogs-md/1007_7th_Lord_in_all_Houses/100706_7th_Lord_in_6th_House.md)
+
+---

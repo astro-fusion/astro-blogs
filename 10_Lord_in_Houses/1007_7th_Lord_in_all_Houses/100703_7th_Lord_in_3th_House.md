@@ -105,3 +105,14 @@ A: Yes Depending on which planet acts as your 7th Lord, you can practice self-co
 ---
 
 This article provides a comprehensive look at how having the 7th Lord in the 3rd House influences various aspects of life according to Vedic astrology principles. Understanding these insights can help individuals better navigate their relationships and communication styles based on their horoscope details.
+---
+
+## Previous Article
+- [7th Lord in 2nd House](/blogs-md/1007_7th_Lord_in_all_Houses/100702_7th_Lord_in_2th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 4th House](/blogs-md/1007_7th_Lord_in_all_Houses/100704_7th_Lord_in_4th_House.md)
+
+---

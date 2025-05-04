@@ -92,3 +92,14 @@ For detailed interpretations based on individual birth charts:
 - [Author], [Article Title], [Publication Name], Date Published
 
 This article aims to provide comprehensive insights into one of the intricate aspects of Vedic astrology—how planetary positions shape our lives across different domains like career and family life.
+---
+
+## Previous Article
+- [10th Lord in 3rd House](/blogs-md/1010_10th_Lord_in_all_Houses/101003_10th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 5th House](/blogs-md/1010_10th_Lord_in_all_Houses/101005_10th_Lord_in_5th_House.md)
+
+---

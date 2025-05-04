@@ -76,3 +76,15 @@ A: Focus on nurturing genuine relationships, engaging in continuous professional
 ## References
 
 For further understanding and detailed analysis, refer to Vedic astrology texts such as Jaimini Sutras or consult with an experienced astrologer who specializes in Vedic astrology.
+
+---
+
+## Previous Article
+- [11th Lord in 9th House](/blogs-md/1011_11th_Lord_in_all_Houses/101109_11th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 11th House](/blogs-md/1011_11th_Lord_in_all_Houses/101111_11th_Lord_in_11th_House.md)
+
+---

@@ -79,3 +79,14 @@ By understanding these intricate astrological nuances through detailed analysis 
 ---
 
 This structured approach provides a comprehensive guide for readers interested in exploring how planetary positions shape various aspects of life according to Vedic astrology principles.
+---
+
+## Previous Article
+- [3rd Lord in 4th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100304_3rd_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 6th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100306_3rd_Lord_in_6th_House.md)
+
+---

@@ -91,3 +91,14 @@ The presence of the 1st Lord in the 11th House in **Vedic astrology** denotes un
 - [Astrology.com](https://www.astrology.com)
 
 SEO Optimized Blog:
+---
+
+## Previous Article
+- [1st Lord in 10th House](/blogs-md/1001_1st_Lord_in_all_Houses/100110_1st_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 12th House](/blogs-md/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_12th_House.md)
+
+---

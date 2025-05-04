@@ -104,3 +104,14 @@ A: No, birth charts are immutable; however, understanding their influences allow
 3. **Astrology books by Dr. K.S. Charak** - Offers practical insights into applying astrological knowledge in real life scenarios.
 
 By delving deeper into these insights, we can better navigate our life's journey guided by ancient astrological wisdom
+---
+
+## Previous Article
+- [9th Lord in 10th House](/blogs-md/1009_9th_Lord_in_all_Houses/100910_9th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 12th House](/blogs-md/1009_9th_Lord_in_all_Houses/100912_9th_Lord_in_12th_House.md)
+
+---

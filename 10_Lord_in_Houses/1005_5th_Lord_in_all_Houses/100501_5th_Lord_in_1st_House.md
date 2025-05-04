@@ -74,3 +74,14 @@ A: Engaging in creative outlets while practicing humility can help balance out a
 ---
 
 This article provides an in-depth analysis of what it means for an individual's life when they have their 5th Lord placed in their 1st House according to Vedic astrology principles. It highlights both positive traits like creativity & leadership qualities as well as potential pitfalls such as egocentrism & overconfidence along with practical remedies like engaging in creative activities while practicing humility to mitigate these effects effectively.
+---
+
+## Previous Article
+- [5th Lord in All 12 Houses](/blogs-md/1005_5th_Lord_in_all_Houses/100500_5th_Lord_in_all_12_Houses.md)
+
+---
+
+## Next Article
+- [5th Lord in 2nd House](/blogs-md/1005_5th_Lord_in_all_Houses/100502_5th_Lord_in_2nd_House.md)
+
+---

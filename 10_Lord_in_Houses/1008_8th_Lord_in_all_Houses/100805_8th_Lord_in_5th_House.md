@@ -97,3 +97,15 @@ For further study on astrological influences:
 ---
 
 This blog aims to provide comprehensive insights into how the placement of the 8th Lord in the 5th House influences various aspects of life through Vedic astrology principles. By understanding these dynamics better, individuals can navigate their life journey more effectively.
+
+---
+
+## Previous Article
+- [8th Lord in 4th House](/blogs-md/1008_8th_Lord_in_all_Houses/100804_8th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 6th House](/blogs-md/1008_8th_Lord_in_all_Houses/100806_8th_Lord_in_6th_House.md)
+
+---

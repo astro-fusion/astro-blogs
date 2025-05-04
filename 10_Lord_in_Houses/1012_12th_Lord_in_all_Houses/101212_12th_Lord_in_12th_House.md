@@ -135,3 +135,14 @@ For detailed analysis consult professional astrologer who can provide personaliz
 ---
 
 This blog provides comprehensive overview significance role played by planets ruling over specific areas life through lens vedic astrology offering practical remedies balancing influences associated different placements within birth charts
+---
+
+## Previous Article
+- [12th Lord in 11th House](/blogs-md/1012_12th_Lord_in_all_Houses/101211_12th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in All 12 Houses](/blogs-md/1012_12th_Lord_in_all_Houses/101200_12th_Lord_in_all_12_Houses.md)
+
+---

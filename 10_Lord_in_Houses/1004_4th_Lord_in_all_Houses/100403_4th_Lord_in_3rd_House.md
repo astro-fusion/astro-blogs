@@ -95,3 +95,14 @@ For further detailed analysis or specific case studies related to Vedic astrolog
 ---
 
 This structured approach aims at providing comprehensive insights into how planetary placements within Vedic astrology can shape various aspects of life. By understanding these intricacies, individuals can better navigate their journey towards achieving balance and harmony across different domains influenced by celestial bodies.
+---
+
+## Previous Article
+- [4th Lord in 2nd House](/blogs-md/1004_4th_Lord_in_all_Houses/100402_4th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 4th House](/blogs-md/1004_4th_Lord_in_all_Houses/100404_4th_Lord_in_4th_House.md)
+
+---

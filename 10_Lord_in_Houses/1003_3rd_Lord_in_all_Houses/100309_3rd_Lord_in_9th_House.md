@@ -78,3 +78,14 @@ For more detailed insights into Vedic astrology and planetary placements, consul
 ---
 
 This article provides a comprehensive overview of how having your third house lord placed in your ninth house influences various aspects of life according to Vedic astrology principles.
+---
+
+## Previous Article
+- [3rd Lord in 8th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100308_3rd_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 10th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100310_3rd_Lord_in_10th_House.md)
+
+---

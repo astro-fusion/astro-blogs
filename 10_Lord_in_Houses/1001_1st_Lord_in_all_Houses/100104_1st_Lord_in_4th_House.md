@@ -102,3 +102,14 @@ The positioning of the 1st Lord in the 4th House within a Vedic horoscope signif
 ## References
 - [The Astrological Journal](http://www.astrology-journal.com)
 - [Vedic Astrology Resources](https://www.vedicastrology.org)
+---
+
+## Previous Article
+- [1st Lord in 3rd House](/blogs-md/1001_1st_Lord_in_all_Houses/100103_1st_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 5th House](/blogs-md/1001_1st_Lord_in_all_Houses/100105_1st_Lord_in_5th_House.md)
+
+---
