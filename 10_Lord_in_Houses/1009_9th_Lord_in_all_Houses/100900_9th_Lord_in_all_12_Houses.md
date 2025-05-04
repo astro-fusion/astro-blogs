@@ -40,3 +40,14 @@ When the 9th lord is placed in the 12th house, it connects spirituality and fort
 
 ### Conclusion
 The position of the 9th lord in different houses of the horoscope offers valuable insights into how an individual experiences luck, spiritual growth, and higher learning. Each placement brings its own set of influences, shaping one’s journey toward truth, wisdom, and ethical living. Understanding these influences can help individuals align with their higher purpose and achieve spiritual and material success in a way that is true to their beliefs and values.
+---
+
+## Previous Article
+- [9th Lord in 12th House](/blogs-md/1009_9th_Lord_in_all_Houses/100912_9th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 1st House](/blogs-md/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.md)
+
+---

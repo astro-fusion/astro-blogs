@@ -79,3 +79,14 @@ In Vedic astrology, the positioning of the 2nd lord in the 9th house, a strategi
 ## References
 - [Astrology.com](https://www.astrology.com/)
 - [The Astrology House](https://www.theastrologyhouse.com/)
+---
+
+## Previous Article
+- [2nd Lord in 8th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100208_2nd_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 10th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100210_2nd_Lord_in_10th_House.md)
+
+---

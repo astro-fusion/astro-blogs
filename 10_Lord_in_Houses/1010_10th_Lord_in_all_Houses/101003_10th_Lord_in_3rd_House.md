@@ -88,3 +88,14 @@ A: Yes, there could be conflicts arising from differing communication styles or 
 ---
 
 This blog aims to provide comprehensive insights into how having your 10th Lord in your 3rd house influences various aspects of life—career success through effective communication skills, marketing abilities, and supportive sibling relationships—while offering practical remedies for balancing any negative influences associated with this placement.
+---
+
+## Previous Article
+- [10th Lord in 2nd House](/blogs-md/1010_10th_Lord_in_all_Houses/101002_10th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 4th House](/blogs-md/1010_10th_Lord_in_all_Houses/101004_10th_Lord_in_4th_House.md)
+
+---

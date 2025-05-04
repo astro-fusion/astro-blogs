@@ -143,3 +143,14 @@ While the general interpretation of having a planet in its own house is positive
 ---
 
 This article aims at providing comprehensive insights related placement '9th' lord within respective houses offering practical advice/remedies ensuring balanced growth across various aspects life mentioned above
+---
+
+## Previous Article
+- [9th Lord in 8th House](/blogs-md/1009_9th_Lord_in_all_Houses/100908_9th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 10th House](/blogs-md/1009_9th_Lord_in_all_Houses/100910_9th_Lord_in_10th_House.md)
+
+---

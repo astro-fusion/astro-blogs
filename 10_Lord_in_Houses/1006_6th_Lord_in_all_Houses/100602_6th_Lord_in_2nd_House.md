@@ -77,3 +77,14 @@ For detailed understanding refer any standard text on Vedic Astrology like "Brih
 ---
 
 This article aims at providing comprehensive insights into how planetary positions influence various aspects of life based on Vedic Astrology principles while focusing specifically on one key placement – The 6th Lord in The 2nd House – offering practical advice tailored for readers seeking better understanding & balancing their astrological chart influences effectively
+---
+
+## Previous Article
+- [6th Lord in 1st House](/blogs-md/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 3rd House](/blogs-md/1006_6th_Lord_in_all_Houses/100603_6th_Lord_in_3rd_House.md)
+
+---

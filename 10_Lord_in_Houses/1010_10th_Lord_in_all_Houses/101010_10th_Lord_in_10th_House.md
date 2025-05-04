@@ -84,3 +84,14 @@ A: Consider unconventional approaches but remain flexible; networking is crucial
 ---
 
 This article provides an in-depth look at how the placement of the 10th lord in the 10th house impacts one's career and public image according to Vedic astrology principles.
+---
+
+## Previous Article
+- [10th Lord in 9th House](/blogs-md/1010_10th_Lord_in_all_Houses/101009_10th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 11th House](/blogs-md/1010_10th_Lord_in_all_Houses/101011_10th_Lord_in_11th_House.md)
+
+---

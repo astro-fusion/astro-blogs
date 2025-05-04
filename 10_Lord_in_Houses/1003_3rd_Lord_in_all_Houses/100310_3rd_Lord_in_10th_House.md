@@ -72,3 +72,14 @@ A: Engaging in regular yogic practices like Pranayama along with meditation can 
 ---
 
 This article aims to provide a comprehensive understanding of how the 3rd Lord placed in the 10th House influences various aspects of life while offering practical remedies for balancing its effects.
+---
+
+## Previous Article
+- [3rd Lord in 9th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100309_3rd_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 11th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100311_3rd_Lord_in_11th_House.md)
+
+---

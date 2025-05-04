@@ -68,3 +68,14 @@ For deeper understanding, consult classic texts such as "Brihat Parasara Hora Sh
 ---
 
 This article provides an in-depth analysis of how the placement of the 10th lord in the 2nd house influences various aspects of life according to Vedic astrology principles. It serves as a valuable resource for individuals seeking insights into their horoscopes and practical advice on managing their careers and finances effectively.
+---
+
+## Previous Article
+- [10th Lord in 1st House](/blogs-md/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 3rd House](/blogs-md/1010_10th_Lord_in_all_Houses/101003_10th_Lord_in_3rd_House.md)
+
+---

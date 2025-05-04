@@ -40,3 +40,14 @@ When the 11th lord is placed in the 12th house, it connects gains and aspiration
 
 ### Conclusion
 The position of the 11th lord in different houses of the horoscope offers valuable insights into how an individual experiences gains, aspirations, and social connections. Each placement brings its own set of influences, shaping how one navigates their social interactions and achieves their long-term goals. Understanding these influences can help individuals align their ambitions with their true purpose, leading to greater fulfillment and success in both material and spiritual realms.
+---
+
+## Previous Article
+- [11th Lord in 12th House](/blogs-md/1011_11th_Lord_in_all_Houses/101112_11th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 1st House](/blogs-md/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.md)
+
+---

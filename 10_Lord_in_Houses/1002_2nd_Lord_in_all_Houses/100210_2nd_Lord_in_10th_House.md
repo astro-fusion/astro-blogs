@@ -103,3 +103,14 @@ The placement of the 2nd Lord in the 10th house is a notable aspect in Vedic ast
 ## References
 - [Vedic Astrology Source 1](https://www.vedicastrology.com)
 - [Astrology Online Resources](https://www.astrology-online.com)
+---
+
+## Previous Article
+- [2nd Lord in 9th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100209_2nd_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 11th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100211_2nd_Lord_in_11th_House.md)
+
+---

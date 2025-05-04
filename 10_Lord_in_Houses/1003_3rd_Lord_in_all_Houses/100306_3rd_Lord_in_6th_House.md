@@ -72,3 +72,15 @@ For more detailed insights into Vedic astrology principles and planetary influen
 By understanding how the third lord behaves when placed in different houses—especially when it comes to placements like the sixth house—you can gain valuable insights into managing various life challenges effectively.
 
 
+
+---
+
+## Previous Article
+- [3rd Lord in 5th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100305_3rd_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 7th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100307_3rd_Lord_in_7th_House.md)
+
+---

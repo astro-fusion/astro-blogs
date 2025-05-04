@@ -75,3 +75,14 @@ A: Yes; offering prayers to Dhanwantari or performing specific rituals can help 
 ---
 
 This blog aims at providing readers with a deeper understanding of how planetary placements shape our lives according to Vedic principles while offering practical advice for managing their influences effectively.
+---
+
+## Previous Article
+- [6th Lord in 3rd House](/blogs-md/1006_6th_Lord_in_all_Houses/100603_6th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 5th House](/blogs-md/1006_6th_Lord_in_all_Houses/100605_6th_Lord_in_5th_House.md)
+
+---

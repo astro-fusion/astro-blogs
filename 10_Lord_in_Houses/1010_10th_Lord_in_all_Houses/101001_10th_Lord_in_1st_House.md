@@ -89,3 +89,14 @@ For deeper understanding consult with experienced astrologer specializing Vedic 
 ---
 
 This comprehensive guide offers valuable insights into how having tenth lord placed within first house space influences various aspects life thereby helping individuals better understand themselves others around them making informed choices accordingly
+---
+
+## Previous Article
+- [10th Lord in All 12 Houses](/blogs-md/1010_10th_Lord_in_all_Houses/101000_10th_Lord_in_all_12_Houses.md)
+
+---
+
+## Next Article
+- [10th Lord in 2nd House](/blogs-md/1010_10th_Lord_in_all_Houses/101002_10th_Lord_in_2nd_House.md)
+
+---

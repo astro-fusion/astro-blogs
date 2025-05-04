@@ -89,3 +89,14 @@ The 1st Lord in the 3rd House is a significant and influential placement in Vedi
 ## References
 - [The Astrological Journal](https://www.astrologicaljournal.com/)
 - [Vedic Astrology Foundation](https://www.vedicastrologyfoundation.org/)
+---
+
+## Previous Article
+- [1st Lord in 2nd House](/blogs-md/1001_1st_Lord_in_all_Houses/100102_1st_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 4th House](/blogs-md/1001_1st_Lord_in_all_Houses/100104_1st_Lord_in_4th_House.md)
+
+---

@@ -79,3 +79,14 @@ For deeper understanding:
 ---
 
 This article provides an in-depth look at how having the 7th Lord placed in the 11th House can influence various aspects of life according to Vedic astrology principles.
+---
+
+## Previous Article
+- [7th Lord in 10th House](/blogs-md/1007_7th_Lord_in_all_Houses/100710_7th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 12th House](/blogs-md/1007_7th_Lord_in_all_Houses/100712_7th_Lord_in_12th_House.md)
+
+---

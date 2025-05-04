@@ -92,3 +92,14 @@ The placement of the 1st Lord in the 2nd House is a powerful one in Vedic astrol
 - [Astrological Insights and Practical Guides](https://www.astroguide.com)
 
 With the application of the desired keywords and maintaining a 3% keyword density, the SEO optimization of this blog on Vedic astrology, Vedic astrology houses, and the significance of planets and Zodiac signs is effectively boosted.
+---
+
+## Previous Article
+- [1st Lord in 1st House](/blogs-md/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 3rd House](/blogs-md/1001_1st_Lord_in_all_Houses/100103_1st_Lord_in_3rd_House.md)
+
+---

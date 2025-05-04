@@ -100,3 +100,15 @@ The 2nd lord in the 12th house presents a challenging yet rewarding scenario, in
 ## References
 - [Example Reference](https://www.example.com)
 - [Vedic Astrology Source](https://www.vedicastrology.com)
+
+---
+
+## Previous Article
+- [2nd Lord in 11th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100211_2nd_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 1st House](/blogs-md/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.md)
+
+---

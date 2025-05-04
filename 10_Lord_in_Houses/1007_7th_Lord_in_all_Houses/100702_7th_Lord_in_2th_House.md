@@ -58,3 +58,14 @@ A: Yes, challenging aspects from certain planets like Neptune might create insec
 ---
 
 This article provides a comprehensive overview of how the placement of the 7th Lord in the 2nd House influences various aspects of life, including financial partnerships, communication styles, and self-worth within relationships. By understanding these astrological insights, individuals can better navigate their personal and professional lives.
+---
+
+## Previous Article
+- [7th Lord in 1st House](/blogs-md/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 3rd House](/blogs-md/1007_7th_Lord_in_all_Houses/100703_7th_Lord_in_3th_House.md)
+
+---

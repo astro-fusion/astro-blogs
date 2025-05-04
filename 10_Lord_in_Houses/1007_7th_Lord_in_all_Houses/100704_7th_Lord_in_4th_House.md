@@ -72,3 +72,14 @@ A: Absolutely Astrology provides guidance rather than predetermination; individu
 ---
 
 This structured approach ensures that readers gain comprehensive understanding about specific astrological placements’ impacts while also highlighting practical remedies they can implement based on their unique horoscope configurations.
+---
+
+## Previous Article
+- [7th Lord in 3rd House](/blogs-md/1007_7th_Lord_in_all_Houses/100703_7th_Lord_in_3th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 5th House](/blogs-md/1007_7th_Lord_in_all_Houses/100705_7th_Lord_in_5th_House.md)
+
+---

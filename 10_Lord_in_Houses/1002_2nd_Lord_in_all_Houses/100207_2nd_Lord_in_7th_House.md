@@ -99,3 +99,14 @@ The placement of the second lord in the seventh house in a birth chart highlight
 - High-quality sources include websites and books dedicated to the study of Vedic astrology.
 
 **SEO Optimized Blog**
+---
+
+## Previous Article
+- [2nd Lord in 6th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100206_2nd_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 8th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100208_2nd_Lord_in_8th_House.md)
+
+---

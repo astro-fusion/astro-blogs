@@ -70,3 +70,14 @@ The placement of the 12th Lord in the 6th House offers a complex yet rewarding a
 ---
 
 This blog aims to provide comprehensive insights into understanding how having the 12th Lord in the 6th House impacts an individual's life while offering practical remedies for balancing this complex astrological placement.
+---
+
+## Previous Article
+- [12th Lord in 5th House](/blogs-md/1012_12th_Lord_in_all_Houses/101205_12th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 7th House](/blogs-md/1012_12th_Lord_in_all_Houses/101207_12th_Lord_in_7th_House.md)
+
+---

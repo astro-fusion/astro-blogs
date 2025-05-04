@@ -40,3 +40,14 @@ When the 12th lord is placed in its own house, it strengthens all matters relate
 
 ### Conclusion
 The position of the 12th lord in different houses of the horoscope provides valuable insights into how an individual experiences spirituality, isolation, and foreign connections. Each placement brings its own set of influences, shaping how one navigates the challenges and opportunities of the 12th house. Understanding these influences can help individuals align with their spiritual purpose, leading to greater inner peace and fulfillment in both material and spiritual realms.
+---
+
+## Previous Article
+- [12th Lord in 12th House](/blogs-md/1012_12th_Lord_in_all_Houses/101212_12th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 1st House](/blogs-md/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.md)
+
+---

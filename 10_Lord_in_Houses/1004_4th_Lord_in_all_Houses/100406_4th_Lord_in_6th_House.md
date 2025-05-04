@@ -71,3 +71,14 @@ A: Remedies include meditation, maintaining a balanced routine, engaging in a he
 ---
 
 This blog aims to provide a comprehensive understanding of how the placement of the 4th Lord in the 6th House influences an individual's life based on Vedic astrology principles. By understanding these insights, one can better navigate their emotional and professional challenges for a more balanced life.
+---
+
+## Previous Article
+- [4th Lord in 5th House](/blogs-md/1004_4th_Lord_in_all_Houses/100405_4th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 7th House](/blogs-md/1004_4th_Lord_in_all_Houses/100407_4th_Lord_in_7th_House.md)
+
+---

@@ -96,3 +96,14 @@ A3: Generally speaking, there could be challenges related to daily routine confl
 ---
 
 By understanding how planets influence different areas of life through their placements within various houses, we gain deeper insights into our natal charts and personal destinies. The 7th Lord's placement offers significant astrological insights that can guide us towards healthier relationships and better management of daily routines.
+---
+
+## Previous Article
+- [7th Lord in 5th House](/blogs-md/1007_7th_Lord_in_all_Houses/100705_7th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 7th House](/blogs-md/1007_7th_Lord_in_all_Houses/100707_7th_Lord_in_7th_House.md)
+
+---

@@ -75,3 +75,14 @@ For deeper analysis into planetary placements within Vedic astrology:
 - [VedicAstrology.net](https://vedicastrology.net/planets/eighth-planet-in-vedic-astrology)
 
 By understanding these nuances about planetary placements across different houses, one can better navigate life’s complexities using ancient wisdom from Vedic astrology.
+---
+
+## Previous Article
+- [8th Lord in 2nd House](/blogs-md/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 4th House](/blogs-md/1008_8th_Lord_in_all_Houses/100804_8th_Lord_in_4th_House.md)
+
+---

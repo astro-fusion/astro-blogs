@@ -71,3 +71,14 @@ A: Perform ancestral worship (Pitru Pooja), wear a ruby gemstone, practice yoga/
 ---
 
 This article provides an in-depth analysis of how having the 4th Lord placed in the 8th House affects various aspects of life according to Vedic Astrology principles while offering practical remedies for betterment.
+---
+
+## Previous Article
+- [4th Lord in 7th House](/blogs-md/1004_4th_Lord_in_all_Houses/100407_4th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 9th House](/blogs-md/1004_4th_Lord_in_all_Houses/100409_4th_Lord_in_9th_House.md)
+
+---

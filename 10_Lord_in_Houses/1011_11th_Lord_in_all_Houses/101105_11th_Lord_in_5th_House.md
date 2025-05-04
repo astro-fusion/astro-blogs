@@ -75,3 +75,14 @@ For detailed interpretations or personalized advice, consult Vedic astrology tex
 ---
 
 This blog aims to provide a comprehensive overview of how the placement of the 11th Lord in the 5th House influences various aspects of life according to Vedic astrology principles. By understanding these influences, individuals can better navigate their life's journey while leveraging strengths and mitigating potential challenges associated with this configuration.
+---
+
+## Previous Article
+- [11th Lord in 4th House](/blogs-md/1011_11th_Lord_in_all_Houses/101104_11th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 6th House](/blogs-md/1011_11th_Lord_in_all_Houses/101106_11th_Lord_in_6th_House.md)
+
+---

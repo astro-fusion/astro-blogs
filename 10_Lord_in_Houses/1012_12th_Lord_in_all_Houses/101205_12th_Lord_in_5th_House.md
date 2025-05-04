@@ -98,3 +98,14 @@ For deeper understanding refer:
 3) Brihat Parasara Hora Shastra translated by Dr M Ramakrishna Bhat
 
 By understanding these intricacies one can navigate through life's complexities better equipped with knowledge about planetary influences shaping our destinies
+---
+
+## Previous Article
+- [12th Lord in 4th House](/blogs-md/1012_12th_Lord_in_all_Houses/101204_12th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 6th House](/blogs-md/1012_12th_Lord_in_all_Houses/101206_12th_Lord_in_6th_House.md)
+
+---

@@ -90,3 +90,15 @@ By understanding these dynamics through Vedic astrology principles, individuals 
 ---
 
 This article aims to provide comprehensive insights into how having the 9th Lord in the 4th House affects various aspects of life according to Vedic Astrology principles while offering practical remedies for balancing these influences effectively.
+
+---
+
+## Previous Article
+- [9th Lord in 3rd House](/blogs-md/1009_9th_Lord_in_all_Houses/100903_9th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 5th House](/blogs-md/1009_9th_Lord_in_all_Houses/100905_9th_Lord_in_5th_House.md)
+
+---

@@ -94,3 +94,14 @@ For deeper understanding refer:
 ---
 
 This article aims to provide comprehensive insights into how the placement of the 4th Lord in its own house influences various aspects related to home life and emotional stability in Vedic Astrology.
+---
+
+## Previous Article
+- [4th Lord in 3rd House](/blogs-md/1004_4th_Lord_in_all_Houses/100403_4th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 5th House](/blogs-md/1004_4th_Lord_in_all_Houses/100405_4th_Lord_in_5th_House.md)
+
+---

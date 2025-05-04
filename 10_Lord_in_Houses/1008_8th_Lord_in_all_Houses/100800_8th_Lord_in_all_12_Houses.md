@@ -40,3 +40,14 @@ When the 8th lord is placed in the 12th house, it connects transformation with s
 
 ### Conclusion
 The position of the 8th lord in different houses of the horoscope provides crucial insights into how an individual will experience transformation, challenges, and deep personal growth. Each placement brings its own set of influences, shaping how one navigates the complex, often hidden aspects of life. Understanding these influences can help individuals harness the transformative power of the 8th house and turn challenges into opportunities for profound growth and spiritual evolution.
+---
+
+## Previous Article
+- [8th Lord in 12th House](/blogs-md/1008_8th_Lord_in_all_Houses/100812_8th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 1st House](/blogs-md/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1th_House.md)
+
+---

@@ -97,3 +97,14 @@ A: Daily routines may become more introspective or solitary due to spiritual pur
 ---
 
 This article provides a comprehensive overview of the astrological implications of having the 6th Lord in the 12th House, including its significance, positive and negative aspects, and practical remedies for balancing its influence.
+---
+
+## Previous Article
+- [6th Lord in 11th House](/blogs-md/1006_6th_Lord_in_all_Houses/100611_6th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in All 12 Houses](/blogs-md/1006_6th_Lord_in_all_Houses/100600_6th_Lord_in_all_12_Houses_knowledge.md)
+
+---

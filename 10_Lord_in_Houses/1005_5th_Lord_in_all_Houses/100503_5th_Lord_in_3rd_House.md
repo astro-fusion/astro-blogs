@@ -93,3 +93,14 @@ A: Regular mindfulness practices combined with engaging creatively help mitigate
 ---
 
 This article aims at providing comprehensive insights into understanding planetary placements particularly focusing on how they shape various life aspects through Vedic Astrology principles. By understanding these nuances better we can navigate through life's challenges more effectively leading towards personal growth & self-awareness .
+---
+
+## Previous Article
+- [5th Lord in 2nd House](/blogs-md/1005_5th_Lord_in_all_Houses/100502_5th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 4th House](/blogs-md/1005_5th_Lord_in_all_Houses/100504_5th_Lord_in_4th_House.md)
+
+---

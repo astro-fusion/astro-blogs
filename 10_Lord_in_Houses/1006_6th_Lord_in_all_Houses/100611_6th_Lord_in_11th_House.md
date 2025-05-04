@@ -85,3 +85,14 @@ A: Effective time management, prioritizing tasks, seeking support from friends o
 ---
 
 By understanding the intricacies of having the 6th lord placed within different houses, including its unique dynamics when situated within the 11th house, individuals can gain deeper insights into their astrological profiles. This knowledge empowers them to make informed decisions about managing their lives more effectively while aligning with their celestial influences.
+---
+
+## Previous Article
+- [6th Lord in 10th House](/blogs-md/1006_6th_Lord_in_all_Houses/100610_6th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 12th House](/blogs-md/1006_6th_Lord_in_all_Houses/100612_6th_Lord_in_12th_House.md)
+
+---

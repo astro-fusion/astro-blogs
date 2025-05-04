@@ -106,3 +106,14 @@ The placement of the 5th Lord in the 10th House is complex but offers significan
 - "The Astrological Houses" by Alan Oken
 
 By understanding these nuances and applying appropriate remedies, individuals with this placement can harness its potential fully while maintaining a balanced life filled with both professional success and personal fulfillment.
+---
+
+## Previous Article
+- [5th Lord in 9th House](/blogs-md/1005_5th_Lord_in_all_Houses/100509_5th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 11th House](/blogs-md/1005_5th_Lord_in_all_Houses/100511_5th_Lord_in_11th_House.md)
+
+---

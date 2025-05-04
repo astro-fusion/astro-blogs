@@ -74,3 +74,14 @@ A: Regular meditation, positive relationships both at work & outside it are gene
 ---
 
 By understanding these astrological insights into how planetary positions influence our lives, we can better navigate our paths towards success both personally & professionally
+---
+
+## Previous Article
+- [10th Lord in 10th House](/blogs-md/1010_10th_Lord_in_all_Houses/101010_10th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 12th House](/blogs-md/1010_10th_Lord_in_all_Houses/101012_10th_Lord_in_12th_House.md)
+
+---

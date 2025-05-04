@@ -78,3 +78,14 @@ For detailed analysis based on personal horoscopes or specific planetary positio
 ---
 
 This blog aims at providing comprehensive insights into how having an 8th Lord placed within the confines of another significant sector like the tenth can influence various aspects of one's life significantly through lens provided by Vedic Astrology principles
+---
+
+## Previous Article
+- [8th Lord in 9th House](/blogs-md/1008_8th_Lord_in_all_Houses/100809_8th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 11th House](/blogs-md/1008_8th_Lord_in_all_Houses/100811_8th_Lord_in_11th_House.md)
+
+---

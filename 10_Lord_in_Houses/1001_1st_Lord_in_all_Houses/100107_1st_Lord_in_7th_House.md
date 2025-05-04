@@ -92,3 +92,14 @@ The placement of the 1st Lord in the 7th House is a powerful one, offering both 
 
 ## References
 - High quality Vedic astrology resources and databases for further research on astrological placements and their implications.
+---
+
+## Previous Article
+- [1st Lord in 6th House](/blogs-md/1001_1st_Lord_in_all_Houses/100106_1st_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 8th House](/blogs-md/1001_1st_Lord_in_all_Houses/100108_1st_Lord_in_8th_House.md)
+
+---

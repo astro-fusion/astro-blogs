@@ -87,3 +87,14 @@ A: Yes Performing Shani Puja (for Saturn) could help stabilize life events while
 ---
 
 This article aims to provide an in-depth look at how having an 8th Lord placed within one’s Ascendant influences various aspects of life according to Vedic astrological principles while offering practical advice on mitigating potential negative impacts through astrological remedies and lifestyle changes.
+---
+
+## Previous Article
+- [8th Lord in All 12 Houses](/blogs-md/1008_8th_Lord_in_all_Houses/100800_8th_Lord_in_all_12_Houses.md)
+
+---
+
+## Next Article
+- [8th Lord in 2nd House](/blogs-md/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2th_House.md)
+
+---

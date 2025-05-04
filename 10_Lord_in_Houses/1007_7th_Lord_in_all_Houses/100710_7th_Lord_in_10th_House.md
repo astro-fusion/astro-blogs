@@ -94,3 +94,15 @@ A: While having favorable aspects from other planets helps, it’s also importan
 This article aims to provide comprehensive insights into how having your 7th Lord placed in the 10th House impacts both career development and interpersonal dynamics according to Vedic astrology principles.
 
 
+
+---
+
+## Previous Article
+- [7th Lord in 9th House](/blogs-md/1007_7th_Lord_in_all_Houses/100709_7th_Lord_in_9th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 11th House](/blogs-md/1007_7th_Lord_in_all_Houses/100711_7th_Lord_in_11th_House.md)
+
+---

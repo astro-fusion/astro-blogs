@@ -99,3 +99,14 @@ The placement of the 2nd Lord in the 11th house offers unique opportunities for 
 ---
 
 This SEO-optimized version integrates the requested keywords at a density that supports search engine visibility without compromising the article's readability or quality.
+---
+
+## Previous Article
+- [2nd Lord in 10th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100210_2nd_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 12th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100212_2nd_Lord_in_12th_House.md)
+
+---

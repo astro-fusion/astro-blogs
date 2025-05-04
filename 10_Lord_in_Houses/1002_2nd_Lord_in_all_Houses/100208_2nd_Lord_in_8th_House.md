@@ -100,3 +100,15 @@ The 2nd lord in the 8th house presents a complex mix of opportunities and challe
 
 ## References
 - Comprehensive insights from classical texts and contemporary interpretations will be shared periodically through updates and high-quality external contributions.
+
+---
+
+## Previous Article
+- [2nd Lord in 7th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100207_2nd_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 9th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100209_2nd_Lord_in_9th_House.md)
+
+---

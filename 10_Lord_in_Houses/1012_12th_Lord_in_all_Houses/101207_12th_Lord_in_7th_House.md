@@ -66,3 +66,14 @@ A: Yes Regular meditation, seeking spiritual guidance, open communication within
 - [3] "Astrology for Beginners" by James R. Lewis
 
 By understanding these astrological influences better through this blog post on having the 12th Lord in your 7th House will help you gain deeper insights into your relationships' complexities while offering practical advice on how best navigate them
+---
+
+## Previous Article
+- [12th Lord in 6th House](/blogs-md/1012_12th_Lord_in_all_Houses/101206_12th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 8th House](/blogs-md/1012_12th_Lord_in_all_Houses/101208_12th_Lord_in_8th_House.md)
+
+---

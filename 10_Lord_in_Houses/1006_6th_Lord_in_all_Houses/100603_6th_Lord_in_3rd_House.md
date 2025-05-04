@@ -68,3 +68,14 @@ For more detailed information on Vedic astrology principles and planetary placem
 2. **"Jyotish: The Hindu Science Of Astrology" by David Frawley**
 
 By understanding these nuances through Vedic astrology principles, individuals can gain deeper insights into their lives and make informed decisions to harmonize their astrological influences effectively.
+---
+
+## Previous Article
+- [6th Lord in 2nd House](/blogs-md/1006_6th_Lord_in_all_Houses/100602_6th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 4th House](/blogs-md/1006_6th_Lord_in_all_Houses/100604_6th_Lord_in_4th_House.md)
+
+---

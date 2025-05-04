@@ -96,3 +96,14 @@ For further detailed analysis on planetary positions and their influences accord
 - *Jyotish Ratnakar* by B.V. Raman
 
 By understanding these astrological insights into planetary placements like having Jupiter (the 3rd Lord) in your 7th House, you can better navigate life's complexities and make informed decisions about personal growth and relationships.
+---
+
+## Previous Article
+- [3rd Lord in 6th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100306_3rd_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 8th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100308_3rd_Lord_in_8th_House.md)
+
+---

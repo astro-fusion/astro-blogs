@@ -99,3 +99,14 @@ The 2nd lord in the 5th house within a Vedic astrology birth chart illuminates a
 - [VedicAstroInsights.com](https://www.vedicastroinsights.com)
 
 ---
+---
+
+## Previous Article
+- [2nd Lord in 4th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100204_2nd_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 6th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100206_2nd_Lord_in_6th_House.md)
+
+---

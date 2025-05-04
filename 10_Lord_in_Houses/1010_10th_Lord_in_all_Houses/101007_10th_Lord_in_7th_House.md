@@ -111,3 +111,14 @@ A : You can start by performing regular pujas/prayers dedicated towards respecti
 These ancient texts provide comprehensive insights into various astrological principles including those related with tenth lord inside seventh house scenario which we discussed above . 
 
 By following these guidelines along consulting experienced astrologer whenever needed helps us navigate complexities associated having tenth lord inside seventh house effectively leading towards more harmonious life journey ahead !
+---
+
+## Previous Article
+- [10th Lord in 6th House](/blogs-md/1010_10th_Lord_in_all_Houses/101006_10th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 8th House](/blogs-md/1010_10th_Lord_in_all_Houses/101008_10th_Lord_in_8th_House.md)
+
+---

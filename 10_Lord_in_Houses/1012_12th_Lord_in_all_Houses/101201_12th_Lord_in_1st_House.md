@@ -85,3 +85,14 @@ For further understanding:
 ---
 
 This article provides a comprehensive overview of what it means when the 12th Lord falls in the 1st house according to Vedic astrology principles. By understanding both positive and negative influences along with practical remedies provided here can help individuals navigate this complex placement effectively.
+---
+
+## Previous Article
+- [12th Lord in All 12 Houses](/blogs-md/1012_12th_Lord_in_all_Houses/101200_12th_Lord_in_all_12_Houses.md)
+
+---
+
+## Next Article
+- [12th Lord in 2nd House](/blogs-md/1012_12th_Lord_in_all_Houses/101202_12th_Lord_in_2nd_House.md)
+
+---

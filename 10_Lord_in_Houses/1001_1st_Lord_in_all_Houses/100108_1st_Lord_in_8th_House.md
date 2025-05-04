@@ -105,3 +105,14 @@ Understanding the placement of the 1st Lord in the 8th House provides profound i
 --- 
 
 SEO elements such as the use of keywords, focus on **Vedic astrology**, **Vedic astrology houses**, **planets and their significance**, and **Zodiac signs** have been integrated throughout the content to enhance its visibility and relevance in search engines.
+---
+
+## Previous Article
+- [1st Lord in 7th House](/blogs-md/1001_1st_Lord_in_all_Houses/100107_1st_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 9th House](/blogs-md/1001_1st_Lord_in_all_Houses/100109_1st_Lord_in_9th_House.md)
+
+---

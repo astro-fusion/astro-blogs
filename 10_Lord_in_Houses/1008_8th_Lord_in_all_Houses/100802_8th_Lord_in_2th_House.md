@@ -74,3 +74,14 @@ For further reading on Vedic Astrology and its interpretations:
 2. "The Complete Book of Vedic Astrology" by K.N. Rao
 
 This article provides a comprehensive overview of how the placement of the 8th Lord in the 2nd House can influence various aspects of life according to Vedic astrology principles. Understanding these insights can help individuals prepare better for life's challenges while leveraging opportunities for growth and transformation.
+---
+
+## Previous Article
+- [8th Lord in 1st House](/blogs-md/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 3rd House](/blogs-md/1008_8th_Lord_in_all_Houses/100803_8th_Lord_in_3th_House.md)
+
+---

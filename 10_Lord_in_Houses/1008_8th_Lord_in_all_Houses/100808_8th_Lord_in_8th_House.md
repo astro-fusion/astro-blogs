@@ -87,3 +87,14 @@ For further detailed insights into Vedic Astrology:
 - Online resources like Astrology.com or Jyotish.net
 
 This article aims to provide comprehensive insights into how having the 8th Lord in its own house affects an individual's life according to Vedic Astrology principles. By understanding these influences better, you can make informed decisions about managing life's complexities more effectively.
+---
+
+## Previous Article
+- [8th Lord in 7th House](/blogs-md/1008_8th_Lord_in_all_Houses/100807_8th_Lord_in_7th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 9th House](/blogs-md/1008_8th_Lord_in_all_Houses/100809_8th_Lord_in_9th_House.md)
+
+---

@@ -67,3 +67,14 @@ The presence of the 9th Lord in the 10th House indicates a dynamic interplay bet
 ---
 
 This article provides an in-depth look at how having the 9th Lord placed in the 10th House can shape one’s life trajectory through Vedic astrological insights. By understanding both positive and negative aspects along with remedies for balance, individuals can harness this planetary configuration effectively.
+---
+
+## Previous Article
+- [9th Lord in All 12 Houses](/blogs-md/1009_9th_Lord_in_all_Houses/100900_9th_Lord_in_all_12_Houses.md)
+
+---
+
+## Next Article
+- [9th Lord in 2nd House](/blogs-md/1009_9th_Lord_in_all_Houses/100902_9th_Lord_in_2nd_House.md)
+
+---

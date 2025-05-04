@@ -88,3 +88,15 @@ For further information on Vedic Astrology principles and deeper analysis tools:
 3. Online resources like Astro-Seek or Jyotish.net offering detailed interpretations based on individual birth charts.
 
 
+
+---
+
+## Previous Article
+- [12th Lord in 3rd House](/blogs-md/1012_12th_Lord_in_all_Houses/101203_12th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 5th House](/blogs-md/1012_12th_Lord_in_all_Houses/101205_12th_Lord_in_5th_House.md)
+
+---

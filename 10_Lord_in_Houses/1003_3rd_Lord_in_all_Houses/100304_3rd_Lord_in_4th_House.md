@@ -102,3 +102,14 @@ For those interested diving deeper into subject matter covered above here are so
 3. Vedic Astrology Books by various authors available online platforms like Amazon etc.
 
 By understanding placement third lord entering fourth house individuals gain better insights navigating complexities life journey undertaken successfully while making most out opportunities arising along way
+---
+
+## Previous Article
+- [3rd Lord in 3rd House](/blogs-md/1003_3rd_Lord_in_all_Houses/100303_3rd_Lord_in_3th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 5th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100305_3rd_Lord_in_5th_House.md)
+
+---

@@ -63,3 +63,14 @@ For detailed astrological analysis and personalized interpretations, consult an 
 ---
 
 This article provides an in-depth look at how the placement of the 11th Lord in the 4th House influences various aspects of life according to Vedic astrology principles. By understanding these insights and implementing appropriate remedies, individuals can better navigate their astrological chart for a more balanced life.
+---
+
+## Previous Article
+- [11th Lord in 3rd House](/blogs-md/1011_11th_Lord_in_all_Houses/101103_11th_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 5th House](/blogs-md/1011_11th_Lord_in_all_Houses/101105_11th_Lord_in_5th_House.md)
+
+---

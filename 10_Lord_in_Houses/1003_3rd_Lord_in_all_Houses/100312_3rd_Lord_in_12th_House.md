@@ -91,3 +91,14 @@ A: Yes, engaging in spiritual practices like meditation or yoga along with famil
 2. **"Astrology for Beginners" by Judy Hall** - Offers practical advice on interpreting astrological charts including planetary placements.
 
 By understanding these nuances, individuals can harness the potential of their horoscope to lead more balanced and fulfilling lives.
+---
+
+## Previous Article
+- [3rd Lord in 11th House](/blogs-md/1003_3rd_Lord_in_all_Houses/100311_3rd_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [3rd Lord in 1st House](/blogs-md/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1th_House.md)
+
+---

@@ -108,3 +108,14 @@ A: No, you cannot change your birth chart's planetary positions as they are dete
 ---
 
 This blog aims to provide comprehensive insights into how the placement of the 4th Lord influences various aspects of life when it falls into the first house. By understanding these astrological principles, individuals can better navigate their personal and professional lives.
+---
+
+## Previous Article
+- [4th Lord in All 12 Houses](/blogs-md/1004_4th_Lord_in_all_Houses/100400_4th_Lord_in_All_12_Houses.md)
+
+---
+
+## Next Article
+- [4th Lord in 2nd House](/blogs-md/1004_4th_Lord_in_all_Houses/100402_4th_Lord_in_2nd_House.md)
+
+---

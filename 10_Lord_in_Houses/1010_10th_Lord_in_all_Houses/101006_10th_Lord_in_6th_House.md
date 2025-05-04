@@ -61,3 +61,14 @@ A: Common challenges include work-related stress leading to health problems if n
 ---
 
 This article provides a comprehensive overview of how having the 10th Lord placed in the 6th house can influence various aspects of life, including health, relationships, and career dynamics according to Vedic Astrology principles.
+---
+
+## Previous Article
+- [10th Lord in 5th House](/blogs-md/1010_10th_Lord_in_all_Houses/101005_10th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 7th House](/blogs-md/1010_10th_Lord_in_all_Houses/101007_10th_Lord_in_7th_House.md)
+
+---

@@ -99,3 +99,14 @@ For further reading on Vedic astrology:
 - "Astrology for Self Discovery" by Stephen Arroyo
 
 By understanding these astrological insights, individuals can gain deeper knowledge about themselves and make informed decisions to enhance their lives.
+---
+
+## Previous Article
+- [4th Lord in 11th House](/blogs-md/1004_4th_Lord_in_all_Houses/100411_4th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in All 12 Houses](/blogs-md/1004_4th_Lord_in_all_Houses/100400_4th_Lord_in_All_12_Houses.md)
+
+---

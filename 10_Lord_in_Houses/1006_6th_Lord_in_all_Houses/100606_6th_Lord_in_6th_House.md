@@ -144,3 +144,14 @@ References:
 1 . Vedic Astrology Textbook by Rishi Raj Gupta
 2 . Astrology for Beginners by Dorian Gieseler Greenbaum
 3 . The Astrology Bible by Judy Hall
+---
+
+## Previous Article
+- [6th Lord in 5th House](/blogs-md/1006_6th_Lord_in_all_Houses/100605_6th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [6th Lord in 7th House](/blogs-md/1006_6th_Lord_in_all_Houses/100607_6th_Lord_in_7th_House.md)
+
+---

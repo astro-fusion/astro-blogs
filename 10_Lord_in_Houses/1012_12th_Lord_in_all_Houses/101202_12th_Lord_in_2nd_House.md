@@ -73,3 +73,14 @@ A: Engage in aggressive financial strategies with caution; regular self-reflecti
 ---
 
 This blog post aims to provide comprehensive insights into how the placement of the 12th lord affects various aspects related to material wealth and personal values based on Vedic astrology principles. By understanding these influences, individuals can better navigate their financial lives while maintaining emotional stability.
+---
+
+## Previous Article
+- [12th Lord in 1st House](/blogs-md/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [12th Lord in 3rd House](/blogs-md/1012_12th_Lord_in_all_Houses/101203_12th_Lord_in_3rd_House.md)
+
+---

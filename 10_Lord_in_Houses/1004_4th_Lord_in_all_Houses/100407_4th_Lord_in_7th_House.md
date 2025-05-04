@@ -60,3 +60,14 @@ The position of the 4th Lord in the 7th House offers both positive and negative 
 For more detailed information on astrological positions and their influences, consult classic texts like "Jataka Parijata" by Varahamihira or modern interpretations by renowned astrologers like B.V. Raman or Sanjay Rath.
 
 By understanding the intricate dance between planets in our horoscopes, we can gain profound insights into our lives' various dimensions—ultimately leading us towards greater self-awareness and personal growth.
+---
+
+## Previous Article
+- [4th Lord in 6th House](/blogs-md/1004_4th_Lord_in_all_Houses/100406_4th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 8th House](/blogs-md/1004_4th_Lord_in_all_Houses/100408_4th_Lord_in_8th_House.md)
+
+---

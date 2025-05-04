@@ -79,3 +79,14 @@ A: Different planets like Jupiter amplify spiritual growth while Mars enhances c
 3. Hindu Astrology by B V Raman
 
 This blog post provides comprehensive insights into how having an eleventh house lord placed within ninth significantly shapes various aspects life including spiritual enlightenment education friendships long-term gains international recognition while highlighting potential pitfalls remedies ensuring balanced effects maximizing potential personal success
+---
+
+## Previous Article
+- [11th Lord in 8th House](/blogs-md/1011_11th_Lord_in_all_Houses/101108_11th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 10th House](/blogs-md/1011_11th_Lord_in_all_Houses/101110_11th_Lord_in_10th_House.md)
+
+---

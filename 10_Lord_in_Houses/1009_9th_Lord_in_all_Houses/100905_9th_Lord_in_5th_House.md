@@ -73,3 +73,15 @@ A: It enhances parenting skills by combining educational insight with nurturing 
 
 This article provides an in-depth analysis of what it means when your 9th Lord is placed in your 5th House according to Vedic astrology principles. By understanding these influences, individuals can better navigate their life paths and capitalize on opportunities while managing potential challenges effectively.
 
+
+---
+
+## Previous Article
+- [9th Lord in 4th House](/blogs-md/1009_9th_Lord_in_all_Houses/100904_9th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 6th House](/blogs-md/1009_9th_Lord_in_all_Houses/100906_9th_Lord_in_6th_House.md)
+
+---

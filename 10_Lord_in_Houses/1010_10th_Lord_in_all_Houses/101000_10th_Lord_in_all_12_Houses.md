@@ -40,3 +40,14 @@ When the 10th lord is placed in the 12th house, it connects career and public im
 
 ### Conclusion
 The position of the 10th lord in different houses of the horoscope provides deep insights into how an individual experiences career success, public image, and social status. Each placement brings its own set of influences, shaping how one navigates their professional life and contributes to society. Understanding these influences can help individuals align their career goals with their true purpose, leading to greater fulfillment and recognition in their professional endeavors.
+---
+
+## Previous Article
+- [10th Lord in 12th House](/blogs-md/1010_10th_Lord_in_all_Houses/101012_10th_Lord_in_12th_House.md)
+
+---
+
+## Next Article
+- [10th Lord in 1st House](/blogs-md/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.md)
+
+---

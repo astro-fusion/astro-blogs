@@ -67,3 +67,14 @@ A: Engage in open communication and try to understand each other’s perspective
 ---
 
 This article provides an in-depth look at how having your 7th Lord in your 9th House influences various aspects of your life, especially concerning relationships and higher knowledge pursuits. By understanding these astrological insights, individuals can better navigate their personal and professional relationships while integrating them with broader philosophical or educational aspirations.
+---
+
+## Previous Article
+- [7th Lord in 8th House](/blogs-md/1007_7th_Lord_in_all_Houses/100708_7th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in 10th House](/blogs-md/1007_7th_Lord_in_all_Houses/100710_7th_Lord_in_10th_House.md)
+
+---

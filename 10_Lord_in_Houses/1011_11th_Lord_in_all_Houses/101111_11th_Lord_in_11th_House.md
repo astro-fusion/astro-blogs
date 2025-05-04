@@ -79,3 +79,14 @@ A: Understanding boundaries/respecting others’ needs while maintaining own res
 ## References
 
 For deeper understanding consult classic texts like Brihat Parasara Hora Shastra or Jataka Parijata which provide detailed analysis based ancient principles practiced till date across various regions globally
+---
+
+## Previous Article
+- [11th Lord in 10th House](/blogs-md/1011_11th_Lord_in_all_Houses/101110_11th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 12th House](/blogs-md/1011_11th_Lord_in_all_Houses/101112_11th_Lord_in_12th_House.md)
+
+---

@@ -99,3 +99,14 @@ The placement of the 2nd Lord in the 4th House is fundamentally a blend of the m
 ## References
 - [The Astrology of Houses](https://www.learnvedicastrology.com)
 - High-quality articles and learning resources about Vedic Astrology
+---
+
+## Previous Article
+- [2nd Lord in 3rd House](/blogs-md/1002_2nd_Lord_in_all_Houses/100203_2nd_Lord_in_3rd_House.md)
+
+---
+
+## Next Article
+- [2nd Lord in 5th House](/blogs-md/1002_2nd_Lord_in_all_Houses/100205_2nd_Lord_in_5th_House.md)
+
+---

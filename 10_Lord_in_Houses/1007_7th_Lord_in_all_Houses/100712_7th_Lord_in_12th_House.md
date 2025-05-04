@@ -82,3 +82,14 @@ A: Saturn as 7th lord often indicates challenges or delays in marriage due to ri
 ---
 
 This detailed analysis should provide readers with a comprehensive understanding of how the placement of the 7th lord in the 12th house influences various aspects of their lives, including relationships and spiritual growth.
+---
+
+## Previous Article
+- [7th Lord in 11th House](/blogs-md/1007_7th_Lord_in_all_Houses/100711_7th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [7th Lord in All 12 Houses](/blogs-md/1007_7th_Lord_in_all_Houses/100700_7th_Lord_in_all_12_Houses_knowledge.md)
+
+---

@@ -66,3 +66,14 @@ A: Practicing patience and taking time for reflection can help mitigate impulsiv
 ---
 
 This comprehensive guide offers a deep dive into how having the 11th Lord placed in the 3rd House influences various aspects of life, providing both practical insights and actionable advice for those seeking to understand their astrological profile better.
+---
+
+## Previous Article
+- [11th Lord in 2nd House](/blogs-md/1011_11th_Lord_in_all_Houses/101102_11th_Lord_in_2nd_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 4th House](/blogs-md/1011_11th_Lord_in_all_Houses/101104_11th_Lord_in_4th_House.md)
+
+---

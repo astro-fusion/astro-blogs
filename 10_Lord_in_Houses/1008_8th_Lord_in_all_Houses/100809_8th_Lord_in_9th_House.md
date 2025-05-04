@@ -116,3 +116,14 @@ References:
 
 
 By understanding these nuances associated with planetary placements across various houses in horoscopes not only helps us navigate through life challenges more effectively but also provides deeper insights into personal growth paths which ultimately leads towards achieving overall well-being
+---
+
+## Previous Article
+- [8th Lord in 8th House](/blogs-md/1008_8th_Lord_in_all_Houses/100808_8th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [8th Lord in 10th House](/blogs-md/1008_8th_Lord_in_all_Houses/100810_8th_Lord_in_10th_House.md)
+
+---

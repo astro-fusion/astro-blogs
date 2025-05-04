@@ -94,3 +94,14 @@ A: Engaging more in intellectual activities while maintaining calmness through r
 ---
 
 This comprehensive guide provides insights into how having your own ruling planet within its domain impacts various facets of life including creativity, relationships, intellectual pursuits etc., along with practical solutions for balancing any potential negative influences associated therewith ensuring holistic well-being aligning better with one’s destiny path laid out by celestial bodies at birth time moment
+---
+
+## Previous Article
+- [5th Lord in 4th House](/blogs-md/1005_5th_Lord_in_all_Houses/100504_5th_Lord_in_4th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 6th House](/blogs-md/1005_5th_Lord_in_all_Houses/100506_5th_Lord_in_6th_House.md)
+
+---

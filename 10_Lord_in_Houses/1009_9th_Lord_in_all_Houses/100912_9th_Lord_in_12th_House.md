@@ -70,3 +70,14 @@ A: Yes, there's a risk if there's no balance between internal focus and external
 ---
 
 This comprehensive guide helps astrologers and individuals alike understand the intricate roles played by planets across various houses in a birth chart. By analyzing these placements through Vedic astrology's lens, we gain deeper insights into personal life paths and how best to navigate them effectively.
+---
+
+## Previous Article
+- [9th Lord in 11th House](/blogs-md/1009_9th_Lord_in_all_Houses/100911_9th_Lord_in_11th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in All 12 Houses](/blogs-md/1009_9th_Lord_in_all_Houses/100900_9th_Lord_in_all_12_Houses.md)
+
+---

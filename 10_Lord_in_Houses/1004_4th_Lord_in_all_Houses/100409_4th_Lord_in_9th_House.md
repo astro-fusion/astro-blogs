@@ -72,3 +72,14 @@ A: Yes, there could be opportunities for travel that enhance personal growth if 
 
 
 ---
+---
+
+## Previous Article
+- [4th Lord in 8th House](/blogs-md/1004_4th_Lord_in_all_Houses/100408_4th_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 10th House](/blogs-md/1004_4th_Lord_in_all_Houses/100410_4th_Lord_in_10th_House.md)
+
+---

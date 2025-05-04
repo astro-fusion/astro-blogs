@@ -75,3 +75,14 @@ A: It often leads to opportunities for networking which can enhance your career 
 ---
 
 This article provides an in-depth analysis of what it means for the 11th Lord to be placed in the 2nd House according to Vedic astrology principles while offering practical advice on how individuals can manage these influences effectively.
+---
+
+## Previous Article
+- [11th Lord in 1st House](/blogs-md/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [11th Lord in 3rd House](/blogs-md/1011_11th_Lord_in_all_Houses/101103_11th_Lord_in_3rd_House.md)
+
+---

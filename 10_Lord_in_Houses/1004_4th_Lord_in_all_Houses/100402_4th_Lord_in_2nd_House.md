@@ -93,3 +93,14 @@ The placement of the 4th Lord in the 2nd House is complex and multifaceted, infl
 ---
 
 This article aims to provide comprehensive insights into how the placement of the 4th Lord in the 2nd House shapes various aspects of life according to Vedic Astrology principles. By understanding these influences and implementing appropriate remedies, individuals can better navigate their journey towards emotional security and financial stability while honoring their family's values.
+---
+
+## Previous Article
+- [4th Lord in 1st House](/blogs-md/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 3rd House](/blogs-md/1004_4th_Lord_in_all_Houses/100403_4th_Lord_in_3rd_House.md)
+
+---

@@ -83,3 +83,14 @@ A: Indeed Transits occurring between planets signifying major life events potent
 ---
 
 This structured approach ensures comprehensive coverage necessary understanding complexities involved studying astrological phenomena deeply rooted ancient traditions practiced worldwide today
+---
+
+## Previous Article
+- [9th Lord in 5th House](/blogs-md/1009_9th_Lord_in_all_Houses/100905_9th_Lord_in_5th_House.md)
+
+---
+
+## Next Article
+- [9th Lord in 7th House](/blogs-md/1009_9th_Lord_in_all_Houses/100907_9th_Lord_in_7th_House.md)
+
+---

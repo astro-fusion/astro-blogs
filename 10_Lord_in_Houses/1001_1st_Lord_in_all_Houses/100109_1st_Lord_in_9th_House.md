@@ -114,3 +114,15 @@ The 1st Lord in the 9th House illuminates a pathway focused heavily on intellect
 - [Vedic Astrology: A Comprehensive Guide](https://www.vedicastrologyguide.com)
 - [Astrological Transits and Their Impact Based on Zodiac Signs](https://www.astrology.com/transits)
 
+
+---
+
+## Previous Article
+- [1st Lord in 8th House](/blogs-md/1001_1st_Lord_in_all_Houses/100108_1st_Lord_in_8th_House.md)
+
+---
+
+## Next Article
+- [1st Lord in 10th House](/blogs-md/1001_1st_Lord_in_all_Houses/100110_1st_Lord_in_10th_House.md)
+
+---

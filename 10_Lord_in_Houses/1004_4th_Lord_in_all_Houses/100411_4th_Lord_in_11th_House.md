@@ -124,3 +124,14 @@ A: Often indicates quick-witted conversations/intellectual exchanges maintaining
 ## References
 
 For detailed understanding above explanations please refer classic texts like Brihat Parasara Hora Shastra by Parasara Muni along with other authoritative works Jyotish Shastra tradition alike
+---
+
+## Previous Article
+- [4th Lord in 10th House](/blogs-md/1004_4th_Lord_in_all_Houses/100410_4th_Lord_in_10th_House.md)
+
+---
+
+## Next Article
+- [4th Lord in 12th House](/blogs-md/1004_4th_Lord_in_all_Houses/100412_4th_Lord_in_12th_House.md)
+
+---

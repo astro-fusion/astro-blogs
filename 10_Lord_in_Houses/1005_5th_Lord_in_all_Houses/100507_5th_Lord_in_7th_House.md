@@ -99,3 +99,15 @@ A: Yes, but addressing these differences through open communication and mutual r
 ## References
 
 For further detailed analysis or personalized readings regarding planetary positions in your horoscope, consult an experienced astrologer who can provide tailored advice based on specific birth charts.
+
+---
+
+## Previous Article
+- [5th Lord in 6th House](/blogs-md/1005_5th_Lord_in_all_Houses/100506_5th_Lord_in_6th_House.md)
+
+---
+
+## Next Article
+- [5th Lord in 8th House](/blogs-md/1005_5th_Lord_in_all_Houses/100508_5th_Lord_in_8th_House.md)
+
+---
