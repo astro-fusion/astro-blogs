@@ -3,12 +3,134 @@
     {
       "title": "Rasi",
       "folder": "01_Rasi",
-      "children": []
+      "children": [
+        {
+          "name": "0101_Mesha.mdx",
+          "title": "1 - Mesha - Aries - ♈️",
+          "path": "01_Rasi/0101_Mesha.mdx"
+        },
+        {
+          "name": "0102_Vrishabha.mdx",
+          "title": "2 - Vrishabha - Taurus - ♉️",
+          "path": "01_Rasi/0102_Vrishabha.mdx"
+        },
+        {
+          "name": "0103_Mithuna.mdx",
+          "title": "3 - Mithuna - Gemini - ♊️",
+          "path": "01_Rasi/0103_Mithuna.mdx"
+        },
+        {
+          "name": "0104_Karka.mdx",
+          "title": "4 - Karka - Cancer - ♋️",
+          "path": "01_Rasi/0104_Karka.mdx"
+        },
+        {
+          "name": "0105_Simha.mdx",
+          "title": "5 - Simha - Leo - ♌️",
+          "path": "01_Rasi/0105_Simha.mdx"
+        },
+        {
+          "name": "0106_Kanya.mdx",
+          "title": "6 - Kanya - Virgo - ♍️",
+          "path": "01_Rasi/0106_Kanya.mdx"
+        },
+        {
+          "name": "0107_Tula.mdx",
+          "title": "7 - Tula - Libra - ♎️",
+          "path": "01_Rasi/0107_Tula.mdx"
+        },
+        {
+          "name": "0108_Vrishchika.mdx",
+          "title": "8 - Vrishchika - Scorpio - ♏️",
+          "path": "01_Rasi/0108_Vrishchika.mdx"
+        },
+        {
+          "name": "0109_Dhanu.mdx",
+          "title": "9 - Dhanu - Sagittarius - ♐️",
+          "path": "01_Rasi/0109_Dhanu.mdx"
+        },
+        {
+          "name": "0110_Makara.mdx",
+          "title": "10 - Makara - Capricorn - ♑️",
+          "path": "01_Rasi/0110_Makara.mdx"
+        },
+        {
+          "name": "0111_Kumbha.mdx",
+          "title": "11 - Kumbha - Aquarius - ♒️",
+          "path": "01_Rasi/0111_Kumbha.mdx"
+        },
+        {
+          "name": "0112_Meena.mdx",
+          "title": "12 - Meena - Pisces - ♓️",
+          "path": "01_Rasi/0112_Meena.mdx"
+        }
+      ]
     },
     {
       "title": "Houses",
       "folder": "02_Houses",
-      "children": []
+      "children": [
+        {
+          "name": "201_1st_House_in_Vedic_Astrology.mdx",
+          "title": "1th House - Self",
+          "path": "02_Houses/201_1st_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "202_2nd_House_in_Vedic_Astrology.mdx",
+          "title": "2nd House - Family, Money",
+          "path": "02_Houses/202_2nd_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "203_3rd_House_in_Vedic_Astrology.mdx",
+          "title": "3rd House - Siblings, Courage",
+          "path": "02_Houses/203_3rd_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "204_4th_House_in_Vedic_Astrology.mdx",
+          "title": "4th House - Mother, Home",
+          "path": "02_Houses/204_4th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "205_5th_House_in_Vedic_Astrology.mdx",
+          "title": "5th House - Children, Education",
+          "path": "02_Houses/205_5th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "206_6th_House_in_Vedic_Astrology.mdx",
+          "title": "6th House - Health, Enemies",
+          "path": "02_Houses/206_6th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "207_7th_House_in_Vedic_Astrology.mdx",
+          "title": "7th House - Marriage, Partnerships",
+          "path": "02_Houses/207_7th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "208_8th_House_in_Vedic_Astrology.mdx",
+          "title": "8th House - Death, Inheritance",
+          "path": "02_Houses/208_8th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "209_9th_House_in_Vedic_Astrology.mdx",
+          "title": "9th House - Religion, Luck",
+          "path": "02_Houses/209_9th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "210_10th_House_in_Vedic_Astrology.mdx",
+          "title": "10th House - Career, Profession",
+          "path": "02_Houses/210_10th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "211_11th_House_in_Vedic_Astrology.mdx",
+          "title": "11th House - Friends, Gains",
+          "path": "02_Houses/211_11th_House_in_Vedic_Astrology.mdx"
+        },
+        {
+          "name": "212_12th_House_in_Vedic_Astrology.mdx",
+          "title": "12th House - Losses, Expenditure",
+          "path": "02_Houses/212_12th_House_in_Vedic_Astrology.mdx"
+        }
+      ]
     },
     {
       "title": "Planets",
@@ -17,7 +139,93 @@
         {
           "title": "Upagrahas",
           "folder": "03_Planets/03001_Upagrahas",
-          "children": []
+          "children": [
+            {
+              "name": "0310_Uranus.mdx",
+              "title": "Uranus",
+              "path": "03_Planets/03001_Upagrahas/0310_Uranus.mdx"
+            },
+            {
+              "name": "0311_Neptune.mdx",
+              "title": "Neptune",
+              "path": "03_Planets/03001_Upagrahas/0311_Neptune.mdx"
+            },
+            {
+              "name": "0312_Pluto.mdx",
+              "title": "Pluto",
+              "path": "03_Planets/03001_Upagrahas/0312_Pluto.mdx"
+            },
+            {
+              "name": "0313_Dhooma.mdx",
+              "title": "Dhooma",
+              "path": "03_Planets/03001_Upagrahas/0313_Dhooma.mdx"
+            },
+            {
+              "name": "0314_Vyatipata.mdx",
+              "title": "Vyatipata",
+              "path": "03_Planets/03001_Upagrahas/0314_Vyatipata.mdx"
+            },
+            {
+              "name": "0315_Parivesha.mdx",
+              "title": "Parivesha",
+              "path": "03_Planets/03001_Upagrahas/0315_Parivesha.mdx"
+            },
+            {
+              "name": "0316_Indra Chapa.mdx",
+              "title": "Indra Chapa",
+              "path": "03_Planets/03001_Upagrahas/0316_Indra Chapa.mdx"
+            },
+            {
+              "name": "0317_Upaketu.mdx",
+              "title": "Upaketu",
+              "path": "03_Planets/03001_Upagrahas/0317_Upaketu.mdx"
+            }
+          ]
+        },
+        {
+          "name": "0301_Sun.mdx",
+          "title": "Sun",
+          "path": "03_Planets/0301_Sun.mdx"
+        },
+        {
+          "name": "0302_Moon.mdx",
+          "title": "Moon",
+          "path": "03_Planets/0302_Moon.mdx"
+        },
+        {
+          "name": "0303_Mars.mdx",
+          "title": "Mars",
+          "path": "03_Planets/0303_Mars.mdx"
+        },
+        {
+          "name": "0304_Mercury.mdx",
+          "title": "Mercury",
+          "path": "03_Planets/0304_Mercury.mdx"
+        },
+        {
+          "name": "0305_Jupiter.mdx",
+          "title": "Jupiter",
+          "path": "03_Planets/0305_Jupiter.mdx"
+        },
+        {
+          "name": "0306_Venus.mdx",
+          "title": "Venus",
+          "path": "03_Planets/0306_Venus.mdx"
+        },
+        {
+          "name": "0307_Saturn.mdx",
+          "title": "Saturn",
+          "path": "03_Planets/0307_Saturn.mdx"
+        },
+        {
+          "name": "0308_Rahu.mdx",
+          "title": "Rahu",
+          "path": "03_Planets/0308_Rahu.mdx"
+        },
+        {
+          "name": "0309_Ketu.mdx",
+          "title": "Ketu",
+          "path": "03_Planets/0309_Ketu.mdx"
         }
       ]
     },
@@ -28,19 +236,242 @@
         {
           "title": "Vimsottari Dasha",
           "folder": "04_DashaSystem/0401_Vimsottari_Dasha",
-          "children": []
+          "children": [
+            {
+              "name": "040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.mdx",
+              "title": "Vimsottari Dasha of Ketu - Ketu 7",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040101_Vimsottari_Dasha_of_Ketu_Ketu_7years.mdx"
+            },
+            {
+              "name": "040102_Vimsottari_Dasha_of_Shukra_Venus_20years.mdx",
+              "title": "Vimsottari Dasha of Shukra - Venus 20",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040102_Vimsottari_Dasha_of_Shukra_Venus_20years.mdx"
+            },
+            {
+              "name": "040103_Vimsottari_Dasha_of_Surya_Sun_6years.mdx",
+              "title": "Vimsottari Dasha of Surya - Sun 6",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040103_Vimsottari_Dasha_of_Surya_Sun_6years.mdx"
+            },
+            {
+              "name": "040104_Vimsottari_Dasha_of_Chandra_Moon_10years.mdx",
+              "title": "Vimsottari Dasha of Chandra - Moon 10",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040104_Vimsottari_Dasha_of_Chandra_Moon_10years.mdx"
+            },
+            {
+              "name": "040105_Vimsottari_Dasha_of_Mangala_Mars_7years.mdx",
+              "title": "Vimsottari Dasha of Mangala - Mars 7",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040105_Vimsottari_Dasha_of_Mangala_Mars_7years.mdx"
+            },
+            {
+              "name": "040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.mdx",
+              "title": "Vimsottari Dasha of Rahu - Rahu 18",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040106_Vimsottari_Dasha_of_Rahu_Rahu_18years.mdx"
+            },
+            {
+              "name": "040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.mdx",
+              "title": "Vimsottari Dasha of Guru - Jupiter 16",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040107_Vimsottari_Dasha_of_Guru_Jupiter_16years.mdx"
+            },
+            {
+              "name": "040108_Vimsottari_Dasha_of_Shani_Saturn_19years.mdx",
+              "title": "Vimsottari Dasha of Shani - Saturn 19",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040108_Vimsottari_Dasha_of_Shani_Saturn_19years.mdx"
+            },
+            {
+              "name": "040109_Vimsottari_Dasha_of_Budha_Mercury_17years.mdx",
+              "title": "Vimsottari Dasha of Budha - Mercury 17",
+              "path": "04_DashaSystem/0401_Vimsottari_Dasha/040109_Vimsottari_Dasha_of_Budha_Mercury_17years.mdx"
+            }
+          ]
         },
         {
           "title": "Yogini Dasha",
           "folder": "04_DashaSystem/0402_Yogini_Dasha",
-          "children": []
+          "children": [
+            {
+              "name": "0501_Mangala_Moon_1.mdx",
+              "title": "Mangala,Moon,1",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0501_Mangala_Moon_1.mdx"
+            },
+            {
+              "name": "0502_Pingala_Sun_2.mdx",
+              "title": "Pingala,Sun,2",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0502_Pingala_Sun_2.mdx"
+            },
+            {
+              "name": "0503_Dhanya_Jupiter_3.mdx",
+              "title": "Dhanya,Jupiter,3",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0503_Dhanya_Jupiter_3.mdx"
+            },
+            {
+              "name": "0504_Bhramari_Mars_4.mdx",
+              "title": "Bhramari,Mars,4",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0504_Bhramari_Mars_4.mdx"
+            },
+            {
+              "name": "0505_Bhadrika_Mercury_5.mdx",
+              "title": "Bhadrika,Mercury,5",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0505_Bhadrika_Mercury_5.mdx"
+            },
+            {
+              "name": "0506_Ulka_Saturn_6.mdx",
+              "title": "Ulka,Saturn,6",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0506_Ulka_Saturn_6.mdx"
+            },
+            {
+              "name": "0507_Siddha_Venus_7.mdx",
+              "title": "Siddha,Venus,7",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0507_Siddha_Venus_7.mdx"
+            },
+            {
+              "name": "0508_Sankata_Rahu_8.mdx",
+              "title": "Sankata,Rahu,8",
+              "path": "04_DashaSystem/0402_Yogini_Dasha/0508_Sankata_Rahu_8.mdx"
+            }
+          ]
         }
       ]
     },
     {
       "title": "Nakshatra",
       "folder": "05_Nakshatra",
-      "children": []
+      "children": [
+        {
+          "name": "0501_Aashvini.mdx",
+          "title": "Aashvini",
+          "path": "05_Nakshatra/0501_Aashvini.mdx"
+        },
+        {
+          "name": "0502_Bharani.mdx",
+          "title": "Bharani",
+          "path": "05_Nakshatra/0502_Bharani.mdx"
+        },
+        {
+          "name": "0503_Krittika.mdx",
+          "title": "Krittika",
+          "path": "05_Nakshatra/0503_Krittika.mdx"
+        },
+        {
+          "name": "0504_Rohini.mdx",
+          "title": "Rohini",
+          "path": "05_Nakshatra/0504_Rohini.mdx"
+        },
+        {
+          "name": "0505_Mrigashira.mdx",
+          "title": "Mrigashira",
+          "path": "05_Nakshatra/0505_Mrigashira.mdx"
+        },
+        {
+          "name": "0506_Ardra.mdx",
+          "title": "Ardra",
+          "path": "05_Nakshatra/0506_Ardra.mdx"
+        },
+        {
+          "name": "0507_Punarvasu.mdx",
+          "title": "Punarvasu",
+          "path": "05_Nakshatra/0507_Punarvasu.mdx"
+        },
+        {
+          "name": "0508_Pushya.mdx",
+          "title": "Pushya",
+          "path": "05_Nakshatra/0508_Pushya.mdx"
+        },
+        {
+          "name": "0509_Ashlesha.mdx",
+          "title": "Ashlesha",
+          "path": "05_Nakshatra/0509_Ashlesha.mdx"
+        },
+        {
+          "name": "0510_Magha.mdx",
+          "title": "Magha",
+          "path": "05_Nakshatra/0510_Magha.mdx"
+        },
+        {
+          "name": "0511_Purva_Phalguni.mdx",
+          "title": "Purva_Phalguni",
+          "path": "05_Nakshatra/0511_Purva_Phalguni.mdx"
+        },
+        {
+          "name": "0512_Uttara_Phalguni.mdx",
+          "title": "Uttara_Phalguni",
+          "path": "05_Nakshatra/0512_Uttara_Phalguni.mdx"
+        },
+        {
+          "name": "0513_Hasta.mdx",
+          "title": "Hasta",
+          "path": "05_Nakshatra/0513_Hasta.mdx"
+        },
+        {
+          "name": "0514_Chitra.mdx",
+          "title": "Chitra",
+          "path": "05_Nakshatra/0514_Chitra.mdx"
+        },
+        {
+          "name": "0515_Swati.mdx",
+          "title": "Swati",
+          "path": "05_Nakshatra/0515_Swati.mdx"
+        },
+        {
+          "name": "0516_Vishakha.mdx",
+          "title": "Vishakha",
+          "path": "05_Nakshatra/0516_Vishakha.mdx"
+        },
+        {
+          "name": "0517_Anuradha.mdx",
+          "title": "Anuradha",
+          "path": "05_Nakshatra/0517_Anuradha.mdx"
+        },
+        {
+          "name": "0518_Jyeshtha.mdx",
+          "title": "Jyeshtha",
+          "path": "05_Nakshatra/0518_Jyeshtha.mdx"
+        },
+        {
+          "name": "0519_Mula.mdx",
+          "title": "Mula",
+          "path": "05_Nakshatra/0519_Mula.mdx"
+        },
+        {
+          "name": "0520_Purva_Ashadha.mdx",
+          "title": "Purva_Ashadha",
+          "path": "05_Nakshatra/0520_Purva_Ashadha.mdx"
+        },
+        {
+          "name": "0521_Uttara_Ashadha.mdx",
+          "title": "Uttara_Ashadha",
+          "path": "05_Nakshatra/0521_Uttara_Ashadha.mdx"
+        },
+        {
+          "name": "0522_Shravana.mdx",
+          "title": "Shravana",
+          "path": "05_Nakshatra/0522_Shravana.mdx"
+        },
+        {
+          "name": "0523_Dhanishta.mdx",
+          "title": "Dhanishta",
+          "path": "05_Nakshatra/0523_Dhanishta.mdx"
+        },
+        {
+          "name": "0524_Shatabhisha.mdx",
+          "title": "Shatabhisha",
+          "path": "05_Nakshatra/0524_Shatabhisha.mdx"
+        },
+        {
+          "name": "0525_Purva_Bhadrapada.mdx",
+          "title": "Purva_Bhadrapada",
+          "path": "05_Nakshatra/0525_Purva_Bhadrapada.mdx"
+        },
+        {
+          "name": "0526_Uttara_Bhadrapada.mdx",
+          "title": "Uttara_Bhadrapada",
+          "path": "05_Nakshatra/0526_Uttara_Bhadrapada.mdx"
+        },
+        {
+          "name": "0527_Revati.mdx",
+          "title": "Revati",
+          "path": "05_Nakshatra/0527_Revati.mdx"
+        }
+      ]
     },
     {
       "title": "Planet In Houses",
@@ -49,47 +480,686 @@
         {
           "title": "Sun In Houses",
           "folder": "06_Planet_in_Houses/0601_Sun_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "060100_sun_knowledge.mdx",
+              "title": "Sun Knowledge",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060100_sun_knowledge.mdx"
+            },
+            {
+              "name": "060101_Sun_in_1st_House.mdx",
+              "title": "Sun in 1st House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.mdx"
+            },
+            {
+              "name": "060102_Sun_in_2nd_House.mdx",
+              "title": "Sun in 2th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060102_Sun_in_2nd_House.mdx"
+            },
+            {
+              "name": "060103_Sun_in_3rd_House.mdx",
+              "title": "Sun in 3th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060103_Sun_in_3rd_House.mdx"
+            },
+            {
+              "name": "060104_Sun_in_4th_House.mdx",
+              "title": "Sun in 4th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060104_Sun_in_4th_House.mdx"
+            },
+            {
+              "name": "060105_Sun_in_5th_House.mdx",
+              "title": "Sun in 5th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060105_Sun_in_5th_House.mdx"
+            },
+            {
+              "name": "060106_Sun_in_6th_House.mdx",
+              "title": "Sun in 6th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060106_Sun_in_6th_House.mdx"
+            },
+            {
+              "name": "060107_Sun_in_7th_House.mdx",
+              "title": "Sun in 7th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060107_Sun_in_7th_House.mdx"
+            },
+            {
+              "name": "060108_Sun_in_8th_House.mdx",
+              "title": "Sun in 8th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060108_Sun_in_8th_House.mdx"
+            },
+            {
+              "name": "060109_Sun_in_9th_House.mdx",
+              "title": "Sun in 9th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060109_Sun_in_9th_House.mdx"
+            },
+            {
+              "name": "060110_Sun_in_10th_House.mdx",
+              "title": "Sun in 10th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060110_Sun_in_10th_House.mdx"
+            },
+            {
+              "name": "060111_Sun_in_11th_House.mdx",
+              "title": "Sun in 11th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060111_Sun_in_11th_House.mdx"
+            },
+            {
+              "name": "060112_Sun_in_12th_House.mdx",
+              "title": "Sun in 12th House",
+              "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060112_Sun_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Moon In Houses",
           "folder": "06_Planet_in_Houses/0602_Moon_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "060200_moon_knowledge.mdx",
+              "title": "Moon Knowledge",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060200_moon_knowledge.mdx"
+            },
+            {
+              "name": "060201_Moon_in_1th_House.mdx",
+              "title": "Moon in 1th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_1th_House.mdx"
+            },
+            {
+              "name": "060202_Moon_in_2th_House.mdx",
+              "title": "Moon in 2th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060202_Moon_in_2th_House.mdx"
+            },
+            {
+              "name": "060203_Moon_in_3th_House.mdx",
+              "title": "Moon in 3th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060203_Moon_in_3th_House.mdx"
+            },
+            {
+              "name": "060204_Moon_in_4th_House.mdx",
+              "title": "Moon in 4th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060204_Moon_in_4th_House.mdx"
+            },
+            {
+              "name": "060205_Moon_in_5th_House.mdx",
+              "title": "Moon in 5th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060205_Moon_in_5th_House.mdx"
+            },
+            {
+              "name": "060206_Moon_in_6th_House.mdx",
+              "title": "Moon in 6th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060206_Moon_in_6th_House.mdx"
+            },
+            {
+              "name": "060207_Moon_in_7th_House.mdx",
+              "title": "Moon in 7th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060207_Moon_in_7th_House.mdx"
+            },
+            {
+              "name": "060208_Moon_in_8th_House.mdx",
+              "title": "Moon in 8th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060208_Moon_in_8th_House.mdx"
+            },
+            {
+              "name": "060209_Moon_in_9th_House.mdx",
+              "title": "Moon in 9th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060209_Moon_in_9th_House.mdx"
+            },
+            {
+              "name": "060210_Moon_in_10th_House.mdx",
+              "title": "Moon in 10th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060210_Moon_in_10th_House.mdx"
+            },
+            {
+              "name": "060211_Moon_in_11th_House.mdx",
+              "title": "Moon in 11th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060211_Moon_in_11th_House.mdx"
+            },
+            {
+              "name": "060212_Moon_in_12th_House.mdx",
+              "title": "Moon in 12th House",
+              "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060212_Moon_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Mars In Houses",
           "folder": "06_Planet_in_Houses/0603_Mars_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "0603001_mars_in_Houses.mdx",
+              "title": "Mars In Houses",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/0603001_mars_in_Houses.mdx"
+            },
+            {
+              "name": "0603002_mars_sign.mdx",
+              "title": "Mars Sign",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/0603002_mars_sign.mdx"
+            },
+            {
+              "name": "0603003_mars_aspectsy.mdx",
+              "title": "Mars Aspectsy",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/0603003_mars_aspectsy.mdx"
+            },
+            {
+              "name": "060301_Mars_in_1th_House.mdx",
+              "title": "Mars in 1th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_1th_House.mdx"
+            },
+            {
+              "name": "060302_Mars_in_2th_House.mdx",
+              "title": "Mars in 2th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060302_Mars_in_2th_House.mdx"
+            },
+            {
+              "name": "060303_Mars_in_3th_House.mdx",
+              "title": "Mars in 3th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060303_Mars_in_3th_House.mdx"
+            },
+            {
+              "name": "060304_Mars_in_4th_House.mdx",
+              "title": "Mars in 4th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060304_Mars_in_4th_House.mdx"
+            },
+            {
+              "name": "060305_Mars_in_5th_House.mdx",
+              "title": "Mars in 5th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060305_Mars_in_5th_House.mdx"
+            },
+            {
+              "name": "060306_Mars_in_6th_House.mdx",
+              "title": "Mars in 6th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060306_Mars_in_6th_House.mdx"
+            },
+            {
+              "name": "060307_Mars_in_7th_House.mdx",
+              "title": "Mars in 7th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060307_Mars_in_7th_House.mdx"
+            },
+            {
+              "name": "060308_Mars_in_8th_House.mdx",
+              "title": "Mars in 8th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060308_Mars_in_8th_House.mdx"
+            },
+            {
+              "name": "060309_Mars_in_9th_House.mdx",
+              "title": "Mars in 9th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060309_Mars_in_9th_House.mdx"
+            },
+            {
+              "name": "060310_Mars_in_10th_House.mdx",
+              "title": "Mars in 10th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060310_Mars_in_10th_House.mdx"
+            },
+            {
+              "name": "060311_Mars_in_11th_House.mdx",
+              "title": "Mars in 11th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060311_Mars_in_11th_House.mdx"
+            },
+            {
+              "name": "060312_Mars_in_12th_House.mdx",
+              "title": "Mars in 12th House",
+              "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060312_Mars_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Mercury In Houses",
           "folder": "06_Planet_in_Houses/0604_Mercury_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "060400_mercury_aspects_by_Sun.mdx",
+              "title": "Mercury Aspects By Sun",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060400_mercury_aspects_by_Sun.mdx"
+            },
+            {
+              "name": "060400_mercury_in_Houses.mdx",
+              "title": "Mercury In Houses",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060400_mercury_in_Houses.mdx"
+            },
+            {
+              "name": "060400_mercury_in_sign.mdx",
+              "title": "Mercury In Sign",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060400_mercury_in_sign.mdx"
+            },
+            {
+              "name": "060401_Mercury_in_1th_House.mdx",
+              "title": "Mercury in 1th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_1th_House.mdx"
+            },
+            {
+              "name": "060402_Mercury_in_2th_House.mdx",
+              "title": "Mercury in 2th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060402_Mercury_in_2th_House.mdx"
+            },
+            {
+              "name": "060403_Mercury_in_3th_House.mdx",
+              "title": "Mercury in 3th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060403_Mercury_in_3th_House.mdx"
+            },
+            {
+              "name": "060404_Mercury_in_4th_House.mdx",
+              "title": "Mercury in 4th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060404_Mercury_in_4th_House.mdx"
+            },
+            {
+              "name": "060405_Mercury_in_5th_House.mdx",
+              "title": "Mercury in 5th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060405_Mercury_in_5th_House.mdx"
+            },
+            {
+              "name": "060406_Mercury_in_6th_House.mdx",
+              "title": "Mercury in 6th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060406_Mercury_in_6th_House.mdx"
+            },
+            {
+              "name": "060407_Mercury_in_7th_House.mdx",
+              "title": "Mercury in 7th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060407_Mercury_in_7th_House.mdx"
+            },
+            {
+              "name": "060408_Mercury_in_8th_House.mdx",
+              "title": "Mercury in 8th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060408_Mercury_in_8th_House.mdx"
+            },
+            {
+              "name": "060409_Mercury_in_9th_House.mdx",
+              "title": "Mercury in 9th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060409_Mercury_in_9th_House.mdx"
+            },
+            {
+              "name": "060410_Mercury_in_10th_House.mdx",
+              "title": "Mercury in 10th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060410_Mercury_in_10th_House.mdx"
+            },
+            {
+              "name": "060411_Mercury_in_11th_House.mdx",
+              "title": "Mercury in 11th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060411_Mercury_in_11th_House.mdx"
+            },
+            {
+              "name": "060412_Mercury_in_12th_House.mdx",
+              "title": "Mercury in 12th House",
+              "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060412_Mercury_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Jupiter In Houses",
           "folder": "06_Planet_in_Houses/0605_Jupiter_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "0605001_Jupiter_in_Houses.mdx",
+              "title": "Jupiter In Houses",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/0605001_Jupiter_in_Houses.mdx"
+            },
+            {
+              "name": "0605002_jupiter_in_sign.mdx",
+              "title": "Jupiter In Sign",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/0605002_jupiter_in_sign.mdx"
+            },
+            {
+              "name": "06050031_Jupiter_aspects_by_Sun.mdx",
+              "title": "Jupiter Aspects By Sun",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/06050031_Jupiter_aspects_by_Sun.mdx"
+            },
+            {
+              "name": "060501_Jupiter_in_1th_House.mdx",
+              "title": "Jupiter in 1th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_1th_House.mdx"
+            },
+            {
+              "name": "060502_Jupiter_in_2th_House.mdx",
+              "title": "Jupiter in 2th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060502_Jupiter_in_2th_House.mdx"
+            },
+            {
+              "name": "060503_Jupiter_in_3th_House.mdx",
+              "title": "Jupiter in 3th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060503_Jupiter_in_3th_House.mdx"
+            },
+            {
+              "name": "060504_Jupiter_in_4th_House.mdx",
+              "title": "Jupiter in 4th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060504_Jupiter_in_4th_House.mdx"
+            },
+            {
+              "name": "060505_Jupiter_in_5th_House.mdx",
+              "title": "Jupiter in 5th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060505_Jupiter_in_5th_House.mdx"
+            },
+            {
+              "name": "060506_Jupiter_in_6th_House.mdx",
+              "title": "Jupiter in 6th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060506_Jupiter_in_6th_House.mdx"
+            },
+            {
+              "name": "060507_Jupiter_in_7th_House.mdx",
+              "title": "Jupiter in 7th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060507_Jupiter_in_7th_House.mdx"
+            },
+            {
+              "name": "060508_Jupiter_in_8th_House.mdx",
+              "title": "Jupiter in 8th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060508_Jupiter_in_8th_House.mdx"
+            },
+            {
+              "name": "060509_Jupiter_in_9th_House.mdx",
+              "title": "Jupiter in 9th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060509_Jupiter_in_9th_House.mdx"
+            },
+            {
+              "name": "060510_Jupiter_in_10th_House.mdx",
+              "title": "Jupiter in 10th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060510_Jupiter_in_10th_House.mdx"
+            },
+            {
+              "name": "060511_Jupiter_in_11th_House.mdx",
+              "title": "Jupiter in 11th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060511_Jupiter_in_11th_House.mdx"
+            },
+            {
+              "name": "060512_Jupiter_in_12th_House.mdx",
+              "title": "Jupiter in 12th House",
+              "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060512_Jupiter_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Venus In Houses",
           "folder": "06_Planet_in_Houses/0606_Venus_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "0606001_Venus_in_Houses.mdx",
+              "title": "Venus  in all the twelve houses",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/0606001_Venus_in_Houses.mdx"
+            },
+            {
+              "name": "0606002_Venus_in_sign.mdx",
+              "title": "Venus in all the twelve Signs",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/0606002_Venus_in_sign.mdx"
+            },
+            {
+              "name": "06060031_Venus_aspects_by_Sun.mdx",
+              "title": "Venus in sign Aspects by Sun",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/06060031_Venus_aspects_by_Sun.mdx"
+            },
+            {
+              "name": "060601_Venus_in_1st_House.mdx",
+              "title": "Venus in 1st House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_1st_House.mdx"
+            },
+            {
+              "name": "060602_Venus_in_2nd_House.mdx",
+              "title": "Venus in 2nd House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060602_Venus_in_2nd_House.mdx"
+            },
+            {
+              "name": "060603_Venus_in_3rd_House.mdx",
+              "title": "Venus in 3rd House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060603_Venus_in_3rd_House.mdx"
+            },
+            {
+              "name": "060604_Venus_in_4th_House.mdx",
+              "title": "Venus in 4th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060604_Venus_in_4th_House.mdx"
+            },
+            {
+              "name": "060605_Venus_in_5th_House.mdx",
+              "title": "Venus in 5th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060605_Venus_in_5th_House.mdx"
+            },
+            {
+              "name": "060606_Venus_in_6th_House.mdx",
+              "title": "Venus in 6th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060606_Venus_in_6th_House.mdx"
+            },
+            {
+              "name": "060607_Venus_in_7th_House.mdx",
+              "title": "Venus in 7th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060607_Venus_in_7th_House.mdx"
+            },
+            {
+              "name": "060608_Venus_in_8th_House.mdx",
+              "title": "Venus in 8th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060608_Venus_in_8th_House.mdx"
+            },
+            {
+              "name": "060609_Venus_in_9th_House.mdx",
+              "title": "Venus in 9th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060609_Venus_in_9th_House.mdx"
+            },
+            {
+              "name": "060610_Venus_in_10th_House.mdx",
+              "title": "Venus in 10th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060610_Venus_in_10th_House.mdx"
+            },
+            {
+              "name": "060611_Venus_in_11th_House.mdx",
+              "title": "Venus in 11th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060611_Venus_in_11th_House.mdx"
+            },
+            {
+              "name": "060612_Venus_in_12th_House.mdx",
+              "title": "Venus in 12th House",
+              "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060612_Venus_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Saturn In Houses",
           "folder": "06_Planet_in_Houses/0607_Saturn_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "060701_Saturn_in_1st_House.mdx",
+              "title": "Saturn in 1st House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_1st_House.mdx"
+            },
+            {
+              "name": "060702_Saturn_in_2nd_House.mdx",
+              "title": "Saturn in 2nd House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060702_Saturn_in_2nd_House.mdx"
+            },
+            {
+              "name": "060703_Saturn_in_3rd_House.mdx",
+              "title": " Saturn in 3rd House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060703_Saturn_in_3rd_House.mdx"
+            },
+            {
+              "name": "060704_Saturn_in_4th_House.mdx",
+              "title": "Saturn in 4th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060704_Saturn_in_4th_House.mdx"
+            },
+            {
+              "name": "060705_Saturn_in_5th_House.mdx",
+              "title": "Saturn in 5th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060705_Saturn_in_5th_House.mdx"
+            },
+            {
+              "name": "060706_Saturn_in_6th_House.mdx",
+              "title": "Saturn in 6th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060706_Saturn_in_6th_House.mdx"
+            },
+            {
+              "name": "060707_Saturn_in_7th_House.mdx",
+              "title": " Saturn in 7th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060707_Saturn_in_7th_House.mdx"
+            },
+            {
+              "name": "060708_Saturn_in_8th_House.mdx",
+              "title": "Saturn in 8th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060708_Saturn_in_8th_House.mdx"
+            },
+            {
+              "name": "060709_Saturn_in_9th_House.mdx",
+              "title": " Saturn in 9th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060709_Saturn_in_9th_House.mdx"
+            },
+            {
+              "name": "060710_Saturn_in_10th_House.mdx",
+              "title": "Saturn in 10th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060710_Saturn_in_10th_House.mdx"
+            },
+            {
+              "name": "060711_Saturn_in_11th_House.mdx",
+              "title": "Saturn in 11th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060711_Saturn_in_11th_House.mdx"
+            },
+            {
+              "name": "060712_Saturn_in_12th_House.mdx",
+              "title": "Saturn in 12th House",
+              "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060712_Saturn_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Rahu In Houses",
           "folder": "06_Planet_in_Houses/0608_Rahu_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "0608001_Rahu_in_Houses.mdx",
+              "title": "Rahu's in different Houses",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/0608001_Rahu_in_Houses.mdx"
+            },
+            {
+              "name": "0608002_Rahu_in_sign.mdx",
+              "title": "Rahu's in different zodiac signs",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/0608002_Rahu_in_sign.mdx"
+            },
+            {
+              "name": "060801_Rahu_in_1st_House.mdx",
+              "title": "Rahu in 1st House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_1st_House.mdx"
+            },
+            {
+              "name": "060802_Rahu_in_2nd_House.mdx",
+              "title": "Rahu in 2nd House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060802_Rahu_in_2nd_House.mdx"
+            },
+            {
+              "name": "060803_Rahu_in_3rd_House.mdx",
+              "title": "Rahu in 3rd House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060803_Rahu_in_3rd_House.mdx"
+            },
+            {
+              "name": "060804_Rahu_in_4th_House.mdx",
+              "title": "Rahu in 4th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060804_Rahu_in_4th_House.mdx"
+            },
+            {
+              "name": "060805_Rahu_in_5th_House.mdx",
+              "title": "Rahu in 5th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060805_Rahu_in_5th_House.mdx"
+            },
+            {
+              "name": "060806_Rahu_in_6th_House.mdx",
+              "title": "Rahu in 6th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060806_Rahu_in_6th_House.mdx"
+            },
+            {
+              "name": "060807_Rahu_in_7th_House.mdx",
+              "title": "Rahu in 7th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060807_Rahu_in_7th_House.mdx"
+            },
+            {
+              "name": "060808_Rahu_in_8th_House.mdx",
+              "title": "Rahu in 8th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060808_Rahu_in_8th_House.mdx"
+            },
+            {
+              "name": "060809_Rahu_in_9th_House.mdx",
+              "title": "Rahu in 9th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060809_Rahu_in_9th_House.mdx"
+            },
+            {
+              "name": "060810_Rahu_in_10th_House.mdx",
+              "title": "Rahu in 10th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060810_Rahu_in_10th_House.mdx"
+            },
+            {
+              "name": "060811_Rahu_in_11th_House.mdx",
+              "title": "Rahu in 11th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060811_Rahu_in_11th_House.mdx"
+            },
+            {
+              "name": "060812_Rahu_in_12th_House.mdx",
+              "title": "Rahu in 12th House",
+              "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060812_Rahu_in_12th_House.mdx"
+            }
+          ]
         },
         {
           "title": "Ketu In Houses",
           "folder": "06_Planet_in_Houses/0609_Ketu_in_Houses",
-          "children": []
+          "children": [
+            {
+              "name": "060900_Ketu_in_Houses.mdx",
+              "title": "Ketu's in different Houses",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060900_Ketu_in_Houses.mdx"
+            },
+            {
+              "name": "060900_ketu_in_sign.mdx",
+              "title": "Ketu's in different zodiac signs",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060900_ketu_in_sign.mdx"
+            },
+            {
+              "name": "060901_Ketu_in_1st_House.mdx",
+              "title": "Ketu in 1st House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_1st_House.mdx"
+            },
+            {
+              "name": "060902_Ketu_in_2nd_House.mdx",
+              "title": "Ketu in 2nd House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060902_Ketu_in_2nd_House.mdx"
+            },
+            {
+              "name": "060903_Ketu_in_3rd_House.mdx",
+              "title": "Ketu in 3rd House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060903_Ketu_in_3rd_House.mdx"
+            },
+            {
+              "name": "060904_Ketu_in_4th_House.mdx",
+              "title": "Ketu in 4th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060904_Ketu_in_4th_House.mdx"
+            },
+            {
+              "name": "060905_Ketu_in_5th_House.mdx",
+              "title": "Ketu in 5th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060905_Ketu_in_5th_House.mdx"
+            },
+            {
+              "name": "060906_Ketu_in_6th_House.mdx",
+              "title": "Ketu in 6th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060906_Ketu_in_6th_House.mdx"
+            },
+            {
+              "name": "060907_Ketu_in_7th_House.mdx",
+              "title": "Ketu in 7th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060907_Ketu_in_7th_House.mdx"
+            },
+            {
+              "name": "060908_Ketu_in_8th_House.mdx",
+              "title": "Ketu in 8th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060908_Ketu_in_8th_House.mdx"
+            },
+            {
+              "name": "060909_Ketu_in_9th_House.mdx",
+              "title": "Ketu in 9th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060909_Ketu_in_9th_House.mdx"
+            },
+            {
+              "name": "060910_Ketu_in_10th_House.mdx",
+              "title": "Ketu in 10th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060910_Ketu_in_10th_House.mdx"
+            },
+            {
+              "name": "060911_Ketu_in_11th_House.mdx",
+              "title": "Ketu in 11th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060911_Ketu_in_11th_House.mdx"
+            },
+            {
+              "name": "060912_Ketu_in_12th_House.mdx",
+              "title": "Ketu in 12th House",
+              "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060912_Ketu_in_12th_House.mdx"
+            }
+          ]
         }
       ]
     },
@@ -116,47 +1186,596 @@
         {
           "title": "Sun In Rashi",
           "folder": "08_Planet_in_Rashi/0801_Sun_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080101_Sun_in_Aries.mdx",
+              "title": "Sun in Aries",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080101_Sun_in_Aries.mdx"
+            },
+            {
+              "name": "080102_Sun_in_Taurus.mdx",
+              "title": "Sun in Taurus",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080102_Sun_in_Taurus.mdx"
+            },
+            {
+              "name": "080103_Sun_in_Gemini.mdx",
+              "title": "Sun in Gemini",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080103_Sun_in_Gemini.mdx"
+            },
+            {
+              "name": "080104_Sun_in_Cancer.mdx",
+              "title": "Sun in Cancer",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080104_Sun_in_Cancer.mdx"
+            },
+            {
+              "name": "080105_Sun_in_Leo.mdx",
+              "title": "Sun in Leo",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080105_Sun_in_Leo.mdx"
+            },
+            {
+              "name": "080106_Sun_in_Virgo.mdx",
+              "title": "Sun in Virgo",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080106_Sun_in_Virgo.mdx"
+            },
+            {
+              "name": "080107_Sun_in_Libra.mdx",
+              "title": "Sun in Libra",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080107_Sun_in_Libra.mdx"
+            },
+            {
+              "name": "080108_Sun_in_Scorpio.mdx",
+              "title": "Sun in Scorpio",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080108_Sun_in_Scorpio.mdx"
+            },
+            {
+              "name": "080109_Sun_in_Sagittarius.mdx",
+              "title": "Sun in Sagittarius",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080109_Sun_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080110_Sun_in_Capricorn.mdx",
+              "title": "Sun in Capricorn",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080110_Sun_in_Capricorn.mdx"
+            },
+            {
+              "name": "080111_Sun_in_Aquarius.mdx",
+              "title": "Sun in Aquarius",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080111_Sun_in_Aquarius.mdx"
+            },
+            {
+              "name": "080112_Sun_in_Pisces.mdx",
+              "title": "Sun in Pisces",
+              "path": "08_Planet_in_Rashi/0801_Sun_in_Rashi/080112_Sun_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Moon In Rashi",
           "folder": "08_Planet_in_Rashi/0802_Moon_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080201_Moon_in_Aries.mdx",
+              "title": "Moon in Aries",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080201_Moon_in_Aries.mdx"
+            },
+            {
+              "name": "080202_Moon_in_Taurus.mdx",
+              "title": "Moon in Taurus",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080202_Moon_in_Taurus.mdx"
+            },
+            {
+              "name": "080203_Moon_in_Gemini.mdx",
+              "title": "Moon in Gemini",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080203_Moon_in_Gemini.mdx"
+            },
+            {
+              "name": "080204_Moon_in_Cancer.mdx",
+              "title": "Moon in Cancer",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080204_Moon_in_Cancer.mdx"
+            },
+            {
+              "name": "080205_Moon_in_Leo.mdx",
+              "title": "Moon in Leo",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080205_Moon_in_Leo.mdx"
+            },
+            {
+              "name": "080206_Moon_in_Virgo.mdx",
+              "title": "Moon in Virgo",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080206_Moon_in_Virgo.mdx"
+            },
+            {
+              "name": "080207_Moon_in_Libra.mdx",
+              "title": "Moon in Libra",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080207_Moon_in_Libra.mdx"
+            },
+            {
+              "name": "080208_Moon_in_Scorpio.mdx",
+              "title": "Moon in Scorpio",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080208_Moon_in_Scorpio.mdx"
+            },
+            {
+              "name": "080209_Moon_in_Sagittarius.mdx",
+              "title": "Moon in Sagittarius",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080209_Moon_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080210_Moon_in_Capricorn.mdx",
+              "title": "Moon in Capricorn",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080210_Moon_in_Capricorn.mdx"
+            },
+            {
+              "name": "080211_Moon_in_Aquarius.mdx",
+              "title": "Moon in Aquarius",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080211_Moon_in_Aquarius.mdx"
+            },
+            {
+              "name": "080212_Moon_in_Pisces.mdx",
+              "title": "Moon in Pisces",
+              "path": "08_Planet_in_Rashi/0802_Moon_in_Rashi/080212_Moon_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Mars In Rashi",
           "folder": "08_Planet_in_Rashi/0803_Mars_In_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080301_Mars_in_Aries.mdx",
+              "title": "Mars in Aries",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080301_Mars_in_Aries.mdx"
+            },
+            {
+              "name": "080302_Mars_in_Taurus.mdx",
+              "title": "Mars in Taurus",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080302_Mars_in_Taurus.mdx"
+            },
+            {
+              "name": "080303_Mars_in_Gemini.mdx",
+              "title": "Mars in Gemini",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080303_Mars_in_Gemini.mdx"
+            },
+            {
+              "name": "080304_Mars_in_Cancer.mdx",
+              "title": "Mars in Cancer",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080304_Mars_in_Cancer.mdx"
+            },
+            {
+              "name": "080305_Mars_in_Leo.mdx",
+              "title": "Mars in Leo",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080305_Mars_in_Leo.mdx"
+            },
+            {
+              "name": "080306_Mars_in_Virgo.mdx",
+              "title": "Mars in Virgo",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080306_Mars_in_Virgo.mdx"
+            },
+            {
+              "name": "080307_Mars_in_Libra.mdx",
+              "title": "Mars in Libra",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080307_Mars_in_Libra.mdx"
+            },
+            {
+              "name": "080308_Mars_in_Scorpio.mdx",
+              "title": "Mars in Scorpio",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080308_Mars_in_Scorpio.mdx"
+            },
+            {
+              "name": "080309_Mars_in_Sagittarius.mdx",
+              "title": "Mars in Sagittarius",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080309_Mars_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080310_Mars_in_Capricorn.mdx",
+              "title": "Mars in Capricorn",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080310_Mars_in_Capricorn.mdx"
+            },
+            {
+              "name": "080311_Mars_in_Aquarius.mdx",
+              "title": "Mars in Aquarius",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080311_Mars_in_Aquarius.mdx"
+            },
+            {
+              "name": "080312_Mars_in_Pisces.mdx",
+              "title": "Mars in Pisces",
+              "path": "08_Planet_in_Rashi/0803_Mars_In_Rashi/080312_Mars_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Mercury In Rashi",
           "folder": "08_Planet_in_Rashi/0804_Mercury_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080401_Mercury_in_Aries.mdx",
+              "title": "Mercury in Aries",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080401_Mercury_in_Aries.mdx"
+            },
+            {
+              "name": "080402_Mercury_in_Taurus.mdx",
+              "title": "Mercury in Taurus",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080402_Mercury_in_Taurus.mdx"
+            },
+            {
+              "name": "080403_Mercury_in_Gemini.mdx",
+              "title": "Mercury in Gemini",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080403_Mercury_in_Gemini.mdx"
+            },
+            {
+              "name": "080404_Mercury_in_Cancer.mdx",
+              "title": "Mercury in Cancer",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080404_Mercury_in_Cancer.mdx"
+            },
+            {
+              "name": "080405_Mercury_in_Leo.mdx",
+              "title": "Mercury in Leo",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080405_Mercury_in_Leo.mdx"
+            },
+            {
+              "name": "080406_Mercury_in_Virgo.mdx",
+              "title": "Mercury in Virgo",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080406_Mercury_in_Virgo.mdx"
+            },
+            {
+              "name": "080407_Mercury_in_Libra.mdx",
+              "title": "Mercury in Libra",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080407_Mercury_in_Libra.mdx"
+            },
+            {
+              "name": "080408_Mercury_in_Scorpio.mdx",
+              "title": "Mercury in Scorpio",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080408_Mercury_in_Scorpio.mdx"
+            },
+            {
+              "name": "080409_Mercury_in_Sagittarius.mdx",
+              "title": "Mercury in Sagittarius",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080409_Mercury_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080410_Mercury_in_Capricorn.mdx",
+              "title": "Mercury in Capricorn",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080410_Mercury_in_Capricorn.mdx"
+            },
+            {
+              "name": "080411_Mercury_in_Aquarius.mdx",
+              "title": "Mercury in Aquarius",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080411_Mercury_in_Aquarius.mdx"
+            },
+            {
+              "name": "080412_Mercury_in_Pisces.mdx",
+              "title": "Mercury in Pisces",
+              "path": "08_Planet_in_Rashi/0804_Mercury_in_Rashi/080412_Mercury_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Jupiter In Rashi",
           "folder": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080501_Jupiter_in_Aries.mdx",
+              "title": "Jupiter in Aries",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080501_Jupiter_in_Aries.mdx"
+            },
+            {
+              "name": "080502_Jupiter_in_Taurus.mdx",
+              "title": "Jupiter in Taurus",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080502_Jupiter_in_Taurus.mdx"
+            },
+            {
+              "name": "080503_Jupiter_in_Gemini.mdx",
+              "title": "Jupiter in Gemini",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080503_Jupiter_in_Gemini.mdx"
+            },
+            {
+              "name": "080504_Jupiter_in_Cancer.mdx",
+              "title": "Jupiter in Cancer",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080504_Jupiter_in_Cancer.mdx"
+            },
+            {
+              "name": "080505_Jupiter_in_Leo.mdx",
+              "title": "Jupiter in Leo",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080505_Jupiter_in_Leo.mdx"
+            },
+            {
+              "name": "080506_Jupiter_in_Virgo.mdx",
+              "title": "Jupiter in Virgo",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080506_Jupiter_in_Virgo.mdx"
+            },
+            {
+              "name": "080507_Jupiter_in_Libra.mdx",
+              "title": "Jupiter in Libra",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080507_Jupiter_in_Libra.mdx"
+            },
+            {
+              "name": "080508_Jupiter_in_Scorpio.mdx",
+              "title": "Jupiter in Scorpio",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080508_Jupiter_in_Scorpio.mdx"
+            },
+            {
+              "name": "080509_Jupiter_in_Sagittarius.mdx",
+              "title": "Jupiter in Sagittarius",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080509_Jupiter_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080510_Jupiter_in_Capricorn.mdx",
+              "title": "Jupiter in Capricorn",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080510_Jupiter_in_Capricorn.mdx"
+            },
+            {
+              "name": "080511_Jupiter_in_Aquarius.mdx",
+              "title": "Jupiter in Aquarius",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080511_Jupiter_in_Aquarius.mdx"
+            },
+            {
+              "name": "080512_Jupiter_in_Pisces.mdx",
+              "title": "Jupiter in Pisces",
+              "path": "08_Planet_in_Rashi/0805_Jupiter_in_Rashi/080512_Jupiter_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Venus In Rashi",
           "folder": "08_Planet_in_Rashi/0806_Venus_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080601_Venus_in_Aries.mdx",
+              "title": "Venus in Aries",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080601_Venus_in_Aries.mdx"
+            },
+            {
+              "name": "080602_Venus_in_Taurus.mdx",
+              "title": "Venus in Taurus",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080602_Venus_in_Taurus.mdx"
+            },
+            {
+              "name": "080603_Venus_in_Gemini.mdx",
+              "title": "Venus in Gemini",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080603_Venus_in_Gemini.mdx"
+            },
+            {
+              "name": "080604_Venus_in_Cancer.mdx",
+              "title": "Venus in Cancer",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080604_Venus_in_Cancer.mdx"
+            },
+            {
+              "name": "080605_Venus_in_Leo.mdx",
+              "title": "Venus in Leo",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080605_Venus_in_Leo.mdx"
+            },
+            {
+              "name": "080606_Venus_in_Virgo.mdx",
+              "title": "Venus in Virgo",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080606_Venus_in_Virgo.mdx"
+            },
+            {
+              "name": "080607_Venus_in_Libra.mdx",
+              "title": "Venus in Libra",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080607_Venus_in_Libra.mdx"
+            },
+            {
+              "name": "080608_Venus_in_Scorpio.mdx",
+              "title": "Venus in Scorpio",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080608_Venus_in_Scorpio.mdx"
+            },
+            {
+              "name": "080609_Venus_in_Sagittarius.mdx",
+              "title": "Venus in Sagittarius",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080609_Venus_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080610_Venus_in_Capricorn.mdx",
+              "title": "Venus in Capricorn",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080610_Venus_in_Capricorn.mdx"
+            },
+            {
+              "name": "080611_Venus_in_Aquarius.mdx",
+              "title": "Venus in Aquarius",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080611_Venus_in_Aquarius.mdx"
+            },
+            {
+              "name": "080612_Venus_in_Pisces.mdx",
+              "title": "Venus in Pisces",
+              "path": "08_Planet_in_Rashi/0806_Venus_in_Rashi/080612_Venus_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Saturn In Rashi",
           "folder": "08_Planet_in_Rashi/0807_Saturn_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080701_Saturn_in_Aries.mdx",
+              "title": "Saturn in Aries",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080701_Saturn_in_Aries.mdx"
+            },
+            {
+              "name": "080702_Saturn_in_Taurus.mdx",
+              "title": "Saturn in Taurus",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080702_Saturn_in_Taurus.mdx"
+            },
+            {
+              "name": "080703_Saturn_in_Gemini.mdx",
+              "title": "Saturn in Gemini",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080703_Saturn_in_Gemini.mdx"
+            },
+            {
+              "name": "080704_Saturn_in_Cancer.mdx",
+              "title": "Saturn in Cancer",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080704_Saturn_in_Cancer.mdx"
+            },
+            {
+              "name": "080705_Saturn_in_Leo.mdx",
+              "title": "Saturn in Leo",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080705_Saturn_in_Leo.mdx"
+            },
+            {
+              "name": "080706_Saturn_in_Virgo.mdx",
+              "title": "Saturn in Virgo",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080706_Saturn_in_Virgo.mdx"
+            },
+            {
+              "name": "080707_Saturn_in_Libra.mdx",
+              "title": "Saturn in Libra",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080707_Saturn_in_Libra.mdx"
+            },
+            {
+              "name": "080708_Saturn_in_Scorpio.mdx",
+              "title": "Saturn in Scorpio",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080708_Saturn_in_Scorpio.mdx"
+            },
+            {
+              "name": "080709_Saturn_in_Sagittarius.mdx",
+              "title": "Saturn in Sagittarius",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080709_Saturn_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080710_Saturn_in_Capricorn.mdx",
+              "title": "Saturn in Capricorn",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080710_Saturn_in_Capricorn.mdx"
+            },
+            {
+              "name": "080711_Saturn_in_Aquarius.mdx",
+              "title": "Saturn in Aquarius",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080711_Saturn_in_Aquarius.mdx"
+            },
+            {
+              "name": "080712_Saturn_in_Pisces.mdx",
+              "title": "Saturn in Pisces",
+              "path": "08_Planet_in_Rashi/0807_Saturn_in_Rashi/080712_Saturn_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Rahu In Rashi",
           "folder": "08_Planet_in_Rashi/0808_Rahu_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080801_Rahu_in_Aries.mdx",
+              "title": "Rahu in Aries",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080801_Rahu_in_Aries.mdx"
+            },
+            {
+              "name": "080802_Rahu_in_Taurus.mdx",
+              "title": "Rahu in Taurus",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080802_Rahu_in_Taurus.mdx"
+            },
+            {
+              "name": "080803_Rahu_in_Gemini.mdx",
+              "title": "Rahu in Gemini",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080803_Rahu_in_Gemini.mdx"
+            },
+            {
+              "name": "080804_Rahu_in_Cancer.mdx",
+              "title": "Rahu in Cancer",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080804_Rahu_in_Cancer.mdx"
+            },
+            {
+              "name": "080805_Rahu_in_Leo.mdx",
+              "title": "Rahu in Leo",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080805_Rahu_in_Leo.mdx"
+            },
+            {
+              "name": "080806_Rahu_in_Virgo.mdx",
+              "title": "Rahu in Virgo",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080806_Rahu_in_Virgo.mdx"
+            },
+            {
+              "name": "080807_Rahu_in_Libra.mdx",
+              "title": "Rahu in Libra",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080807_Rahu_in_Libra.mdx"
+            },
+            {
+              "name": "080808_Rahu_in_Scorpio.mdx",
+              "title": "Rahu in Scorpio",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080808_Rahu_in_Scorpio.mdx"
+            },
+            {
+              "name": "080809_Rahu_in_Sagittarius.mdx",
+              "title": "Rahu in Sagittarius",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080809_Rahu_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080810_Rahu_in_Capricorn.mdx",
+              "title": "Rahu in Capricorn",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080810_Rahu_in_Capricorn.mdx"
+            },
+            {
+              "name": "080811_Rahu_in_Aquarius.mdx",
+              "title": "Rahu in Aquarius",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080811_Rahu_in_Aquarius.mdx"
+            },
+            {
+              "name": "080812_Rahu_in_Pisces.mdx",
+              "title": "Rahu in Pisces",
+              "path": "08_Planet_in_Rashi/0808_Rahu_in_Rashi/080812_Rahu_in_Pisces.mdx"
+            }
+          ]
         },
         {
           "title": "Ketu In Rashi",
           "folder": "08_Planet_in_Rashi/0809_Ketu_in_Rashi",
-          "children": []
+          "children": [
+            {
+              "name": "080901_Ketu_in_Aries.mdx",
+              "title": "Ketu in Aries",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080901_Ketu_in_Aries.mdx"
+            },
+            {
+              "name": "080902_Ketu_in_Taurus.mdx",
+              "title": "Ketu in Taurus",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080902_Ketu_in_Taurus.mdx"
+            },
+            {
+              "name": "080903_Ketu_in_Gemini.mdx",
+              "title": "Ketu in Gemini",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080903_Ketu_in_Gemini.mdx"
+            },
+            {
+              "name": "080904_Ketu_in_Cancer.mdx",
+              "title": "Ketu in Cancer",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080904_Ketu_in_Cancer.mdx"
+            },
+            {
+              "name": "080905_Ketu_in_Leo.mdx",
+              "title": "Ketu in Leo",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080905_Ketu_in_Leo.mdx"
+            },
+            {
+              "name": "080906_Ketu_in_Virgo.mdx",
+              "title": "Ketu in Virgo",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080906_Ketu_in_Virgo.mdx"
+            },
+            {
+              "name": "080907_Ketu_in_Libra.mdx",
+              "title": "Ketu in Libra",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080907_Ketu_in_Libra.mdx"
+            },
+            {
+              "name": "080908_Ketu_in_Scorpio.mdx",
+              "title": "Ketu in Scorpio",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080908_Ketu_in_Scorpio.mdx"
+            },
+            {
+              "name": "080909_Ketu_in_Sagittarius.mdx",
+              "title": "Ketu in Sagittarius",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080909_Ketu_in_Sagittarius.mdx"
+            },
+            {
+              "name": "080910_Ketu_in_Capricorn.mdx",
+              "title": "Ketu in Capricorn",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080910_Ketu_in_Capricorn.mdx"
+            },
+            {
+              "name": "080911_Ketu_in_Aquarius.mdx",
+              "title": "Ketu in Aquarius",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080911_Ketu_in_Aquarius.mdx"
+            },
+            {
+              "name": "080912_Ketu_in_Pisces.mdx",
+              "title": "Ketu in Pisces",
+              "path": "08_Planet_in_Rashi/0809_Ketu_in_Rashi/080912_Ketu_in_Pisces.mdx"
+            }
+          ]
         }
       ]
     },
@@ -2483,8 +4102,8 @@
       "children": []
     },
     {
-      "title": "Planet in nakshatra",
-      "folder": "16_Planet in Nakshatra",
+      "title": "Planet In Nakshatra",
+      "folder": "16_Planet_in_Nakshatra",
       "children": []
     },
     {
@@ -2517,39 +4136,39 @@
           "path": "17_Ashtakavarga/170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.md"
         },
         {
-          "name": "170201_Sun's_Ashtakavarga.md",
+          "name": "170201_Suns_Ashtakavarga.md",
           "title": "Sun\\'s Ashtakavarga",
-          "path": "17_Ashtakavarga/170201_Sun's_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170201_Suns_Ashtakavarga.md"
         },
         {
-          "name": "170202_Moon's_Ashtakavarga.md",
+          "name": "170202_Moons_Ashtakavarga.md",
           "title": "Moon\\'s Ashtakavarga",
-          "path": "17_Ashtakavarga/170202_Moon's_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170202_Moons_Ashtakavarga.md"
         },
         {
-          "name": "170203_Mars'_Ashtakavarga.md",
-          "title": "INVALID FRONTMATTER",
-          "path": "17_Ashtakavarga/170203_Mars'_Ashtakavarga.md"
+          "name": "170203_Mars_Ashtakavarga.md",
+          "title": "Mars' Ashtakavarga",
+          "path": "17_Ashtakavarga/170203_Mars_Ashtakavarga.md"
         },
         {
-          "name": "170204_Mercury's_Ashtakavarga.md",
+          "name": "170204_Mercurys_Ashtakavarga.md",
           "title": "Mercury\\'s Ashtakavarga",
-          "path": "17_Ashtakavarga/170204_Mercury's_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170204_Mercurys_Ashtakavarga.md"
         },
         {
-          "name": "170205_Jupiter's_Ashtakavarga.md",
+          "name": "170205_Jupiters_Ashtakavarga.md",
           "title": "Jupiter\\'s Ashtakavarga",
-          "path": "17_Ashtakavarga/170205_Jupiter's_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170205_Jupiters_Ashtakavarga.md"
         },
         {
-          "name": "170206_Venus'_Ashtakavarga.md",
-          "title": "INVALID FRONTMATTER",
-          "path": "17_Ashtakavarga/170206_Venus'_Ashtakavarga.md"
+          "name": "170206_Venus_Ashtakavarga.md",
+          "title": "Venus' Ashtakavarga",
+          "path": "17_Ashtakavarga/170206_Venus_Ashtakavarga.md"
         },
         {
-          "name": "170207_Saturn's_Ashtakavarga.md",
+          "name": "170207_Saturns_Ashtakavarga.md",
           "title": "Saturn\\'s Ashtakavarga",
-          "path": "17_Ashtakavarga/170207_Saturn's_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170207_Saturns_Ashtakavarga.md"
         },
         {
           "name": "170208_Rahu_and_Ketu_in_Ashtakavarga.md",
@@ -2562,44 +4181,44 @@
           "path": "17_Ashtakavarga/170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.md"
         },
         {
-          "name": "170302_Gochara_(Transit)_Interpretation_Through_Bindus.md",
+          "name": "170302_Gochara_Transit_Interpretation_Through_Bindus.md",
           "title": "Gochara (Transit) Interpretation Through Bindus",
-          "path": "17_Ashtakavarga/170302_Gochara_(Transit)_Interpretation_Through_Bindus.md"
+          "path": "17_Ashtakavarga/170302_Gochara_Transit_Interpretation_Through_Bindus.md"
         },
         {
-          "name": "170303_Sun's_Transit_Through_Ashtakavarga_Houses.md",
+          "name": "170303_Suns_Transit_Through_Ashtakavarga_Houses.md",
           "title": "Sun\\'s Transit Through Ashtakavarga Houses",
-          "path": "17_Ashtakavarga/170303_Sun's_Transit_Through_Ashtakavarga_Houses.md"
+          "path": "17_Ashtakavarga/170303_Suns_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170304_Moon's_Transit_Through_Ashtakavarga_Houses.md",
+          "name": "170304_Moons_Transit_Through_Ashtakavarga_Houses.md",
           "title": "Moon\\'s Transit Through Ashtakavarga Houses",
-          "path": "17_Ashtakavarga/170304_Moon's_Transit_Through_Ashtakavarga_Houses.md"
+          "path": "17_Ashtakavarga/170304_Moons_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170305_Mars'_Transit_Through_Ashtakavarga_Houses.md",
-          "title": "INVALID FRONTMATTER",
-          "path": "17_Ashtakavarga/170305_Mars'_Transit_Through_Ashtakavarga_Houses.md"
+          "name": "170305_Mars_Transit_Through_Ashtakavarga_Houses.md",
+          "title": "Mars' Transit Through Ashtakavarga Houses",
+          "path": "17_Ashtakavarga/170305_Mars_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170306_Mercury's_Transit_Through_Ashtakavarga_Houses.md",
+          "name": "170306_Mercurys_Transit_Through_Ashtakavarga_Houses.md",
           "title": "Mercury\\'s Transit Through Ashtakavarga Houses",
-          "path": "17_Ashtakavarga/170306_Mercury's_Transit_Through_Ashtakavarga_Houses.md"
+          "path": "17_Ashtakavarga/170306_Mercurys_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170307_Jupiter's_Transit_Through_Ashtakavarga_Houses.md",
+          "name": "170307_Jupiters_Transit_Through_Ashtakavarga_Houses.md",
           "title": "Jupiter\\'s Transit Through Ashtakavarga Houses",
-          "path": "17_Ashtakavarga/170307_Jupiter's_Transit_Through_Ashtakavarga_Houses.md"
+          "path": "17_Ashtakavarga/170307_Jupiters_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170308_Venus'_Transit_Through_Ashtakavarga_Houses.md",
-          "title": "INVALID FRONTMATTER",
-          "path": "17_Ashtakavarga/170308_Venus'_Transit_Through_Ashtakavarga_Houses.md"
+          "name": "170308_Venus_Transit_Through_Ashtakavarga_Houses.md",
+          "title": "Venus' Transit Through Ashtakavarga Houses",
+          "path": "17_Ashtakavarga/170308_Venus_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
-          "name": "170309_Saturn's_Transit_Through_Ashtakavarga_Houses.md",
+          "name": "170309_Saturns_Transit_Through_Ashtakavarga_Houses.md",
           "title": "Saturn\\'s Transit Through Ashtakavarga Houses",
-          "path": "17_Ashtakavarga/170309_Saturn's_Transit_Through_Ashtakavarga_Houses.md"
+          "path": "17_Ashtakavarga/170309_Saturns_Transit_Through_Ashtakavarga_Houses.md"
         },
         {
           "name": "170401_Trikona_Shodhana.md",
@@ -2657,9 +4276,9 @@
           "path": "17_Ashtakavarga/170504_Health_Assessment_Using_Ashtakavarga.md"
         },
         {
-          "name": "170505_Muhurta_(Electional_Astrology)_With_Ashtakavarga.md",
+          "name": "170505_Muhurta_Electional_Astrology_With_Ashtakavarga.md",
           "title": "Muhurta (Electional Astrology) With Ashtakavarga",
-          "path": "17_Ashtakavarga/170505_Muhurta_(Electional_Astrology)_With_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170505_Muhurta_Electional_Astrology_With_Ashtakavarga.md"
         },
         {
           "name": "170506_Ashtakavarga_in_Annual_Charts.md",
@@ -2667,9 +4286,9 @@
           "path": "17_Ashtakavarga/170506_Ashtakavarga_in_Annual_Charts.md"
         },
         {
-          "name": "170507_Case_Studies:_Famous_Charts_Analyzed_Through_Ashtakavarga.md",
+          "name": "170507_Case_Studies_Famous_Charts_Analyzed_Through_Ashtakavarga.md",
           "title": "Case Studies: Famous Charts Analyzed Through Ashtakavarga",
-          "path": "17_Ashtakavarga/170507_Case_Studies:_Famous_Charts_Analyzed_Through_Ashtakavarga.md"
+          "path": "17_Ashtakavarga/170507_Case_Studies_Famous_Charts_Analyzed_Through_Ashtakavarga.md"
         },
         {
           "name": "170601_Ashtakavarga_in_Ancient_Texts.md",
@@ -2710,9 +4329,85 @@
       ]
     },
     {
-      "title": "Numerology",
-      "folder": "19_Numerology",
-      "children": []
+      "title": "Medical Astrology",
+      "folder": "19_Medical_Astrology",
+      "children": [
+        {
+          "name": "190101_Introduction_to_Medical_Astrology.mdx",
+          "title": "Introduction to Medical Astrology",
+          "path": "19_Medical_Astrology/190101_Introduction_to_Medical_Astrology.mdx"
+        },
+        {
+          "name": "190102_Core_Principles_Celestial_Bodies_and_Body_Parts.mdx",
+          "title": "Core Principles: Celestial Bodies and Body Parts",
+          "path": "19_Medical_Astrology/190102_Core_Principles_Celestial_Bodies_and_Body_Parts.mdx"
+        },
+        {
+          "name": "190103_Astrological_Factors_for_Health_and_Disease_Prediction.mdx",
+          "title": "Astrological Factors for Health and Disease Prediction",
+          "path": "19_Medical_Astrology/190103_Astrological_Factors_for_Health_and_Disease_Prediction.mdx"
+        },
+        {
+          "name": "190104_Mapping_Horoscope_Divisions_to_Body_Parts.mdx",
+          "title": "Mapping Horoscope Divisions to Body Parts",
+          "path": "19_Medical_Astrology/190104_Mapping_Horoscope_Divisions_to_Body_Parts.mdx"
+        },
+        {
+          "name": "190105_Planetary_Rulerships_and_Disease_Manifestation.mdx",
+          "title": "Planetary Rulerships and Disease Manifestation",
+          "path": "19_Medical_Astrology/190105_Planetary_Rulerships_and_Disease_Manifestation.mdx"
+        },
+        {
+          "name": "190106_Influence_of_Constellations_Nakshatras_on_Health.mdx",
+          "title": "Influence of Constellations (Nakshatras) on Health",
+          "path": "19_Medical_Astrology/190106_Influence_of_Constellations_Nakshatras_on_Health.mdx"
+        },
+        {
+          "name": "190107_Effect_of_Lagna_Ascendant_Sign_on_Constitution.mdx",
+          "title": "Effect of Lagna (Ascendant) Sign on Constitution",
+          "path": "19_Medical_Astrology/190107_Effect_of_Lagna_Ascendant_Sign_on_Constitution.mdx"
+        },
+        {
+          "name": "190108_Timing_of_Disease_Manifestation.mdx",
+          "title": "Timing of Disease Manifestation",
+          "path": "19_Medical_Astrology/190108_Timing_of_Disease_Manifestation.mdx"
+        },
+        {
+          "name": "190109_Preventive_Astrology_and_Remedies.mdx",
+          "title": "Preventive Astrology and Remedies",
+          "path": "19_Medical_Astrology/190109_Preventive_Astrology_and_Remedies.mdx"
+        },
+        {
+          "name": "190110_Medical_Astrology_and_Ancient_Indian_Medicine.mdx",
+          "title": "Medical Astrology and Ancient Indian Medicine",
+          "path": "19_Medical_Astrology/190110_Medical_Astrology_and_Ancient_Indian_Medicine.mdx"
+        },
+        {
+          "name": "190111_Astrological_Principles_for_Mental_Maladies.mdx",
+          "title": "Astrological Principles for Mental Maladies",
+          "path": "19_Medical_Astrology/190111_Astrological_Principles_for_Mental_Maladies.mdx"
+        },
+        {
+          "name": "190112_Astrological_Principles_for_Liver_Diseases.mdx",
+          "title": "Astrological Principles for Liver Diseases",
+          "path": "19_Medical_Astrology/190112_Astrological_Principles_for_Liver_Diseases.mdx"
+        },
+        {
+          "name": "190113_Astrological_Principles_for_Heart_Disease.mdx",
+          "title": "Astrological Principles for Heart Disease",
+          "path": "19_Medical_Astrology/190113_Astrological_Principles_for_Heart_Disease.mdx"
+        },
+        {
+          "name": "190114_Astrological_Principles_for_Blindness_and_Eye_Diseases.mdx",
+          "title": "Astrological Principles for Blindness and Eye Diseases",
+          "path": "19_Medical_Astrology/190114_Astrological_Principles_for_Blindness_and_Eye_Diseases.mdx"
+        },
+        {
+          "name": "190115_Application_of_Medical_Astrology_in_Practice.mdx",
+          "title": "Application of Medical Astrology in Practice",
+          "path": "19_Medical_Astrology/190115_Application_of_Medical_Astrology_in_Practice.mdx"
+        }
+      ]
     },
     {
       "title": "Transit",
