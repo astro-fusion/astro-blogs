@@ -1,204 +1,204 @@
 {
-    "Ashtakavarga": [
-        {
-            "name": "170101_Introduction_to_Ashtakavarga.mdx",
-            "title": "Introduction to Ashtakavarga",
-            "file": "170101_Introduction_to_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170102_Basic_Principles_of_Ashtakavarga.mdx",
-            "title": "Basic Principles of Ashtakavarga",
-            "file": "170102_Basic_Principles_of_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170103_Calculation_Methodology.mdx",
-            "title": "Calculation Methodology",
-            "file": "170103_Calculation_Methodology.mdx"
-        },
-        {
-            "name": "170104_Sarvashtakavarga.mdx",
-            "title": "Sarvashtakavarga",
-            "file": "170104_Sarvashtakavarga.mdx"
-        },
-        {
-            "name": "170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.mdx",
-            "title": "Difference Between Ashtakavarga and Other Vedic Predictive Systems",
-            "file": "170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.mdx"
-        },
-        {
-            "name": "170201_Sun's_Ashtakavarga.mdx",
-            "title": "Sun\\'s Ashtakavarga",
-            "file": "170201_Sun's_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170202_Moon's_Ashtakavarga.mdx",
-            "title": "Moon\\'s Ashtakavarga",
-            "file": "170202_Moon's_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170203_Mars'_Ashtakavarga.mdx",
-            "title": "INVALID FRONTMATTER",
-            "file": "170203_Mars'_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170204_Mercury's_Ashtakavarga.mdx",
-            "title": "Mercury\\'s Ashtakavarga",
-            "file": "170204_Mercury's_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170205_Jupiter's_Ashtakavarga.mdx",
-            "title": "Jupiter\\'s Ashtakavarga",
-            "file": "170205_Jupiter's_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170206_Venus'_Ashtakavarga.mdx",
-            "title": "INVALID FRONTMATTER",
-            "file": "170206_Venus'_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170207_Saturn's_Ashtakavarga.mdx",
-            "title": "Saturn\\'s Ashtakavarga",
-            "file": "170207_Saturn's_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170208_Rahu_and_Ketu_in_Ashtakavarga.mdx",
-            "title": "Rahu and Ketu in Ashtakavarga",
-            "file": "170208_Rahu_and_Ketu_in_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.mdx",
-            "title": "Fundamentals of Transit Analysis in Ashtakavarga",
-            "file": "170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170302_Gochara_(Transit)_Interpretation_Through_Bindus.mdx",
-            "title": "Gochara (Transit) Interpretation Through Bindus",
-            "file": "170302_Gochara_(Transit)_Interpretation_Through_Bindus.mdx"
-        },
-        {
-            "name": "170303_Sun's_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "Sun\\'s Transit Through Ashtakavarga Houses",
-            "file": "170303_Sun's_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170304_Moon's_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "Moon\\'s Transit Through Ashtakavarga Houses",
-            "file": "170304_Moon's_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170305_Mars'_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "INVALID FRONTMATTER",
-            "file": "170305_Mars'_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170306_Mercury's_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "Mercury\\'s Transit Through Ashtakavarga Houses",
-            "file": "170306_Mercury's_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170307_Jupiter's_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "Jupiter\\'s Transit Through Ashtakavarga Houses",
-            "file": "170307_Jupiter's_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170308_Venus'_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "INVALID FRONTMATTER",
-            "file": "170308_Venus'_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170309_Saturn's_Transit_Through_Ashtakavarga_Houses.mdx",
-            "title": "Saturn\\'s Transit Through Ashtakavarga Houses",
-            "file": "170309_Saturn's_Transit_Through_Ashtakavarga_Houses.mdx"
-        },
-        {
-            "name": "170401_Trikona_Shodhana.mdx",
-            "title": "Trikona Shodhana",
-            "file": "170401_Trikona_Shodhana.mdx"
-        },
-        {
-            "name": "170402_Ekadhipatya_Shodhana.mdx",
-            "title": "Ekadhipatya Shodhana",
-            "file": "170402_Ekadhipatya_Shodhana.mdx"
-        },
-        {
-            "name": "170403_Prashtara_Ashtakavarga.mdx",
-            "title": "Prashtara Ashtakavarga",
-            "file": "170403_Prashtara_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170404_Kaksha_Vibhaga.mdx",
-            "title": "Kaksha Vibhaga",
-            "file": "170404_Kaksha_Vibhaga.mdx"
-        },
-        {
-            "name": "170405_Samudaya_Ashtakavarga.mdx",
-            "title": "Samudaya Ashtakavarga",
-            "file": "170405_Samudaya_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170406_Bhinnashtakavarga_vs._Samudaya_Ashtakavarga.mdx",
-            "title": "Bhinnashtakavarga vs. Samudaya Ashtakavarga",
-            "file": "170406_Bhinnashtakavarga_vs._Samudaya_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170407_Yogas_in_Ashtakavarga.mdx",
-            "title": "Yogas in Ashtakavarga",
-            "file": "170407_Yogas_in_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170501_Career_Analysis_Through_Ashtakavarga.mdx",
-            "title": "Career Analysis Through Ashtakavarga",
-            "file": "170501_Career_Analysis_Through_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170502_Relationship_Compatibility_Using_Ashtakavarga.mdx",
-            "title": "Relationship Compatibility Using Ashtakavarga",
-            "file": "170502_Relationship_Compatibility_Using_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170503_Financial_Forecasting_With_Ashtakavarga.mdx",
-            "title": "Financial Forecasting With Ashtakavarga",
-            "file": "170503_Financial_Forecasting_With_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170504_Health_Assessment_Using_Ashtakavarga.mdx",
-            "title": "Health Assessment Using Ashtakavarga",
-            "file": "170504_Health_Assessment_Using_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170505_Muhurta_(Electional_Astrology)_With_Ashtakavarga.mdx",
-            "title": "Muhurta (Electional Astrology) With Ashtakavarga",
-            "file": "170505_Muhurta_(Electional_Astrology)_With_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170506_Ashtakavarga_in_Annual_Charts.mdx",
-            "title": "Ashtakavarga in Annual Charts",
-            "file": "170506_Ashtakavarga_in_Annual_Charts.mdx"
-        },
-        {
-            "name": "170507_Case_Studies:_Famous_Charts_Analyzed_Through_Ashtakavarga.mdx",
-            "title": "Case Studies: Famous Charts Analyzed Through Ashtakavarga",
-            "file": "170507_Case_Studies:_Famous_Charts_Analyzed_Through_Ashtakavarga.mdx"
-        },
-        {
-            "name": "170601_Ashtakavarga_in_Ancient_Texts.mdx",
-            "title": "Ashtakavarga in Ancient Texts",
-            "file": "170601_Ashtakavarga_in_Ancient_Texts.mdx"
-        },
-        {
-            "name": "170602_Regional_Variations_in_Ashtakavarga_Usage.mdx",
-            "title": "Regional Variations in Ashtakavarga Usage",
-            "file": "170602_Regional_Variations_in_Ashtakavarga_Usage.mdx"
-        },
-        {
-            "name": "170603_Evolution_of_Ashtakavarga_Through_History.mdx",
-            "title": "Evolution of Ashtakavarga Through History",
-            "file": "170603_Evolution_of_Ashtakavarga_Through_History.mdx"
-        },
-        {
-            "name": "170604_Spiritual_Dimensions_of_Ashtakavarga.mdx",
-            "title": "Spiritual Dimensions of Ashtakavarga",
-            "file": "170604_Spiritual_Dimensions_of_Ashtakavarga.mdx"
-        }
-    ]
+  "17 Ashtakavarga": [
+    {
+      "file": "170101_Introduction_to_Ashtakavarga.mdx",
+      "title": "Introduction to Ashtakavarga",
+      "order": 170101
+    },
+    {
+      "file": "170102_Basic_Principles_of_Ashtakavarga.mdx",
+      "title": "Basic Principles of Ashtakavarga",
+      "order": 170102
+    },
+    {
+      "file": "170103_Calculation_Methodology.mdx",
+      "title": "Calculation Methodology",
+      "order": 170103
+    },
+    {
+      "file": "170104_Sarvashtakavarga.mdx",
+      "title": "Sarvashtakavarga",
+      "order": 170104
+    },
+    {
+      "file": "170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.mdx",
+      "title": "Difference Between Ashtakavarga and Other Vedic Predictive Systems",
+      "order": 170105
+    },
+    {
+      "file": "170201_Suns_Ashtakavarga.mdx",
+      "title": "Suns Ashtakavarga",
+      "order": 170201
+    },
+    {
+      "file": "170202_Moons_Ashtakavarga.mdx",
+      "title": "Moons Ashtakavarga",
+      "order": 170202
+    },
+    {
+      "file": "170203_Mars_Ashtakavarga.mdx",
+      "title": "Mars Ashtakavarga",
+      "order": 170203
+    },
+    {
+      "file": "170204_Mercurys_Ashtakavarga.mdx",
+      "title": "Mercurys Ashtakavarga",
+      "order": 170204
+    },
+    {
+      "file": "170205_Jupiters_Ashtakavarga.mdx",
+      "title": "Jupiters Ashtakavarga",
+      "order": 170205
+    },
+    {
+      "file": "170206_Venus_Ashtakavarga.mdx",
+      "title": "Venus Ashtakavarga",
+      "order": 170206
+    },
+    {
+      "file": "170207_Saturns_Ashtakavarga.mdx",
+      "title": "Saturns Ashtakavarga",
+      "order": 170207
+    },
+    {
+      "file": "170208_Rahu_and_Ketu_in_Ashtakavarga.mdx",
+      "title": "Rahu and Ketu in Ashtakavarga",
+      "order": 170208
+    },
+    {
+      "file": "170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.mdx",
+      "title": "Fundamentals of Transit Analysis in Ashtakavarga",
+      "order": 170301
+    },
+    {
+      "file": "170302_Gochara_(Transit)_Interpretation_Through_Bindus.mdx",
+      "title": "Gochara (Transit) Interpretation Through Bindus",
+      "order": 170302
+    },
+    {
+      "file": "170303_Suns_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Suns Transit Through Ashtakavarga Houses",
+      "order": 170303
+    },
+    {
+      "file": "170304_Moons_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Moons Transit Through Ashtakavarga Houses",
+      "order": 170304
+    },
+    {
+      "file": "170305_Mars_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Mars Transit Through Ashtakavarga Houses",
+      "order": 170305
+    },
+    {
+      "file": "170306_Mercurys_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Mercurys Transit Through Ashtakavarga Houses",
+      "order": 170306
+    },
+    {
+      "file": "170307_Jupiters_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Jupiters Transit Through Ashtakavarga Houses",
+      "order": 170307
+    },
+    {
+      "file": "170308_Venus_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Venus Transit Through Ashtakavarga Houses",
+      "order": 170308
+    },
+    {
+      "file": "170309_Saturns_Transit_Through_Ashtakavarga_Houses.mdx",
+      "title": "Saturns Transit Through Ashtakavarga Houses",
+      "order": 170309
+    },
+    {
+      "file": "170401_Trikona_Shodhana.mdx",
+      "title": "Trikona Shodhana",
+      "order": 170401
+    },
+    {
+      "file": "170402_Ekadhipatya_Shodhana.mdx",
+      "title": "Ekadhipatya Shodhana",
+      "order": 170402
+    },
+    {
+      "file": "170403_Prashtara_Ashtakavarga.mdx",
+      "title": "Prashtara Ashtakavarga",
+      "order": 170403
+    },
+    {
+      "file": "170404_Kaksha_Vibhaga.mdx",
+      "title": "Kaksha Vibhaga",
+      "order": 170404
+    },
+    {
+      "file": "170405_Samudaya_Ashtakavarga.mdx",
+      "title": "Samudaya Ashtakavarga",
+      "order": 170405
+    },
+    {
+      "file": "170406_Bhinnashtakavarga_vs._Samudaya_Ashtakavarga.mdx",
+      "title": "Bhinnashtakavarga vs. Samudaya Ashtakavarga",
+      "order": 170406
+    },
+    {
+      "file": "170407_Yogas_in_Ashtakavarga.mdx",
+      "title": "Yogas in Ashtakavarga",
+      "order": 170407
+    },
+    {
+      "file": "170501_Career_Analysis_Through_Ashtakavarga.mdx",
+      "title": "Career Analysis Through Ashtakavarga",
+      "order": 170501
+    },
+    {
+      "file": "170502_Relationship_Compatibility_Using_Ashtakavarga.mdx",
+      "title": "Relationship Compatibility Using Ashtakavarga",
+      "order": 170502
+    },
+    {
+      "file": "170503_Financial_Forecasting_With_Ashtakavarga.mdx",
+      "title": "Financial Forecasting With Ashtakavarga",
+      "order": 170503
+    },
+    {
+      "file": "170504_Health_Assessment_Using_Ashtakavarga.mdx",
+      "title": "Health Assessment Using Ashtakavarga",
+      "order": 170504
+    },
+    {
+      "file": "170505_Muhurta_(Electional_Astrology)_With_Ashtakavarga.mdx",
+      "title": "Muhurta (Electional Astrology) With Ashtakavarga",
+      "order": 170505
+    },
+    {
+      "file": "170506_Ashtakavarga_in_Annual_Charts.mdx",
+      "title": "Ashtakavarga in Annual Charts",
+      "order": 170506
+    },
+    {
+      "file": "170507_Case_Studies:_Famous_Charts_Analyzed_Through_Ashtakavarga.mdx",
+      "title": "Case Studies: Famous Charts Analyzed Through Ashtakavarga",
+      "order": 170507
+    },
+    {
+      "file": "170601_Ashtakavarga_in_Ancient_Texts.mdx",
+      "title": "Ashtakavarga in Ancient Texts",
+      "order": 170601
+    },
+    {
+      "file": "170602_Regional_Variations_in_Ashtakavarga_Usage.mdx",
+      "title": "Regional Variations in Ashtakavarga Usage",
+      "order": 170602
+    },
+    {
+      "file": "170603_Evolution_of_Ashtakavarga_Through_History.mdx",
+      "title": "Evolution of Ashtakavarga Through History",
+      "order": 170603
+    },
+    {
+      "file": "170604_Spiritual_Dimensions_of_Ashtakavarga.mdx",
+      "title": "Spiritual Dimensions of Ashtakavarga",
+      "order": 170604
+    }
+  ]
 }
