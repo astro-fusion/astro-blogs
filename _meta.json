@@ -4317,13 +4317,412 @@
       "folder": "18_Vastu",
       "children": [
         {
+          "title": "Intro",
+          "folder": "18_Vastu/1801_Intro",
+          "children": [
+            {
+              "name": "180101_History_of_Lord_Vishwakarma_Mayasur.mdx",
+              "title": "History of Lord Vishwakarma & Mayasur",
+              "path": "18_Vastu/1801_Intro/180101_History_of_Lord_Vishwakarma_Mayasur.mdx"
+            },
+            {
+              "name": "180102_Evolution_of_Vastu_Principles_from_Ancient_to_Modern_Times.mdx",
+              "title": "Evolution of Vastu Principles from Ancient to Modern Times",
+              "path": "18_Vastu/1801_Intro/180102_Evolution_of_Vastu_Principles_from_Ancient_to_Modern_Times.mdx"
+            },
+            {
+              "name": "180103_Difference_Between_Vastu_and_Other_Occult_Sciences.mdx",
+              "title": "Difference Between Vastu and Other Occult Sciences",
+              "path": "18_Vastu/1801_Intro/180103_Difference_Between_Vastu_and_Other_Occult_Sciences.mdx"
+            },
+            {
+              "name": "180104_Introduction_to_Vastu_Purush_Mandala.mdx",
+              "title": "Introduction to Vastu Purush Mandala",
+              "path": "18_Vastu/1801_Intro/180104_Introduction_to_Vastu_Purush_Mandala.mdx"
+            },
+            {
+              "name": "180105_Vedic_Foundations_of_Vastu_Shastra.mdx",
+              "title": "Vedic Foundations of Vastu Shastra",
+              "path": "18_Vastu/1801_Intro/180105_Vedic_Foundations_of_Vastu_Shastra.mdx"
+            },
+            {
+              "name": "180106_Historical_Development_Through_Ancient_Texts.mdx",
+              "title": "Historical Development Through Ancient Texts",
+              "path": "18_Vastu/1801_Intro/180106_Historical_Development_Through_Ancient_Texts.mdx"
+            },
+            {
+              "name": "180107_Regional_Variations_of_Vastu_Across_India.mdx",
+              "title": "Regional Variations of Vastu Across India",
+              "path": "18_Vastu/1801_Intro/180107_Regional_Variations_of_Vastu_Across_India.mdx"
+            },
+            {
+              "name": "180108_Vastu_in_Ancient_Temple_Architecture.mdx",
+              "title": "Vastu in Ancient Temple Architecture",
+              "path": "18_Vastu/1801_Intro/180108_Vastu_in_Ancient_Temple_Architecture.mdx"
+            },
+            {
+              "name": "180109_Scientific_Basis_of_Vastu_Shastra.mdx",
+              "title": "Scientific Basis of Vastu Shastra",
+              "path": "18_Vastu/1801_Intro/180109_Scientific_Basis_of_Vastu_Shastra.mdx"
+            },
+            {
+              "name": "180110_Vastu_and_Sacred_Geometry.mdx",
+              "title": "Vastu and Sacred Geometry",
+              "path": "18_Vastu/1801_Intro/180110_Vastu_and_Sacred_Geometry.mdx"
+            },
+            {
+              "name": "180111_Historical_Timeline_of_Vastu_Development.mdx",
+              "title": "Historical Timeline of Vastu Development",
+              "path": "18_Vastu/1801_Intro/180111_Historical_Timeline_of_Vastu_Development.mdx"
+            },
+            {
+              "name": "180112_Vastu_in_Ancient_Civilizations_Beyond_India.mdx",
+              "title": "Vastu in Ancient Civilizations Beyond India",
+              "path": "18_Vastu/1801_Intro/180112_Vastu_in_Ancient_Civilizations_Beyond_India.mdx"
+            },
+            {
+              "name": "180113_Colonial_Influence_and_Decline_of_Traditional_Vastu.mdx",
+              "title": "Colonial Influence and Decline of Traditional Vastu",
+              "path": "18_Vastu/1801_Intro/180113_Colonial_Influence_and_Decline_of_Traditional_Vastu.mdx"
+            },
+            {
+              "name": "180114_Philosophical_Underpinnings_of_Vastu_Shastra.mdx",
+              "title": "Philosophical Underpinnings of Vastu Shastra",
+              "path": "18_Vastu/1801_Intro/180114_Philosophical_Underpinnings_of_Vastu_Shastra.mdx"
+            },
+            {
+              "name": "180115_Vastu_Terminology_and_Basic_Concepts.mdx",
+              "title": "Vastu Terminology and Basic Concepts",
+              "path": "18_Vastu/1801_Intro/180115_Vastu_Terminology_and_Basic_Concepts.mdx"
+            },
+            {
+              "name": "180116_Mythological_Stories_Related_to_Vastu.mdx",
+              "title": "Mythological Stories Related to Vastu",
+              "path": "18_Vastu/1801_Intro/180116_Mythological_Stories_Related_to_Vastu.mdx"
+            },
+            {
+              "name": "180117_Introduction_to_Five_Elements_Pancha_Bhutas.mdx",
+              "title": "Introduction to Five Elements (Pancha Bhutas)",
+              "path": "18_Vastu/1801_Intro/180117_Introduction_to_Five_Elements_Pancha_Bhutas.mdx"
+            },
+            {
+              "name": "180118_Historical_Patronage_of_Vastu_by_Kings_and_Emperors.mdx",
+              "title": "Historical Patronage of Vastu by Kings and Emperors",
+              "path": "18_Vastu/1801_Intro/180118_Historical_Patronage_of_Vastu_by_Kings_and_Emperors.mdx"
+            },
+            {
+              "name": "180119_Vastu's_Connection_to_Ayurveda_and_Jyotish.mdx",
+              "title": "Vastu's Connection to Ayurveda and Jyotish",
+              "path": "18_Vastu/1801_Intro/180119_Vastu's_Connection_to_Ayurveda_and_Jyotish.mdx"
+            },
+            {
+              "name": "180120_Contemporary_Relevance_of_Ancient_Vastu.mdx",
+              "title": "Contemporary Relevance of Ancient Vastu",
+              "path": "18_Vastu/1801_Intro/180120_Contemporary_Relevance_of_Ancient_Vastu.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Five Elements",
+          "folder": "18_Vastu/1802_Five_Elements",
+          "children": [
+            {
+              "name": "180201_Understanding_the_Five_Elements_Earth_Water_Fire_Air_Space.mdx",
+              "title": "Understanding the Five Elements: Earth, Water, Fire, Air, and Space",
+              "path": "18_Vastu/1802_Five_Elements/180201_Understanding_the_Five_Elements_Earth_Water_Fire_Air_Space.mdx"
+            },
+            {
+              "name": "180202_Importance_and_Characteristics_of_the_Five_Elements.mdx",
+              "title": "Importance and Characteristics of the Five Elements",
+              "path": "18_Vastu/1802_Five_Elements/180202_Importance_and_Characteristics_of_the_Five_Elements.mdx"
+            },
+            {
+              "name": "180203_Balancing_Elements_in_Architectural_Design.mdx",
+              "title": "Balancing Elements in Architectural Design",
+              "path": "18_Vastu/1802_Five_Elements/180203_Balancing_Elements_in_Architectural_Design.mdx"
+            },
+            {
+              "name": "180204_Prithvi_Earth_Element_in_Vastu.mdx",
+              "title": "Earth Element (Prithvi) in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180204_Prithvi_Earth_Element_in_Vastu.mdx"
+            },
+            {
+              "name": "180205_Jal_Water_Element_in_Vastu.mdx",
+              "title": "Water Element (Jal) in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180205_Jal_Water_Element_in_Vastu.mdx"
+            },
+            {
+              "name": "180206_Agni_Fire_Element_in_Vastu.mdx",
+              "title": "Fire Element (Agni) in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180206_Agni_Fire_Element_in_Vastu.mdx"
+            },
+            {
+              "name": "180207_Vayu_Air_Element_Vayu_in_Vastu.mdx",
+              "title": "Air Element (Vayu) in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180207_Vayu_Air_Element_Vayu_in_Vastu.mdx"
+            },
+            {
+              "name": "180208_Akasha_Space_Ether_Element_in_Vastu.mdx",
+              "title": "Akasha_Space Ether Element in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180208_Akasha_Space_Ether_Element_in_Vastu.mdx"
+            },
+            {
+              "name": "180209_Elemental_Zones_in_the_Vastu_Mandala.mdx",
+              "title": "Elemental Zones in the Vastu Mandala",
+              "path": "18_Vastu/1802_Five_Elements/180209_Elemental_Zones_in_the_Vastu_Mandala.mdx"
+            },
+            {
+              "name": "180210_Elemental_Imbalances_and_Their_Effects.mdx",
+              "title": "Elemental Imbalances and Their Effects",
+              "path": "18_Vastu/1802_Five_Elements/180210_Elemental_Imbalances_and_Their_Effects.mdx"
+            },
+            {
+              "name": "180211_Remedial_Measures_for_Elemental_Harmony.mdx",
+              "title": "Remedial Measures for Elemental Harmony",
+              "path": "18_Vastu/1802_Five_Elements/180211_Remedial_Measures_for_Elemental_Harmony.mdx"
+            },
+            {
+              "name": "180212_Scientific_Perspective_on_the_Five_Elements.mdx",
+              "title": "Scientific Perspective on the Five Elements",
+              "path": "18_Vastu/1802_Five_Elements/180212_Scientific_Perspective_on_the_Five_Elements.mdx"
+            },
+            {
+              "name": "180213_Elemental_Correspondences_in_Vastu.mdx",
+              "title": "Elemental Correspondences in Vastu",
+              "path": "18_Vastu/1802_Five_Elements/180213_Elemental_Correspondences_in_Vastu.mdx"
+            },
+            {
+              "name": "180214_Seasonal_Variations_and_Elemental_Adjustments.mdx",
+              "title": "Seasonal Variations and Elemental Adjustments",
+              "path": "18_Vastu/1802_Five_Elements/180214_Seasonal_Variations_and_Elemental_Adjustments.mdx"
+            },
+            {
+              "name": "180215_Elemental_Principles_in_Different_Building_Types.mdx",
+              "title": "Elemental Principles in Different Building Types",
+              "path": "18_Vastu/1802_Five_Elements/180215_Elemental_Principles_in_Different_Building_Types.mdx"
+            }
+          ]
+        },
+        {
           "title": "Directions",
-          "folder": "18_Vastu/1801_Directions",
+          "folder": "18_Vastu/1803_Directions",
+          "children": [
+            {
+              "name": "180301_Understanding the Vastu Purusha Mandala.mdx",
+              "title": "Understanding the Vastu Purusha Mandala",
+              "path": "18_Vastu/1803_Directions/180301_Understanding the Vastu Purusha Mandala.mdx"
+            },
+            {
+              "name": "180302_Origin and Mythology of Vastu Purusha.mdx",
+              "title": "Origin and Mythology of Vastu Purusha",
+              "path": "18_Vastu/1803_Directions/180302_Origin and Mythology of Vastu Purusha.mdx"
+            },
+            {
+              "name": "180303_The 45 Deities of Vastu Mandala.mdx",
+              "title": "The 45 Deities of Vastu Mandala",
+              "path": "18_Vastu/1803_Directions/180303_The 45 Deities of Vastu Mandala.mdx"
+            },
+            {
+              "name": "180304_Marma Points in Vastu Purusha Mandala.mdx",
+              "title": "Marma Points in Vastu Purusha Mandala",
+              "path": "18_Vastu/1803_Directions/180304_Marma Points in Vastu Purusha Mandala.mdx"
+            },
+            {
+              "name": "180305_Cardinal Directions_East_West_North_South.mdx",
+              "title": "Cardinal Directions_East_West_North_South",
+              "path": "18_Vastu/1803_Directions/180305_Cardinal Directions_East_West_North_South.mdx"
+            },
+            {
+              "name": "180306_East Direction_Purva_in Vastu.mdx",
+              "title": "East Direction_Purva_in Vastu",
+              "path": "18_Vastu/1803_Directions/180306_East Direction_Purva_in Vastu.mdx"
+            },
+            {
+              "name": "180307_West Direction_Paschim_in Vastu.mdx",
+              "title": "West Direction_Paschim_in Vastu",
+              "path": "18_Vastu/1803_Directions/180307_West Direction_Paschim_in Vastu.mdx"
+            },
+            {
+              "name": "180308_North Direction_Uttar_in Vastu.mdx",
+              "title": "North Direction_Uttar_in Vastu",
+              "path": "18_Vastu/1803_Directions/180308_North Direction_Uttar_in Vastu.mdx"
+            },
+            {
+              "name": "180309_South Direction_Dakshin_in Vastu.mdx",
+              "title": "South Direction_Dakshin_in Vastu",
+              "path": "18_Vastu/1803_Directions/180309_South Direction_Dakshin_in Vastu.mdx"
+            },
+            {
+              "name": "180310_Ordinal Directions_NE_SE_SW_NW.mdx",
+              "title": "Ordinal Directions_NE_SE_SW_NW",
+              "path": "18_Vastu/1803_Directions/180310_Ordinal Directions_NE_SE_SW_NW.mdx"
+            },
+            {
+              "name": "180311_Northeast Direction_Ishanya_in Vastu.mdx",
+              "title": "Northeast Direction_Ishanya_in Vastu",
+              "path": "18_Vastu/1803_Directions/180311_Northeast Direction_Ishanya_in Vastu.mdx"
+            },
+            {
+              "name": "180312_Southeast Direction_Agneya_in Vastu.mdx",
+              "title": "Southeast Direction_Agneya_in Vastu",
+              "path": "18_Vastu/1803_Directions/180312_Southeast Direction_Agneya_in Vastu.mdx"
+            },
+            {
+              "name": "180313_Southwest Direction_Nairutya_in Vastu.mdx",
+              "title": "Southwest Direction_Nairutya_in Vastu",
+              "path": "18_Vastu/1803_Directions/180313_Southwest Direction_Nairutya_in Vastu.mdx"
+            },
+            {
+              "name": "180314_Northwest Direction_Vayavya_in Vastu.mdx",
+              "title": "Northwest Direction_Vayavya_in Vastu",
+              "path": "18_Vastu/1803_Directions/180314_Northwest Direction_Vayavya_in Vastu.mdx"
+            },
+            {
+              "name": "180315_Sub-Directions_NNE_ENE_ESE_SSE.mdx",
+              "title": "Sub-Directions_NNE_ENE_ESE_SSE",
+              "path": "18_Vastu/1803_Directions/180315_Sub-Directions_NNE_ENE_ESE_SSE.mdx"
+            },
+            {
+              "name": "180316_Directional Strength_Digbala_of Planets.mdx",
+              "title": "Directional Strength_Digbala_of Planets",
+              "path": "18_Vastu/1803_Directions/180316_Directional Strength_Digbala_of Planets.mdx"
+            },
+            {
+              "name": "180317_Using Magnetic Compass for Directional Accuracy.mdx",
+              "title": "Using Magnetic Compass for Directional Accuracy",
+              "path": "18_Vastu/1803_Directions/180317_Using Magnetic Compass for Directional Accuracy.mdx"
+            },
+            {
+              "name": "180318_Energy Fields and Pathways in Vastu Mandala.mdx",
+              "title": "Energy Fields and Pathways in Vastu Mandala",
+              "path": "18_Vastu/1803_Directions/180318_Energy Fields and Pathways in Vastu Mandala.mdx"
+            },
+            {
+              "name": "180319_Deva Vithi and Manushya Vithi Energy Fields.mdx",
+              "title": "Deva Vithi and Manushya Vithi Energy Fields",
+              "path": "18_Vastu/1803_Directions/180319_Deva Vithi and Manushya Vithi Energy Fields.mdx"
+            },
+            {
+              "name": "180320_Vastu Purusha Installation and Placement.mdx",
+              "title": "Vastu Purusha Installation and Placement",
+              "path": "18_Vastu/1803_Directions/180320_Vastu Purusha Installation and Placement.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Residental Vastu",
+          "folder": "18_Vastu/1804_Residental_Vastu",
+          "children": [
+            {
+              "name": "200401_Master_Bedroom_Vastu_Placement_and_Size.mdx",
+              "title": "Master Bedroom Vastu Placement and Size",
+              "path": "18_Vastu/1804_Residental_Vastu/200401_Master_Bedroom_Vastu_Placement_and_Size.mdx"
+            },
+            {
+              "name": "200402_Children's_Room_Vastu_Guidelines.mdx",
+              "title": "Children's Room Vastu Guidelines",
+              "path": "18_Vastu/1804_Residental_Vastu/200402_Children's_Room_Vastu_Guidelines.mdx"
+            },
+            {
+              "name": "200403_Kitchen_Placement_and_Design_as_per_Vastu.mdx",
+              "title": "Kitchen Placement and Design as per Vastu",
+              "path": "18_Vastu/1804_Residental_Vastu/200403_Kitchen_Placement_and_Design_as_per_Vastu.mdx"
+            },
+            {
+              "name": "200404_Pooja_Room_Direction_and_Design_Elements.mdx",
+              "title": "Pooja Room Direction and Design Elements",
+              "path": "18_Vastu/1804_Residental_Vastu/200404_Pooja_Room_Direction_and_Design_Elements.mdx"
+            },
+            {
+              "name": "200405_Living_Room_Vastu_and_Furniture_Arrangement.mdx",
+              "title": "Living Room Vastu and Furniture Arrangement",
+              "path": "18_Vastu/1804_Residental_Vastu/200405_Living_Room_Vastu_and_Furniture_Arrangement.mdx"
+            },
+            {
+              "name": "200406_Main_Entrance_Door_Direction_and_Design.mdx",
+              "title": "Main Entrance Door Direction and Design",
+              "path": "18_Vastu/1804_Residental_Vastu/200406_Main_Entrance_Door_Direction_and_Design.mdx"
+            },
+            {
+              "name": "200407_Bathroom_and_Toilet_Placement_as_per_Vastu.mdx",
+              "title": "Bathroom and Toilet Placement as per Vastu",
+              "path": "18_Vastu/1804_Residental_Vastu/200407_Bathroom_and_Toilet_Placement_as_per_Vastu.mdx"
+            },
+            {
+              "name": "200408_Guest_Room_Vastu_for_Positive_Energy.mdx",
+              "title": "Guest Room Vastu for Positive Energy",
+              "path": "18_Vastu/1804_Residental_Vastu/200408_Guest_Room_Vastu_for_Positive_Energy.mdx"
+            },
+            {
+              "name": "200409_Home_Office_Placement_and_Desk_Orientation.mdx",
+              "title": "Home Office Placement and Desk Orientation",
+              "path": "18_Vastu/1804_Residental_Vastu/200409_Home_Office_Placement_and_Desk_Orientation.mdx"
+            },
+            {
+              "name": "200410_Vastu_for_Multi-Story_Residential_Buildings.mdx",
+              "title": "Vastu for Multi-Story Residential Buildings",
+              "path": "18_Vastu/1804_Residental_Vastu/200410_Vastu_for_Multi-Story_Residential_Buildings.mdx"
+            },
+            {
+              "name": "200411_Dining_Room_Placement_and_Table_Orientation.mdx",
+              "title": "Dining Room Placement and Table Orientation",
+              "path": "18_Vastu/1804_Residental_Vastu/200411_Dining_Room_Placement_and_Table_Orientation.mdx"
+            },
+            {
+              "name": "200412_Vastu_for_Balconies_and_Outdoor_Spaces.mdx",
+              "title": "Vastu for Balconies and Outdoor Spaces",
+              "path": "18_Vastu/1804_Residental_Vastu/200412_Vastu_for_Balconies_and_Outdoor_Spaces.mdx"
+            },
+            {
+              "name": "200413_Study_Room_Vastu_for_Academic_Success.mdx",
+              "title": "Study Room Vastu for Academic Success",
+              "path": "18_Vastu/1804_Residental_Vastu/200413_Study_Room_Vastu_for_Academic_Success.mdx"
+            },
+            {
+              "name": "200414_Vastu_for_Staircases_in_Residential_Homes.mdx",
+              "title": "Vastu for Staircases in Residential Homes",
+              "path": "18_Vastu/1804_Residental_Vastu/200414_Vastu_for_Staircases_in_Residential_Homes.mdx"
+            },
+            {
+              "name": "200415_Storage_and_Utility_Room_Vastu.mdx",
+              "title": "Storage and Utility Room Vastu",
+              "path": "18_Vastu/1804_Residental_Vastu/200415_Storage_and_Utility_Room_Vastu.mdx"
+            },
+            {
+              "name": "200416_Vastu_for_Residential_Plot_Selection.mdx",
+              "title": "Vastu for Residential Plot Selection",
+              "path": "18_Vastu/1804_Residental_Vastu/200416_Vastu_for_Residential_Plot_Selection.mdx"
+            },
+            {
+              "name": "200417_Vastu_for_Basements_in_Residential_Homes.mdx",
+              "title": "Vastu for Basements in Residential Homes",
+              "path": "18_Vastu/1804_Residental_Vastu/200417_Vastu_for_Basements_in_Residential_Homes.mdx"
+            },
+            {
+              "name": "200418_Town_Planning_Principles_According_to_Vastu.mdx",
+              "title": "Town Planning Principles According to Vastu",
+              "path": "18_Vastu/1804_Residental_Vastu/200418_Town_Planning_Principles_According_to_Vastu.mdx"
+            },
+            {
+              "name": "200419_Vastu_for_Gardens_and_Landscaping.mdx",
+              "title": "Vastu for Gardens and Landscaping",
+              "path": "18_Vastu/1804_Residental_Vastu/200419_Vastu_for_Gardens_and_Landscaping.mdx"
+            },
+            {
+              "name": "200420_Vastu_Remedies_for_Existing_Residential_Structures.mdx",
+              "title": "Vastu Remedies for Existing Residential Structures",
+              "path": "18_Vastu/1804_Residental_Vastu/200420_Vastu_Remedies_for_Existing_Residential_Structures.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Blogs",
+          "folder": "18_Vastu/Blogs",
           "children": []
         },
         {
-          "title": "1802 objects",
-          "folder": "18_Vastu/1802 Objects",
+          "title": "Directions Docs",
+          "folder": "18_Vastu/Directions_Docs",
           "children": []
         }
       ]
