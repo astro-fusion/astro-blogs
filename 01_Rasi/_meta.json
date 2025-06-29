@@ -1,0 +1,64 @@
+{
+  "Rasis": [
+    {
+      "file": "0101_Mesha.mdx",
+      "title": "1 - Mesha - Aries - ♈️",
+      "order": 1
+    },
+    {
+      "file": "0102_Vrishabha.mdx",
+      "title": "2 - Vrishabha - Taurus - ♉️",
+      "order": 2
+    },
+    {
+      "file": "0103_Mithuna.mdx",
+      "title": "3 - Mithuna - Gemini - ♊️",
+      "order": 3
+    },
+    {
+      "file": "0104_Karka.mdx",
+      "title": "4 - Karka - Cancer - ♋️",
+      "order": 4
+    },
+    {
+      "file": "0105_Simha.mdx",
+      "title": "5 - Simha - Leo - ♌️",
+      "order": 5
+    },
+    {
+      "file": "0106_Kanya.mdx",
+      "title": "6 - Kanya - Virgo - ♍️",
+      "order": 6
+    },
+    {
+      "file": "0107_Tula.mdx",
+      "title": "7 - Tula - Libra - ♎️",
+      "order": 7
+    },
+    {
+      "file": "0108_Vrishchika.mdx",
+      "title": "8 - Vrishchika - Scorpio - ♏️",
+      "order": 8
+    },
+    {
+      "file": "0109_Dhanu.mdx",
+      "title": "9 - Dhanu - Sagittarius - ♐️",
+      "order": 9
+    },
+    {
+      "file": "0110_Makara.mdx",
+      "title": "10 - Makara - Capricorn - ♑️",
+      "order": 10
+    },
+    {
+      "file": "0111_Kumbha.mdx",
+      "title": "11 - Kumbha - Aquarius - ♒️",
+      "order": 11
+    },
+    {
+      "file": "0112_Meena.mdx",
+      "title": "12 - Meena - Pisces - ♓️",
+      "order": 12
+    }
+  ]
+}

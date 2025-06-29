@@ -1,0 +1,139 @@
+{
+    "Nakshatras": [
+        {
+            "file": "0501_Aashvini.mdx",
+            "title": "Aashvini",
+            "order": 1
+        },
+        {
+            "file": "0502_Bharani.mdx",
+            "title": "Bharani",
+            "order": 2
+        },
+        {
+            "file": "0503_Krittika.mdx",
+            "title": "Krittika",
+            "order": 3
+        },
+        {
+            "file": "0504_Rohini.mdx",
+            "title": "Rohini",
+            "order": 4
+        },
+        {
+            "file": "0505_Mrigashira.mdx",
+            "title": "Mrigashira",
+            "order": 5
+        },
+        {
+            "file": "0506_Ardra.mdx",
+            "title": "Ardra",
+            "order": 6
+        },
+        {
+            "file": "0507_Punarvasu.mdx",
+            "title": "Punarvasu",
+            "order": 7
+        },
+        {
+            "file": "0508_Pushya.mdx",
+            "title": "Pushya",
+            "order": 8
+        },
+        {
+            "file": "0509_Ashlesha.mdx",
+            "title": "Ashlesha",
+            "order": 9
+        },
+        {
+            "file": "0510_Magha.mdx",
+            "title": "Magha",
+            "order": 10
+        },
+        {
+            "file": "0511_Purva_Phalguni.mdx",
+            "title": "Purva Phalguni",
+            "order": 11
+        },
+        {
+            "file": "0512_Uttara_Phalguni.mdx",
+            "title": "Uttara Phalguni",
+            "order": 12
+        },
+        {
+            "file": "0513_Hasta.mdx",
+            "title": "Hasta",
+            "order": 13
+        },
+        {
+            "file": "0514_Chitra.mdx",
+            "title": "Chitra",
+            "order": 14
+        },
+        {
+            "file": "0515_Swati.mdx",
+            "title": "Swati",
+            "order": 15
+        },
+        {
+            "file": "0516_Vishakha.mdx",
+            "title": "Vishakha",
+            "order": 16
+        },
+        {
+            "file": "0517_Anuradha.mdx",
+            "title": "Anuradha",
+            "order": 17
+        },
+        {
+            "file": "0518_Jyeshtha.mdx",
+            "title": "Jyeshtha",
+            "order": 18
+        },
+        {
+            "file": "0519_Mula.mdx",
+            "title": "Mula",
+            "order": 19
+        },
+        {
+            "file": "0520_Purva_Ashadha.mdx",
+            "title": "Purva Ashadha",
+            "order": 20
+        },
+        {
+            "file": "0521_Uttara_Ashadha.mdx",
+            "title": "Uttara Ashadha",
+            "order": 21
+        },
+        {
+            "file": "0522_Shravana.mdx",
+            "title": "Shravana",
+            "order": 22
+        },
+        {
+            "file": "0523_Dhanishta.mdx",
+            "title": "Dhanishta",
+            "order": 23
+        },
+        {
+            "file": "0524_Shatabhisha.mdx",
+            "title": "Shatabhisha",
+            "order": 24
+        },
+        {
+            "file": "0525_Purva_Bhadrapada.mdx",
+            "title": "Purva Bhadrapada",
+            "order": 25
+        },
+        {
+            "file": "0526_Uttara_Bhadrapada.mdx",
+            "title": "Uttara Bhadrapada",
+            "order": 26
+        },
+        {
+            "file": "0527_Revati.mdx",
+            "title": "Revati",
+            "order": 27
+        }
+    ]
+}

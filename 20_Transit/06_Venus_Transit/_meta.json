@@ -1,0 +1,64 @@
+{
+    "Venus Transit": [
+        {
+            "file": "200601_Venus_transit_1st_House_from_natal_moon.md",
+            "title": "Venus transit 1st House from natal moon",
+            "order": 1
+        },
+        {
+            "file": "200602_Venus_transit_2nd_House_from_natal_moon.md",
+            "title": "Venus transit 2nd House from natal moon",
+            "order": 2
+        },
+        {
+            "file": "200603_Venus_transit_3rd_House_from_natal_moon.md",
+            "title": "Venus transit 3rd House from natal moon",
+            "order": 3
+        },
+        {
+            "file": "200604_Venus_transit_4th_House_from_natal_moon.md",
+            "title": "Venus transit 4th House from natal moon",
+            "order": 4
+        },
+        {
+            "file": "200605_Venus_transit_5th_House_from_natal_moon.md",
+            "title": "Venus transit 5th House from natal moon",
+            "order": 5
+        },
+        {
+            "file": "200606_Venus_transit_6th_House_from_natal_moon.md",
+            "title": "Venus transit 6th House from natal moon",
+            "order": 6
+        },
+        {
+            "file": "200607_Venus_transit_7th_House_from_natal_moon.md",
+            "title": "Venus transit 7th House from natal moon",
+            "order": 7
+        },
+        {
+            "file": "200608_Venus_transit_8th_House_from_natal_moon.md",
+            "title": "Venus transit 8th House from natal moon",
+            "order": 8
+        },
+        {
+            "file": "200609_Venus_transit_9th_House_from_natal_moon.md",
+            "title": "Venus transit 9th House from natal moon",
+            "order": 9
+        },
+        {
+            "file": "200610_Venus_transit_10th_House_from_natal_moon.md",
+            "title": "Venus transit 10th House from natal moon",
+            "order": 10
+        },
+        {
+            "file": "200611_Venus_transit_11th_House_from_natal_moon.md",
+            "title": "Venus transit 11th House from natal moon",
+            "order": 11
+        },
+        {
+            "file": "200612_Venus_transit_12th_House_from_natal_moon.md",
+            "title": "Venus transit 12th House from natal moon",
+            "order": 12
+        }
+    ]
+}
