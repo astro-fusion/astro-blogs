@@ -1,0 +1,364 @@
+{
+  "Documentation": [
+    {
+      "title": "Foundation",
+      "folder": "2101_Foundation",
+      "children": [
+        {
+          "name": "210101_Basic_Number_Meanings_1_9.mdx",
+          "title": "Basic Number Meanings (1-9)",
+          "path": "2101_Foundation/210101_Basic_Number_Meanings_1_9.mdx"
+        },
+        {
+          "name": "210102_Number_Calculation_Methods.mdx",
+          "title": "Number Calculation Methods",
+          "path": "2101_Foundation/210102_Number_Calculation_Methods.mdx"
+        },
+        {
+          "name": "210103_Introduction_to_Core_Numbers.mdx",
+          "title": "Introduction to Core Numbers",
+          "path": "2101_Foundation/210103_Introduction_to_Core_Numbers.mdx"
+        },
+        {
+          "name": "210104_Master_Numbers_11_22_33.mdx",
+          "title": "Master Numbers (11, 22, 33)",
+          "path": "2101_Foundation/210104_Master_Numbers_11_22_33.mdx"
+        },
+        {
+          "name": "210105_Basic_Chart_Construction.mdx",
+          "title": "Basic Chart Construction",
+          "path": "2101_Foundation/210105_Basic_Chart_Construction.mdx"
+        },
+        {
+          "name": "210106_Simple_Number_Interpretation_Techniques.mdx",
+          "title": "Simple Number Interpretation Techniques",
+          "path": "2101_Foundation/210106_Simple_Number_Interpretation_Techniques.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Corenumberanalysis",
+      "folder": "2102_CoreNumberAnalysis",
+      "children": [
+        {
+          "name": "210201_Life_Path_Number_Calculation_and_Interpretation.mdx",
+          "title": "Life Path Number Calculation and Interpretation",
+          "path": "2102_CoreNumberAnalysis/210201_Life_Path_Number_Calculation_and_Interpretation.mdx"
+        },
+        {
+          "name": "210202_Expression_Destiny_Number_Analysis.mdx",
+          "title": "Expression_Destiny Number Analysis",
+          "path": "2102_CoreNumberAnalysis/210202_Expression_Destiny_Number_Analysis.mdx"
+        },
+        {
+          "name": "210203_Soul_Urge_Heart_Desire_Number_Deep_Dive.mdx",
+          "title": "Soul Urge_Heart Desire Number Deep Dive",
+          "path": "2102_CoreNumberAnalysis/210203_Soul_Urge_Heart_Desire_Number_Deep_Dive.mdx"
+        },
+        {
+          "name": "210204_Personality_Number_Assessment.mdx",
+          "title": "Personality Number Assessment",
+          "path": "2102_CoreNumberAnalysis/210204_Personality_Number_Assessment.mdx"
+        },
+        {
+          "name": "210205_Birthday_Number_Significance_and_Gifts.mdx",
+          "title": "Birthday Number Significance and Gifts",
+          "path": "2102_CoreNumberAnalysis/210205_Birthday_Number_Significance_and_Gifts.mdx"
+        },
+        {
+          "name": "210206_Core_Number_Integration_and_Synthesis.mdx",
+          "title": "Core Number Integration and Synthesis",
+          "path": "2102_CoreNumberAnalysis/210206_Core_Number_Integration_and_Synthesis.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Advancednumerology",
+      "folder": "2103_AdvancedNumerology",
+      "children": [
+        {
+          "name": "210301_Maturity_Number_Calculation_and_Interpretation.mdx",
+          "title": "Maturity Number Calculation and Interpretation",
+          "path": "2103_AdvancedNumerology/210301_Maturity_Number_Calculation_and_Interpretation.mdx"
+        },
+        {
+          "name": "210302_Attitude_Sun_Number_Analysis.mdx",
+          "title": "Attitude Sun Number Analysis",
+          "path": "2103_AdvancedNumerology/210302_Attitude_Sun_Number_Analysis.mdx"
+        },
+        {
+          "name": "210303_Personal_Year_Month_and_Day_Cycles.mdx",
+          "title": "Personal Year_Month and Day Cycles",
+          "path": "2103_AdvancedNumerology/210303_Personal_Year_Month_and_Day_Cycles.mdx"
+        },
+        {
+          "name": "210304_Pinnacles_and_Challenges_Calculation.mdx",
+          "title": "Pinnacles and Challenges Calculation",
+          "path": "2103_AdvancedNumerology/210304_Pinnacles_and_Challenges_Calculation.mdx"
+        },
+        {
+          "name": "210305_Karmic_Debt_Numbers_13_14_16_19.mdx",
+          "title": "Karmic Debt Numbers_13_14_16_19",
+          "path": "2103_AdvancedNumerology/210305_Karmic_Debt_Numbers_13_14_16_19.mdx"
+        },
+        {
+          "name": "210306_Intensity_Numbers_and_Hidden_Passion_Analysis.mdx",
+          "title": "Intensity Numbers and Hidden Passion Analysis",
+          "path": "2103_AdvancedNumerology/210306_Intensity_Numbers_and_Hidden_Passion_Analysis.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Missingnumbersanalysis",
+      "folder": "2104_MissingNumbersAnalysis",
+      "children": [
+        {
+          "name": "210401_Missing_Number_Identification_Techniques.mdx",
+          "title": "Missing Number Identification Techniques",
+          "path": "2104_MissingNumbersAnalysis/210401_Missing_Number_Identification_Techniques.mdx"
+        },
+        {
+          "name": "210402_Missing_Number_Impact_Assessment.mdx",
+          "title": "Missing Number Impact Assessment",
+          "path": "2104_MissingNumbersAnalysis/210402_Missing_Number_Impact_Assessment.mdx"
+        },
+        {
+          "name": "210403_Chart_Balance_Analysis_and_Distribution.mdx",
+          "title": "Chart Balance Analysis and Distribution",
+          "path": "2104_MissingNumbersAnalysis/210403_Chart_Balance_Analysis_and_Distribution.mdx"
+        },
+        {
+          "name": "210404_Strengthening_Weak_Areas_and_Remedial_Methods.mdx",
+          "title": "Strengthening Weak Areas and Remedial Methods",
+          "path": "2104_MissingNumbersAnalysis/210404_Strengthening_Weak_Areas_and_Remedial_Methods.mdx"
+        },
+        {
+          "name": "210405_Number_Frequency_Analysis_and_Repetition_Patterns.mdx",
+          "title": "Number Frequency Analysis and Repetition Patterns",
+          "path": "2104_MissingNumbersAnalysis/210405_Number_Frequency_Analysis_and_Repetition_Patterns.mdx"
+        },
+        {
+          "name": "210406_Lo_Shu_Grid_Missing_Number_Analysis.mdx",
+          "title": "Lo Shu Grid Missing Number Analysis",
+          "path": "2104_MissingNumbersAnalysis/210406_Lo_Shu_Grid_Missing_Number_Analysis.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Namecorrection",
+      "folder": "2105_NameCorrection",
+      "children": [
+        {
+          "name": "210501_Name_Number_Calculation_and_Analysis.mdx",
+          "title": "Name Number Calculation and Analysis",
+          "path": "2105_NameCorrection/210501_Name_Number_Calculation_and_Analysis.mdx"
+        },
+        {
+          "name": "210502_Vibrational_Harmony_Assessment.mdx",
+          "title": "Vibrational Harmony Assessment",
+          "path": "2105_NameCorrection/210502_Vibrational_Harmony_Assessment.mdx"
+        },
+        {
+          "name": "210503_Strategic_Name_Modifications_and_Letter_Optimization.mdx",
+          "title": "Strategic Name Modifications and Letter Optimization",
+          "path": "2105_NameCorrection/210503_Strategic_Name_Modifications_and_Letter_Optimization.mdx"
+        },
+        {
+          "name": "210504_Professional_vs_Personal_Name_Considerations.mdx",
+          "title": "Professional vs Personal Name Considerations",
+          "path": "2105_NameCorrection/210504_Professional_vs_Personal_Name_Considerations.mdx"
+        },
+        {
+          "name": "210505_Implementation_Strategies_for_Name_Changes.mdx",
+          "title": "Implementation Strategies for Name Changes",
+          "path": "2105_NameCorrection/210505_Implementation_Strategies_for_Name_Changes.mdx"
+        },
+        {
+          "name": "210506_Vedic_Name_Selection_from_Nakshatra.mdx",
+          "title": "Vedic Name Selection from Nakshatra",
+          "path": "2105_NameCorrection/210506_Vedic_Name_Selection_from_Nakshatra.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Numerrelationshipscompatibility",
+      "folder": "2106_NumerRelationshipsCompatibility",
+      "children": [
+        {
+          "name": "210601_Friendly_Enemy_Neutral_Number_Classification.mdx",
+          "title": "Friendly_Enemy & Neutral Number Classification",
+          "path": "2106_NumerRelationshipsCompatibility/210601_Friendly_Enemy_Neutral_Number_Classification.mdx"
+        },
+        {
+          "name": "210602_Romantic_Compatibility_Analysis_Using_Core_Numbers.mdx",
+          "title": "Romantic Compatibility Analysis Using Core Numbers",
+          "path": "2106_NumerRelationshipsCompatibility/210602_Romantic_Compatibility_Analysis_Using_Core_Numbers.mdx"
+        },
+        {
+          "name": "210603_Business_Partnership_Evaluation_and_Professional_Harmony.mdx",
+          "title": "Business Partnership Evaluation and Professional Harmony",
+          "path": "2106_NumerRelationshipsCompatibility/210603_Business_Partnership_Evaluation_and_Professional_Harmony.mdx"
+        },
+        {
+          "name": "210604_Family_Dynamics_Through_Numerological_Analysis.mdx",
+          "title": "Family Dynamics Through Numerological Analysis",
+          "path": "2106_NumerRelationshipsCompatibility/210604_Family_Dynamics_Through_Numerological_Analysis.mdx"
+        },
+        {
+          "name": "210605_Number_Synergy_and_Conflict_Resolution_Strategies.mdx",
+          "title": "Number Synergy and Conflict Resolution Strategies",
+          "path": "2106_NumerRelationshipsCompatibility/210605_Number_Synergy_and_Conflict_Resolution_Strategies.mdx"
+        },
+        {
+          "name": "210606_Compound_Number_Relationships_and_Master_Number_Interactions.mdx",
+          "title": "Compound Number Relationships and Master Number Interactions",
+          "path": "2106_NumerRelationshipsCompatibility/210606_Compound_Number_Relationships_and_Master_Number_Interactions.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Vedicvswesternnumerology",
+      "folder": "2107_VedicVsWesternNumerology",
+      "children": [
+        {
+          "name": "210701_Vedic_Numerology_Principles_and_Samkhya_Philosophy_Integration.mdx",
+          "title": "Vedic Numerology Principles and Samkhya Philosophy Integration",
+          "path": "2107_VedicVsWesternNumerology/210701_Vedic_Numerology_Principles_and_Samkhya_Philosophy_Integration.mdx"
+        },
+        {
+          "name": "210702_Rahu_Ketu_Inclusion_and_Shadow_Planet_Influence.mdx",
+          "title": "Rahu-Ketu Inclusion and Shadow Planet Influence",
+          "path": "2107_VedicVsWesternNumerology/210702_Rahu_Ketu_Inclusion_and_Shadow_Planet_Influence.mdx"
+        },
+        {
+          "name": "210703_Western_Pythagorean_System_Foundations_and_Calculations.mdx",
+          "title": "Western Pythagorean System Foundations and Calculations",
+          "path": "2107_VedicVsWesternNumerology/210703_Western_Pythagorean_System_Foundations_and_Calculations.mdx"
+        },
+        {
+          "name": "210704_Cultural_Context_Differences_in_Number_Interpretation.mdx",
+          "title": "Cultural Context Differences in Number Interpretation",
+          "path": "2107_VedicVsWesternNumerology/210704_Cultural_Context_Differences_in_Number_Interpretation.mdx"
+        },
+        {
+          "name": "210705_Choosing_Appropriate_Numerology_Systems_for_Different_Purposes.mdx",
+          "title": "Choosing Appropriate Numerology Systems for Different Purposes",
+          "path": "2107_VedicVsWesternNumerology/210705_Choosing_Appropriate_Numerology_Systems_for_Different_Purposes.mdx"
+        },
+        {
+          "name": "210706_Planetary_Associations_and_Number_Planet_Correspondences.mdx",
+          "title": "Planetary Associations and Number-Planet Correspondences",
+          "path": "2107_VedicVsWesternNumerology/210706_Planetary_Associations_and_Number_Planet_Correspondences.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Loushugrid",
+      "folder": "2108_LouShuGrid",
+      "children": [
+        {
+          "name": "210801_Lou_Shu_Grid_Construction_and_Birth_Date_Number_Placement.mdx",
+          "title": "Lou Shu Grid Construction and Birth Date Number Placement",
+          "path": "2108_LouShuGrid/210801_Lou_Shu_Grid_Construction_and_Birth_Date_Number_Placement.mdx"
+        },
+        {
+          "name": "210802_Raj_Yoga_Identification_and_Diagonal_Success_Patterns.mdx",
+          "title": "Raj Yoga Identification and Diagonal Success Patterns",
+          "path": "2108_LouShuGrid/210802_Raj_Yoga_Identification_and_Diagonal_Success_Patterns.mdx"
+        },
+        {
+          "name": "210803_Small_Arrow_Combinations_and_Minor_Pattern_Analysis.mdx",
+          "title": "Small Arrow Combinations and Minor Pattern Analysis",
+          "path": "2108_LouShuGrid/210803_Small_Arrow_Combinations_and_Minor_Pattern_Analysis.mdx"
+        },
+        {
+          "name": "210804_Grid_Based_Predictions_and_Life_Area_Forecasting.mdx",
+          "title": "Grid-Based Predictions and Life Area Forecasting",
+          "path": "2108_LouShuGrid/210804_Grid_Based_Predictions_and_Life_Area_Forecasting.mdx"
+        },
+        {
+          "name": "210805_Driver_Conductor_and_Kua_Number_Integration_Analysis.mdx",
+          "title": "Driver, Conductor and Kua Number Integration Analysis",
+          "path": "2108_LouShuGrid/210805_Driver_Conductor_and_Kua_Number_Integration_Analysis.mdx"
+        },
+        {
+          "name": "210806_Missing_Numbers_Impact_and_Remedial_Grid_Analysis.mdx",
+          "title": "Missing Numbers Impact and Remedial Grid Analysis",
+          "path": "2108_LouShuGrid/210806_Missing_Numbers_Impact_and_Remedial_Grid_Analysis.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Predictivenumrologytiming",
+      "folder": "2109_PredictiveNumrologyTiming",
+      "children": [
+        {
+          "name": "210901_Personal_Year_Progression_and_9_Year_Cycle_Analysis.mdx",
+          "title": "Personal Year Progression and 9-Year Cycle Analysis",
+          "path": "2109_PredictiveNumrologyTiming/210901_Personal_Year_Progression_and_9_Year_Cycle_Analysis.mdx"
+        },
+        {
+          "name": "210902_Monthly_and_Daily_Number_Influences_for_Short_Term_Predictions.mdx",
+          "title": "Monthly and Daily Number Influences for Short-Term Predictions",
+          "path": "2109_PredictiveNumrologyTiming/210902_Monthly_and_Daily_Number_Influences_for_Short_Term_Predictions.mdx"
+        },
+        {
+          "name": "210903_Event_Timing_Optimization_and_Favorable_Date_Selection.mdx",
+          "title": "Event Timing Optimization and Favorable Date Selection",
+          "path": "2109_PredictiveNumrologyTiming/210903_Event_Timing_Optimization_and_Favorable_Date_Selection.mdx"
+        },
+        {
+          "name": "210904_Life_Phase_Analysis_Through_Numerical_Progressions.mdx",
+          "title": "Life Phase Analysis Through Numerical Progressions",
+          "path": "2109_PredictiveNumrologyTiming/210904_Life_Phase_Analysis_Through_Numerical_Progressions.mdx"
+        },
+        {
+          "name": "210905_Crisis_and_Opportunity_Prediction_Using_Challenge_Numbers.mdx",
+          "title": "Crisis and Opportunity Prediction Using Challenge Numbers",
+          "path": "2109_PredictiveNumrologyTiming/210905_Crisis_and_Opportunity_Prediction_Using_Challenge_Numbers.mdx"
+        },
+        {
+          "name": "210906_Pinnacle_Periods_and_Peak_Performance_Timing.mdx",
+          "title": "Pinnacle Periods and Peak Performance Timing",
+          "path": "2109_PredictiveNumrologyTiming/210906_Pinnacle_Periods_and_Peak_Performance_Timing.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Masterlevelremedies",
+      "folder": "2110_MasterLevelRemedies",
+      "children": [
+        {
+          "name": "211001_Number_Group_Themes_and_Unifying_Pattern_Recognition.mdx",
+          "title": "Number Group Themes and Unifying Pattern Recognition",
+          "path": "2110_MasterLevelRemedies/211001_Number_Group_Themes_and_Unifying_Pattern_Recognition.mdx"
+        },
+        {
+          "name": "211002_Holistic_Chart_Synthesis_and_Coherent_Life_Narrative_Creation.mdx",
+          "title": "Holistic Chart Synthesis and Coherent Life Narrative Creation",
+          "path": "2110_MasterLevelRemedies/211002_Holistic_Chart_Synthesis_and_Coherent_Life_Narrative_Creation.mdx"
+        },
+        {
+          "name": "211003_Professional_Consultation_Techniques_and_Reading_Structure.mdx",
+          "title": "Professional Consultation Techniques and Reading Structure",
+          "path": "2110_MasterLevelRemedies/211003_Professional_Consultation_Techniques_and_Reading_Structure.mdx"
+        },
+        {
+          "name": "211004_Advanced_Remedial_Measures_and_Sophisticated_Balancing_Techniques.mdx",
+          "title": "Advanced Remedial Measures and Sophisticated Balancing Techniques",
+          "path": "2110_MasterLevelRemedies/211004_Advanced_Remedial_Measures_and_Sophisticated_Balancing_Techniques.mdx"
+        },
+        {
+          "name": "211005_Research_and_System_Development_for_New_Methodologies.mdx",
+          "title": "Research and System Development for New Methodologies",
+          "path": "2110_MasterLevelRemedies/211005_Research_and_System_Development_for_New_Methodologies.mdx"
+        },
+        {
+          "name": "211006_Advanced_Training_Standards_and_Professional_Certification_Pathways.mdx",
+          "title": "Advanced Training Standards and Professional Certification Pathways",
+          "path": "2110_MasterLevelRemedies/211006_Advanced_Training_Standards_and_Professional_Certification_Pathways.mdx"
+        }
+      ]
+    }
+  ]
+}
