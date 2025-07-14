@@ -1,0 +1,34 @@
+{
+  "2101 Foundation": [
+    {
+      "file": "210101_Basic_Number_Meanings_1_9.mdx",
+      "title": "Basic Number Meanings 1 9",
+      "order": 210101
+    },
+    {
+      "file": "210102_Number_Calculation_Methods.mdx",
+      "title": "Number Calculation Methods",
+      "order": 210102
+    },
+    {
+      "file": "210103_Introduction_to_Core_Numbers.mdx",
+      "title": "Introduction to Core Numbers",
+      "order": 210103
+    },
+    {
+      "file": "210104_Master_Numbers_11_22_33.mdx",
+      "title": "Master Numbers 11 22 33",
+      "order": 210104
+    },
+    {
+      "file": "210105_Basic_Chart_Construction.mdx",
+      "title": "Basic Chart Construction",
+      "order": 210105
+    },
+    {
+      "file": "210106_Simple_Number_Interpretation_Techniques.mdx",
+      "title": "Simple Number Interpretation Techniques",
+      "order": 210106
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "0402 Yogini Dasha": [
+    {
+      "file": "0501_Mangala_Moon_1.mdx",
+      "title": "Mangala Moon 1",
+      "order": 501
+    },
+    {
+      "file": "0502_Pingala_Sun_2.mdx",
+      "title": "Pingala Sun 2",
+      "order": 502
+    },
+    {
+      "file": "0503_Dhanya_Jupiter_3.mdx",
+      "title": "Dhanya Jupiter 3",
+      "order": 503
+    },
+    {
+      "file": "0504_Bhramari_Mars_4.mdx",
+      "title": "Bhramari Mars 4",
+      "order": 504
+    },
+    {
+      "file": "0505_Bhadrika_Mercury_5.mdx",
+      "title": "Bhadrika Mercury 5",
+      "order": 505
+    },
+    {
+      "file": "0506_Ulka_Saturn_6.mdx",
+      "title": "Ulka Saturn 6",
+      "order": 506
+    },
+    {
+      "file": "0507_Siddha_Venus_7.mdx",
+      "title": "Siddha Venus 7",
+      "order": 507
+    },
+    {
+      "file": "0508_Sankata_Rahu_8.mdx",
+      "title": "Sankata Rahu 8",
+      "order": 508
+    }
+  ]
+}

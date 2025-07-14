@@ -1,0 +1,1029 @@
+{
+  "Documentation": [
+    {
+      "title": "Intro",
+      "folder": "1801_Intro",
+      "children": [
+        {
+          "name": "180101_History_of_Lord_Vishwakarma_Mayasur.mdx",
+          "title": "History of Lord Vishwakarma & Mayasur",
+          "path": "1801_Intro/180101_History_of_Lord_Vishwakarma_Mayasur.mdx"
+        },
+        {
+          "name": "180102_Evolution_of_Vastu_Principles_from_Ancient_to_Modern_Times.mdx",
+          "title": "Evolution of Vastu Principles from Ancient to Modern Times",
+          "path": "1801_Intro/180102_Evolution_of_Vastu_Principles_from_Ancient_to_Modern_Times.mdx"
+        },
+        {
+          "name": "180103_Difference_Between_Vastu_and_Other_Occult_Sciences.mdx",
+          "title": "Difference Between Vastu and Other Occult Sciences",
+          "path": "1801_Intro/180103_Difference_Between_Vastu_and_Other_Occult_Sciences.mdx"
+        },
+        {
+          "name": "180104_Introduction_to_Vastu_Purush_Mandala.mdx",
+          "title": "Introduction to Vastu Purush Mandala",
+          "path": "1801_Intro/180104_Introduction_to_Vastu_Purush_Mandala.mdx"
+        },
+        {
+          "name": "180105_Vedic_Foundations_of_Vastu_Shastra.mdx",
+          "title": "Vedic Foundations of Vastu Shastra",
+          "path": "1801_Intro/180105_Vedic_Foundations_of_Vastu_Shastra.mdx"
+        },
+        {
+          "name": "180106_Historical_Development_Through_Ancient_Texts.mdx",
+          "title": "Historical Development Through Ancient Texts",
+          "path": "1801_Intro/180106_Historical_Development_Through_Ancient_Texts.mdx"
+        },
+        {
+          "name": "180107_Regional_Variations_of_Vastu_Across_India.mdx",
+          "title": "Regional Variations of Vastu Across India",
+          "path": "1801_Intro/180107_Regional_Variations_of_Vastu_Across_India.mdx"
+        },
+        {
+          "name": "180108_Vastu_in_Ancient_Temple_Architecture.mdx",
+          "title": "Vastu in Ancient Temple Architecture",
+          "path": "1801_Intro/180108_Vastu_in_Ancient_Temple_Architecture.mdx"
+        },
+        {
+          "name": "180109_Scientific_Basis_of_Vastu_Shastra.mdx",
+          "title": "Scientific Basis of Vastu Shastra",
+          "path": "1801_Intro/180109_Scientific_Basis_of_Vastu_Shastra.mdx"
+        },
+        {
+          "name": "180110_Vastu_and_Sacred_Geometry.mdx",
+          "title": "Vastu and Sacred Geometry",
+          "path": "1801_Intro/180110_Vastu_and_Sacred_Geometry.mdx"
+        },
+        {
+          "name": "180111_Historical_Timeline_of_Vastu_Development.mdx",
+          "title": "Historical Timeline of Vastu Development",
+          "path": "1801_Intro/180111_Historical_Timeline_of_Vastu_Development.mdx"
+        },
+        {
+          "name": "180112_Vastu_in_Ancient_Civilizations_Beyond_India.mdx",
+          "title": "Vastu in Ancient Civilizations Beyond India",
+          "path": "1801_Intro/180112_Vastu_in_Ancient_Civilizations_Beyond_India.mdx"
+        },
+        {
+          "name": "180113_Colonial_Influence_and_Decline_of_Traditional_Vastu.mdx",
+          "title": "Colonial Influence and Decline of Traditional Vastu",
+          "path": "1801_Intro/180113_Colonial_Influence_and_Decline_of_Traditional_Vastu.mdx"
+        },
+        {
+          "name": "180114_Philosophical_Underpinnings_of_Vastu_Shastra.mdx",
+          "title": "Philosophical Underpinnings of Vastu Shastra",
+          "path": "1801_Intro/180114_Philosophical_Underpinnings_of_Vastu_Shastra.mdx"
+        },
+        {
+          "name": "180115_Vastu_Terminology_and_Basic_Concepts.mdx",
+          "title": "Vastu Terminology and Basic Concepts",
+          "path": "1801_Intro/180115_Vastu_Terminology_and_Basic_Concepts.mdx"
+        },
+        {
+          "name": "180116_Mythological_Stories_Related_to_Vastu.mdx",
+          "title": "Mythological Stories Related to Vastu",
+          "path": "1801_Intro/180116_Mythological_Stories_Related_to_Vastu.mdx"
+        },
+        {
+          "name": "180117_Introduction_to_Five_Elements_Pancha_Bhutas.mdx",
+          "title": "Introduction to Five Elements (Pancha Bhutas)",
+          "path": "1801_Intro/180117_Introduction_to_Five_Elements_Pancha_Bhutas.mdx"
+        },
+        {
+          "name": "180118_Historical_Patronage_of_Vastu_by_Kings_and_Emperors.mdx",
+          "title": "Historical Patronage of Vastu by Kings and Emperors",
+          "path": "1801_Intro/180118_Historical_Patronage_of_Vastu_by_Kings_and_Emperors.mdx"
+        },
+        {
+          "name": "180119_vastus_connection_to_ayurveda_and_jyotish.mdx",
+          "title": "Vastu's Connection to Ayurveda and Jyotish",
+          "path": "1801_Intro/180119_vastus_connection_to_ayurveda_and_jyotish.mdx"
+        },
+        {
+          "name": "180120_Contemporary_Relevance_of_Ancient_Vastu.mdx",
+          "title": "Contemporary Relevance of Ancient Vastu",
+          "path": "1801_Intro/180120_Contemporary_Relevance_of_Ancient_Vastu.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Five Elements",
+      "folder": "1802_Five_Elements",
+      "children": [
+        {
+          "name": "180201_Understanding_the_Five_Elements_Earth_Water_Fire_Air_Space.mdx",
+          "title": "Understanding the Five Elements: Earth, Water, Fire, Air, and Space",
+          "path": "1802_Five_Elements/180201_Understanding_the_Five_Elements_Earth_Water_Fire_Air_Space.mdx"
+        },
+        {
+          "name": "180202_Importance_and_Characteristics_of_the_Five_Elements.mdx",
+          "title": "Importance and Characteristics of the Five Elements",
+          "path": "1802_Five_Elements/180202_Importance_and_Characteristics_of_the_Five_Elements.mdx"
+        },
+        {
+          "name": "180203_Balancing_Elements_in_Architectural_Design.mdx",
+          "title": "Balancing Elements in Architectural Design",
+          "path": "1802_Five_Elements/180203_Balancing_Elements_in_Architectural_Design.mdx"
+        },
+        {
+          "name": "180204_Prithvi_Earth_Element_in_Vastu.mdx",
+          "title": "Earth Element (Prithvi) in Vastu",
+          "path": "1802_Five_Elements/180204_Prithvi_Earth_Element_in_Vastu.mdx"
+        },
+        {
+          "name": "180205_Jal_Water_Element_in_Vastu.mdx",
+          "title": "Water Element (Jal) in Vastu",
+          "path": "1802_Five_Elements/180205_Jal_Water_Element_in_Vastu.mdx"
+        },
+        {
+          "name": "180206_Agni_Fire_Element_in_Vastu.mdx",
+          "title": "Fire Element (Agni) in Vastu",
+          "path": "1802_Five_Elements/180206_Agni_Fire_Element_in_Vastu.mdx"
+        },
+        {
+          "name": "180207_Vayu_Air_Element_Vayu_in_Vastu.mdx",
+          "title": "Air Element (Vayu) in Vastu",
+          "path": "1802_Five_Elements/180207_Vayu_Air_Element_Vayu_in_Vastu.mdx"
+        },
+        {
+          "name": "180208_Akasha_Space_Ether_Element_in_Vastu.mdx",
+          "title": "Akasha_Space Ether Element in Vastu",
+          "path": "1802_Five_Elements/180208_Akasha_Space_Ether_Element_in_Vastu.mdx"
+        },
+        {
+          "name": "180209_Elemental_Zones_in_the_Vastu_Mandala.mdx",
+          "title": "Elemental Zones in the Vastu Mandala",
+          "path": "1802_Five_Elements/180209_Elemental_Zones_in_the_Vastu_Mandala.mdx"
+        },
+        {
+          "name": "180210_Elemental_Imbalances_and_Their_Effects.mdx",
+          "title": "Elemental Imbalances and Their Effects",
+          "path": "1802_Five_Elements/180210_Elemental_Imbalances_and_Their_Effects.mdx"
+        },
+        {
+          "name": "180211_Remedial_Measures_for_Elemental_Harmony.mdx",
+          "title": "Remedial Measures for Elemental Harmony",
+          "path": "1802_Five_Elements/180211_Remedial_Measures_for_Elemental_Harmony.mdx"
+        },
+        {
+          "name": "180212_Scientific_Perspective_on_the_Five_Elements.mdx",
+          "title": "Scientific Perspective on the Five Elements",
+          "path": "1802_Five_Elements/180212_Scientific_Perspective_on_the_Five_Elements.mdx"
+        },
+        {
+          "name": "180213_Elemental_Correspondences_in_Vastu.mdx",
+          "title": "Elemental Correspondences in Vastu",
+          "path": "1802_Five_Elements/180213_Elemental_Correspondences_in_Vastu.mdx"
+        },
+        {
+          "name": "180214_Seasonal_Variations_and_Elemental_Adjustments.mdx",
+          "title": "Seasonal Variations and Elemental Adjustments",
+          "path": "1802_Five_Elements/180214_Seasonal_Variations_and_Elemental_Adjustments.mdx"
+        },
+        {
+          "name": "180215_Elemental_Principles_in_Different_Building_Types.mdx",
+          "title": "Elemental Principles in Different Building Types",
+          "path": "1802_Five_Elements/180215_Elemental_Principles_in_Different_Building_Types.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Directions",
+      "folder": "1803_Directions",
+      "children": [
+        {
+          "name": "180301_understanding_the_vastu_purusha_mandala.mdx",
+          "title": "Understanding the Vastu Purusha Mandala",
+          "path": "1803_Directions/180301_understanding_the_vastu_purusha_mandala.mdx"
+        },
+        {
+          "name": "180302_origin_and_mythology_of_vastu_purusha.mdx",
+          "title": "Origin and Mythology of Vastu Purusha",
+          "path": "1803_Directions/180302_origin_and_mythology_of_vastu_purusha.mdx"
+        },
+        {
+          "name": "180303_the_45_deities_of_vastu_mandala.mdx",
+          "title": "The 45 Deities of Vastu Mandala",
+          "path": "1803_Directions/180303_the_45_deities_of_vastu_mandala.mdx"
+        },
+        {
+          "name": "180304_marma_points_in_vastu_purusha_mandala.mdx",
+          "title": "Marma Points in Vastu Purusha Mandala",
+          "path": "1803_Directions/180304_marma_points_in_vastu_purusha_mandala.mdx"
+        },
+        {
+          "name": "180305_cardinal_directions_east_west_north_south.mdx",
+          "title": "Cardinal Directions_East_West_North_South",
+          "path": "1803_Directions/180305_cardinal_directions_east_west_north_south.mdx"
+        },
+        {
+          "name": "180306_east_direction_purva_in_vastu.mdx",
+          "title": "East Direction_Purva_in Vastu",
+          "path": "1803_Directions/180306_east_direction_purva_in_vastu.mdx"
+        },
+        {
+          "name": "180307_west_direction_paschim_in_vastu.mdx",
+          "title": "West Direction_Paschim_in Vastu",
+          "path": "1803_Directions/180307_west_direction_paschim_in_vastu.mdx"
+        },
+        {
+          "name": "180308_north_direction_uttar_in_vastu.mdx",
+          "title": "North Direction_Uttar_in Vastu",
+          "path": "1803_Directions/180308_north_direction_uttar_in_vastu.mdx"
+        },
+        {
+          "name": "180309_south_direction_dakshin_in_vastu.mdx",
+          "title": "South Direction_Dakshin_in Vastu",
+          "path": "1803_Directions/180309_south_direction_dakshin_in_vastu.mdx"
+        },
+        {
+          "name": "180310_ordinal_directions_ne_se_sw_nw.mdx",
+          "title": "Ordinal Directions_NE_SE_SW_NW",
+          "path": "1803_Directions/180310_ordinal_directions_ne_se_sw_nw.mdx"
+        },
+        {
+          "name": "180311_northeast_direction_ishanya_in_vastu.mdx",
+          "title": "Northeast Direction_Ishanya_in Vastu",
+          "path": "1803_Directions/180311_northeast_direction_ishanya_in_vastu.mdx"
+        },
+        {
+          "name": "180312_southeast_direction_agneya_in_vastu.mdx",
+          "title": "Southeast Direction_Agneya_in Vastu",
+          "path": "1803_Directions/180312_southeast_direction_agneya_in_vastu.mdx"
+        },
+        {
+          "name": "180313_southwest_direction_nairutya_in_vastu.mdx",
+          "title": "Southwest Direction_Nairutya_in Vastu",
+          "path": "1803_Directions/180313_southwest_direction_nairutya_in_vastu.mdx"
+        },
+        {
+          "name": "180314_northwest_direction_vayavya_in_vastu.mdx",
+          "title": "Northwest Direction_Vayavya_in Vastu",
+          "path": "1803_Directions/180314_northwest_direction_vayavya_in_vastu.mdx"
+        },
+        {
+          "name": "180315_Sub_Directions_NNE_ENE_ESE_SSE.mdx",
+          "title": "Sub-Directions_NNE_ENE_ESE_SSE",
+          "path": "1803_Directions/180315_Sub_Directions_NNE_ENE_ESE_SSE.mdx"
+        },
+        {
+          "name": "180316_directional_strength_digbala_of_planets.mdx",
+          "title": "Directional Strength_Digbala_of Planets",
+          "path": "1803_Directions/180316_directional_strength_digbala_of_planets.mdx"
+        },
+        {
+          "name": "180317_using_magnetic_compass_for_directional_accuracy.mdx",
+          "title": "Using Magnetic Compass for Directional Accuracy",
+          "path": "1803_Directions/180317_using_magnetic_compass_for_directional_accuracy.mdx"
+        },
+        {
+          "name": "180318_energy_fields_and_pathways_in_vastu_mandala.mdx",
+          "title": "Energy Fields and Pathways in Vastu Mandala",
+          "path": "1803_Directions/180318_energy_fields_and_pathways_in_vastu_mandala.mdx"
+        },
+        {
+          "name": "180319_deva_vithi_and_manushya_vithi_energy_fields.mdx",
+          "title": "Deva Vithi and Manushya Vithi Energy Fields",
+          "path": "1803_Directions/180319_deva_vithi_and_manushya_vithi_energy_fields.mdx"
+        },
+        {
+          "name": "180320_vastu_purusha_installation_and_placement.mdx",
+          "title": "Vastu Purusha Installation and Placement",
+          "path": "1803_Directions/180320_vastu_purusha_installation_and_placement.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Residental Vastu",
+      "folder": "1804_Residental_Vastu",
+      "children": [
+        {
+          "name": "180401_Master_Bedroom_Vastu_Placement_and_Size.mdx",
+          "title": "Master Bedroom Vastu Placement and Size",
+          "path": "1804_Residental_Vastu/180401_Master_Bedroom_Vastu_Placement_and_Size.mdx"
+        },
+        {
+          "name": "180402_childrens_room_vastu_guidelines.mdx",
+          "title": "Children's Room Vastu Guidelines",
+          "path": "1804_Residental_Vastu/180402_childrens_room_vastu_guidelines.mdx"
+        },
+        {
+          "name": "180403_Kitchen_Placement_and_Design_as_per_Vastu.mdx",
+          "title": "Kitchen Placement and Design as per Vastu",
+          "path": "1804_Residental_Vastu/180403_Kitchen_Placement_and_Design_as_per_Vastu.mdx"
+        },
+        {
+          "name": "180404_Pooja_Room_Direction_and_Design_Elements.mdx",
+          "title": "Pooja Room Direction and Design Elements",
+          "path": "1804_Residental_Vastu/180404_Pooja_Room_Direction_and_Design_Elements.mdx"
+        },
+        {
+          "name": "180405_Living_Room_Vastu_and_Furniture_Arrangement.mdx",
+          "title": "Living Room Vastu and Furniture Arrangement",
+          "path": "1804_Residental_Vastu/180405_Living_Room_Vastu_and_Furniture_Arrangement.mdx"
+        },
+        {
+          "name": "180406_Main_Entrance_Door_Direction_and_Design.mdx",
+          "title": "Main Entrance Door Direction and Design",
+          "path": "1804_Residental_Vastu/180406_Main_Entrance_Door_Direction_and_Design.mdx"
+        },
+        {
+          "name": "180407_Bathroom_and_Toilet_Placement_as_per_Vastu.mdx",
+          "title": "Bathroom and Toilet Placement as per Vastu",
+          "path": "1804_Residental_Vastu/180407_Bathroom_and_Toilet_Placement_as_per_Vastu.mdx"
+        },
+        {
+          "name": "180408_Guest_Room_Vastu_for_Positive_Energy.mdx",
+          "title": "Guest Room Vastu for Positive Energy",
+          "path": "1804_Residental_Vastu/180408_Guest_Room_Vastu_for_Positive_Energy.mdx"
+        },
+        {
+          "name": "180409_Home_Office_Placement_and_Desk_Orientation.mdx",
+          "title": "Home Office Placement and Desk Orientation",
+          "path": "1804_Residental_Vastu/180409_Home_Office_Placement_and_Desk_Orientation.mdx"
+        },
+        {
+          "name": "180410_Vastu_for_Multi_Story_Residential_Buildings.mdx",
+          "title": "Vastu for Multi-Story Residential Buildings",
+          "path": "1804_Residental_Vastu/180410_Vastu_for_Multi_Story_Residential_Buildings.mdx"
+        },
+        {
+          "name": "180411_Dining_Room_Placement_and_Table_Orientation.mdx",
+          "title": "Dining Room Placement and Table Orientation",
+          "path": "1804_Residental_Vastu/180411_Dining_Room_Placement_and_Table_Orientation.mdx"
+        },
+        {
+          "name": "180412_Vastu_for_Balconies_and_Outdoor_Spaces.mdx",
+          "title": "Vastu for Balconies and Outdoor Spaces",
+          "path": "1804_Residental_Vastu/180412_Vastu_for_Balconies_and_Outdoor_Spaces.mdx"
+        },
+        {
+          "name": "180413_Study_Room_Vastu_for_Academic_Success.mdx",
+          "title": "Study Room Vastu for Academic Success",
+          "path": "1804_Residental_Vastu/180413_Study_Room_Vastu_for_Academic_Success.mdx"
+        },
+        {
+          "name": "180414_Vastu_for_Staircases_in_Residential_Homes.mdx",
+          "title": "Vastu for Staircases in Residential Homes",
+          "path": "1804_Residental_Vastu/180414_Vastu_for_Staircases_in_Residential_Homes.mdx"
+        },
+        {
+          "name": "180415_Storage_and_Utility_Room_Vastu.mdx",
+          "title": "Storage and Utility Room Vastu",
+          "path": "1804_Residental_Vastu/180415_Storage_and_Utility_Room_Vastu.mdx"
+        },
+        {
+          "name": "180416_Vastu_for_Residential_Plot_Selection.mdx",
+          "title": "Vastu for Residential Plot Selection",
+          "path": "1804_Residental_Vastu/180416_Vastu_for_Residential_Plot_Selection.mdx"
+        },
+        {
+          "name": "180417_Vastu_for_Basements_in_Residential_Homes.mdx",
+          "title": "Vastu for Basements in Residential Homes",
+          "path": "1804_Residental_Vastu/180417_Vastu_for_Basements_in_Residential_Homes.mdx"
+        },
+        {
+          "name": "180418_Town_Planning_Principles_According_to_Vastu.mdx",
+          "title": "Town Planning Principles According to Vastu",
+          "path": "1804_Residental_Vastu/180418_Town_Planning_Principles_According_to_Vastu.mdx"
+        },
+        {
+          "name": "180418_Vastu_Remedies_for_Existing_Residential_Structures.mdx",
+          "title": "Vastu Remedies for Existing Residential Structures",
+          "path": "1804_Residental_Vastu/180418_Vastu_Remedies_for_Existing_Residential_Structures.mdx"
+        },
+        {
+          "name": "180419_Vastu_for_Gardens_and_Landscaping.mdx",
+          "title": "Vastu for Gardens and Landscaping",
+          "path": "1804_Residental_Vastu/180419_Vastu_for_Gardens_and_Landscaping.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Commercial Industrial Vastu",
+      "folder": "1805_Commercial_Industrial_Vastu",
+      "children": [
+        {
+          "name": "180501_office_seating_arrangements_and_the_winning_seat_concept.mdx",
+          "title": "Office Seating Arrangements and the Winning Seat Concept",
+          "path": "1805_Commercial_Industrial_Vastu/180501_office_seating_arrangements_and_the_winning_seat_concept.mdx"
+        },
+        {
+          "name": "180502_boss_cabin_placement_and_orientation.mdx",
+          "title": "Boss Cabin Placement and Orientation",
+          "path": "1805_Commercial_Industrial_Vastu/180502_boss_cabin_placement_and_orientation.mdx"
+        },
+        {
+          "name": "180503_factory_and_industrial_setup_vastu_guidelines.mdx",
+          "title": "Factory and Industrial Setup Vastu Guidelines",
+          "path": "1805_Commercial_Industrial_Vastu/180503_factory_and_industrial_setup_vastu_guidelines.mdx"
+        },
+        {
+          "name": "180504_vastu_for_business_prosperity_and_growth.mdx",
+          "title": "Vastu for Business Prosperity and Growth",
+          "path": "1805_Commercial_Industrial_Vastu/180504_vastu_for_business_prosperity_and_growth.mdx"
+        },
+        {
+          "name": "180505_ideal_commercial_plot_selection_and_proportions.mdx",
+          "title": "Ideal Commercial Plot Selection and Proportions",
+          "path": "1805_Commercial_Industrial_Vastu/180505_ideal_commercial_plot_selection_and_proportions.mdx"
+        },
+        {
+          "name": "180506_commercial_building_entrance_and_reception_design.mdx",
+          "title": "Commercial Building Entrance and Reception Design",
+          "path": "1805_Commercial_Industrial_Vastu/180506_commercial_building_entrance_and_reception_design.mdx"
+        },
+        {
+          "name": "180507_cash_counter_and_financial_area_placement.mdx",
+          "title": "Cash Counter and Financial Area Placement",
+          "path": "1805_Commercial_Industrial_Vastu/180507_cash_counter_and_financial_area_placement.mdx"
+        },
+        {
+          "name": "180508_production_and_manufacturing_area_vastu.mdx",
+          "title": "Production and Manufacturing Area Vastu",
+          "path": "1805_Commercial_Industrial_Vastu/180508_production_and_manufacturing_area_vastu.mdx"
+        },
+        {
+          "name": "180509_storage_and_inventory_management_in_commercial_vastu.mdx",
+          "title": "Storage and Inventory Management in Commercial Vastu",
+          "path": "1805_Commercial_Industrial_Vastu/180509_storage_and_inventory_management_in_commercial_vastu.mdx"
+        },
+        {
+          "name": "180510_employee_seating_for_maximum_productivity.mdx",
+          "title": "Employee Seating for Maximum Productivity",
+          "path": "1805_Commercial_Industrial_Vastu/180510_employee_seating_for_maximum_productivity.mdx"
+        },
+        {
+          "name": "180511_commercial_complex_and_shopping_mall_vastu.mdx",
+          "title": "Commercial Complex and Shopping Mall Vastu",
+          "path": "1805_Commercial_Industrial_Vastu/180511_commercial_complex_and_shopping_mall_vastu.mdx"
+        },
+        {
+          "name": "180512_vastu_for_retail_shops_and_customer_flow.mdx",
+          "title": "Vastu for Retail Shops and Customer Flow",
+          "path": "1805_Commercial_Industrial_Vastu/180512_vastu_for_retail_shops_and_customer_flow.mdx"
+        },
+        {
+          "name": "180513_industrial_land_topography_and_elevation_considerations.mdx",
+          "title": "Industrial Land Topography and Elevation Considerations",
+          "path": "1805_Commercial_Industrial_Vastu/180513_industrial_land_topography_and_elevation_considerations.mdx"
+        },
+        {
+          "name": "180514_water_and_fire_element_placement_in_commercial_vastu.mdx",
+          "title": "Water and Fire Element Placement in Commercial Vastu",
+          "path": "1805_Commercial_Industrial_Vastu/180514_water_and_fire_element_placement_in_commercial_vastu.mdx"
+        },
+        {
+          "name": "180515_vastu_for_office_technology_and_equipment.mdx",
+          "title": "Vastu for Office Technology and Equipment",
+          "path": "1805_Commercial_Industrial_Vastu/180515_vastu_for_office_technology_and_equipment.mdx"
+        },
+        {
+          "name": "180516_commercial_landscaping_and_exterior_vastu.mdx",
+          "title": "Commercial Landscaping and Exterior Vastu",
+          "path": "1805_Commercial_Industrial_Vastu/180516_commercial_landscaping_and_exterior_vastu.mdx"
+        },
+        {
+          "name": "180517_vastu_remedies_for_existing_commercial_spaces.mdx",
+          "title": "Vastu Remedies for Existing Commercial Spaces",
+          "path": "1805_Commercial_Industrial_Vastu/180517_vastu_remedies_for_existing_commercial_spaces.mdx"
+        },
+        {
+          "name": "180518_vastu_for_different_business_types_and_industries.mdx",
+          "title": "Vastu for Different Business Types and Industries",
+          "path": "1805_Commercial_Industrial_Vastu/180518_vastu_for_different_business_types_and_industries.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Plot selection Land Assessment",
+      "folder": "1806_Plot Selection_Land_Assessment",
+      "children": [
+        {
+          "name": "180601_methods_to_select_the_best_plot_according_to_vastu.mdx",
+          "title": "Methods to Select the Best Plot According to Vastu",
+          "path": "1806_Plot Selection_Land_Assessment/180601_methods_to_select_the_best_plot_according_to_vastu.mdx"
+        },
+        {
+          "name": "180602_ideal_plot_shapes_square_and_rectangular_plots.mdx",
+          "title": "Ideal Plot Shapes: Square and Rectangular Plots",
+          "path": "1806_Plot Selection_Land_Assessment/180602_ideal_plot_shapes_square_and_rectangular_plots.mdx"
+        },
+        {
+          "name": "180603_soil_density_testing_methods.mdx",
+          "title": "Soil Density Testing Methods",
+          "path": "1806_Plot Selection_Land_Assessment/180603_soil_density_testing_methods.mdx"
+        },
+        {
+          "name": "180604_water_absorption_and_moisture_testing.mdx",
+          "title": "Water Absorption and Moisture Testing",
+          "path": "1806_Plot Selection_Land_Assessment/180604_water_absorption_and_moisture_testing.mdx"
+        },
+        {
+          "name": "180605_land_fertility_and_seed_germination_test.mdx",
+          "title": "Land Fertility and Seed Germination Test",
+          "path": "1806_Plot Selection_Land_Assessment/180605_land_fertility_and_seed_germination_test.mdx"
+        },
+        {
+          "name": "180606_soil_color_smell_and_taste_evaluation.mdx",
+          "title": "Soil Color, Smell and Taste Evaluation",
+          "path": "1806_Plot Selection_Land_Assessment/180606_soil_color_smell_and_taste_evaluation.mdx"
+        },
+        {
+          "name": "180607_plot_slope_and_elevation_considerations.mdx",
+          "title": "Plot Slope and Elevation Considerations",
+          "path": "1806_Plot Selection_Land_Assessment/180607_plot_slope_and_elevation_considerations.mdx"
+        },
+        {
+          "name": "180608_wind_and_air_flow_testing_methods.mdx",
+          "title": "Wind and Air Flow Testing Methods",
+          "path": "1806_Plot Selection_Land_Assessment/180608_wind_and_air_flow_testing_methods.mdx"
+        },
+        {
+          "name": "180609_evaluating_irregular_and_triangular_plots.mdx",
+          "title": "Evaluating Irregular and Triangular Plots",
+          "path": "1806_Plot Selection_Land_Assessment/180609_evaluating_irregular_and_triangular_plots.mdx"
+        },
+        {
+          "name": "180610_corner_plots_and_road_adjacency_factors.mdx",
+          "title": "Corner Plots and Road Adjacency Factors",
+          "path": "1806_Plot Selection_Land_Assessment/180610_corner_plots_and_road_adjacency_factors.mdx"
+        },
+        {
+          "name": "180611_surrounding_environment_assessment.mdx",
+          "title": "Surrounding Environment Assessment",
+          "path": "1806_Plot Selection_Land_Assessment/180611_surrounding_environment_assessment.mdx"
+        },
+        {
+          "name": "180612_plot_history_and_previous_usage_evaluation.mdx",
+          "title": "Plot History and Previous Usage Evaluation",
+          "path": "1806_Plot Selection_Land_Assessment/180612_plot_history_and_previous_usage_evaluation.mdx"
+        },
+        {
+          "name": "180613_using_vastu_compass_for_directional_accuracy.mdx",
+          "title": "Using Vastu Compass for Directional Accuracy",
+          "path": "1806_Plot Selection_Land_Assessment/180613_using_vastu_compass_for_directional_accuracy.mdx"
+        },
+        {
+          "name": "180614_soil_radiation_and_energy_testing.mdx",
+          "title": "Soil Radiation and Energy Testing",
+          "path": "1806_Plot Selection_Land_Assessment/180614_soil_radiation_and_energy_testing.mdx"
+        },
+        {
+          "name": "180615_plot_size_and_proportions_evaluation.mdx",
+          "title": "Plot Size and Proportions Evaluation",
+          "path": "1806_Plot Selection_Land_Assessment/180615_plot_size_and_proportions_evaluation.mdx"
+        },
+        {
+          "name": "180616_remedial_measures_for_non_ideal_plots.mdx",
+          "title": "Remedial Measures for Non-Ideal Plots",
+          "path": "1806_Plot Selection_Land_Assessment/180616_remedial_measures_for_non_ideal_plots.mdx"
+        },
+        {
+          "name": "180617_commercial_vs_residential_plot_selection_criteria.mdx",
+          "title": "Commercial vs. Residential Plot Selection Criteria",
+          "path": "1806_Plot Selection_Land_Assessment/180617_commercial_vs_residential_plot_selection_criteria.mdx"
+        },
+        {
+          "name": "180618_scientific_basis_of_vastu_land_assessment.mdx",
+          "title": "Scientific Basis of Vastu Land Assessment",
+          "path": "1806_Plot Selection_Land_Assessment/180618_scientific_basis_of_vastu_land_assessment.mdx"
+        },
+        {
+          "name": "180619_consulting_with_vastu_experts_for_plot_selection.mdx",
+          "title": "Consulting with Vastu Experts for Plot Selection",
+          "path": "1806_Plot Selection_Land_Assessment/180619_consulting_with_vastu_experts_for_plot_selection.mdx"
+        },
+        {
+          "name": "180620_plot_selection_case_studies_and_examples.mdx",
+          "title": "Plot Selection Case Studies and Examples",
+          "path": "1806_Plot Selection_Land_Assessment/180620_plot_selection_case_studies_and_examples.mdx"
+        },
+        {
+          "name": "180701_identifying_vastu_doshas_through_observable_signs.mdx",
+          "title": "Identifying Vastu Doshas Through Observable Signs",
+          "path": "1806_Plot Selection_Land_Assessment/180701_identifying_vastu_doshas_through_observable_signs.mdx"
+        },
+        {
+          "name": "180702_primary_vs_secondary_vastu_defects_classification.mdx",
+          "title": "Primary vs. Secondary Vastu Defects Classification",
+          "path": "1806_Plot Selection_Land_Assessment/180702_primary_vs_secondary_vastu_defects_classification.mdx"
+        },
+        {
+          "name": "180703_directional_vastu_doshas_and_their_specific_effects.mdx",
+          "title": "Directional Vastu Doshas and Their Specific Effects",
+          "path": "1806_Plot Selection_Land_Assessment/180703_directional_vastu_doshas_and_their_specific_effects.mdx"
+        },
+        {
+          "name": "180704_non_structural_remedies_without_demolition.mdx",
+          "title": "Non-Structural Remedies Without Demolition",
+          "path": "1806_Plot Selection_Land_Assessment/180704_non_structural_remedies_without_demolition.mdx"
+        },
+        {
+          "name": "180705_use_of_colors_as_vastu_remedial_tools.mdx",
+          "title": "Use of Colors as Vastu Remedial Tools",
+          "path": "1806_Plot Selection_Land_Assessment/180705_use_of_colors_as_vastu_remedial_tools.mdx"
+        },
+        {
+          "name": "180706_shapes_symbols_and_yantras_as_vastu_remedies.mdx",
+          "title": "Shapes, Symbols and Yantras as Vastu Remedies",
+          "path": "1806_Plot Selection_Land_Assessment/180706_shapes_symbols_and_yantras_as_vastu_remedies.mdx"
+        },
+        {
+          "name": "180707_natural_elements_and_plants_for_vastu_correction.mdx",
+          "title": "Natural Elements and Plants for Vastu Correction",
+          "path": "1806_Plot Selection_Land_Assessment/180707_natural_elements_and_plants_for_vastu_correction.mdx"
+        },
+        {
+          "name": "180708_vastu_rituals_and_ceremonial_remedies.mdx",
+          "title": "Vastu Rituals and Ceremonial Remedies",
+          "path": "1806_Plot Selection_Land_Assessment/180708_vastu_rituals_and_ceremonial_remedies.mdx"
+        },
+        {
+          "name": "180709_technological_and_modern_vastu_remedial_devices.mdx",
+          "title": "Technological and Modern Vastu Remedial Devices",
+          "path": "1806_Plot Selection_Land_Assessment/180709_technological_and_modern_vastu_remedial_devices.mdx"
+        },
+        {
+          "name": "180710_case_studies_of_successful_vastu_defect_corrections.mdx",
+          "title": "Case Studies of Successful Vastu Defect Corrections",
+          "path": "1806_Plot Selection_Land_Assessment/180710_case_studies_of_successful_vastu_defect_corrections.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Vastu Defects Remedial Measures",
+      "folder": "1807_Vastu_Defects_Remedial_Measures",
+      "children": [
+        {
+          "name": "180701_identifying_vastu_doshas_through_observable_signs.mdx",
+          "title": "Identifying Vastu Doshas Through Observable Signs",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180701_identifying_vastu_doshas_through_observable_signs.mdx"
+        },
+        {
+          "name": "180702_primary_vs_secondary_vastu_defects_classification.mdx",
+          "title": "Primary vs. Secondary Vastu Defects Classification",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180702_primary_vs_secondary_vastu_defects_classification.mdx"
+        },
+        {
+          "name": "180703_directional_vastu_doshas_and_their_specific_effects.mdx",
+          "title": "Directional Vastu Doshas and Their Specific Effects",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180703_directional_vastu_doshas_and_their_specific_effects.mdx"
+        },
+        {
+          "name": "180704_non_structural_remedies_without_demolition.mdx",
+          "title": "Non-Structural Remedies Without Demolition",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180704_non_structural_remedies_without_demolition.mdx"
+        },
+        {
+          "name": "180705_use_of_colors_as_vastu_remedial_tools.mdx",
+          "title": "Use of Colors as Vastu Remedial Tools",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180705_use_of_colors_as_vastu_remedial_tools.mdx"
+        },
+        {
+          "name": "180706_shapes_symbols_and_yantras_as_vastu_remedies.mdx",
+          "title": "Shapes, Symbols and Yantras as Vastu Remedies",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180706_shapes_symbols_and_yantras_as_vastu_remedies.mdx"
+        },
+        {
+          "name": "180707_natural_elements_and_plants_for_vastu_correction.mdx",
+          "title": "Natural Elements and Plants for Vastu Correction",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180707_natural_elements_and_plants_for_vastu_correction.mdx"
+        },
+        {
+          "name": "180708_vastu_rituals_and_ceremonial_remedies.mdx",
+          "title": "Vastu Rituals and Ceremonial Remedies",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180708_vastu_rituals_and_ceremonial_remedies.mdx"
+        },
+        {
+          "name": "180709_technological_and_modern_vastu_remedial_devices.mdx",
+          "title": "Technological and Modern Vastu Remedial Devices",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180709_technological_and_modern_vastu_remedial_devices.mdx"
+        },
+        {
+          "name": "180710_case_studies_of_successful_vastu_defect_corrections.mdx",
+          "title": "Case Studies of Successful Vastu Defect Corrections",
+          "path": "1807_Vastu_Defects_Remedial_Measures/180710_case_studies_of_successful_vastu_defect_corrections.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Astro Vastu Astrology With Vastu",
+      "folder": "1808_Astro-Vastu_Astrology_with_Vastu",
+      "children": [
+        {
+          "name": "200801_relationship_between_astrology_and_vastu_shastra.mdx",
+          "title": "Relationship Between Astrology and Vastu Shastra: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200801_relationship_between_astrology_and_vastu_shastra.mdx"
+        },
+        {
+          "name": "200802_planetary_influences_on_directional_energies_in_vastu.mdx",
+          "title": "Planetary Influences on Directional Energies in Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200802_planetary_influences_on_directional_energies_in_vastu.mdx"
+        },
+        {
+          "name": "200803_birth_chart_analysis_for_personalized_vastu_recommendations.mdx",
+          "title": "Birth Chart Analysis for Personalized Vastu Recommendations: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200803_birth_chart_analysis_for_personalized_vastu_recommendations.mdx"
+        },
+        {
+          "name": "200804_nullifying_astrological_challenges_through_vastu_remedies.mdx",
+          "title": "Nullifying Astrological Challenges Through Vastu Remedies: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200804_nullifying_astrological_challenges_through_vastu_remedies.mdx"
+        },
+        {
+          "name": "200805_zodiac_signs_and_their_corresponding_vastu_zones.mdx",
+          "title": "Zodiac Signs and Their Corresponding Vastu Zones: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200805_zodiac_signs_and_their_corresponding_vastu_zones.mdx"
+        },
+        {
+          "name": "200806_timing_construction_activities_according_to_astrological_factors.mdx",
+          "title": "Timing Construction Activities According to Astrological Factors: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200806_timing_construction_activities_according_to_astrological_factors.mdx"
+        },
+        {
+          "name": "200807_rahu_and_ketu_managing_shadow_planets_in_vastu_implementation.mdx",
+          "title": "Rahu and Ketu: Managing Shadow Planets in Vastu Implementation: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200807_rahu_and_ketu_managing_shadow_planets_in_vastu_implementation.mdx"
+        },
+        {
+          "name": "200808_planetary_yantras_and_their_strategic_placement_in_vastu.mdx",
+          "title": "Planetary Yantras and Their Strategic Placement in Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200808_planetary_yantras_and_their_strategic_placement_in_vastu.mdx"
+        },
+        {
+          "name": "200809_vastu_dosha_nivaran_through_astrological_remedies.mdx",
+          "title": "Vastu Dosha Nivaran Through Astrological Remedies: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200809_vastu_dosha_nivaran_through_astrological_remedies.mdx"
+        },
+        {
+          "name": "200810_sun_and_moon_placement_in_astro_vastu_applications.mdx",
+          "title": "Sun and Moon Placement in Astro-Vastu Applications: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200810_sun_and_moon_placement_in_astro_vastu_applications.mdx"
+        },
+        {
+          "name": "200811_jupiter_and_mercury_harnessing_beneficial_planets_through_vastu.mdx",
+          "title": "Jupiter and Mercury: Harnessing Beneficial Planets Through Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200811_jupiter_and_mercury_harnessing_beneficial_planets_through_vastu.mdx"
+        },
+        {
+          "name": "200812_mars_and_venus_balancing_dynamic_energies_in_astro_vastu.mdx",
+          "title": "Mars and Venus: Balancing Dynamic Energies in Astro-Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200812_mars_and_venus_balancing_dynamic_energies_in_astro_vastu.mdx"
+        },
+        {
+          "name": "200813_saturns_influence_stability_and_discipline_through_western_direction.mdx",
+          "title": "Saturn's Influence: Stability and Discipline Through Western Direction: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200813_saturns_influence_stability_and_discipline_through_western_direction.mdx"
+        },
+        {
+          "name": "200814_elemental_correlations_between_astrology_and_vastu.mdx",
+          "title": "Elemental Correlations Between Astrology and Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200814_elemental_correlations_between_astrology_and_vastu.mdx"
+        },
+        {
+          "name": "200815_astrological_dashas_and_their_impact_on_vastu_effectiveness.mdx",
+          "title": "Astrological Dashas and Their Impact on Vastu Effectiveness: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200815_astrological_dashas_and_their_impact_on_vastu_effectiveness.mdx"
+        },
+        {
+          "name": "200816_birth_chart_compatibility_with_living_spaces.mdx",
+          "title": "Birth Chart Compatibility with Living Spaces: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200816_birth_chart_compatibility_with_living_spaces.mdx"
+        },
+        {
+          "name": "200817_astro_vastu_for_business_success_and_career_growth.mdx",
+          "title": "Astro-Vastu for Business Success and Career Growth: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200817_astro_vastu_for_business_success_and_career_growth.mdx"
+        },
+        {
+          "name": "200818_remedial_gemstones_and_crystals_in_astro_vastu.mdx",
+          "title": "Remedial Gemstones and Crystals in Astro-Vastu: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200818_remedial_gemstones_and_crystals_in_astro_vastu.mdx"
+        },
+        {
+          "name": "200819_astro_vastu_consultation_process_and_integration_techniques.mdx",
+          "title": "Astro-Vastu Consultation Process and Integration Techniques: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200819_astro_vastu_consultation_process_and_integration_techniques.mdx"
+        },
+        {
+          "name": "200820_case_studies_successful_applications_of_astro_vastu_principles.mdx",
+          "title": "Case Studies: Successful Applications of Astro-Vastu Principles: A Complete Guide",
+          "path": "1808_Astro-Vastu_Astrology_with_Vastu/200820_case_studies_successful_applications_of_astro_vastu_principles.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Vastu Concepts",
+      "folder": "1809_Advanced_Vastu_Concepts",
+      "children": [
+        {
+          "name": "180901_finding_the_center_of_irregular_plots.mdx",
+          "title": "Finding the Center of Irregular Plots in Vastu: A Complete Guide",
+          "path": "1809_Advanced_Vastu_Concepts/180901_finding_the_center_of_irregular_plots.mdx"
+        },
+        {
+          "name": "180902_door_balancing_theory_and_implementation.mdx",
+          "title": "Vastu Door Balancing Theory and Implementation: A Complete Guide",
+          "path": "1809_Advanced_Vastu_Concepts/180902_door_balancing_theory_and_implementation.mdx"
+        },
+        {
+          "name": "180903_strategic_utility_placements_in_modern_homes.mdx",
+          "title": "Strategic Utility Placements in Vastu for Modern Homes: A Complete Guide",
+          "path": "1809_Advanced_Vastu_Concepts/180903_strategic_utility_placements_in_modern_homes.mdx"
+        },
+        {
+          "name": "180904_energy_flow_optimization_in_multi_story_buildings.mdx",
+          "title": "Vastu for Multi-Story Buildings: A Guide to Vertical Energy Flow",
+          "path": "1809_Advanced_Vastu_Concepts/180904_energy_flow_optimization_in_multi_story_buildings.mdx"
+        },
+        {
+          "name": "180905_vastu_adaptations_for_compact_urban_apartments.mdx",
+          "title": "Vastu for Small Apartments: A Guide to Harmonizing Compact Urban Spaces",
+          "path": "1809_Advanced_Vastu_Concepts/180905_vastu_adaptations_for_compact_urban_apartments.mdx"
+        },
+        {
+          "name": "180906_non_invasive_remedial_measures_for_structural_flaws.mdx",
+          "title": "Vastu Remedies Without Demolition: A Guide to Non-Invasive Corrections",
+          "path": "1809_Advanced_Vastu_Concepts/180906_non_invasive_remedial_measures_for_structural_flaws.mdx"
+        },
+        {
+          "name": "180907_integration_of_vastu_with_contemporary_architecture.mdx",
+          "title": "Vastu and Contemporary Architecture: A Guide to Harmonious Modern Living",
+          "path": "1809_Advanced_Vastu_Concepts/180907_integration_of_vastu_with_contemporary_architecture.mdx"
+        },
+        {
+          "name": "180908_advanced_brahmasthan_utilization_techniques.mdx",
+          "title": "Advanced Brahmasthan Utilization: Mastering the Energetic Core of Your Home",
+          "path": "1809_Advanced_Vastu_Concepts/180908_advanced_brahmasthan_utilization_techniques.mdx"
+        },
+        {
+          "name": "180909_vastu_for_mixed_use_developments.mdx",
+          "title": "Vastu for Mixed-Use Developments: Harmonizing Commercial and Residential Energies",
+          "path": "1809_Advanced_Vastu_Concepts/180909_vastu_for_mixed_use_developments.mdx"
+        },
+        {
+          "name": "180910_geopathic_stress_identification_and_neutralization.mdx",
+          "title": "Geopathic Stress: Identifying and Neutralizing Earth’s Harmful Energies with Vastu",
+          "path": "1809_Advanced_Vastu_Concepts/180910_geopathic_stress_identification_and_neutralization.mdx"
+        },
+        {
+          "name": "180911_solar_energy_systems_in_vastu_compliant_design.mdx",
+          "title": "Solar Vastu: Integrating Solar Energy Systems with Vastu-Compliant Design",
+          "path": "1809_Advanced_Vastu_Concepts/180911_solar_energy_systems_in_vastu_compliant_design.mdx"
+        },
+        {
+          "name": "180912_yantra_matrix_configuration_for_energy_correction.mdx",
+          "title": "Yantra Matrix Configuration: Advanced Vastu for Corporate Energy Correction",
+          "path": "1809_Advanced_Vastu_Concepts/180912_yantra_matrix_configuration_for_energy_correction.mdx"
+        },
+        {
+          "name": "180914_acoustic_vastu_for_harmonic_environments.mdx",
+          "title": "Acoustic Vastu: Advanced Techniques for Creating Harmonic Environments",
+          "path": "1809_Advanced_Vastu_Concepts/180914_acoustic_vastu_for_harmonic_environments.mdx"
+        },
+        {
+          "name": "180915_chromotherapy_applications_in_advanced_vastu.mdx",
+          "title": "Chromotherapy in Advanced Vastu: Precision Color Programming for Optimal Energy",
+          "path": "1809_Advanced_Vastu_Concepts/180915_chromotherapy_applications_in_advanced_vastu.mdx"
+        },
+        {
+          "name": "180916_smart_home_integration_with_vastu_principles.mdx",
+          "title": "The Vastu-Smart Home: Integrating IoT Devices with Energetic Principles",
+          "path": "1809_Advanced_Vastu_Concepts/180916_smart_home_integration_with_vastu_principles.mdx"
+        },
+        {
+          "name": "180917_elemental_matrix_balancing_through_material_science.mdx",
+          "title": "Vastu Material Science: Elemental Matrix Balancing for Modern Homes",
+          "path": "1809_Advanced_Vastu_Concepts/180917_elemental_matrix_balancing_through_material_science.mdx"
+        },
+        {
+          "name": "180918_high_rise_vastu_for_skyscraper_design.mdx",
+          "title": "High-Rise Vastu: Advanced Skyscraper Design for Energetic Stability",
+          "path": "1809_Advanced_Vastu_Concepts/180918_high_rise_vastu_for_skyscraper_design.mdx"
+        },
+        {
+          "name": "180919_temporal_vastu_adjustments_using_chronobiology.mdx",
+          "title": "Temporal Vastu: Aligning Your Home with Time Using Chronobiology",
+          "path": "1809_Advanced_Vastu_Concepts/180919_temporal_vastu_adjustments_using_chronobiology.mdx"
+        },
+        {
+          "name": "180920_advanced_case_studies_in_corporate_vastu.mdx",
+          "title": "Advanced Case Studies in Corporate Vastu: Analyzing a 37% Productivity Increase",
+          "path": "1809_Advanced_Vastu_Concepts/180920_advanced_case_studies_in_corporate_vastu.mdx"
+        },
+        {
+          "name": "1809_Advanced_Vastu_Concepts.mdx",
+          "title": "Advanced Vastu Concepts: A Deep Dive into Energy-Harmonizing Architecture",
+          "path": "1809_Advanced_Vastu_Concepts/1809_Advanced_Vastu_Concepts.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Practical Vastu Consultation",
+      "folder": "1810_Practical_Vastu_Consultation",
+      "children": [
+        {
+          "name": "181001_Initial_Client_Consultation_and_Space_Assessment.mdx",
+          "title": "Initial Client Consultation and Space Assessment",
+          "path": "1810_Practical_Vastu_Consultation/181001_Initial_Client_Consultation_and_Space_Assessment.mdx"
+        },
+        {
+          "name": "181002_creating_scaled_maps_and_directional_analysis.mdx",
+          "title": "Creating Scaled Maps and Directional Analysis for Vastu",
+          "path": "1810_Practical_Vastu_Consultation/181002_creating_scaled_maps_and_directional_analysis.mdx"
+        },
+        {
+          "name": "181003_conducting_a_comprehensive_vastu_audit.mdx",
+          "title": "Conducting a Comprehensive Vastu Audit for Your Home",
+          "path": "1810_Practical_Vastu_Consultation/181003_conducting_a_comprehensive_vastu_audit.mdx"
+        },
+        {
+          "name": "181004_identifying_vastu_doshas_and_prioritizing_corrections.mdx",
+          "title": "Identifying Vastu Doshas and Prioritizing Corrections",
+          "path": "1810_Practical_Vastu_Consultation/181004_identifying_vastu_doshas_and_prioritizing_corrections.mdx"
+        },
+        {
+          "name": "181005_preparation_of_detailed_vastu_evaluation_reports.mdx",
+          "title": "Preparation of Detailed Vastu Evaluation Reports",
+          "path": "1810_Practical_Vastu_Consultation/181005_preparation_of_detailed_vastu_evaluation_reports.mdx"
+        },
+        {
+          "name": "181006_Explaining_Vastu_Findings_and_Recommendations_to_Clients.mdx",
+          "title": "Explaining Vastu Findings and Recommendations to Clients",
+          "path": "1810_Practical_Vastu_Consultation/181006_Explaining_Vastu_Findings_and_Recommendations_to_Clients.mdx"
+        },
+        {
+          "name": "181007_Developing_Customized_Vastu_Remedies_and_Action_Plans.mdx",
+          "title": "Developing Customized Vastu Remedies and Action Plans",
+          "path": "1810_Practical_Vastu_Consultation/181007_Developing_Customized_Vastu_Remedies_and_Action_Plans.mdx"
+        },
+        {
+          "name": "181008_monitoring_implementation_and_providing_follow_up_support.mdx",
+          "title": "Monitoring Vastu Remedies and Providing Follow-Up Support",
+          "path": "1810_Practical_Vastu_Consultation/181008_monitoring_implementation_and_providing_follow_up_support.mdx"
+        },
+        {
+          "name": "181009_integrating_modern_technology_in_vastu_consultations.mdx",
+          "title": "Integrating Modern Technology in Vastu Consultations",
+          "path": "1810_Practical_Vastu_Consultation/181009_integrating_modern_technology_in_vastu_consultations.mdx"
+        },
+        {
+          "name": "181010_Case_Studies_Residential_Vastu_Transformations.mdx",
+          "title": "Case Studies: Residential Vastu Transformations",
+          "path": "1810_Practical_Vastu_Consultation/181010_Case_Studies_Residential_Vastu_Transformations.mdx"
+        },
+        {
+          "name": "181011_case_studies_commercial_and_office_vastu_applications.mdx",
+          "title": "Case Studies: Commercial and Office Vastu Applications",
+          "path": "1810_Practical_Vastu_Consultation/181011_case_studies_commercial_and_office_vastu_applications.mdx"
+        },
+        {
+          "name": "181012_vastu_for_property_selection_and_new_construction.mdx",
+          "title": "Vastu for Property Selection and New Construction",
+          "path": "1810_Practical_Vastu_Consultation/181012_vastu_for_property_selection_and_new_construction.mdx"
+        },
+        {
+          "name": "181013_ethical_practices_and_professional_standards_in_vastu_consultation.mdx",
+          "title": "Ethical Practices and Professional Standards in Vastu Consultation",
+          "path": "1810_Practical_Vastu_Consultation/181013_ethical_practices_and_professional_standards_in_vastu_consultation.mdx"
+        },
+        {
+          "name": "181014_client_education_and_empowerment.mdx",
+          "title": "Client Education and Empowerment in Vastu Consultation",
+          "path": "1810_Practical_Vastu_Consultation/181014_client_education_and_empowerment.mdx"
+        },
+        {
+          "name": "181015_seasonal_and_lifestyle_based_vastu_adjustments.mdx",
+          "title": "Seasonal and Lifestyle-Based Vastu Adjustments",
+          "path": "1810_Practical_Vastu_Consultation/181015_seasonal_and_lifestyle_based_vastu_adjustments.mdx"
+        },
+        {
+          "name": "181016_Remote_and_Online_Vastu_Consultation_Best_Practices.mdx",
+          "title": "Remote and Online Vastu Consultation Best Practices",
+          "path": "1810_Practical_Vastu_Consultation/181016_Remote_and_Online_Vastu_Consultation_Best_Practices.mdx"
+        },
+        {
+          "name": "181017_Collaboration_with_Architects_and_Interior_Designers.mdx",
+          "title": "Collaboration with Architects and Interior Designers",
+          "path": "1810_Practical_Vastu_Consultation/181017_Collaboration_with_Architects_and_Interior_Designers.mdx"
+        },
+        {
+          "name": "181018_Practical_Tips_for_DIY_Vastu_Audits_and_Maintenance.mdx",
+          "title": "Practical Tips for DIY Vastu Audits and Maintenance",
+          "path": "1810_Practical_Vastu_Consultation/181018_Practical_Tips_for_DIY_Vastu_Audits_and_Maintenance.mdx"
+        },
+        {
+          "name": "181019_feedback_collection_and_continuous_improvement.mdx",
+          "title": "Feedback Collection and Continuous Improvement in Vastu Consultation",
+          "path": "1810_Practical_Vastu_Consultation/181019_feedback_collection_and_continuous_improvement.mdx"
+        },
+        {
+          "name": "181020_documentation_and_record_keeping_for_vastu_projects.mdx",
+          "title": "Documentation and Record-Keeping for Vastu Projects",
+          "path": "1810_Practical_Vastu_Consultation/181020_documentation_and_record_keeping_for_vastu_projects.mdx"
+        }
+      ]
+    }
+  ]
+}

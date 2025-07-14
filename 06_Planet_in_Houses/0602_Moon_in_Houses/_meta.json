@@ -1,0 +1,69 @@
+{
+  "0602 Moon in Houses": [
+    {
+      "file": "060200_moon_knowledge.mdx",
+      "title": "moon knowledge",
+      "order": 60200
+    },
+    {
+      "file": "060201_Moon_in_1st_House.mdx",
+      "title": "Moon in 1st House",
+      "order": 60201
+    },
+    {
+      "file": "060202_Moon_in_2nd_House.mdx",
+      "title": "Moon in 2nd House",
+      "order": 60202
+    },
+    {
+      "file": "060203_Moon_in_3rd_House.mdx",
+      "title": "Moon in 3rd House",
+      "order": 60203
+    },
+    {
+      "file": "060204_Moon_in_4th_House.mdx",
+      "title": "Moon in 4th House",
+      "order": 60204
+    },
+    {
+      "file": "060205_Moon_in_5th_House.mdx",
+      "title": "Moon in 5th House",
+      "order": 60205
+    },
+    {
+      "file": "060206_Moon_in_6th_House.mdx",
+      "title": "Moon in 6th House",
+      "order": 60206
+    },
+    {
+      "file": "060207_Moon_in_7th_House.mdx",
+      "title": "Moon in 7th House",
+      "order": 60207
+    },
+    {
+      "file": "060208_Moon_in_8th_House.mdx",
+      "title": "Moon in 8th House",
+      "order": 60208
+    },
+    {
+      "file": "060209_Moon_in_9th_House.mdx",
+      "title": "Moon in 9th House",
+      "order": 60209
+    },
+    {
+      "file": "060210_Moon_in_10th_House.mdx",
+      "title": "Moon in 10th House",
+      "order": 60210
+    },
+    {
+      "file": "060211_Moon_in_11th_House.mdx",
+      "title": "Moon in 11th House",
+      "order": 60211
+    },
+    {
+      "file": "060212_Moon_in_12th_House.mdx",
+      "title": "Moon in 12th House",
+      "order": 60212
+    }
+  ]
+}

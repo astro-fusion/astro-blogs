@@ -1,0 +1,64 @@
+{
+  "01 Rasi": [
+    {
+      "file": "0101_Mesha.mdx",
+      "title": "Mesha",
+      "order": 101
+    },
+    {
+      "file": "0102_Vrishabha.mdx",
+      "title": "Vrishabha",
+      "order": 102
+    },
+    {
+      "file": "0103_Mithuna.mdx",
+      "title": "Mithuna",
+      "order": 103
+    },
+    {
+      "file": "0104_Karka.mdx",
+      "title": "Karka",
+      "order": 104
+    },
+    {
+      "file": "0105_Simha.mdx",
+      "title": "Simha",
+      "order": 105
+    },
+    {
+      "file": "0106_Kanya.mdx",
+      "title": "Kanya",
+      "order": 106
+    },
+    {
+      "file": "0107_Tula.mdx",
+      "title": "Tula",
+      "order": 107
+    },
+    {
+      "file": "0108_Vrishchika.mdx",
+      "title": "Vrishchika",
+      "order": 108
+    },
+    {
+      "file": "0109_Dhanu.mdx",
+      "title": "Dhanu",
+      "order": 109
+    },
+    {
+      "file": "0110_Makara.mdx",
+      "title": "Makara",
+      "order": 110
+    },
+    {
+      "file": "0111_Kumbha.mdx",
+      "title": "Kumbha",
+      "order": 111
+    },
+    {
+      "file": "0112_Meena.mdx",
+      "title": "Meena",
+      "order": 112
+    }
+  ]
+}

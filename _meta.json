@@ -1,0 +1,14 @@
+{
+  "astro-blogs": [
+    {
+      "file": "index.mdx",
+      "title": "index",
+      "order": null
+    },
+    {
+      "file": "GEMINI.md",
+      "title": "GEMINI",
+      "order": null
+    }
+  ]
+}

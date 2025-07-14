@@ -1,0 +1,64 @@
+{
+  "02 Houses": [
+    {
+      "file": "201_1st_House_in_Vedic_Astrology.mdx",
+      "title": "1st House in Vedic Astrology",
+      "order": 201
+    },
+    {
+      "file": "202_2nd_House_in_Vedic_Astrology.mdx",
+      "title": "2nd House in Vedic Astrology",
+      "order": 202
+    },
+    {
+      "file": "203_3rd_House_in_Vedic_Astrology.mdx",
+      "title": "3rd House in Vedic Astrology",
+      "order": 203
+    },
+    {
+      "file": "204_4th_House_in_Vedic_Astrology.mdx",
+      "title": "4th House in Vedic Astrology",
+      "order": 204
+    },
+    {
+      "file": "205_5th_House_in_Vedic_Astrology.mdx",
+      "title": "5th House in Vedic Astrology",
+      "order": 205
+    },
+    {
+      "file": "206_6th_House_in_Vedic_Astrology.mdx",
+      "title": "6th House in Vedic Astrology",
+      "order": 206
+    },
+    {
+      "file": "207_7th_House_in_Vedic_Astrology.mdx",
+      "title": "7th House in Vedic Astrology",
+      "order": 207
+    },
+    {
+      "file": "208_8th_House_in_Vedic_Astrology.mdx",
+      "title": "8th House in Vedic Astrology",
+      "order": 208
+    },
+    {
+      "file": "209_9th_House_in_Vedic_Astrology.mdx",
+      "title": "9th House in Vedic Astrology",
+      "order": 209
+    },
+    {
+      "file": "210_10th_House_in_Vedic_Astrology.mdx",
+      "title": "10th House in Vedic Astrology",
+      "order": 210
+    },
+    {
+      "file": "211_11th_House_in_Vedic_Astrology.mdx",
+      "title": "11th House in Vedic Astrology",
+      "order": 211
+    },
+    {
+      "file": "212_12th_House_in_Vedic_Astrology.mdx",
+      "title": "12th House in Vedic Astrology",
+      "order": 212
+    }
+  ]
+}
