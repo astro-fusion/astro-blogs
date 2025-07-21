@@ -95,3 +95,14 @@ The Moon's transit through your natal Moon's 8th house is an opportunity for pro
 - [Moon transit 9th house from natal moon](200109_Moon_transit_9th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 7th house from natal moon](200107_Moon_transit_7th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 9th house from natal moon](200109_Moon_transit_9th_house_from_natal_moon.md)
+
+---

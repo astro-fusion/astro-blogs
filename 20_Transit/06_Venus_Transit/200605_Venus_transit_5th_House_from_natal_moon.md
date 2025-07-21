@@ -79,3 +79,14 @@ The Venus transit through the 5th house from your natal Moon sign offers a rich 
 - [Venus transit 6th House from natal moon](200606_Venus_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 4th House from natal moon](200604_Venus_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 6th House from natal moon](200606_Venus_transit_6th_House_from_natal_moon.md)
+
+---

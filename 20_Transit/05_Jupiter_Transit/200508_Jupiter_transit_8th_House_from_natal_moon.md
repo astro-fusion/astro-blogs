@@ -87,3 +87,14 @@ The transit of Jupiter through the 8th house from your natal moon sign marks an 
 - [Jupiter transit 9th House from natal moon](200509_Jupiter_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 7th House from natal moon](200507_Jupiter_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 9th House from natal moon](200509_Jupiter_transit_9th_House_from_natal_moon.md)
+
+---

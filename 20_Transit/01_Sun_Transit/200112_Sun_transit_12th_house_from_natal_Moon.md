@@ -75,3 +75,14 @@ A: Engaging in self-inquiry practices like meditation/journaling helps confront 
 - [Sun transit 1st house from natal Moon](200101_Sun_transit_1st_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 11th house from natal Moon](200111_Sun_transit_11th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 1st house from natal Moon](200101_Sun_transit_1st_house_from_natal_Moon.md)
+
+---

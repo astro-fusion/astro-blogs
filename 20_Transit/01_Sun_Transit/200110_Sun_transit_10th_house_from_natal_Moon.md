@@ -91,3 +91,14 @@ The Sun's transit through the 10th house from natal
 - [Sun transit 11th house from natal Moon](200111_Sun_transit_11th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 9th house from natal Moon](200109_Sun_transit_9th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 11th house from natal Moon](200111_Sun_transit_11th_house_from_natal_Moon.md)
+
+---

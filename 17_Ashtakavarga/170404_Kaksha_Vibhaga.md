@@ -106,3 +106,14 @@ Beginners can start by learning how to assign values to each degree of the zodia
 - [Samudaya Ashtakavarga](170405_Samudaya_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Prashtara Ashtakavarga](170403_Prashtara_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Samudaya Ashtakavarga](170405_Samudaya_Ashtakavarga.md)
+
+---

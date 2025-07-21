@@ -92,3 +92,14 @@ By following these insights and tips tailored specifically for individuals exper
 - [Mars transit 3rd House from natal moon](200303_Mars_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 1st House from natal moon](200301_Mars_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 3rd House from natal moon](200303_Mars_transit_3rd_House_from_natal_moon.md)
+
+---

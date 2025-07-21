@@ -120,3 +120,14 @@ A5: Beginners should begin by understanding basic principles of Vedic astrology 
 - [Moons Ashtakavarga](170202_Moons_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Difference Between Ashtakavarga and Other Vedic Predictive Systems](170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.md)
+
+---
+
+## Next Article
+- [Moons Ashtakavarga](170202_Moons_Ashtakavarga.md)
+
+---

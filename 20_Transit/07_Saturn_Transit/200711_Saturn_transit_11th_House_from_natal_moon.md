@@ -96,3 +96,14 @@ By understanding its impact more deeply through astrological insights combined w
 - [Saturn transit 12th House from natal moon](200712_Saturn_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 10th House from natal moon](200710_Saturn_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 12th House from natal moon](200712_Saturn_transit_12th_House_from_natal_moon.md)
+
+---

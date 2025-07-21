@@ -80,3 +80,14 @@ A: Yes
 - [Sun transit 10th house from natal Moon](200110_Sun_transit_10th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 8th house from natal Moon](200108_Sun_transit_8th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 10th house from natal Moon](200110_Sun_transit_10th_house_from_natal_Moon.md)
+
+---

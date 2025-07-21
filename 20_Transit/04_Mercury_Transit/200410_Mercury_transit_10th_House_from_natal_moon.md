@@ -90,3 +90,14 @@ By embracing these insights into Vedic astrology—individuals stand poised not 
 - [Mercury transit 11th House from natal moon](200411_Mercury_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 9th House from natal moon](200409_Mercury_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 11th House from natal moon](200411_Mercury_transit_11th_House_from_natal_moon.md)
+
+---

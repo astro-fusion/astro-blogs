@@ -99,3 +99,14 @@ The transit of Ketu through the 5th house from natal moon offers an opportunity 
 - [Ketu transit 6th House from natal moon](200906_Ketu_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 4th House from natal moon](200904_Ketu_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 6th House from natal moon](200906_Ketu_transit_6th_House_from_natal_moon.md)
+
+---

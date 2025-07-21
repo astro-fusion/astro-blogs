@@ -96,3 +96,14 @@ The transit of Ketu through the 11th house from your natal Moon sign offers both
 - [Ketu transit 12th House from natal moon](200912_Ketu_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 10th House from natal moon](200910_Ketu_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 12th House from natal moon](200912_Ketu_transit_12th_House_from_natal_moon.md)
+
+---

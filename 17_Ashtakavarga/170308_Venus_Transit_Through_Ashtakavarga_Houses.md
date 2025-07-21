@@ -122,3 +122,14 @@ A5: Beginners can start by learning basic Ashtakavarga calculations and understa
 - [Saturns Transit Through Ashtakavarga Houses](170309_Saturns_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiters Transit Through Ashtakavarga Houses](170307_Jupiters_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Saturns Transit Through Ashtakavarga Houses](170309_Saturns_Transit_Through_Ashtakavarga_Houses.md)
+
+---

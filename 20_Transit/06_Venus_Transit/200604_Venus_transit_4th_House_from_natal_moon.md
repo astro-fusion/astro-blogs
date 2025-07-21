@@ -92,3 +92,14 @@ A2: During such transits especially those involving planets like Venus ruling ma
 - [Venus transit 5th House from natal moon](200605_Venus_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 3rd House from natal moon](200603_Venus_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 5th House from natal moon](200605_Venus_transit_5th_House_from_natal_moon.md)
+
+---

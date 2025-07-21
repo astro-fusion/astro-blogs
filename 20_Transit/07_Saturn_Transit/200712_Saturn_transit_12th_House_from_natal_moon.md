@@ -107,3 +107,14 @@ A : Both depending individual circumstances open communication crucial avoiding 
 - [Saturn transit 1st House from natal moon](200701_Saturn_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 11th House from natal moon](200711_Saturn_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 1st House from natal moon](200701_Saturn_transit_1st_House_from_natal_moon.md)
+
+---

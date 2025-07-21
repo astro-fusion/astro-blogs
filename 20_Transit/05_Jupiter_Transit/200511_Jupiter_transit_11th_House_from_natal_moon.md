@@ -83,3 +83,14 @@ Absolutely
 - [Jupiter transit 12th House from natal moon](200512_Jupiter_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 10th House from natal moon](200510_Jupiter_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 12th House from natal moon](200512_Jupiter_transit_12th_House_from_natal_moon.md)
+
+---

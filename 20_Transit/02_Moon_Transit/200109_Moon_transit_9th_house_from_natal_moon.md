@@ -94,3 +94,14 @@ Mooon’s transit into ninth house brings forward plethora opportunities enhanci
 - [Moon transit 10th house from natal moon](200110_Moon_transit_10th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 8th house from natal moon](200108_Moon_transit_8th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 10th house from natal moon](200110_Moon_transit_10th_house_from_natal_moon.md)
+
+---

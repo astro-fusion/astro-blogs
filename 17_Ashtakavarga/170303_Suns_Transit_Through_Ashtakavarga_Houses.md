@@ -110,3 +110,14 @@ A5: Beginners can start by creating their personalized Ashtakavarga chart using 
 - [Moons Transit Through Ashtakavarga Houses](170304_Moons_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Gochara Transit Interpretation Through Bindus](170302_Gochara_Transit_Interpretation_Through_Bindus.md)
+
+---
+
+## Next Article
+- [Moons Transit Through Ashtakavarga Houses](170304_Moons_Transit_Through_Ashtakavarga_Houses.md)
+
+---

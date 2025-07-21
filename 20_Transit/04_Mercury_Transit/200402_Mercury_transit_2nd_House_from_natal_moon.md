@@ -100,3 +100,14 @@ Q: Can this transit bring significant financial
 - [Mercury transit 3rd House from natal moon](200403_Mercury_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 1st House from natal moon](200401_Mercury_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 3rd House from natal moon](200403_Mercury_transit_3rd_House_from_natal_moon.md)
+
+---

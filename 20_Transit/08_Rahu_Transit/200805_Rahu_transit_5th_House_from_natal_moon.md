@@ -100,3 +100,14 @@ Here are some practical tips to make the most out of this transit:
 - [Rahu transit 6th House from natal moon](200806_Rahu_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 4th House from natal moon](200804_Rahu_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 6th House from natal moon](200806_Rahu_transit_6th_House_from_natal_moon.md)
+
+---

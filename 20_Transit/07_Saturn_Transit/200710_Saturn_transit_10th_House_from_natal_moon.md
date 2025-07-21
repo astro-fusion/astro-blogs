@@ -92,3 +92,14 @@ Saturn’s transit through the 10th house from your natal moon signifies both ch
 - [Saturn transit 11th House from natal moon](200711_Saturn_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 9th House from natal moon](200709_Saturn_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 11th House from natal moon](200711_Saturn_transit_11th_House_from_natal_moon.md)
+
+---

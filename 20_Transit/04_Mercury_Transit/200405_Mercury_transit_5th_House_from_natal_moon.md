@@ -84,3 +84,14 @@ The transit of Mercury through your fifth house from natal moon sign offers an o
 - [Mercury transit 6th House from natal moon](200406_Mercury_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 4th House from natal moon](200404_Mercury_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 6th House from natal moon](200406_Mercury_transit_6th_House_from_natal_moon.md)
+
+---

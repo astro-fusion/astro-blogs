@@ -96,3 +96,14 @@ A: Yes, it's quite common as Mercury represents communication which when placed 
 - [Mercury transit 1st House from natal moon](200401_Mercury_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 11th House from natal moon](200411_Mercury_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 1st House from natal moon](200401_Mercury_transit_1st_House_from_natal_moon.md)
+
+---

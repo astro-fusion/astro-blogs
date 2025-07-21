@@ -102,3 +102,14 @@ Rahu's transit through the fourth house from natal Moon sign offers an opportuni
 - [Rahu transit 5th House from natal moon](200805_Rahu_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 3rd House from natal moon](200803_Rahu_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 5th House from natal moon](200805_Rahu_transit_5th_House_from_natal_moon.md)
+
+---

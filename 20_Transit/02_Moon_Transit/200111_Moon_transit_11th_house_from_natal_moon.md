@@ -89,3 +89,14 @@ The Moon’s transit through the 11th house offers a transformative opportunity 
 - [Moon transit 12th house from natal moon](200112_Moon_transit_12th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 10th house from natal moon](200110_Moon_transit_10th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 12th house from natal moon](200112_Moon_transit_12th_house_from_natal_moon.md)
+
+---

@@ -107,3 +107,14 @@ Mercury’s transit through fourth house from natal moon sign offers unique oppo
 - [Mercury transit 5th House from natal moon](200405_Mercury_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 3rd House from natal moon](200403_Mercury_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 5th House from natal moon](200405_Mercury_transit_5th_House_from_natal_moon.md)
+
+---

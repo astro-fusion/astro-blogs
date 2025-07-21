@@ -96,3 +96,14 @@ The transit of Rahu through the 12th house from natal moon presents both opportu
 - [Rahu transit 1st House from natal moon](200801_Rahu_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 11th House from natal moon](200811_Rahu_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 1st House from natal moon](200801_Rahu_transit_1st_House_from_natal_moon.md)
+
+---

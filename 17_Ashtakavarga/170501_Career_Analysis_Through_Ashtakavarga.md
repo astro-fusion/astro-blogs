@@ -124,3 +124,14 @@ Beginners can start by learning basic planetary positions and using software des
 - [Relationship Compatibility Using Ashtakavarga](170502_Relationship_Compatibility_Using_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Yogas in Ashtakavarga](170407_Yogas_in_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Relationship Compatibility Using Ashtakavarga](170502_Relationship_Compatibility_Using_Ashtakavarga.md)
+
+---

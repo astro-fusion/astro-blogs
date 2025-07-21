@@ -103,3 +103,14 @@ A: While complete prevention isn't possible within astrological frameworks (as
 - [Saturn transit 3rd House from natal moon](200703_Saturn_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 1st House from natal moon](200701_Saturn_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 3rd House from natal moon](200703_Saturn_transit_3rd_House_from_natal_moon.md)
+
+---

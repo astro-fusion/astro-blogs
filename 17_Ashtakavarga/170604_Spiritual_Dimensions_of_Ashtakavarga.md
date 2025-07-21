@@ -99,3 +99,14 @@ Beginners should start by understanding basic principles such as dividing zodiac
 - [Introduction to Ashtakavarga](170101_Introduction_to_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Evolution of Ashtakavarga Through History](170603_Evolution_of_Ashtakavarga_Through_History.md)
+
+---
+
+## Next Article
+- [Introduction to Ashtakavarga](170101_Introduction_to_Ashtakavarga.md)
+
+---

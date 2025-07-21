@@ -79,3 +79,14 @@ The Mars transit through the 7th house from the natal Moon sign is an opportunit
 - [Mars transit 8th House from natal moon](200308_Mars_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 6th House from natal moon](200306_Mars_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 8th House from natal moon](200308_Mars_transit_8th_House_from_natal_moon.md)
+
+---

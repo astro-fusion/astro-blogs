@@ -95,3 +95,14 @@ A: Yes, performing rituals dedicated to Goddess Lakshmi or engaging in creative 
 - [Venus transit 11th House from natal moon](200611_Venus_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 9th House from natal moon](200609_Venus_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 11th House from natal moon](200611_Venus_transit_11th_House_from_natal_moon.md)
+
+---

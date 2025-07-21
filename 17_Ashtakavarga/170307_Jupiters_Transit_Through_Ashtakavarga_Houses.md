@@ -106,3 +106,14 @@ A5: Beginners can start by learning about basic planetary movements using online
 - [Venus Transit Through Ashtakavarga Houses](170308_Venus_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Mercurys Transit Through Ashtakavarga Houses](170306_Mercurys_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Venus Transit Through Ashtakavarga Houses](170308_Venus_Transit_Through_Ashtakavarga_Houses.md)
+
+---

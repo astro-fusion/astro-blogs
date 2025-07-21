@@ -86,3 +86,14 @@ A: Typically lasts approximately one month although exact duration may vary depe
 - [Venus transit 9th House from natal moon](200609_Venus_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 7th House from natal moon](200607_Venus_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 9th House from natal moon](200609_Venus_transit_9th_House_from_natal_moon.md)
+
+---

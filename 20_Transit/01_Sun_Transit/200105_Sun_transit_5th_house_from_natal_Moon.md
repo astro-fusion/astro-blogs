@@ -93,3 +93,14 @@ To understand this transit fully, consider both positive and negative aspects:
 - [Sun transit 6th house from natal Moon](200106_Sun_transit_6th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 4th house from natal Moon](200104_Sun_transit_4th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 6th house from natal Moon](200106_Sun_transit_6th_house_from_natal_Moon.md)
+
+---

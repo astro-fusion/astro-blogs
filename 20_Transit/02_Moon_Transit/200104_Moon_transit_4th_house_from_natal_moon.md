@@ -80,3 +80,14 @@ The Moon's transit through the 4th house from natal moon is an opportunity for d
 - [Moon transit 5th house from natal moon](200105_Moon_transit_5th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 3rd house from natal moon](200103_Moon_transit_3rd_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 5th house from natal moon](200105_Moon_transit_5th_house_from_natal_moon.md)
+
+---

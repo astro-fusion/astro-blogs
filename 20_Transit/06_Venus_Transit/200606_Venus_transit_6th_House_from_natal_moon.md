@@ -106,3 +106,14 @@ The Venus transit through the 6th house from natal moon offers both challenges a
 - [Venus transit 7th House from natal moon](200607_Venus_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 5th House from natal moon](200605_Venus_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 7th House from natal moon](200607_Venus_transit_7th_House_from_natal_moon.md)
+
+---

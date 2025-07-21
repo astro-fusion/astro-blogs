@@ -78,3 +78,14 @@ A – While general effects discussed above apply universally; specifics varied 
 - [Rahu transit 10th House from natal moon](200810_Rahu_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 8th House from natal moon](200808_Rahu_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 10th House from natal moon](200810_Rahu_transit_10th_House_from_natal_moon.md)
+
+---

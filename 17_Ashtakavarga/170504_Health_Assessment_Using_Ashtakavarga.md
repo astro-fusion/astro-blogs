@@ -114,3 +114,14 @@ Beginners should start by understanding basic principles like calculating planet
 - [Muhurta Electional Astrology With Ashtakavarga](170505_Muhurta_Electional_Astrology_With_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Financial Forecasting With Ashtakavarga](170503_Financial_Forecasting_With_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Muhurta Electional Astrology With Ashtakavarga](170505_Muhurta_Electional_Astrology_With_Ashtakavarga.md)
+
+---

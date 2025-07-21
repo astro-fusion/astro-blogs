@@ -117,3 +117,14 @@ By understanding Rahu and Ketu within the context of Ashtakavarga, astrology ent
 - [Fundamentals of Transit Analysis in Ashtakavarga](170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Saturns Ashtakavarga](170207_Saturns_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Fundamentals of Transit Analysis in Ashtakavarga](170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.md)
+
+---

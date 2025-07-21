@@ -94,3 +94,14 @@ By embracing insights derived from classical texts combined modern interpretatio
 - [Moon transit 3rd house from natal moon](200103_Moon_transit_3rd_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 1st house from natal moon](200101_Moon_transit_1st_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 3rd house from natal moon](200103_Moon_transit_3rd_house_from_natal_moon.md)
+
+---

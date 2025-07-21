@@ -80,3 +80,14 @@ The transit of Rahu through the 7th house from your natal moon sign offers both 
 - [Rahu transit 8th House from natal moon](200808_Rahu_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 6th House from natal moon](200806_Rahu_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 8th House from natal moon](200808_Rahu_transit_8th_House_from_natal_moon.md)
+
+---

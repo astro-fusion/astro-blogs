@@ -90,3 +90,14 @@ Here’s practical advice tailored specifically for individuals experiencing thi
 - [Sun transit 3rd house from natal Moon](200103_Sun_transit_3rd_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 1st house from natal Moon](200101_Sun_transit_1st_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 3rd house from natal Moon](200103_Sun_transit_3rd_house_from_natal_Moon.md)
+
+---

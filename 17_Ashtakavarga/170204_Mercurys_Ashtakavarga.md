@@ -115,3 +115,14 @@ A5: Beginners should start by understanding basic concepts of Ashtakavarga and t
 - [Jupiters Ashtakavarga](170205_Jupiters_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Mars Ashtakavarga](170203_Mars_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Jupiters Ashtakavarga](170205_Jupiters_Ashtakavarga.md)
+
+---

@@ -76,3 +76,14 @@ In conclusion, when Mars transits through the 6th house from natal Moon in Vedic
 - [Mars transit 7th House from natal moon](200307_Mars_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 5th House from natal moon](200305_Mars_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 7th House from natal moon](200307_Mars_transit_7th_House_from_natal_moon.md)
+
+---

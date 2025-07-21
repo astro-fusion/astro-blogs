@@ -85,3 +85,14 @@ Embrace this period as an opportunity for self-reflection and skill-enhancement 
 - [Saturn transit 6th House from natal moon](200706_Saturn_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 4th House from natal moon](200704_Saturn_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 6th House from natal moon](200706_Saturn_transit_6th_House_from_natal_moon.md)
+
+---

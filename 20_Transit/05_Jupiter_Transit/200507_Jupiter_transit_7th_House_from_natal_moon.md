@@ -88,3 +88,14 @@ A: While conflicts can arise due to increased expectations from Jupiter’s expa
 - [Jupiter transit 8th House from natal moon](200508_Jupiter_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 6th House from natal moon](200506_Jupiter_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 8th House from natal moon](200508_Jupiter_transit_8th_House_from_natal_moon.md)
+
+---

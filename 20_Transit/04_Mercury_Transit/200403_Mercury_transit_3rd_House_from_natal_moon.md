@@ -82,3 +82,14 @@ This article aims at providing comprehensive insights into how Mercury’s trans
 - [Mercury transit 4th House from natal moon](200404_Mercury_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 2nd House from natal moon](200402_Mercury_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 4th House from natal moon](200404_Mercury_transit_4th_House_from_natal_moon.md)
+
+---

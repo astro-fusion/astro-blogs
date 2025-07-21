@@ -104,3 +104,14 @@ The transit of Venus through the 11th house from your natal moon offers an oppor
 - [Venus transit 12th House from natal moon](200612_Venus_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 10th House from natal moon](200610_Venus_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 12th House from natal moon](200612_Venus_transit_12th_House_from_natal_moon.md)
+
+---

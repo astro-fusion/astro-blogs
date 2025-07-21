@@ -120,3 +120,14 @@ A: Typically lasting around one week depending on other planetary movements at t
 - [Moon transit 8th house from natal moon](200108_Moon_transit_8th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 6th house from natal moon](200106_Moon_transit_6th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 8th house from natal moon](200108_Moon_transit_8th_house_from_natal_moon.md)
+
+---

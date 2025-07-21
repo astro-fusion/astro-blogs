@@ -88,3 +88,14 @@ A: If a malefic planet like Saturn or Mars is forming an aspect with your Moon i
 - [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 2nd house from natal moon](200102_Moon_transit_2nd_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)
+
+---

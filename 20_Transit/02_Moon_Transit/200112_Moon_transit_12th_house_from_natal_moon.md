@@ -96,3 +96,14 @@ A: The Moon's synodic cycle is approximately 29 days; thus, this
 - [Moon transit 1st house from natal moon](200101_Moon_transit_1st_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 11th house from natal moon](200111_Moon_transit_11th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 1st house from natal moon](200101_Moon_transit_1st_house_from_natal_moon.md)
+
+---

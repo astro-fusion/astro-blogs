@@ -81,3 +81,14 @@ Saturn's transit through the 6th house from natal Moon marks an important moment
 - [Saturn transit 7th House from natal moon](200707_Saturn_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 5th House from natal moon](200705_Saturn_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 7th House from natal moon](200707_Saturn_transit_7th_House_from_natal_moon.md)
+
+---

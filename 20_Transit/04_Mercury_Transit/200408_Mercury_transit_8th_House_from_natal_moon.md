@@ -87,3 +87,14 @@ The transit of Mercury through the 8th house from natal Moon offers both opportu
 - [Mercury transit 9th House from natal moon](200409_Mercury_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 7th House from natal moon](200407_Mercury_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 9th House from natal moon](200409_Mercury_transit_9th_House_from_natal_moon.md)
+
+---

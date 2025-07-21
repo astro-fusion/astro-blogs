@@ -74,3 +74,14 @@ The Sun’s transit through the 7th house from natal Moon is significant not onl
 - [Sun transit 8th house from natal Moon](200108_Sun_transit_8th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 6th house from natal Moon](200106_Sun_transit_6th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 8th house from natal Moon](200108_Sun_transit_8th_house_from_natal_Moon.md)
+
+---

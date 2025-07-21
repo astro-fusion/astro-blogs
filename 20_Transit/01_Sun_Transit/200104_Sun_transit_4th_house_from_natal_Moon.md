@@ -105,3 +105,14 @@ Q : What happens when Sun enters fourth house from
 - [Sun transit 5th house from natal Moon](200105_Sun_transit_5th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 3rd house from natal Moon](200103_Sun_transit_3rd_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 5th house from natal Moon](200105_Sun_transit_5th_house_from_natal_Moon.md)
+
+---

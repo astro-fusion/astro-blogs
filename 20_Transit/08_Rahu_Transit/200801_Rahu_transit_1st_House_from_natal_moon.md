@@ -93,3 +93,14 @@ This article aims to provide a comprehensive understanding of Rahu's transit thr
 - [Rahu transit 2nd House from natal moon](200802_Rahu_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 12th House from natal moon](200812_Rahu_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 2nd House from natal moon](200802_Rahu_transit_2nd_House_from_natal_moon.md)
+
+---

@@ -96,3 +96,14 @@ The combined influence observed when Mercury transits through your first house w
 - [Mercury transit 2nd House from natal moon](200402_Mercury_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 12th House from natal moon](200412_Mercury_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 2nd House from natal moon](200402_Mercury_transit_2nd_House_from_natal_moon.md)
+
+---

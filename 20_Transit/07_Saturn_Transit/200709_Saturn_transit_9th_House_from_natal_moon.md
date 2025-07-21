@@ -98,3 +98,14 @@ The transit of Saturn through your 9th house from natal moon offers profound opp
 - [Saturn transit 10th House from natal moon](200710_Saturn_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 8th House from natal moon](200708_Saturn_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 10th House from natal moon](200710_Saturn_transit_10th_House_from_natal_moon.md)
+
+---

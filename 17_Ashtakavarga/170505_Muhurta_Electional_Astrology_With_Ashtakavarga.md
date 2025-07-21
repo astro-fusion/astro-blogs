@@ -107,3 +107,14 @@ Beginners can start by learning basic principles of planetary positions and thei
 - [Ashtakavarga in Annual Charts](170506_Ashtakavarga_in_Annual_Charts.md)
 
 ---
+---
+
+## Previous Article
+- [Health Assessment Using Ashtakavarga](170504_Health_Assessment_Using_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Ashtakavarga in Annual Charts](170506_Ashtakavarga_in_Annual_Charts.md)
+
+---

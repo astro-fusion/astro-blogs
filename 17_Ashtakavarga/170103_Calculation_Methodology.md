@@ -124,3 +124,14 @@ Beginners can start by learning basic planetary positions and then move on to mo
 - [Sarvashtakavarga](170104_Sarvashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Basic Principles of Ashtakavarga](170102_Basic_Principles_of_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Sarvashtakavarga](170104_Sarvashtakavarga.md)
+
+---

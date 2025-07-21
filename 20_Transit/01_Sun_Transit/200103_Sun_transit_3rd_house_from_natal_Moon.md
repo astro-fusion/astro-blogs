@@ -98,3 +98,14 @@ From a Western astrological perspective, this transit may indicate increased men
 - [Sun transit 4th house from natal Moon](200104_Sun_transit_4th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 2nd house from natal Moon](200102_Sun_transit_2nd_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 4th house from natal Moon](200104_Sun_transit_4th_house_from_natal_Moon.md)
+
+---

@@ -97,3 +97,14 @@ To fully grasp how Venus' transit impacts you personally:
 - [Venus transit 3rd House from natal moon](200603_Venus_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 1st House from natal moon](200601_Venus_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 3rd House from natal moon](200603_Venus_transit_3rd_House_from_natal_moon.md)
+
+---

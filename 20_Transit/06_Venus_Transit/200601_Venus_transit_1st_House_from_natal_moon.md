@@ -81,3 +81,14 @@ The Venus transit through the first house from natal moon offers an opportunity 
 - [Venus transit 2nd House from natal moon](200602_Venus_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 12th House from natal moon](200612_Venus_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 2nd House from natal moon](200602_Venus_transit_2nd_House_from_natal_moon.md)
+
+---

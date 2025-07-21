@@ -120,3 +120,14 @@ A5: Beginners can start by learning basic principles of Vedic astrology includin
 - [Rahu and Ketu in Ashtakavarga](170208_Rahu_and_Ketu_in_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Venus Ashtakavarga](170206_Venus_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Rahu and Ketu in Ashtakavarga](170208_Rahu_and_Ketu_in_Ashtakavarga.md)
+
+---

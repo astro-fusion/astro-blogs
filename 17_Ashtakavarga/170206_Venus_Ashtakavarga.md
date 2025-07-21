@@ -112,3 +112,14 @@ Beginners can start by learning about basic planetary combinations and their eff
 - [Saturns Ashtakavarga](170207_Saturns_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiters Ashtakavarga](170205_Jupiters_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Saturns Ashtakavarga](170207_Saturns_Ashtakavarga.md)
+
+---

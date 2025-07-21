@@ -91,3 +91,14 @@ The transit of Ketu through the third house from natal Moon offers both opportun
 - [Ketu transit 4th House from natal moon](200904_Ketu_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 2nd House from natal moon](200902_Ketu_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 4th House from natal moon](200904_Ketu_transit_4th_House_from_natal_moon.md)
+
+---

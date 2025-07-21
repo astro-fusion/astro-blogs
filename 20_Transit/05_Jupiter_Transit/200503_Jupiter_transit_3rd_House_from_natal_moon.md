@@ -94,3 +94,14 @@ Jupiter's transit through the 3rd house from natal Moon offers numerous opportun
 - [Jupiter transit 4th House from natal moon](200504_Jupiter_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 2nd House from natal moon](200502_Jupiter_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 4th House from natal moon](200504_Jupiter_transit_4th_House_from_natal_moon.md)
+
+---

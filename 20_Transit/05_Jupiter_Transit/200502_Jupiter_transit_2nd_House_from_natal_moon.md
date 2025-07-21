@@ -87,3 +87,14 @@ By understanding these dynamics and implementing appropriate remedies like savin
 - [Jupiter transit 3rd House from natal moon](200503_Jupiter_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 1st House from natal moon](200501_Jupiter_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 3rd House from natal moon](200503_Jupiter_transit_3rd_House_from_natal_moon.md)
+
+---

@@ -75,3 +75,14 @@ Here are some practical tips that might help navigate through this astrological 
 - [Mars transit 10th House from natal moon](200310_Mars_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 8th House from natal moon](200308_Mars_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 10th House from natal moon](200310_Mars_transit_10th_House_from_natal_moon.md)
+
+---

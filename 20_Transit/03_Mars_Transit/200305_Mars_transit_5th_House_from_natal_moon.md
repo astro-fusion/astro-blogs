@@ -88,3 +88,14 @@ The transit offers opportunities enhance creativity while challenging emotional 
 - [Mars transit 6th House from natal moon](200306_Mars_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 4th House from natal moon](200304_Mars_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 6th House from natal moon](200306_Mars_transit_6th_House_from_natal_moon.md)
+
+---

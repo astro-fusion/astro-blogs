@@ -125,3 +125,14 @@ Beginners should start by understanding basic principles outlined in ancient tex
 - [Regional Variations in Ashtakavarga Usage](170602_Regional_Variations_in_Ashtakavarga_Usage.md)
 
 ---
+---
+
+## Previous Article
+- [Case Studies Famous Charts Analyzed Through Ashtakavarga](170507_Case_Studies_Famous_Charts_Analyzed_Through_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Regional Variations in Ashtakavarga Usage](170602_Regional_Variations_in_Ashtakavarga_Usage.md)
+
+---

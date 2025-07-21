@@ -139,3 +139,14 @@ Beginners should start by learning about basic planetary combinations and their 
 - [Career Analysis Through Ashtakavarga](170501_Career_Analysis_Through_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [bhinnashtakavarga vs samudaya ashtakavarga](170406_bhinnashtakavarga_vs_samudaya_ashtakavarga.md)
+
+---
+
+## Next Article
+- [Career Analysis Through Ashtakavarga](170501_Career_Analysis_Through_Ashtakavarga.md)
+
+---

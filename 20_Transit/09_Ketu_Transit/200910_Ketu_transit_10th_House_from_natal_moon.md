@@ -90,3 +90,14 @@ By embracing these insights and taking proactive steps towards self-awareness an
 - [Ketu transit 11th House from natal moon](200911_Ketu_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 9th House from natal moon](200909_Ketu_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 11th House from natal moon](200911_Ketu_transit_11th_House_from_natal_moon.md)
+
+---

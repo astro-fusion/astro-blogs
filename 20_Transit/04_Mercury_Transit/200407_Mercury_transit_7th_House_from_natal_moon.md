@@ -89,3 +89,14 @@ A1: If there’s an already existing stressful aspect between Venus-Mercury (e.g
 - [Mercury transit 8th House from natal moon](200408_Mercury_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 6th House from natal moon](200406_Mercury_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 8th House from natal moon](200408_Mercury_transit_8th_House_from_natal_moon.md)
+
+---

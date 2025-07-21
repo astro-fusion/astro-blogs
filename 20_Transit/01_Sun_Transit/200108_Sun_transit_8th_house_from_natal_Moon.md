@@ -86,3 +86,14 @@ The Sun's transit through the 8th house from the natal Moon is a complex event t
 - [Sun transit 9th house from natal Moon](200109_Sun_transit_9th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 7th house from natal Moon](200107_Sun_transit_7th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 9th house from natal Moon](200109_Sun_transit_9th_house_from_natal_Moon.md)
+
+---

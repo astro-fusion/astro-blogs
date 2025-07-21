@@ -99,3 +99,14 @@ Q : Will I feel anxious during this period ?
 - [Mercury transit 10th House from natal moon](200410_Mercury_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 8th House from natal moon](200408_Mercury_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 10th House from natal moon](200410_Mercury_transit_10th_House_from_natal_moon.md)
+
+---

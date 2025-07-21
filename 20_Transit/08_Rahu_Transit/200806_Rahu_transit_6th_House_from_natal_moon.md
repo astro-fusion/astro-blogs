@@ -89,3 +89,14 @@ In conclusion, Rahu's transit through the 6th house from your natal moon sign pr
 - [Rahu transit 7th House from natal moon](200807_Rahu_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 5th House from natal moon](200805_Rahu_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 7th House from natal moon](200807_Rahu_transit_7th_House_from_natal_moon.md)
+
+---

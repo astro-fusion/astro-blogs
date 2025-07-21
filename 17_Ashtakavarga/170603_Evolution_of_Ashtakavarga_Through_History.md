@@ -133,3 +133,14 @@ The evolution of Ashtakavarga through history reflects its enduring significance
 - [Spiritual Dimensions of Ashtakavarga](170604_Spiritual_Dimensions_of_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Regional Variations in Ashtakavarga Usage](170602_Regional_Variations_in_Ashtakavarga_Usage.md)
+
+---
+
+## Next Article
+- [Spiritual Dimensions of Ashtakavarga](170604_Spiritual_Dimensions_of_Ashtakavarga.md)
+
+---

@@ -91,3 +91,14 @@ Saturn’s transit through your Moon’s 8th house represents both an opportunit
 - [Saturn transit 9th House from natal moon](200709_Saturn_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 7th House from natal moon](200707_Saturn_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 9th House from natal moon](200709_Saturn_transit_9th_House_from_natal_moon.md)
+
+---

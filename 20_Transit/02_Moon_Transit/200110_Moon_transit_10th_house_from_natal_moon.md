@@ -90,3 +90,14 @@ The Moon's transit through the 10th house from its natal placement offers both c
 - [Moon transit 11th house from natal moon](200111_Moon_transit_11th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 9th house from natal moon](200109_Moon_transit_9th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 11th house from natal moon](200111_Moon_transit_11th_house_from_natal_moon.md)
+
+---

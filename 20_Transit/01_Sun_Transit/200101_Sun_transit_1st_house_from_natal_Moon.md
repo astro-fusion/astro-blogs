@@ -95,3 +95,14 @@ The influence of Sun in the first house relative to Moon can manifest in several
 - [Sun transit 2nd house from natal Moon](200102_Sun_transit_2nd_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 12th house from natal Moon](200112_Sun_transit_12th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 2nd house from natal Moon](200102_Sun_transit_2nd_house_from_natal_Moon.md)
+
+---

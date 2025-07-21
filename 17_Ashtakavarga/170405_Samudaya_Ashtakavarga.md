@@ -119,3 +119,14 @@ A5: Beginners can start by learning about the basic principles of Ashtakavarga a
 - [bhinnashtakavarga vs samudaya ashtakavarga](170406_bhinnashtakavarga_vs_samudaya_ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Kaksha Vibhaga](170404_Kaksha_Vibhaga.md)
+
+---
+
+## Next Article
+- [bhinnashtakavarga vs samudaya ashtakavarga](170406_bhinnashtakavarga_vs_samudaya_ashtakavarga.md)
+
+---

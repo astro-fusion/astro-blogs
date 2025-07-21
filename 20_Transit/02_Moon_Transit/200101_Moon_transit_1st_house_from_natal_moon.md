@@ -98,3 +98,14 @@ By understanding these insights better prepared navigate complexities arising du
 - [Moon transit 2nd house from natal moon](200102_Moon_transit_2nd_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 12th house from natal moon](200112_Moon_transit_12th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 2nd house from natal moon](200102_Moon_transit_2nd_house_from_natal_moon.md)
+
+---

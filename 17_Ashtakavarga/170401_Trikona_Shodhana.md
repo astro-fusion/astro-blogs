@@ -126,3 +126,14 @@ Answer: Beginners should begin by learning basic planetary positions and angles 
 - [Ekadhipatya Shodhana](170402_Ekadhipatya_Shodhana.md)
 
 ---
+---
+
+## Previous Article
+- [Saturns Transit Through Ashtakavarga Houses](170309_Saturns_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Ekadhipatya Shodhana](170402_Ekadhipatya_Shodhana.md)
+
+---

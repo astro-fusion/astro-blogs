@@ -92,3 +92,14 @@ In conclusion , Ketu’s transit through eighth house n
 - [Ketu transit 9th House from natal moon](200909_Ketu_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 7th House from natal moon](200907_Ketu_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 9th House from natal moon](200909_Ketu_transit_9th_House_from_natal_moon.md)
+
+---

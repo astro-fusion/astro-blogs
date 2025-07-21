@@ -117,3 +117,14 @@ Beginners should start by understanding basic planetary movements and their infl
 - [Mercurys Transit Through Ashtakavarga Houses](170306_Mercurys_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Moons Transit Through Ashtakavarga Houses](170304_Moons_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Mercurys Transit Through Ashtakavarga Houses](170306_Mercurys_Transit_Through_Ashtakavarga_Houses.md)
+
+---

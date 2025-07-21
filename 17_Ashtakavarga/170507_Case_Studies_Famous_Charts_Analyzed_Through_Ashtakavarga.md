@@ -130,3 +130,14 @@ Beginners should start by understanding basic principles behind octave placement
 - [Ashtakavarga in Ancient Texts](170601_Ashtakavarga_in_Ancient_Texts.md)
 
 ---
+---
+
+## Previous Article
+- [Ashtakavarga in Annual Charts](170506_Ashtakavarga_in_Annual_Charts.md)
+
+---
+
+## Next Article
+- [Ashtakavarga in Ancient Texts](170601_Ashtakavarga_in_Ancient_Texts.md)
+
+---

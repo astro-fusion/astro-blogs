@@ -99,3 +99,14 @@ The transit of Rahu in the 3rd house from natal moon presents opportunities for 
 - [Rahu transit 4th House from natal moon](200804_Rahu_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 2nd House from natal moon](200802_Rahu_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 4th House from natal moon](200804_Rahu_transit_4th_House_from_natal_moon.md)
+
+---

@@ -117,3 +117,14 @@ Beginners should start by understanding basic principles such as Shadbala calcul
 - [Health Assessment Using Ashtakavarga](170504_Health_Assessment_Using_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Relationship Compatibility Using Ashtakavarga](170502_Relationship_Compatibility_Using_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Health Assessment Using Ashtakavarga](170504_Health_Assessment_Using_Ashtakavarga.md)
+
+---

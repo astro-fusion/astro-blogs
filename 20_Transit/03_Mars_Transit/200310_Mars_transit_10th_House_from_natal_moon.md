@@ -92,3 +92,14 @@ A: While primarily focused
 - [Mars transit 11th House from natal moon](200311_Mars_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 9th House from natal moon](200309_Mars_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 11th House from natal moon](200311_Mars_transit_11th_House_from_natal_moon.md)
+
+---

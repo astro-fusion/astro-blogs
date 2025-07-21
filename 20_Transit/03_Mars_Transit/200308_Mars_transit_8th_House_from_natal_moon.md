@@ -88,3 +88,14 @@ The transit of Mars through the 8th house from natal moon brings complex influen
 - [Mars transit 9th House from natal moon](200309_Mars_transit_9th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 7th House from natal moon](200307_Mars_transit_7th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 9th House from natal moon](200309_Mars_transit_9th_House_from_natal_moon.md)
+
+---

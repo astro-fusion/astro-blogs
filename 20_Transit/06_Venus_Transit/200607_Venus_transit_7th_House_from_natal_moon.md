@@ -91,3 +91,14 @@ In conclusion, understanding Venus' transit through the 7th house from natal moo
 - [Venus transit 8th House from natal moon](200608_Venus_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 6th House from natal moon](200606_Venus_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 8th House from natal moon](200608_Venus_transit_8th_House_from_natal_moon.md)
+
+---

@@ -106,3 +106,14 @@ Beginners can start by learning about basic Ashtakavarga principles and practici
 - [Mars Transit Through Ashtakavarga Houses](170305_Mars_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Suns Transit Through Ashtakavarga Houses](170303_Suns_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Mars Transit Through Ashtakavarga Houses](170305_Mars_Transit_Through_Ashtakavarga_Houses.md)
+
+---

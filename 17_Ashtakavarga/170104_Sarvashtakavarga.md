@@ -133,3 +133,14 @@ By mastering Sarvashtakavarga through this comprehensive guide, you'll be well-e
 - [Difference Between Ashtakavarga and Other Vedic Predictive Systems](170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.md)
 
 ---
+---
+
+## Previous Article
+- [Calculation Methodology](170103_Calculation_Methodology.md)
+
+---
+
+## Next Article
+- [Difference Between Ashtakavarga and Other Vedic Predictive Systems](170105_Difference_Between_Ashtakavarga_and_Other_Vedic_Predictive_Systems.md)
+
+---

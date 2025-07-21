@@ -90,3 +90,14 @@ The Saturn transit through the 1st house from natal moon offers a transformative
 - [Saturn transit 2nd House from natal moon](200702_Saturn_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 12th House from natal moon](200712_Saturn_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 2nd House from natal moon](200702_Saturn_transit_2nd_House_from_natal_moon.md)
+
+---

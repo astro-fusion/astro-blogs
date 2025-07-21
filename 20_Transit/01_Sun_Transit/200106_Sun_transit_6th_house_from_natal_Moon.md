@@ -81,3 +81,14 @@ The Sun's transit into the 6th house from your natal Moon sign in Vedic astrolog
 - [Sun transit 7th house from natal Moon](200107_Sun_transit_7th_house_from_natal_Moon.md)
 
 ---
+---
+
+## Previous Article
+- [Sun transit 5th house from natal Moon](200105_Sun_transit_5th_house_from_natal_Moon.md)
+
+---
+
+## Next Article
+- [Sun transit 7th house from natal Moon](200107_Sun_transit_7th_house_from_natal_Moon.md)
+
+---

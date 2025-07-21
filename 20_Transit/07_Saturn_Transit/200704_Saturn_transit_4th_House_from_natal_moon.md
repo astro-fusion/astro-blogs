@@ -78,3 +78,14 @@ By recognizing both challenges and potential benefits associated with this astro
 - [Saturn transit 5th House from natal moon](200705_Saturn_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 3rd House from natal moon](200703_Saturn_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 5th House from natal moon](200705_Saturn_transit_5th_House_from_natal_moon.md)
+
+---

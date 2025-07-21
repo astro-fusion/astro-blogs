@@ -95,3 +95,14 @@ Understanding Jupiter's transit through fifth house from natal moon offers valua
 - [Jupiter transit 6th House from natal moon](200506_Jupiter_transit_6th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 4th House from natal moon](200504_Jupiter_transit_4th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 6th House from natal moon](200506_Jupiter_transit_6th_House_from_natal_moon.md)
+
+---

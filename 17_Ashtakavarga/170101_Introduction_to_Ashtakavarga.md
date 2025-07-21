@@ -120,3 +120,14 @@ Beginners can start by learning basic principles such as dividing the zodiac int
 - [Basic Principles of Ashtakavarga](170102_Basic_Principles_of_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Spiritual Dimensions of Ashtakavarga](170604_Spiritual_Dimensions_of_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Basic Principles of Ashtakavarga](170102_Basic_Principles_of_Ashtakavarga.md)
+
+---

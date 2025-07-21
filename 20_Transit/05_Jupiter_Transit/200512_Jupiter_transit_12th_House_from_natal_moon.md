@@ -78,3 +78,14 @@ The transit of Jupiter through the 12th house from your Natal Moon sign offers i
 - [Jupiter transit 1st House from natal moon](200501_Jupiter_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 11th House from natal moon](200511_Jupiter_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 1st House from natal moon](200501_Jupiter_transit_1st_House_from_natal_moon.md)
+
+---

@@ -119,3 +119,14 @@ By mastering Ekadhipatya Shodhana within the context of Vedic astrology, practit
 - [Prashtara Ashtakavarga](170403_Prashtara_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Trikona Shodhana](170401_Trikona_Shodhana.md)
+
+---
+
+## Next Article
+- [Prashtara Ashtakavarga](170403_Prashtara_Ashtakavarga.md)
+
+---

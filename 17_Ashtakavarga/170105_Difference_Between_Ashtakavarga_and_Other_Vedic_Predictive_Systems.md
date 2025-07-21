@@ -110,3 +110,14 @@ Beginners can start by learning basic principles such as identifying benefic and
 - [Suns Ashtakavarga](170201_Suns_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Sarvashtakavarga](170104_Sarvashtakavarga.md)
+
+---
+
+## Next Article
+- [Suns Ashtakavarga](170201_Suns_Ashtakavarga.md)
+
+---

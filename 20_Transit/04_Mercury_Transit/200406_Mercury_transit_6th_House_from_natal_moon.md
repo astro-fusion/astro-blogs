@@ -76,3 +76,14 @@ The Mercury transit through the 6th house from natal moon sign in Vedic astrolog
 - [Mercury transit 7th House from natal moon](200407_Mercury_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 5th House from natal moon](200405_Mercury_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 7th House from natal moon](200407_Mercury_transit_7th_House_from_natal_moon.md)
+
+---

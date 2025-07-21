@@ -91,3 +91,14 @@ Jupiter's transit through the 1st house from natal Moon offers an opportunity fo
 - [Jupiter transit 2nd House from natal moon](200502_Jupiter_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 12th House from natal moon](200512_Jupiter_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 2nd House from natal moon](200502_Jupiter_transit_2nd_House_from_natal_moon.md)
+
+---

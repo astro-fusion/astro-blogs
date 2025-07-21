@@ -147,3 +147,14 @@ A5: Beginners can start by understanding the basic principles behind Ashtakavarg
 - [Evolution of Ashtakavarga Through History](170603_Evolution_of_Ashtakavarga_Through_History.md)
 
 ---
+---
+
+## Previous Article
+- [Ashtakavarga in Ancient Texts](170601_Ashtakavarga_in_Ancient_Texts.md)
+
+---
+
+## Next Article
+- [Evolution of Ashtakavarga Through History](170603_Evolution_of_Ashtakavarga_Through_History.md)
+
+---

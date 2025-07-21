@@ -87,3 +87,14 @@ Mercury's transit through the 11th house from your natal Moon offers unique oppo
 - [Mercury transit 12th House from natal moon](200412_Mercury_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mercury transit 10th House from natal moon](200410_Mercury_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mercury transit 12th House from natal moon](200412_Mercury_transit_12th_House_from_natal_moon.md)
+
+---

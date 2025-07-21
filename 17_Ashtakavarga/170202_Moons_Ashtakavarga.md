@@ -122,3 +122,14 @@ By mastering Moon's Ashtakavarga, astrology enthusiasts can gain deeper understa
 - [Mars Ashtakavarga](170203_Mars_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Suns Ashtakavarga](170201_Suns_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Mars Ashtakavarga](170203_Mars_Ashtakavarga.md)
+
+---

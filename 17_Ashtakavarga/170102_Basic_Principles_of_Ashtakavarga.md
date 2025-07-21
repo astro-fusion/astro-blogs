@@ -114,3 +114,14 @@ Beginners can start by learning how to calculate point values using simple formu
 - [Calculation Methodology](170103_Calculation_Methodology.md)
 
 ---
+---
+
+## Previous Article
+- [Introduction to Ashtakavarga](170101_Introduction_to_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Calculation Methodology](170103_Calculation_Methodology.md)
+
+---

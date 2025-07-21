@@ -77,3 +77,14 @@ Here are some practical tips for managing Saturn in the 7th house effectively:
 - [Saturn transit 8th House from natal moon](200708_Saturn_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 6th House from natal moon](200706_Saturn_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 8th House from natal moon](200708_Saturn_transit_8th_House_from_natal_moon.md)
+
+---

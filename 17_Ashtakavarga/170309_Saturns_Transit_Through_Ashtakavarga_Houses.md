@@ -111,3 +111,14 @@ Answer: Beginners can start by understanding basic principles of Vedic astrology
 - [Trikona Shodhana](170401_Trikona_Shodhana.md)
 
 ---
+---
+
+## Previous Article
+- [Venus Transit Through Ashtakavarga Houses](170308_Venus_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Trikona Shodhana](170401_Trikona_Shodhana.md)
+
+---

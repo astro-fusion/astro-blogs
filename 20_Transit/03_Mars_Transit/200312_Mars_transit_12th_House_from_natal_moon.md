@@ -90,3 +90,14 @@ The transit Mars through 12th house from natal moon represents both potential ch
 - [Mars transit 1st House from natal moon](200301_Mars_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 11th House from natal moon](200311_Mars_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 1st House from natal moon](200301_Mars_transit_1st_House_from_natal_moon.md)
+
+---

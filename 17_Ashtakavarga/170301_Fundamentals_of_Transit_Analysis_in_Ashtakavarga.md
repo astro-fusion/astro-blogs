@@ -107,3 +107,14 @@ Beginners can start by learning about basic planetary movements and house positi
 - [Gochara Transit Interpretation Through Bindus](170302_Gochara_Transit_Interpretation_Through_Bindus.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu and Ketu in Ashtakavarga](170208_Rahu_and_Ketu_in_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Gochara Transit Interpretation Through Bindus](170302_Gochara_Transit_Interpretation_Through_Bindus.md)
+
+---

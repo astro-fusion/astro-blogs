@@ -74,3 +74,14 @@ Rahu's transit through the 2nd house from natal moon can be both challenging and
 - [Rahu transit 3rd House from natal moon](200803_Rahu_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 1st House from natal moon](200801_Rahu_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 3rd House from natal moon](200803_Rahu_transit_3rd_House_from_natal_moon.md)
+
+---

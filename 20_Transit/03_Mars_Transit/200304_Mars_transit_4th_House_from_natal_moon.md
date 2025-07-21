@@ -93,3 +93,14 @@ By understanding these subtleties in astrological transits and taking proactive 
 - [Mars transit 5th House from natal moon](200305_Mars_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 3rd House from natal moon](200303_Mars_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 5th House from natal moon](200305_Mars_transit_5th_House_from_natal_moon.md)
+
+---

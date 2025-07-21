@@ -79,3 +79,14 @@ The transit of Mars through your first house from Natal Moon signifies heightene
 - [Mars transit 2nd House from natal moon](200302_Mars_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 12th House from natal moon](200312_Mars_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 2nd House from natal moon](200302_Mars_transit_2nd_House_from_natal_moon.md)
+
+---

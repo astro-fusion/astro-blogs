@@ -92,3 +92,14 @@ The transit of Jupiter through the 4th house from natal moon sign offers signifi
 - [Jupiter transit 5th House from natal moon](200505_Jupiter_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 3rd House from natal moon](200503_Jupiter_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 5th House from natal moon](200505_Jupiter_transit_5th_House_from_natal_moon.md)
+
+---

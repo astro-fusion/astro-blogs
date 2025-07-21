@@ -86,3 +86,14 @@ By being aware of these astrological influences and implementing balancing remed
 - [Mars transit 4th House from natal moon](200304_Mars_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 2nd House from natal moon](200302_Mars_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 4th House from natal moon](200304_Mars_transit_4th_House_from_natal_moon.md)
+
+---

@@ -154,3 +154,14 @@ Beginners should start by understanding the basic principles of Ashtakavarga bef
 - [Yogas in Ashtakavarga](170407_Yogas_in_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Samudaya Ashtakavarga](170405_Samudaya_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Yogas in Ashtakavarga](170407_Yogas_in_Ashtakavarga.md)
+
+---

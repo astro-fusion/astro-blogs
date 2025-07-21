@@ -91,3 +91,14 @@ The transit of Rahu through the 10th house from natal moon presents both challen
 - [Rahu transit 11th House from natal moon](200811_Rahu_transit_11th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Rahu transit 9th House from natal moon](200809_Rahu_transit_9th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Rahu transit 11th House from natal moon](200811_Rahu_transit_11th_House_from_natal_moon.md)
+
+---

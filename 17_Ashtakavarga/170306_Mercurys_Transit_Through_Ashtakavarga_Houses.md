@@ -129,3 +129,14 @@ A5: Beginners can start by creating their birth chart using an online tool or co
 - [Jupiters Transit Through Ashtakavarga Houses](170307_Jupiters_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Mars Transit Through Ashtakavarga Houses](170305_Mars_Transit_Through_Ashtakavarga_Houses.md)
+
+---
+
+## Next Article
+- [Jupiters Transit Through Ashtakavarga Houses](170307_Jupiters_Transit_Through_Ashtakavarga_Houses.md)
+
+---

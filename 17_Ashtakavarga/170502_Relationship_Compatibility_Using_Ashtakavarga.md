@@ -108,3 +108,14 @@ Beginners can start by learning the basic principles of point calculation and th
 - [Financial Forecasting With Ashtakavarga](170503_Financial_Forecasting_With_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Career Analysis Through Ashtakavarga](170501_Career_Analysis_Through_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Financial Forecasting With Ashtakavarga](170503_Financial_Forecasting_With_Ashtakavarga.md)
+
+---

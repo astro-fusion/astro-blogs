@@ -106,3 +106,14 @@ Ketu's transit through the second house from natal moon signifies a profound jou
 - [Ketu transit 3rd House from natal moon](200903_Ketu_transit_3rd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 1st House from natal moon](200901_Ketu_transit_1st_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 3rd House from natal moon](200903_Ketu_transit_3rd_House_from_natal_moon.md)
+
+---

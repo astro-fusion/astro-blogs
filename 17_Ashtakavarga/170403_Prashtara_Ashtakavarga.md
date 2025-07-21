@@ -121,3 +121,14 @@ A5: Beginners can start by learning basic planetary positions and using software
 - [Kaksha Vibhaga](170404_Kaksha_Vibhaga.md)
 
 ---
+---
+
+## Previous Article
+- [Ekadhipatya Shodhana](170402_Ekadhipatya_Shodhana.md)
+
+---
+
+## Next Article
+- [Kaksha Vibhaga](170404_Kaksha_Vibhaga.md)
+
+---

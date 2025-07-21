@@ -84,3 +84,14 @@ This blog
 - [Ketu transit 7th House from natal moon](200907_Ketu_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 5th House from natal moon](200905_Ketu_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 7th House from natal moon](200907_Ketu_transit_7th_House_from_natal_moon.md)
+
+---

@@ -73,3 +73,14 @@ Q :What happens when multiple planets form aspect/s together alongside moving pl
 - [Ketu transit 10th House from natal moon](200910_Ketu_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 8th House from natal moon](200908_Ketu_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 10th House from natal moon](200910_Ketu_transit_10th_House_from_natal_moon.md)
+
+---

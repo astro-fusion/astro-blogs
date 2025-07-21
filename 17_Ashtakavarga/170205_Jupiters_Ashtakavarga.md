@@ -151,3 +151,14 @@ By mastering Jupiter’s Ashtakavarga you will gain profound understanding enhan
 - [Venus Ashtakavarga](170206_Venus_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Mercurys Ashtakavarga](170204_Mercurys_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Venus Ashtakavarga](170206_Venus_Ashtakavarga.md)
+
+---

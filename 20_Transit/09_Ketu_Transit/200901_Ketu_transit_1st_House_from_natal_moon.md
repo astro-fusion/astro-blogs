@@ -104,3 +104,14 @@ In conclusion, Ketu's transit through the first house from natal moon presents b
 - [Ketu transit 2nd House from natal moon](200902_Ketu_transit_2nd_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 12th House from natal moon](200912_Ketu_transit_12th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 2nd House from natal moon](200902_Ketu_transit_2nd_House_from_natal_moon.md)
+
+---

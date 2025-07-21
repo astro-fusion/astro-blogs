@@ -86,3 +86,14 @@ The Moon's transit through the 6th house from natal Moon sign brings unique oppo
 - [Moon transit 7th house from natal moon](200107_Moon_transit_7th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 5th house from natal moon](200105_Moon_transit_5th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 7th house from natal moon](200107_Moon_transit_7th_house_from_natal_moon.md)
+
+---

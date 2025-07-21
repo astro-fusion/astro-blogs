@@ -93,3 +93,14 @@ By embracing these insights into your astrological landscape, you'll be better e
 - [Venus transit 4th House from natal moon](200604_Venus_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 2nd House from natal moon](200602_Venus_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 4th House from natal moon](200604_Venus_transit_4th_House_from_natal_moon.md)
+
+---

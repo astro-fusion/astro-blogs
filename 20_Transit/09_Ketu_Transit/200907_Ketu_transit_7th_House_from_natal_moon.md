@@ -86,3 +86,14 @@ Answer,Yes This particular type-of-transit serves purposes akin those experience
 - [Ketu transit 8th House from natal moon](200908_Ketu_transit_8th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 6th House from natal moon](200906_Ketu_transit_6th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 8th House from natal moon](200908_Ketu_transit_8th_House_from_natal_moon.md)
+
+---

@@ -109,3 +109,14 @@ Saturn
 - [Saturn transit 4th House from natal moon](200704_Saturn_transit_4th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Saturn transit 2nd House from natal moon](200702_Saturn_transit_2nd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Saturn transit 4th House from natal moon](200704_Saturn_transit_4th_House_from_natal_moon.md)
+
+---

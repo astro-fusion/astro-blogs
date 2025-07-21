@@ -91,3 +91,14 @@ The transit of Venus through the 9th house from
 - [Venus transit 10th House from natal moon](200610_Venus_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Venus transit 8th House from natal moon](200608_Venus_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Venus transit 10th House from natal moon](200610_Venus_transit_10th_House_from_natal_moon.md)
+
+---

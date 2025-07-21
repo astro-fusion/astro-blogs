@@ -80,3 +80,14 @@ Individuals may feel an increased desire for independence while engaging in acti
 - [Moon transit 6th house from natal moon](200106_Moon_transit_6th_house_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Moon transit 6th house from natal moon](200106_Moon_transit_6th_house_from_natal_moon.md)
+
+---

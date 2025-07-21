@@ -81,3 +81,14 @@ The transit of Mars through the 11th house from your natal Moon offers both chal
 - [Mars transit 12th House from natal moon](200312_Mars_transit_12th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Mars transit 10th House from natal moon](200310_Mars_transit_10th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Mars transit 12th House from natal moon](200312_Mars_transit_12th_House_from_natal_moon.md)
+
+---

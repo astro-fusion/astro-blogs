@@ -81,3 +81,14 @@ This article aims to provide a comprehensive understanding of how Ketu’s trans
 - [Ketu transit 1st House from natal moon](200901_Ketu_transit_1st_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 11th House from natal moon](200911_Ketu_transit_11th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 1st House from natal moon](200901_Ketu_transit_1st_House_from_natal_moon.md)
+
+---

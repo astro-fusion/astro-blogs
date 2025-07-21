@@ -113,3 +113,14 @@ A5: Beginners should start by understanding basic principles behind Ashtakavarga
 - [Mercurys Ashtakavarga](170204_Mercurys_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Moons Ashtakavarga](170202_Moons_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Mercurys Ashtakavarga](170204_Mercurys_Ashtakavarga.md)
+
+---

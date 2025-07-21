@@ -81,3 +81,14 @@ By understanding its implications deeply and being proactive about balancing its
 - [Ketu transit 5th House from natal moon](200905_Ketu_transit_5th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Ketu transit 3rd House from natal moon](200903_Ketu_transit_3rd_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Ketu transit 5th House from natal moon](200905_Ketu_transit_5th_House_from_natal_moon.md)
+
+---

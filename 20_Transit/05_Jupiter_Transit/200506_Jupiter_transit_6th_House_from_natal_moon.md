@@ -89,3 +89,14 @@ The transit of Jupiter through the 6th house from natal moon offers unique oppor
 - [Jupiter transit 7th House from natal moon](200507_Jupiter_transit_7th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 5th House from natal moon](200505_Jupiter_transit_5th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 7th House from natal moon](200507_Jupiter_transit_7th_House_from_natal_moon.md)
+
+---

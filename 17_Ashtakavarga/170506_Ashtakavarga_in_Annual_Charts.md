@@ -140,3 +140,14 @@ A5: Beginners should start by understanding basic concepts related to planetary 
 - [Case Studies Famous Charts Analyzed Through Ashtakavarga](170507_Case_Studies_Famous_Charts_Analyzed_Through_Ashtakavarga.md)
 
 ---
+---
+
+## Previous Article
+- [Muhurta Electional Astrology With Ashtakavarga](170505_Muhurta_Electional_Astrology_With_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Case Studies Famous Charts Analyzed Through Ashtakavarga](170507_Case_Studies_Famous_Charts_Analyzed_Through_Ashtakavarga.md)
+
+---

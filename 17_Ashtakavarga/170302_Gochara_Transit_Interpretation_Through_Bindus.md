@@ -118,3 +118,14 @@ Beginners should start by understanding basic Ashtakavarga principles and then p
 - [Suns Transit Through Ashtakavarga Houses](170303_Suns_Transit_Through_Ashtakavarga_Houses.md)
 
 ---
+---
+
+## Previous Article
+- [Fundamentals of Transit Analysis in Ashtakavarga](170301_Fundamentals_of_Transit_Analysis_in_Ashtakavarga.md)
+
+---
+
+## Next Article
+- [Suns Transit Through Ashtakavarga Houses](170303_Suns_Transit_Through_Ashtakavarga_Houses.md)
+
+---

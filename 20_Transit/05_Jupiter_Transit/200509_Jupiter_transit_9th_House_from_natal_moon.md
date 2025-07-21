@@ -90,3 +90,14 @@ Jupiter's transit through the 9th House from your natal moon offers numerous opp
 - [Jupiter transit 10th House from natal moon](200510_Jupiter_transit_10th_House_from_natal_moon.md)
 
 ---
+---
+
+## Previous Article
+- [Jupiter transit 8th House from natal moon](200508_Jupiter_transit_8th_House_from_natal_moon.md)
+
+---
+
+## Next Article
+- [Jupiter transit 10th House from natal moon](200510_Jupiter_transit_10th_House_from_natal_moon.md)
+
+---
