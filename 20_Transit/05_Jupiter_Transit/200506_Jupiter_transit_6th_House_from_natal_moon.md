@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 6th House from natal moon'
+title: Jupiter transit 6th House from natal moon
 description: |
   Jupiter's transit through the 6th house from the natal Moon can bring challenges such as conflicts with family members, financial difficulties, and health issues. The individual may experience mental distress, quarrels, and a lack of success in endeavors.
 pubDate: '2024-09-19'

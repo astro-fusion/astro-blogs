@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 12th House from natal moon'
+title: Jupiter transit 12th House from natal moon
 description: |
   Jupiter's transit through the 12th house from the natal Moon can lead to difficulties such as financial losses, health issues, and mental distress. The individual may experience a challenging period marked by increased expenses, potential scandals, and general dissatisfaction.
 pubDate: '2024-09-19'

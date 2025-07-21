@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 9th House from natal moon'
+title: Rahu transit 9th House from natal moon
 description: |
   When Rahu transits the 9th house from the natal Moon, the individual may experience financial difficulties, involvement in sinful acts, and strained relationships with family. There may be a tendency towards black magic and a departure from righteous deeds.
 pubDate: '2024-09-19'

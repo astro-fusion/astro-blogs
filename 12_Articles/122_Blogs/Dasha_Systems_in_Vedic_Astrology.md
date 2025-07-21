@@ -1,5 +1,3 @@
-
-
 # **The Celestial Clockwork: An Analytical Study of Dasha Systems in Vedic Astrology**
 
 ## **I. The Theoretical and Historical Foundations of Dasha Systems: The Unfolding of Karma in Time**

@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 9th house from natal Moon'
+title: Sun transit 9th house from natal Moon
 description: |
    "The Sun transiting the 9th house can lead to issues with higher education
 pubDate: '2024-09-19'

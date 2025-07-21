@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Ashtakavarga and Other Vedic Predictive Systems"
+title: Difference Between Ashtakavarga and Other Vedic Predictive Systems
 description: |
   "Comparative analysis of how Ashtakavarga differs from Dasha systems,"
 pubDate: "2025-03-07"

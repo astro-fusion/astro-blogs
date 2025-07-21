@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 11th House from natal moon'
+title: Venus transit 11th House from natal moon
 description: |
   When Venus transits the 11th house from the natal Moon, the individual enjoys financial gains, social success, and general happiness. The period is marked by the fulfillment of desires, strong relationships, and the acquisition of wealth and material comforts.
 pubDate: '2024-09-19'

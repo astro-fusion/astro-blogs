@@ -1,5 +1,5 @@
 ---
-title: "Yogas in Ashtakavarga"
+title: Yogas in Ashtakavarga
 description: |
   "Exploration of special combinations and patterns in Ashtakavarga"
 pubDate: "2025-03-07"

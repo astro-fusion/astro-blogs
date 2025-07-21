@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 6th House from natal moon'
+title: Ketu transit 6th House from natal moon
 description: |
   Ketu's transit through the 6th house from the natal Moon brings mixed results, including financial gains and victory over enemies. However, there may be misunderstandings, stomach pain, and a stronger inclination towards spiritual pursuits.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 11th House from natal moon'
+title: Ketu transit 11th House from natal moon
 description: |
   When Ketu transits the 11th house from the natal Moon, it generally brings beneficial outcomes such as financial success, improved status, and abundance at home. However, there may be conflicts with relatives and health issues for siblings.
 pubDate: '2024-09-19'

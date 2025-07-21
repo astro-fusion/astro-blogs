@@ -1,5 +1,5 @@
 ---
-title: "Sarvashtakavarga"
+title: Sarvashtakavarga
 description: |
   "Comprehensive overview of the collective influence of all planets,"
 pubDate: "2025-03-07"

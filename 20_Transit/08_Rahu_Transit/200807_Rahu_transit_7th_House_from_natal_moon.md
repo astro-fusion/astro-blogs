@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 7th House from natal moon'
+title: Rahu transit 7th House from natal moon
 description: |
   When Rahu transits the 7th house from the natal Moon, the individual may experience a decline in self-respect, health problems, and difficulties in relationships. There may be scandals, property losses, and potential issues in foreign lands.
 pubDate: '2024-09-19'

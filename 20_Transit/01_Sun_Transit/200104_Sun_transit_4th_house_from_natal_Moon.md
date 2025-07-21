@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 4th house from natal Moon'
+title: Sun transit 4th house from natal Moon
 description: |
    "The Sun transiting the 4th house causes domestic unrest
 pubDate: '2024-09-19'

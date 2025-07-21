@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 6th House from natal moon'
+title: Rahu transit 6th House from natal moon
 description: |
   Rahu's transit through the 6th house from the natal Moon generally brings relief from difficulties, improved health, and financial gains. The individual may overcome enemies, enjoy better relationships, and experience overall well-being.
 pubDate: '2024-09-19'

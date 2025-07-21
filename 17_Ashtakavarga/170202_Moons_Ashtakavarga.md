@@ -1,5 +1,5 @@
 ---
-title: "Moon\\'s Ashtakavarga"
+title: Moon\\'s Ashtakavarga
 description: |
   "Complete guide to Moon\\'s Ashtakavarga calculation, its impact on
   emotional patterns, mental stability, and relationships with mother and women

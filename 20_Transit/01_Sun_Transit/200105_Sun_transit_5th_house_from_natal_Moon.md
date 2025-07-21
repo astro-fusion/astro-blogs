@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 5th house from natal Moon'
+title: Sun transit 5th house from natal Moon
 description: |
    "The Sun transiting the 5th house affects education
 pubDate: '2024-09-19'

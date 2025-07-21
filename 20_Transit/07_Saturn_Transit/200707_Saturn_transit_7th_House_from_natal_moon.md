@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 7th House from natal moon'
+title: Saturn transit 7th House from natal moon
 description: |
   When Saturn transits the 7th house from the natal Moon, the individual may face challenges in relationships, potential health issues, and separation from loved ones. This period can also bring difficulties in professional life and increased responsibilities.
 pubDate: '2024-09-19'

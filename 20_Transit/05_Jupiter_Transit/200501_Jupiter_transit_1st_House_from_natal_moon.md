@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 1st House from natal moon'
+title: Jupiter transit 1st House from natal moon
 description: |
   When Jupiter transits the 1st house from the natal Moon, the individual may experience loss of wealth, intellect, and position, along with frequent quarrels. The period may also bring about financial reduction, status disturbance, and difficulties in relationships, leading to a challenging time.
 pubDate: '2024-09-19'

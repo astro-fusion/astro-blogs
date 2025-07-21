@@ -1,5 +1,5 @@
 ---
-title: "Kaksha Vibhaga"
+title: Kaksha Vibhaga
 description: |
   "Analysis of planetary subdivisions in Ashtakavarga, calculation"
 pubDate: "2025-03-07"

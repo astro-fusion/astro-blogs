@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 6th house from natal moon"'
+title:  "Moon transit 6th house from natal moon"
 description: |
    "The Moon's transit through the 6th house from the natal Moon is generally positive. It brings success in overcoming enemies
 pubDate: '2024-09-19'

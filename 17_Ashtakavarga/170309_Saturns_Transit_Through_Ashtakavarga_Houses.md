@@ -1,5 +1,5 @@
 ---
-title: "Saturn\\'s Transit Through Ashtakavarga Houses"
+title: Saturn\\'s Transit Through Ashtakavarga Houses
 description: |
   "In-depth techniques for interpreting Saturn\\'s transit effects based
   on bindu distributions, predicting challenging periods, lessons, and long-term

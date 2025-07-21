@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 11th House from natal moon'
+title: Rahu transit 11th House from natal moon
 description: |
   When Rahu transits the 11th house from the natal Moon, the individual may experience financial gains, improved health, and success in social endeavors. There may also be spiritual growth and respect in society.
 pubDate: '2024-09-19'

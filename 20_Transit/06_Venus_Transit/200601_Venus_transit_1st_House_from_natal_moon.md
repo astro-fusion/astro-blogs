@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 1st House from natal moon'
+title: Venus transit 1st House from natal moon
 description: |
   When Venus transits the 1st house from the natal Moon, the individual experiences financial gains, happiness, and all kinds of sensual pleasures. The period brings material comforts, luxuries, and potential promotions, although there is a risk of indulgence in immoral pursuits.
 pubDate: '2024-09-19'

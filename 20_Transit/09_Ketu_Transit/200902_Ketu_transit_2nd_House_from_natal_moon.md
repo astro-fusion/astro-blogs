@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 2nd House from natal moon'
+title: Ketu transit 2nd House from natal moon
 description: |
   During Ketu's transit through the 2nd house from the natal Moon, the individual may face financial difficulties, tasteless food, and potential health issues like cancer of the tongue. There may also be mental stress and lack of essential resources at home.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 1st house from natal Moon'
+title: Sun transit 1st house from natal Moon
 description: |
    "The Sun transiting the 1st house causes fatigue
 pubDate: '2024-09-19'

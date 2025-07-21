@@ -1,5 +1,3 @@
-
-
 # **Celestial Counsel, Terrestrial Stigma: An Analysis of the Preference for Astrology Over Mental Healthcare in Nepal and India**
 
 ## **Introduction**

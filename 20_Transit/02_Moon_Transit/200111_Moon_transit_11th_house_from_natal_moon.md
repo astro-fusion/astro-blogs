@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 11th house from natal moon"'
+title:  "Moon transit 11th house from natal moon"
 description: |
    "During the Moon's transit through the 11th house from the natal Moon
 pubDate: '2024-09-19'

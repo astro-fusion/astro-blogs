@@ -1,5 +1,5 @@
 ---
-title: "Ashtakavarga in Annual Charts"
+title: Ashtakavarga in Annual Charts
 description: |
   "Application techniques for using Ashtakavarga in Varshaphala-yearly"
 pubDate: "2025-03-07"

@@ -1,5 +1,5 @@
 ---
-title: "Gochara (Transit) Interpretation Through Bindus"
+title: Gochara (Transit) Interpretation Through Bindus
 description: |
   "Advanced techniques for interpreting transits based on bindu strength"
 pubDate: "2025-03-07"

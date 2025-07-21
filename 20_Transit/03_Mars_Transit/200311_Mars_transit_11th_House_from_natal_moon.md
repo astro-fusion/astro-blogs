@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 11th House from natal moon'
+title: Mars transit 11th House from natal moon
 description: |
   Mars transiting the 11th house from the natal Moon is highly beneficial, bringing financial gains, success, and improved health. The individual may experience happiness, achieve their goals, and enjoy new friendships and social success during this period.
 pubDate: '2024-09-19'

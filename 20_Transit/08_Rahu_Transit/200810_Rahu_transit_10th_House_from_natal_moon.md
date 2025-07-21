@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 10th House from natal moon'
+title: Rahu transit 10th House from natal moon
 description: |
   Rahu's transit through the 10th house from the natal Moon brings mixed results. The individual may experience professional challenges, black magic, and potential danger to life. There may be property losses and confusion in decision-making.
 pubDate: '2024-09-19'

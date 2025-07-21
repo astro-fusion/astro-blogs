@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 7th House from natal moon'
+title: Mercury transit 7th House from natal moon
 description: |
   When Mercury transits the 7th house from the natal Moon, the individual may face challenges in relationships, particularly with the spouse, and experience a decline in general well-being. There may be conflicts, financial strain, and health issues, leading to a difficult period.
 pubDate: '2024-09-19'

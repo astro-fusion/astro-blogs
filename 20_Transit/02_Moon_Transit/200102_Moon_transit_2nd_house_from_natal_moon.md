@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 2nd house from natal moon"'
+title:  "Moon transit 2nd house from natal moon"
 description: |
    "The Moon's transit through the 2nd house from the natal Moon is generally challenging. It often leads to financial losses
 pubDate: '2024-09-19'

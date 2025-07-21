@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 1st house from natal moon"'
+title:  "Moon transit 1st house from natal moon"
 description: |
    "When the Moon transits the 1st house from the natal Moon
 pubDate: '2024-09-19'

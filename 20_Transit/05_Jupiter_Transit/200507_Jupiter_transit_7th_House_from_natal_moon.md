@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 7th House from natal moon'
+title: Jupiter transit 7th House from natal moon
 description: |
   When Jupiter transits the 7th house from the natal Moon, it brings positive outcomes such as marriage, financial gains, and improved relationships. The individual may enjoy a period of success, happiness, and fulfillment in both personal and professional life.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 9th House from natal moon'
+title: Saturn transit 9th House from natal moon
 description: |
   When Saturn transits the 9th house from the natal Moon, the individual may experience a mix of good and bad outcomes, including financial challenges, health issues, and potential spiritual growth. There may be opportunities for learning, but also significant obstacles.
 pubDate: '2024-09-19'

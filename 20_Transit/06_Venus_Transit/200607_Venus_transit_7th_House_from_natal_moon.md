@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 7th House from natal moon'
+title: Venus transit 7th House from natal moon
 description: |
   When Venus transits the 7th house from the natal Moon, the individual may experience challenges in relationships, particularly due to conflicts involving women. The period may bring mental unrest, potential scandals, and difficulties in partnerships.
 pubDate: '2024-09-19'

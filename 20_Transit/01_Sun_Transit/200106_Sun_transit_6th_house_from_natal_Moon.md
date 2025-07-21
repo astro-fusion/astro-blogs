@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 6th house from natal Moon'
+title: Sun transit 6th house from natal Moon
 description: |
    "The Sun transiting the 6th house is generally positive
 pubDate: '2024-09-19'

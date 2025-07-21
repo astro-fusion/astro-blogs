@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Transit Analysis in Ashtakavarga"
+title: Fundamentals of Transit Analysis in Ashtakavarga
 description: |
   "Core principles of using Ashtakavarga in transit analysis, including"
 pubDate: "2025-03-07"

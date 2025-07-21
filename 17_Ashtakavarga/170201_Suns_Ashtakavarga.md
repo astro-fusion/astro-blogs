@@ -1,5 +1,5 @@
 ---
-title: "Sun\\'s Ashtakavarga"
+title: Sun\\'s Ashtakavarga
 description: |
   "Detailed methodology for calculating Sun\\'s Ashtakavarga, interpreting
   its bindu distribution, and understanding how it influences one\\'s authority,

@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 11th House from natal moon'
+title: Jupiter transit 11th House from natal moon
 description: |
   When Jupiter transits the 11th house from the natal Moon, it brings positive outcomes such as financial gains, success, and overall happiness. The individual may experience a highly favorable period marked by prosperity, fulfillment of desires, and strong social relationships.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 4th House from natal moon'
+title: Mercury transit 4th House from natal moon
 description: |
   Mercury's transit through the 4th house from the natal Moon brings comfort, success in undertakings, and financial gains. The individual may enjoy improved intellectual capacity, support from family, and general happiness, although the health of parents may need attention.
 pubDate: '2024-09-19'

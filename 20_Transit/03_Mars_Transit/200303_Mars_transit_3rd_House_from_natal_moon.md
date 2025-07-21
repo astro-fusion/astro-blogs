@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 3rd House from natal moon'
+title: Mars transit 3rd House from natal moon
 description: |
   When Mars transits the 3rd house from the natal Moon, it brings positive results, including financial gains, success in undertakings, and improved health. The individual may also enjoy new friendships, gain courage, and experience general happiness and prosperity.
 pubDate: '2024-09-19'

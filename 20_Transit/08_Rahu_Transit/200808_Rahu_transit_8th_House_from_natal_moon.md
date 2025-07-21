@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 8th House from natal moon'
+title: Rahu transit 8th House from natal moon
 description: |
   Rahu's transit through the 8th house from the natal Moon is challenging, bringing health issues, fear, and potential loss of life if coinciding with a maraka period. The individual may face business losses, undiagnosable diseases, and failure in efforts.
 pubDate: '2024-09-19'

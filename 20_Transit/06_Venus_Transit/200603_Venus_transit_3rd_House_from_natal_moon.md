@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 3rd House from natal moon'
+title: Venus transit 3rd House from natal moon
 description: |
   When Venus transits the 3rd house from the natal Moon, the individual gains new friends, authority, and wealth. The period brings success in endeavors, improved health, and a rise in status, though there may be mixed results including some challenges in relationships.
 pubDate: '2024-09-19'

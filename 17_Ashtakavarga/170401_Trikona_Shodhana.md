@@ -1,5 +1,5 @@
 ---
-title: "Trikona Shodhana"
+title: Trikona Shodhana
 description: |
   "Detailed explanation of the reduction/purification method in
   Ashtakavarga"

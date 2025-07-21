@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 8th house from natal Moon'
+title: Sun transit 8th house from natal Moon
 description: |
    "The Sun transiting the 8th house brings challenges such as health issues
 pubDate: '2024-09-19'

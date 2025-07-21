@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 12th House from natal moon'
+title: Venus transit 12th House from natal moon
 description: |
   Venus's transit through the 12th house from the natal Moon brings both gains and losses, with an emphasis on sensual pleasures and material comforts. The individual may experience financial expenditure, indulgence in luxuries, and potential losses, but also satisfaction in personal life.
 pubDate: '2024-09-19'

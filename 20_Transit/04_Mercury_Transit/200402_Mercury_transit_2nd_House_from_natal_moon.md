@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 2nd House from natal moon'
+title: Mercury transit 2nd House from natal moon
 description: |
   Mercury's transit through the 2nd house from the natal Moon often results in financial gains but also brings about humiliation, conflicts, and potential health issues. The individual might struggle with accusations, family disputes, and a lack of peace, despite the possibility of some financial improvement.
 pubDate: '2024-09-19'

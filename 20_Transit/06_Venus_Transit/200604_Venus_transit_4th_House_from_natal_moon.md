@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 4th House from natal moon'
+title: Venus transit 4th House from natal moon
 description: |
   Venus's transit through the 4th house from the natal Moon brings comfort, success in education, and domestic happiness. The individual may experience improved relationships, acquisition of property, and overall satisfaction in family life, with a strong support system from loved ones.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 10th House from natal moon'
+title: Jupiter transit 10th House from natal moon
 description: |
   Jupiter's transit through the 10th house from the natal Moon can bring challenges such as loss of position, health issues, and financial difficulties. The individual may face a difficult period marked by failures in undertakings, strained relationships, and general dissatisfaction.
 pubDate: '2024-09-19'

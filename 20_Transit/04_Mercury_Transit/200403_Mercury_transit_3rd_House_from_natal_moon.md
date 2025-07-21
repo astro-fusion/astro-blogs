@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 3rd House from natal moon'
+title: Mercury transit 3rd House from natal moon
 description: |
   When Mercury transits the 3rd house from the natal Moon, the native might face difficulties, including financial losses, enmity, and conflicts with relatives. The period may also bring challenges in maintaining friendships, with potential for legal troubles and failures in personal endeavors.
 pubDate: '2024-09-19'

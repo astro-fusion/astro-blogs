@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 2nd House from natal moon'
+title: Mars transit 2nd House from natal moon
 description: |
   Mars transiting the 2nd house from the natal Moon can lead to financial losses, quarrels, and health issues, particularly related to the eyes and digestion. The individual may face accusations, suffer humiliation, and experience conflicts within the family, leading to mental distress.
 pubDate: '2024-09-19'

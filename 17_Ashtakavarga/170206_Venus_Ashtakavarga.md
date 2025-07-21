@@ -1,5 +1,5 @@
 ---
-title: "Venus' Ashtakavarga"
+title: Venus' Ashtakavarga
 description: |
   "Complete guide to Venus\' Ashtakavarga calculation and interpretation,
   focusing on relationships, luxuries, artistic talents, and sensual pleasures."

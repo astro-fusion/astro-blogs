@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 6th House from natal moon'
+title: Mars transit 6th House from natal moon
 description: |
   Mars transiting the 6th house from the natal Moon is generally favorable, bringing success over enemies, improved health, and financial gains. The individual may experience overall happiness, success in legal matters, and positive developments in their personal and professional life.
 pubDate: '2024-09-19'

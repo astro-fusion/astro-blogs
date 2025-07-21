@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 2nd House from natal moon'
+title: Jupiter transit 2nd House from natal moon
 description: |
   Jupiter's transit through the 2nd house from the natal Moon brings positive outcomes, including wealth acquisition, freedom from enemies, and overall happiness. The individual may also experience financial gains, mental peace, and improved relationships with family members.
 pubDate: '2024-09-19'

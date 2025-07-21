@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 12th House from natal moon'
+title: Ketu transit 12th House from natal moon
 description: |
   Ketu's transit through the 12th house from the natal Moon brings financial success, improvements in status, and general well-being. However, there may also be increased expenditures, health issues, and challenges in sexual relationships.
 pubDate: '2024-09-19'

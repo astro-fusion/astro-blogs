@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 1st House from natal moon'
+title: Saturn transit 1st House from natal moon
 description: |
   When Saturn transits the 1st house from the natal Moon, the individual may face severe challenges, including health issues, financial strain, and isolation. This period can bring about fear, danger from accidents, and significant losses in personal and professional life.
 pubDate: '2024-09-19'

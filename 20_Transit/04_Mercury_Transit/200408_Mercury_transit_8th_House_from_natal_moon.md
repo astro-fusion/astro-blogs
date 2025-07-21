@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 8th House from natal moon'
+title: Mercury transit 8th House from natal moon
 description: |
   Mercury's transit through the 8th house from the natal Moon can bring both challenges and opportunities. While the individual may face health issues and mental distress, there is also potential for financial gains, success in endeavors, and improved intellectual capacity.
 pubDate: '2024-09-19'

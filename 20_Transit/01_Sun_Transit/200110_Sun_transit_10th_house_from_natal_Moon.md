@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 10th house from natal Moon'
+title: Sun transit 10th house from natal Moon
 description: |
    "The Sun transiting the 10th house enhances career prospects
 pubDate: '2024-09-19'

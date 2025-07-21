@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 4th House from natal moon'
+title: Ketu transit 4th House from natal moon
 description: |
   Ketu's transit through the 4th house from the natal Moon can lead to financial losses in speculation, health issues, and potential accidents. The individual may lose property and suffer from fear and mental unrest.
 pubDate: '2024-09-19'

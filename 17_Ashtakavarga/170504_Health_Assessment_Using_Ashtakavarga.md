@@ -1,5 +1,5 @@
 ---
-title: "Health Assessment Using Ashtakavarga"
+title: Health Assessment Using Ashtakavarga
 description: |
   "Methods for identifying health vulnerabilities, timing of health"
 pubDate: "2025-03-07"

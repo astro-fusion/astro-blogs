@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 9th House from natal moon'
+title: Mercury transit 9th House from natal moon
 description: |
   When Mercury transits the 9th house from the natal Moon, the individual may encounter obstacles in all endeavors, leading to frustration and increased effort with little reward. The period may also bring health issues, financial difficulties, and a general sense of dissatisfaction.
 pubDate: '2024-09-19'

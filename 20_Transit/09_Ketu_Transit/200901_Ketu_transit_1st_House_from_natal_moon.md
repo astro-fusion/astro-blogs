@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 1st House from natal moon'
+title: Ketu transit 1st House from natal moon
 description: |
   When Ketu transits the 1st house from the natal Moon, the individual may experience mental worries, health issues like smallpox, and conflicts with siblings. There may be fire accidents for females and a stronger devotion towards God.
 pubDate: '2024-09-19'

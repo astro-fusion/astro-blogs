@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 6th House from natal moon'
+title: Mercury transit 6th House from natal moon
 description: |
   Mercury's transit through the 6th house from the natal Moon is favorable, bringing success, financial gains, and victory over enemies. The individual may experience a rise in status, improved health, and general happiness, with potential for recognition and success in endeavors.
 pubDate: '2024-09-19'

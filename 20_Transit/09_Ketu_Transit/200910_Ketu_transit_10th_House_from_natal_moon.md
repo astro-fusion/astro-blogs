@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 10th House from natal moon'
+title: Ketu transit 10th House from natal moon
 description: |
     Ketu's transit through the 10th house from the natal Moon brings mixed results, including potential financial gains and religious activities. However, there is also a risk of losses in speculation, fire accidents, and health issues.
 pubDate: '2024-09-19'

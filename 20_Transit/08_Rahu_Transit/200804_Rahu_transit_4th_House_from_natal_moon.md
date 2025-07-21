@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 4th House from natal moon'
+title: Rahu transit 4th House from natal moon
 description: |
   Rahu's transit through the 4th house from the natal Moon can bring health problems, conflicts with enemies, and potential loss of property. The individual may face sleepless nights, vehicle accidents, and challenges in education.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: "Saturn\\'s Ashtakavarga"
+title: Saturn\\'s Ashtakavarga
 description: |
   "Thorough analysis of Saturn\\'s Ashtakavarga, its calculation process,
   and its impact on longevity, challenges, discipline, and karmic lessons."

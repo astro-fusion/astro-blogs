@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 10th House from natal moon'
+title: Mars transit 10th House from natal moon
 description: |
   When Mars transits the 10th house from the natal Moon, it generally brings challenges related to health, professional life, and social standing. The individual may face obstacles in their career, experience financial strain, and deal with conflicts or legal issues.
 pubDate: '2024-09-19'

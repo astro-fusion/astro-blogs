@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Ashtakavarga Through History"
+title: Evolution of Ashtakavarga Through History
 description: |
   "Historical analysis of how Ashtakavarga has developed from ancient"
 pubDate: "2025-03-07"

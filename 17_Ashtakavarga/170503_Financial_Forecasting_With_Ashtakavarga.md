@@ -1,5 +1,5 @@
 ---
-title: "Financial Forecasting With Ashtakavarga"
+title: Financial Forecasting With Ashtakavarga
 description: |
   "Comprehensive techniques for predicting financial cycles, investment"
 pubDate: "2025-03-07"

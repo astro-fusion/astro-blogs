@@ -1,5 +1,5 @@
 ---
-title: "Mercury\\'s Transit Through Ashtakavarga Houses"
+title: Mercury\\'s Transit Through Ashtakavarga Houses
 description: |
   "Techniques for assessing Mercury\\'s transit effects based on bindu
   scores, timing for communication projects, business decisions, and educational

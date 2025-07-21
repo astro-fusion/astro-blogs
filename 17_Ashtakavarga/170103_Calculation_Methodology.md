@@ -1,5 +1,5 @@
 ---
-title: "Calculation Methodology"
+title: Calculation Methodology
 description: |
   "Step-by-step process for calculating Ashtakavarga charts, including"
 pubDate: "2025-03-07"

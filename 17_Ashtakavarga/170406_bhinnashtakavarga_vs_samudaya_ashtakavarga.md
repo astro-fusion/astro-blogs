@@ -1,5 +1,5 @@
 ---
-title: "Bhinnashtakavarga vs. Samudaya Ashtakavarga"
+title: Bhinnashtakavarga vs. Samudaya Ashtakavarga
 description: |
   "Comparative analysis of individual planetary Ashtakavarga versus"
 pubDate: "2025-03-07"

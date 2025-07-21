@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 11th House from natal moon'
+title: Mercury transit 11th House from natal moon
 description: |
   When Mercury transits the 11th house from the natal Moon, the individual enjoys financial gains, happiness, and success in endeavors. The period is marked by good health, strong relationships, and the fulfillment of desires, making it a highly favorable transit.
 pubDate: '2024-09-19'

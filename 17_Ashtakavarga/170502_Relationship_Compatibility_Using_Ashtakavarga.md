@@ -1,5 +1,5 @@
 ---
-title: "Relationship Compatibility Using Ashtakavarga"
+title: Relationship Compatibility Using Ashtakavarga
 description: |
   "Advanced methods for analyzing relationship compatibility beyond
   traditional Kuta matching, focusing on bindu harmony between partners\'

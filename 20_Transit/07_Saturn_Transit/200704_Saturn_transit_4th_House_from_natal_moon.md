@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 4th House from natal moon'
+title: Saturn transit 4th House from natal moon
 description: |
   Saturn's transit through the 4th house from the natal Moon can be challenging, bringing about separation from loved ones, health issues, and financial losses. This period may also involve mental stress, fear, and obstacles in daily life.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: "Career Analysis Through Ashtakavarga"
+title: Career Analysis Through Ashtakavarga
 description: |
   "Practical techniques for assessing professional potential, timing"
 pubDate: "2025-03-07"

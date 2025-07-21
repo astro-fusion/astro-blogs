@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 3rd House from natal moon'
+title: Saturn transit 3rd House from natal moon
 description: |
   When Saturn transits the 3rd house from the natal Moon, it typically brings success in endeavors, improved health, and financial gains. The individual may experience increased courage, support from siblings, and overall progress in life.
 pubDate: '2024-09-19'

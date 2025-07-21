@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 2nd House from natal moon'
+title: Rahu transit 2nd House from natal moon
 description: |
   During Rahu's transit through the 2nd house from the natal Moon, the individual may experience financial instability, health problems, and family conflicts. There could be food poisoning, scandals, and deteriorating relations with loved ones.
 pubDate: '2024-09-19'

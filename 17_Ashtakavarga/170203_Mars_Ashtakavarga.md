@@ -1,5 +1,5 @@
 ---
-title: "Mars' Ashtakavarga"
+title: Mars' Ashtakavarga
 description: |
   "Comprehensive analysis of Mars\' Ashtakavarga, its calculation process,
   and its significance in determining courage, conflicts, siblings, and property

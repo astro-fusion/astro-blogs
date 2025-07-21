@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 9th House from natal moon'
+title: Venus transit 9th House from natal moon
 description: |
   When Venus transits the 9th house from the natal Moon, the individual gains spiritual insight, material wealth, and happiness. The period is marked by success in education, strong relationships, and opportunities for travel and religious pursuits.
 pubDate: '2024-09-19'

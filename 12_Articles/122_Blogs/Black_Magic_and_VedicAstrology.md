@@ -1,5 +1,3 @@
-
-
 # **Abhichara: An Analytical Report on Malevolent Magic in Tantra and Vedic Astrology**
 
 ## **Part I: The Conceptual and Scriptural Landscape of Abhichara**

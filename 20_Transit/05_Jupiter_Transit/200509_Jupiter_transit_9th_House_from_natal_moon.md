@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 9th House from natal moon'
+title: Jupiter transit 9th House from natal moon
 description: |
   When Jupiter transits the 9th house from the natal Moon, it brings positive outcomes such as financial gains, success in undertakings, and improved relationships. The individual may experience a period of happiness, prosperity, and spiritual growth.
 pubDate: '2024-09-19'

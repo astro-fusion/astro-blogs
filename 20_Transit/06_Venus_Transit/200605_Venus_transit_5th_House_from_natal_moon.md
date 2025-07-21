@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 5th House from natal moon'
+title: Venus transit 5th House from natal moon
 description: |
   When Venus transits the 5th house from the natal Moon, the individual enjoys success in creative and intellectual pursuits, as well as happiness from children and family. The period is marked by financial gains, social recognition, and the birth of new relationships or children.
 pubDate: '2024-09-19'

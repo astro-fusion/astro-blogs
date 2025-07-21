@@ -1,5 +1,5 @@
 ---
-title: "Prashtara Ashtakavarga"
+title: Prashtara Ashtakavarga
 description: |
   "Comprehensive guide to the detailed underlying calculation tables"
 pubDate: "2025-03-07"

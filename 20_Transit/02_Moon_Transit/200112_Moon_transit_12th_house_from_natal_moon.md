@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 12th house from natal moon"'
+title:  "Moon transit 12th house from natal moon"
 description: |
    "The Moon's transit through the 12th house from the natal Moon is typically difficult. It often brings mental distress
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: "Mercury\\'s Ashtakavarga"
+title: Mercury\\'s Ashtakavarga
 description: |
   "In-depth exploration of Mercury\\'s Ashtakavarga, calculation methods,
   and its influence on communication abilities, business acumen, and

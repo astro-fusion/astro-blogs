@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 1st House from natal moon'
+title: Mercury transit 1st House from natal moon
 description: |
   When Mercury transits the 1st house from the natal Moon, the individual may experience confusion, financial difficulties, and health issues, particularly related to the eyes and digestion. The native may also face enmity, bad company, legal issues, and poor decision-making, leading to a challenging period.
 pubDate: '2024-09-19'

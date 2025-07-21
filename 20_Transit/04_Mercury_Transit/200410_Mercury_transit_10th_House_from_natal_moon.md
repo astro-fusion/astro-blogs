@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 10th House from natal moon'
+title: Mercury transit 10th House from natal moon
 description: |
   Mercury's transit through the 10th house from the natal Moon is generally positive, bringing success in career, financial gains, and improved social status. The individual may experience happiness, recognition, and success in their professional and personal life.
 pubDate: '2024-09-19'

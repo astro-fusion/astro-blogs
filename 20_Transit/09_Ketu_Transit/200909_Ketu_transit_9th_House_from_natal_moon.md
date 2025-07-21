@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 9th House from natal moon'
+title: Ketu transit 9th House from natal moon
 description: |
   When Ketu transits the 9th house from the natal Moon, the individual may face financial losses, legal issues, and spiritual introspection. There may be humiliation, conflicts, and challenges for both the individual and their father.
 pubDate: '2024-09-19'

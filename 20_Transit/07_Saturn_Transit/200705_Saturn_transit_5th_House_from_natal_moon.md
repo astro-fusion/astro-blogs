@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 5th House from natal moon'
+title: Saturn transit 5th House from natal moon
 description: |
   When Saturn transits the 5th house from the natal Moon, the individual may face difficulties in relationships with children, failure in endeavors, and mental distress. This period is marked by a decline in creativity and potential financial losses.
 pubDate: '2024-09-19'

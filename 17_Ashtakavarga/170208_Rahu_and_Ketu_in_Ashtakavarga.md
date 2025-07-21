@@ -1,5 +1,5 @@
 ---
-title: "Rahu and Ketu in Ashtakavarga"
+title: Rahu and Ketu in Ashtakavarga
 description: |
   "Special considerations for calculating and interpreting the shadow"
 pubDate: "2025-03-07"

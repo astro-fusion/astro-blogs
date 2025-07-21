@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 5th House from natal moon'
+title: Ketu transit 5th House from natal moon
 description: |
   When Ketu transits the 5th house from the natal Moon, the individual may face challenges such as health issues for the wife, loss of a child, and difficulties in life. However, the individual may also exhibit sharp intellect and improved functional skills.
 pubDate: '2024-09-19'

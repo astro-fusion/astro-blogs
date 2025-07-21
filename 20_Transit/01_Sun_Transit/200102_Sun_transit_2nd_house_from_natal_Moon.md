@@ -1,5 +1,5 @@
 ---
-title: 'Sun transit 2nd house from natal Moon'
+title: Sun transit 2nd house from natal Moon
 description: |
    "The Sun transiting the 2nd house leads to loss of wealth and happiness
 pubDate: '2024-09-19'

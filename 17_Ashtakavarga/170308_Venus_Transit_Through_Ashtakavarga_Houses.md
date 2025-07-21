@@ -1,5 +1,5 @@
 ---
-title: "Venus' Transit Through Ashtakavarga Houses"
+title: Venus' Transit Through Ashtakavarga Houses
 description: |
   "Methods for analyzing Venus\' transit through houses with varying bindu
   scores, timing for relationship developments, artistic endeavors, and

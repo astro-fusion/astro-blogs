@@ -1,5 +1,5 @@
 ---
-title: "Samudaya Ashtakavarga"
+title: Samudaya Ashtakavarga
 description: |
   "Methods for conducting aggregated analysis of favorable and
   unfavorable"

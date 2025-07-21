@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 10th House from natal moon'
+title: Venus transit 10th House from natal moon
 description: |
   Venus's transit through the 10th house from the natal Moon can bring challenges such as loss of respect, conflicts in relationships, and potential health issues. The individual may face professional setbacks, financial difficulties, and a general sense of dissatisfaction.
 pubDate: '2024-09-19'

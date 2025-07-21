@@ -1,5 +1,5 @@
 ---
-title: "Mars' Transit Through Ashtakavarga Houses"
+title: Mars' Transit Through Ashtakavarga Houses
 description: |
   "Analysis of Mars\' transit through houses with varying bindu
   distributions, predicting periods of conflict, energy surges, and property

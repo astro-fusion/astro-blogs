@@ -1,5 +1,5 @@
 ---
-title: "Jupiter\\'s Transit Through Ashtakavarga Houses"
+title: Jupiter\\'s Transit Through Ashtakavarga Houses
 description: |
   "Comprehensive guide to interpreting Jupiter\\'s transit through houses
   with different bindu strengths, predicting periods of growth, wisdom, and good

@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 12th House from natal moon'
+title: Mercury transit 12th House from natal moon
 description: |
   Mercury's transit through the 12th house from the natal Moon brings challenges such as financial losses, health issues, and conflicts. The individual may experience mental distress, increased expenses, and difficulties in relationships, leading to a period of caution and careful planning.
 pubDate: '2024-09-19'

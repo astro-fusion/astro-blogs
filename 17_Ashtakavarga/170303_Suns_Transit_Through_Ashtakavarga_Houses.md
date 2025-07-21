@@ -1,5 +1,5 @@
 ---
-title: "Sun\\'s Transit Through Ashtakavarga Houses"
+title: Sun\\'s Transit Through Ashtakavarga Houses
 description: |
   "Predictive techniques for analyzing Sun\\'s transit through houses with
   varying bindu scores, timing of career developments, and relationship with

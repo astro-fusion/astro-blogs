@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Dimensions of Ashtakavarga"
+title: Spiritual Dimensions of Ashtakavarga
 description: |
   "Philosophical exploration of how Ashtakavarga connects to karma,"
 pubDate: "2025-03-07"

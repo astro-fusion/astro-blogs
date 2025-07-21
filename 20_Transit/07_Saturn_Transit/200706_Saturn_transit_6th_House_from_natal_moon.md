@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 6th House from natal moon'
+title: Saturn transit 6th House from natal moon
 description: |
   Saturn's transit through the 6th house from the natal Moon generally brings positive outcomes, such as overcoming enemies, improved health, and financial gains. The individual may experience success in legal matters and overall improvement in life circumstances.
 pubDate: '2024-09-19'

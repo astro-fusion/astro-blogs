@@ -1,5 +1,5 @@
 ---
-title: 'Mercury transit 5th House from natal moon'
+title: Mercury transit 5th House from natal moon
 description: |
   During Mercury's transit through the 5th house from the natal Moon, the individual may experience quarrels with family, health issues, and a lack of success in personal endeavors. The period can be marked by mental stress, financial difficulties, and strained relationships.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 8th House from natal moon'
+title: Jupiter transit 8th House from natal moon
 description: |
   Jupiter's transit through the 8th house from the natal Moon can lead to difficulties such as health issues, financial losses, and potential imprisonment. The individual may face a challenging period marked by mental distress, accidents, and a lack of success in endeavors.
 pubDate: '2024-09-19'

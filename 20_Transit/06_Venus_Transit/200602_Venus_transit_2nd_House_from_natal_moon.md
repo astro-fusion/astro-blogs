@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 2nd House from natal moon'
+title: Venus transit 2nd House from natal moon
 description: |
   Venus's transit through the 2nd house from the natal Moon bestows wealth, family happiness, and physical comforts. The individual may experience improved financial status, health, and a general sense of well-being, along with enhanced intellectual abilities and social status.
 pubDate: '2024-09-19'

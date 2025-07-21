@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 4th house from natal moon"'
+title:  "Moon transit 4th house from natal moon"
 description: |
    "The transit of the Moon through the 4th house from the natal Moon is often challenging
 pubDate: '2024-09-19'

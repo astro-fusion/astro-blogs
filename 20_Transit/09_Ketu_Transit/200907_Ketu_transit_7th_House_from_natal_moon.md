@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 7th House from natal moon'
+title: Ketu transit 7th House from natal moon
 description: |
   When Ketu transits the 7th house from the natal Moon, the individual may experience difficulties in relationships, potential health issues, and troubles through wicked women. There may be forced relocations and general dissatisfaction.
 pubDate: '2024-09-19'

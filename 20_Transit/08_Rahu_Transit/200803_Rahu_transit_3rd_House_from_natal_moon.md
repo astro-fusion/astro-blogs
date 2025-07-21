@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 3rd House from natal moon'
+title: Rahu transit 3rd House from natal moon
 description: |
   When Rahu transits the 3rd house from the natal Moon, it generally brings positive outcomes such as increased courage, financial gains, and good health. The individual may also experience improved relations with siblings and enjoy various luxuries.
 pubDate: '2024-09-19'

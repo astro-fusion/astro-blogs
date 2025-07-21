@@ -1,5 +1,5 @@
 ---
-title: "Ekadhipatya Shodhana"
+title: Ekadhipatya Shodhana
 description: |
   "Advanced technique for adjusting Ashtakavarga calculations when"
 pubDate: "2025-03-07"

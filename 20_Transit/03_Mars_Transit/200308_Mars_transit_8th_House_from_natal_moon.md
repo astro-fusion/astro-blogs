@@ -1,5 +1,5 @@
 ---
-title: 'Mars transit 8th House from natal moon'
+title: Mars transit 8th House from natal moon
 description: |
   When Mars transits the 8th house from the natal Moon, it is highly challenging, causing health issues, financial losses, and potential dangers. The individual may experience humiliation, mental distress, and difficulties in their personal and professional life.
 pubDate: '2024-09-19'

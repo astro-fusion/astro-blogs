@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 8th House from natal moon'
+title: Ketu transit 8th House from natal moon
 description: |
   Ketu's transit through the 8th house from the natal Moon brings unresolvable problems, fear, and potential health issues. Despite these challenges, the individual may experience happiness and support from their spouse.
 pubDate: '2024-09-19'

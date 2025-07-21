@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 6th House from natal moon'
+title: Venus transit 6th House from natal moon
 description: |
   Venus's transit through the 6th house from the natal Moon can bring challenges such as health issues, financial strain, and difficulties in relationships. The individual may face enmity, humiliation, and general dissatisfaction, particularly in personal matters.
 pubDate: '2024-09-19'

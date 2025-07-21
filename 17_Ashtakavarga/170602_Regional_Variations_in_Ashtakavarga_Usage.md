@@ -1,5 +1,5 @@
 ---
-title: "Regional Variations in Ashtakavarga Usage"
+title: Regional Variations in Ashtakavarga Usage
 description: |
   "Exploration of how different astrological traditions across India"
 pubDate: "2025-03-07"

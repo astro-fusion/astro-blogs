@@ -1,5 +1,5 @@
 ---
-title: 'Venus transit 8th House from natal moon'
+title: Venus transit 8th House from natal moon
 description: |
   Venus's transit through the 8th house from the natal Moon generally brings positive outcomes, including financial gains, improved health, and enhanced relationships. The individual may enjoy a period of comfort, luxury, and overall happiness, with new opportunities and support from loved ones.
 pubDate: '2024-09-19'

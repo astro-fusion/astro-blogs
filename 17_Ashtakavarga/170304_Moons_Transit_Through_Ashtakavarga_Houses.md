@@ -1,5 +1,5 @@
 ---
-title: "Moon\\'s Transit Through Ashtakavarga Houses"
+title: Moon\\'s Transit Through Ashtakavarga Houses
 description: |
   "Methods for interpreting Moon\\'s transit through houses with different
   bindu strengths, emotional cycles, and timing of events related to home and

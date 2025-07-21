@@ -1,5 +1,5 @@
 ---
-title: "Ashtakavarga in Ancient Texts"
+title: Ashtakavarga in Ancient Texts
 description: |
   "Examination of Ashtakavarga references in classical texts like Brihat"
 pubDate: "2025-03-07"

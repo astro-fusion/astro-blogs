@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Ashtakavarga"
+title: Introduction to Ashtakavarga
 description: |
   "An overview of Ashtakavarga\\'s origins, historical significance, and
   its unique role as a predictive tool in Vedic astrology that complements other

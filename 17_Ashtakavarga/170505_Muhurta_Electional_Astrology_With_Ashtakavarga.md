@@ -1,5 +1,5 @@
 ---
-title: "Muhurta (Electional Astrology) With Ashtakavarga"
+title: Muhurta (Electional Astrology) With Ashtakavarga
 description: |
   "Practical guide to choosing auspicious times for important events"
 pubDate: "2025-03-07"

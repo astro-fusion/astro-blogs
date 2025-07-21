@@ -1,5 +1,5 @@
 ---
-title: "Jupiter\\'s Ashtakavarga"
+title: Jupiter\\'s Ashtakavarga
 description: |
   "Detailed examination of Jupiter\\'s Ashtakavarga, calculation
   techniques, and its role in determining wisdom, fortune, children, and

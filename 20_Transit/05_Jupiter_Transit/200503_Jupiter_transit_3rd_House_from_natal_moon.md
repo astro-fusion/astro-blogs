@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 3rd House from natal moon'
+title: Jupiter transit 3rd House from natal moon
 description: |
   When Jupiter transits the 3rd house from the natal Moon, the individual may face challenges such as loss of position, failure in undertakings, and financial setbacks. This period is marked by difficulties, including health issues, strained relationships, and general dissatisfaction.
 pubDate: '2024-09-19'

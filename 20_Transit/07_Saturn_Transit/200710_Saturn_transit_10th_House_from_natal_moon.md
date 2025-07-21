@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 10th House from natal moon'
+title: Saturn transit 10th House from natal moon
 description: |
   Saturn's transit through the 10th house from the natal Moon can bring about professional challenges, financial losses, and health issues. The individual may face difficulties in career advancement and potential damage to their reputation.
 pubDate: '2024-09-19'

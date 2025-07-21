@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 10th house from natal moon"'
+title:  "Moon transit 10th house from natal moon"
 description: |
    "The Moon's transit through the 10th house from the natal Moon is generally favorable. It brings success in professional endeavors
 pubDate: '2024-09-19'

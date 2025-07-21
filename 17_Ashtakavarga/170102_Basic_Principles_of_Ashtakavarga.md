@@ -1,5 +1,5 @@
 ---
-title: "Basic Principles of Ashtakavarga"
+title: Basic Principles of Ashtakavarga
 description: |
   "Explanation of the bindu (point) system, how benefic and malefic"
 pubDate: "2025-03-07"

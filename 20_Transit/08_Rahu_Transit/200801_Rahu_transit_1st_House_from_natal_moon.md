@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 1st House from natal moon'
+title: Rahu transit 1st House from natal moon
 description: |
   When Rahu transits the 1st house from the natal Moon, the individual may face unsolved difficulties, health issues, and potential black magic. Mental stress, mysterious diseases, and problems for parents are also likely.
 pubDate: '2024-09-19'

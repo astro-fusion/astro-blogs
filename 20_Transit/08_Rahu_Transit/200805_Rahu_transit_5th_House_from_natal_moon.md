@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 5th House from natal moon'
+title: Rahu transit 5th House from natal moon
 description: |
   When Rahu transits the 5th house from the natal Moon, the individual may face financial difficulties, health issues for children, and mental confusion. There is also a risk of loss of one or both parents and strained family relations.
 pubDate: '2024-09-19'

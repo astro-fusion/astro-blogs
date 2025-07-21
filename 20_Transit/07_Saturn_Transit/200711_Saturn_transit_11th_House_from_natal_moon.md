@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 11th House from natal moon'
+title: Saturn transit 11th House from natal moon
 description: |
   When Saturn transits the 11th house from the natal Moon, the individual may experience financial gains, improved health, and success in social endeavors. This period is generally positive, bringing about new opportunities and fulfillment of desires.
 pubDate: '2024-09-19'

@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 5th House from natal moon'
+title: Jupiter transit 5th House from natal moon
 description: |
   When Jupiter transits the 5th house from the natal Moon, it brings positive outcomes such as happiness, wealth, children, and success in undertakings. The individual may enjoy an auspicious period with gains in status, prosperity, and overall satisfaction.
 pubDate: '2024-09-19'

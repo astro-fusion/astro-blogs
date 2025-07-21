@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 2nd House from natal moon'
+title: Saturn transit 2nd House from natal moon
 description: |
   During Saturn's transit through the 2nd house from the natal Moon, the individual may experience financial difficulties, health problems, and strained family relationships. There may be losses in wealth, reputation, and a general decline in well-being.
 pubDate: '2024-09-19'

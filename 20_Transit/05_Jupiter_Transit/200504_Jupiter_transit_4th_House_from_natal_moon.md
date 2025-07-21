@@ -1,5 +1,5 @@
 ---
-title: 'Jupiter transit 4th House from natal moon'
+title: Jupiter transit 4th House from natal moon
 description: |
   Jupiter's transit through the 4th house from the natal Moon can lead to worries caused by family members, lack of peace, and mental distress. The individual may experience disruptions at home, potential accidents, and a general sense of unease and instability.
 pubDate: '2024-09-19'

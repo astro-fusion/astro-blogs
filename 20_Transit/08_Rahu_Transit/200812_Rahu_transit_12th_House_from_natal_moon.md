@@ -1,5 +1,5 @@
 ---
-title: 'Rahu transit 12th House from natal moon'
+title: Rahu transit 12th House from natal moon
 description: |
   Rahu's transit through the 12th house from the natal Moon can be difficult, leading to financial losses, health problems, and mental stress. The individual may face heavy expenditures, property losses, and potential diseases.
 pubDate: '2024-09-19'

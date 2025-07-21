@@ -1,5 +1,5 @@
 ---
-title: 'Saturn transit 12th House from natal moon'
+title: Saturn transit 12th House from natal moon
 description: |
   Saturn's transit through the 12th house from the natal Moon can be a difficult period, characterized by financial losses, health issues, and mental stress. The individual may face isolation, aimless wanderings, and a decline in overall life satisfaction.
 pubDate: '2024-09-19'

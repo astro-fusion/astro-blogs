@@ -1,5 +1,5 @@
 ---
-title: ' "Moon transit 8th house from natal moon"'
+title:  "Moon transit 8th house from natal moon"
 description: |
    "The Moon's transit through the 8th house from the natal Moon is one of the most challenging periods. It can bring about health issues
 pubDate: '2024-09-19'

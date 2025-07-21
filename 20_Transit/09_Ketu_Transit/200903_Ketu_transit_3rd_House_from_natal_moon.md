@@ -1,5 +1,5 @@
 ---
-title: 'Ketu transit 3rd House from natal moon'
+title: Ketu transit 3rd House from natal moon
 description: |
   When Ketu transits the 3rd house from the natal Moon, it generally brings positive outcomes such as overcoming enemies, increased income, and courage. However, there is a risk of venereal and skin diseases, despite gaining fame and living an aristocratic life.
 pubDate: '2024-09-19'
