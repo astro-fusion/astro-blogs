@@ -1,1 +1,30 @@
+# Environment variables
 .env
+.env.local
+.env.development
+.env.production
+.env.staging
+
+# API Keys and Secrets
+*.key
+secrets.json
+config.json
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
