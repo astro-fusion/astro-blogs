@@ -6541,6 +6541,49 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Calculations",
+      "folder": "07_Calculations",
+      "children": [
+        {
+          "name": "0701_Shadbala_Strength.mdx",
+          "title": "Shadbala in Vedic Astrology: How to Calculate Planetary Strength",
+          "path": "07_Calculations/0701_Shadbala_Strength.mdx"
+        },
+        {
+          "name": "0702_Ashtakavarga_System.mdx",
+          "title": "Ashtakavarga System Explained: The Points of Destiny",
+          "path": "07_Calculations/0702_Ashtakavarga_System.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Conjunctions",
+      "folder": "08_Conjunctions",
+      "children": [
+        {
+          "name": "0801_Three_Planet_Conjunctions.mdx",
+          "title": "Powerful Planetary Conjunctions: Sun, Venus, Ketu and More",
+          "path": "08_Conjunctions/0801_Three_Planet_Conjunctions.mdx"
+        }
+      ]
+    },
+    {
+      "title": "Lords In Houses",
+      "folder": "09_Lords_in_Houses",
+      "children": [
+        {
+          "name": "0905_5th_Lord_Through_Houses.mdx",
+          "title": "5th Lord in Different Houses: Creativity, Children & Past Life Karma",
+          "path": "09_Lords_in_Houses/0905_5th_Lord_Through_Houses.mdx"
+        },
+        {
+          "name": "0908_8th_Lord_Through_Houses.mdx",
+          "title": "8th Lord in Different Houses: Transformation & Sudden Events",
+          "path": "09_Lords_in_Houses/0908_8th_Lord_Through_Houses.mdx"
+        }
+      ]
     }
   ]
 }
