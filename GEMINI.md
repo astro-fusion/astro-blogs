@@ -46,3 +46,33 @@ Create a YAML block (`---`) with the following keys:
 1.  **Analyze, Don't Just Summarize**: Do not simply rephrase the topic. Use your web search capabilities to research the subject thoroughly and synthesize the information into a unique, high-quality article.
 2.  **Strictly Adhere to Reference Structure**: The provided reference `.mdx` file is the template for success. Match its structural flow, heading levels, and the depth of its content.
 3.  **SEO is Paramount**: Naturally weave keywords into the title, headings, and body content. Ensure the `description` and `title` are optimized for search engine results pages (SERPs).
+
+---
+
+# IDE Context & Project Structure
+
+## Repository Overview
+This repository (`astro-blogs`) contains a comprehensive collection of Vedic Astrology content formatted in MDX. It is structured hierarchically by astrological concepts.
+
+## Directory Structure
+- **01_Rasi**: Zodiac signs (Mesha to Meena).
+- **02_Houses**: The 12 astrological houses.
+- **03_Planets**: Planetary descriptions and Upagrahas.
+- **04_DashaSystem**: Vimshottari and Yogini Dasha systems.
+- **05_Nakshatra**: The 27 Lunar Mansions.
+- **06_Planet_in_Houses**: Detailed analysis of planets placed in specific houses.
+- **07_Calculations**: Astrological calculations like Shadbala.
+- **08_Planet_in_Rashi**: Planets placed in specific zodiac signs.
+- **10_Lord_in_Houses**: Analysis of house lords placed in other houses.
+- **11_Planets_Conjunctions**: Effects of multi-planet conjunctions.
+- **14_Divisional_Charts**: Vargas (D1 to D60).
+- **17_Ashtakavarga**: The system of eightfold classification.
+- **18_Vastu**: Vastu Shastra principles and applications.
+- **19_Medical_Astrology**: Health and disease prediction.
+- **20_Transit**: Planetary transits (Gochara).
+- **21_Numerology**: Vedic and Western numerology.
+
+## File Conventions
+- **Format**: `.mdx` (Markdown with JSX).
+- **Naming**: Numbered prefixes for ordering (e.g., `0101_Mesha.mdx`).
+- **Frontmatter**: All files must include YAML frontmatter with `title`, `description`, and `keywords`.

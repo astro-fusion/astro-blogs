@@ -1,0 +1,22 @@
+{
+    "name": "astro-blogs",
+    "version": "1.0.0",
+    "description": "Vedic Astrology Blog Content",
+    "main": "index.js",
+    "scripts": {
+        "validate": "node validate_mdx.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@mdx-js/mdx": "^3.0.0",
+        "chalk": "^4.1.2",
+        "glob": "^10.3.10",
+        "gray-matter": "^4.0.3",
+        "rehype-katex": "^7.0.1",
+        "remark-math": "^6.0.0",
+        "vfile": "^6.0.1",
+        "vfile-reporter": "^8.1.0"
+    }
+}
