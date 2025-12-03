@@ -1,7 +1,7 @@
 ---
 title: Mars transit 5th House from natal moon
-description: |
-   When Mars transits the 5th house from the natal Moon, it can lead to health issues, mental distress, and challenges related to children. The individual may face financial losses, engage in conflicts, and experience general unhappiness during this period."
+description:
+   When Mars transits the 5th house from the natal Moon, it can lead to health issues, mental distress, and challenges related to children. The individual may face financial losses, engage in conflicts, and experience general unhappiness during this period.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---

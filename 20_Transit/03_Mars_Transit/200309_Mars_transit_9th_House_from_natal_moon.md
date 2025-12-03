@@ -1,7 +1,7 @@
 ---
 title: Mars transit 9th House from natal moon
-description: |
-   Mars transiting the 9th house from the natal Moon can bring mixed results. While there might be some financial gains and positive developments, the individual may also face health issues, conflicts, and challenges related to their father or other paternal figures."
+description:
+   Mars transiting the 9th house from the natal Moon can bring mixed results. While there might be some financial gains and positive developments, the individual may also face health issues, conflicts, and challenges related to their father or other paternal figures.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mars transit 7th House from natal moon
-description: |
-   Mars transiting the 7th house from the natal Moon is considered difficult, leading to conflicts in marriage, financial strain, and health issues, particularly related to the stomach and eyes. The individual may also face separation from their spouse and experience mental distress."
+description:
+   Mars transiting the 7th house from the natal Moon is considered difficult, leading to conflicts in marriage, financial strain, and health issues, particularly related to the stomach and eyes. The individual may also face separation from their spouse and experience mental distress.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---

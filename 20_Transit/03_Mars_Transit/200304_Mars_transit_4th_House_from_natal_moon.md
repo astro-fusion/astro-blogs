@@ -1,7 +1,7 @@
 ---
 title: Mars transit 4th House from natal moon
-description: |
-   Mars transiting the 4th house from the natal Moon is challenging, bringing about health issues, particularly related to the stomach, mental distress, and financial losses. The individual may face conflicts at home, potential accidents, and difficulties related to their mother or home."
+description:
+   Mars transiting the 4th house from the natal Moon is challenging, bringing about health issues, particularly related to the stomach, mental distress, and financial losses. The individual may face conflicts at home, potential accidents, and difficulties related to their mother or home.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---

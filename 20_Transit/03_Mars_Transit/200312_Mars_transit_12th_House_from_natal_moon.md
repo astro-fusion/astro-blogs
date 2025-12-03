@@ -1,7 +1,7 @@
 ---
 title: Mars transit 12th House from natal moon
-description: |
-   When Mars transits the 12th house from the natal Moon, it causes various challenges, including financial losses, health issues, and conflicts. The individual may face unwanted expenses, potential accidents, and mental distress. This period requires caution and careful planning."
+description:
+   When Mars transits the 12th house from the natal Moon, it causes various challenges, including financial losses, health issues, and conflicts. The individual may face unwanted expenses, potential accidents, and mental distress. This period requires caution and careful planning.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---

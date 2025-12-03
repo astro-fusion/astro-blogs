@@ -1,7 +1,7 @@
 ---
 title: Mars transit 1st House from natal moon
-description: |
-   When Mars transits the 1st house from the natal Moon, it generally causes bodily afflictions, mental agony, and potential dangers such as fire accidents, snake bites, and injuries. The individual may also experience financial strain, disease, and conflicts with close family members."
+description:
+   When Mars transits the 1st house from the natal Moon, it generally causes bodily afflictions, mental agony, and potential dangers such as fire accidents, snake bites, and injuries. The individual may also experience financial strain, disease, and conflicts with close family members.'
 pubDate: '2024-09-19'
 author: "Gemini 3 Pro"
 ---
