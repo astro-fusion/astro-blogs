@@ -63,7 +63,46 @@ Q: Why does my mood swing so much during this time?
 A: The intense emotional undercurrents due to Moon’s influence combined with Sun's light shining on previously hidden areas cause these fluctuations.
 
 Q: How do I overcome fear or anxiety arising out of this transit?
-A: Engaging in self-inquiry practices like meditation/journaling helps confront fears/anxiety head-on while seeking support from loved ones provides
+A: Engaging in self-inquiry practices like meditation/journaling helps confront fears/anxiety head-on while seeking support from loved ones provides necessary emotional stability.
+
+## Predictions by Life Area
+
+### Prediction:Career:General
+You may feel detached from your work or face setbacks. Hidden enemies or office politics could cause trouble. It is a good time for planning behind the scenes rather than direct action.
+
+### Prediction:Finance:Income
+Income may be unstable or delayed. Losses through bad investments or theft are possible. Be very cautious with money.
+
+### Prediction:Finance:Expenses
+High expenses are indicated, possibly on medical bills, fines, or foreign travel. You might spend on charity or spiritual activities.
+
+### Prediction:Relationships:Romantic
+Emotional distance or secrets can strain relationships. You may feel the need for solitude. Avoid clandestine affairs as they will be exposed.
+
+### Prediction:Relationships:Family
+You might feel isolated from your family or physically distant. Sleep disturbances can make you irritable with loved ones.
+
+### Prediction:Health:Physical
+Vitality is low. Eye trouble, sleep disorders, or foot-related issues are possible. Hospitalization or medical checkups may be required.
+
+### Prediction:Health:Mental
+You may feel lonely, anxious, or depressed. Subconscious fears may surface. Meditation and sleep hygiene are critical.
+
+### Prediction:Education:Academic
+Concentration is poor. You might feel like giving up. However, research or study of foreign languages/cultures is favored.
+
+### Prediction:Travel:Domestic
+Travel is likely to be for spiritual reasons or to hospitals. It may be tiring and expensive.
+
+### Prediction:Travel:Foreign
+This is a strong placement for foreign travel or settlement. You may visit distant lands for retreat or work.
+
+### Prediction:Spirituality:Practice
+This is the best time for spiritual retreat, meditation, and letting go. Solitude brings deep insights. Charity (Dana) reduces negative karma.
+
+### Prediction:Spirituality:Karma
+You are releasing old karmic baggage. Losses now are a form of spiritual cleansing. Accept what leaves your life.
+
 ---
 
 ## Previous Article

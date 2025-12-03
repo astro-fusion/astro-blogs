@@ -1,0 +1,83 @@
+name: Validate MD Frontmatter
+
+on:
+  push:
+    paths:
+      - '20_Transit/**/*.md'
+      - '20_Transit/**/*.mdx'
+  pull_request:
+    paths:
+      - '20_Transit/**/*.md'
+      - '20_Transit/**/*.mdx'
+
+jobs:
+  validate-frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate Frontmatter
+        run: |
+          import os
+          import yaml
+          import sys
+          import re
+
+          def validate_file(filepath):
+              with open(filepath, 'r') as f:
+                  content = f.read()
+              
+              # Extract frontmatter
+              match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+              if not match:
+                  print(f"Error: No frontmatter found in {filepath}")
+                  return False
+              
+              frontmatter_raw = match.group(1)
+              
+              try:
+                  frontmatter = yaml.safe_load(frontmatter_raw)
+              except yaml.YAMLError as e:
+                  print(f"Error: Invalid YAML in {filepath}: {e}")
+                  return False
+              
+              # Check description quotes
+              description_line = re.search(r'^description:\s*(.*)$', frontmatter_raw, re.MULTILINE)
+              if description_line:
+                  desc_val = description_line.group(1).strip()
+                  # Check if it starts with single quote
+                  if not desc_val.startswith("'"):
+                       # It might be a block scalar, which is fine if handled correctly, 
+                       # but user specifically asked for single quotes for simple strings if possible,
+                       # or at least not double quotes that cause issues.
+                       # Let's strictly check if it looks like a double-quoted string.
+                       if desc_val.startswith('"'):
+                           print(f"Error: Description should use single quotes in {filepath}")
+                           return False
+
+              # Check author
+              if 'author' not in frontmatter:
+                  print(f"Error: Missing 'author' field in {filepath}")
+                  return False
+              
+              return True
+
+          failed = False
+          for root, dirs, files in os.walk('20_Transit'):
+              for file in files:
+                  if file.endswith('.md') or file.endswith('.mdx'):
+                      if not validate_file(os.path.join(root, file)):
+                          failed = True
+
+          if failed:
+              sys.exit(1)
+          print("All files validated successfully.")
+        shell: python

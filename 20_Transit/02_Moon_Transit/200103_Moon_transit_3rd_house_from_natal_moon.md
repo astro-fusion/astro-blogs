@@ -1,8 +1,8 @@
 ---
 title:  "Moon transit 3rd house from natal moon"
-description: |
-   "During the Moon's transit through the 3rd house from the natal Moon
+description: "During the Moon's transit through the 3rd house from the natal Moon"
 pubDate: '2024-09-19'
+author: "Gemini 3 Pro"
 ---
 
 # The Effects of Moon's Transit Through the 3rd House from Natal Moon Sign in Vedic Astrology
@@ -76,24 +76,6 @@ Q: How long does the Moon stay in the third house?
 A: The Moon's transit through any house lasts approximately 2-3 days depending on its average speed across zodiac signs.
 
 Q: What happens if I have a malefic planet aspecting my Moon during this transit?
-A: If a malefic planet like Saturn or Mars is forming an aspect with your Moon in third house transit, expect challenges related to communication like misunderstandings or conflictual situations arising
----
-
-## Previous Article
-- [Moon transit 2nd house from natal moon](200102_Moon_transit_2nd_house_from_natal_moon.md)
-
----
-
-## Next Article
-- [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)
-
----
----
-
-## Previous Article
-- [Moon transit 2nd house from natal moon](200102_Moon_transit_2nd_house_from_natal_moon.md)
-
----
 
 ## Next Article
 - [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)

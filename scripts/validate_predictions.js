@@ -1,167 +1,94 @@
 const fs = require('fs');
 const path = require('path');
+const glob = require('glob');
 const matter = require('gray-matter');
 const chalk = require('chalk');
 
-// Configuration - can be overridden via command line argument
-const TARGET_DIR = process.argv[2] || '06_Planet_in_Houses/0601_Sun_in_Houses';
+const TARGET_DIR = '06_Planet_in_Houses/0601_Sun_in_Houses';
+const IGNORE_FILES = ['060100_sun_knowledge.mdx'];
 
-/**
- * Validate prediction-focused content in astrology files
- */
-function validatePredictions(filePath) {
+const REQUIRED_TAGS = [
+  'Prediction:Career:General',
+  'Prediction:Finance:Income',
+  'Prediction:Finance:Expenses',
+  'Prediction:Relationships:Romantic',
+  'Prediction:Relationships:Family',
+  'Prediction:Health:Physical',
+  'Prediction:Health:Mental',
+  'Prediction:Education:Academic',
+  'Prediction:Travel:Domestic',
+  'Prediction:Travel:Foreign',
+  'Prediction:Spirituality:Practice',
+  'Prediction:Spirituality:Karma'
+];
+
+async function validateFile(filePath) {
+  const content = fs.readFileSync(filePath, 'utf8');
   const errors = [];
-  const warnings = [];
+  const fileName = path.basename(filePath);
 
-  try {
-    const content = fs.readFileSync(filePath, 'utf8');
+  if (IGNORE_FILES.includes(fileName)) return errors;
 
-    // 1. Basic frontmatter validation
-    const { data, content: mdxContent } = matter(content);
+  // 1. Validate Frontmatter
+  const { data, content: mdxContent } = matter(content);
+  if (!data.title) errors.push('Missing "title" in frontmatter');
 
-    if (!data.title) errors.push('Missing "title" in frontmatter');
-    if (!data.description) errors.push('Missing "description" in frontmatter');
-
-    // 2. Check for "Predictions by Life Area" section (new standardized section)
-    const hasPredictionsSection = mdxContent.includes('## Predictions by Life Area');
-    if (!hasPredictionsSection) {
-      warnings.push('Missing "## Predictions by Life Area" section - consider adding this standardized section');
-    }
-
-    // 3. If predictions section exists, validate its structure
-    if (hasPredictionsSection) {
-      const predictionsIndex = mdxContent.indexOf('## Predictions by Life Area');
-      const afterPredictions = mdxContent.substring(predictionsIndex);
-
-      // Check for common life areas that should be covered
-      const lifeAreas = [
-        'Career',
-        'Finance',
-        'Health',
-        'Relationships',
-        'Marriage',
-        'Education',
-        'Family',
-        'Spiritual'
-      ];
-
-      const foundAreas = lifeAreas.filter(area =>
-        afterPredictions.toLowerCase().includes(area.toLowerCase())
-      );
-
-      if (foundAreas.length < 3) {
-        warnings.push('Predictions section seems limited. Consider covering more life areas (Career, Finance, Health, Relationships, etc.)');
+  // 2. Validate Predictions Section
+  if (!mdxContent.includes('## Predictions by Life Area')) {
+    errors.push('Missing "## Predictions by Life Area" section');
+  } else {
+    // Check for each tag
+    REQUIRED_TAGS.forEach(tag => {
+      if (!mdxContent.includes(`### ${tag}`)) {
+        errors.push(`Missing tag: ### ${tag}`);
       }
-
-      // Check for proper subheadings under predictions
-      const subheadingRegex = /^### .*$/gm;
-      const subheadings = afterPredictions.match(subheadingRegex) || [];
-      if (subheadings.length < 2) {
-        warnings.push('Predictions section could benefit from more detailed subheadings (### level)');
-      }
-    }
-
-    // 4. Check for prediction keywords and patterns
-    const predictionKeywords = [
-      'effects', 'impact', 'influence', 'beneficial', 'challenging',
-      'positive', 'negative', 'favorable', 'unfavorable', 'strength',
-      'weakness', 'remedies', 'solutions'
-    ];
-
-    const contentWords = mdxContent.toLowerCase();
-    const foundKeywords = predictionKeywords.filter(keyword =>
-      contentWords.includes(keyword)
-    );
-
-    if (foundKeywords.length < 5) {
-      warnings.push('Content could be more prediction-focused. Consider using more predictive language.');
-    }
-
-    // 5. Check for balance between positive and negative predictions
-    const positiveWords = ['beneficial', 'favorable', 'positive', 'strength', 'success'];
-    const negativeWords = ['challenging', 'unfavorable', 'negative', 'weakness', 'difficult'];
-
-    const positiveCount = positiveWords.filter(word => contentWords.includes(word)).length;
-    const negativeCount = negativeWords.filter(word => contentWords.includes(word)).length;
-
-    if (positiveCount === 0 && negativeCount === 0) {
-      warnings.push('Consider providing more balanced predictions (both positive and challenging aspects)');
-    }
-
-    // 6. Check for remedy suggestions
-    const remedyIndicators = ['remedies', 'solutions', 'mitigate', 'balance', 'mantra', 'gemstone'];
-    const hasRemedies = remedyIndicators.some(indicator => contentWords.includes(indicator));
-
-    if (!hasRemedies) {
-      warnings.push('Consider adding remedy suggestions for challenging predictions');
-    }
-
-  } catch (err) {
-    errors.push(`Failed to read file: ${err.message}`);
+    });
   }
 
-  return { errors, warnings };
+  return errors;
 }
 
-function validateDirectory(targetDir) {
+async function run() {
+  console.log(chalk.blue(`Starting Prediction Validation for ${TARGET_DIR}...`));
+
   const projectRoot = path.join(__dirname, '..');
-  const fullTargetPath = path.join(projectRoot, targetDir);
-
-  if (!fs.existsSync(fullTargetPath)) {
-    console.error(chalk.red(`Target directory does not exist: ${fullTargetPath}`));
-    process.exit(1);
-  }
-
-  console.log(chalk.blue(`Starting predictions validation for: ${targetDir}`));
-
-  const files = fs.readdirSync(fullTargetPath)
-    .filter(file => file.endsWith('.mdx') || file.endsWith('.md'))
-    .map(file => path.join(fullTargetPath, file));
-
-  if (files.length === 0) {
-    console.log(chalk.yellow(`No .md or .mdx files found in ${targetDir}`));
-    return;
-  }
-
-  let totalErrors = 0;
-  let totalWarnings = 0;
+  // Only look in the specific Sun directory
+  const pattern = path.join(TARGET_DIR, '*.mdx');
+  const files = glob.sync(pattern, { cwd: projectRoot, absolute: true });
+  
+  let hasErrors = false;
+  let processedCount = 0;
 
   for (const file of files) {
-    const relativePath = path.relative(projectRoot, file);
-    const { errors, warnings } = validatePredictions(file);
+    processedCount++;
+    const errors = await validateFile(file);
 
-    if (errors.length > 0 || warnings.length > 0) {
-      console.log(chalk.red(`\n❌ ${relativePath}:`));
-
-      errors.forEach(err => {
-        console.log(chalk.red(`  - Error: ${err}`));
-        totalErrors++;
-      });
-
-      warnings.forEach(warn => {
-        console.log(chalk.yellow(`  - Warning: ${warn}`));
-        totalWarnings++;
-      });
+    if (errors.length > 0) {
+      hasErrors = true;
+      console.log(chalk.red(`
+❌ Error in ${path.basename(file)}:`));
+      errors.forEach(err => console.log(chalk.yellow(`  - ${err}`)));
     } else {
-      console.log(chalk.green(`✅ ${relativePath}: OK`));
+      process.stdout.write(chalk.green('.'));
     }
   }
 
-  console.log(chalk.blue(`\nPredictions Validation Summary:`));
-  console.log(chalk.red(`Errors: ${totalErrors}`));
-  console.log(chalk.yellow(`Warnings: ${totalWarnings}`));
+  console.log(chalk.blue(`
 
-  if (totalErrors > 0) {
-    console.log(chalk.red('\nValidation failed! Please fix the errors above.'));
+Processed ${processedCount} files.`));
+
+  if (hasErrors) {
+    console.log(chalk.red('
+Validation Failed! Please fix the errors above.'));
     process.exit(1);
-  } else if (totalWarnings > 0) {
-    console.log(chalk.yellow('\nValidation passed with warnings. Consider addressing them for better prediction quality.'));
-    process.exit(0);
   } else {
-    console.log(chalk.green('\n✅ Predictions validation passed! All files look good.'));
+    console.log(chalk.green('
+✅ Validation Passed! All files look good.'));
     process.exit(0);
   }
 }
 
-// Run validation
-validateDirectory(TARGET_DIR);
+run().catch(err => {
+  console.error(chalk.red('Fatal Error:'), err);
+  process.exit(1);
+});

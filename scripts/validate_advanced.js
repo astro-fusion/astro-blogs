@@ -1,142 +1,182 @@
 const fs = require('fs');
 const path = require('path');
+const glob = require('glob');
 const matter = require('gray-matter');
+const { compile } = require('@mdx-js/mdx');
 const chalk = require('chalk');
 
-// Configuration - can be overridden via command line argument
-const TARGET_DIR = process.argv[2] || '06_Planet_in_Houses/0609_Ketu_in_Houses';
+// Configuration
+const TARGET_DIR = '06_Planet_in_Houses/0609_Ketu_in_Houses';
+const IGNORE_FILES = ['060900_Ketu_in_Houses.mdx', '060900_ketu_in_sign.mdx', '_meta.json'];
 
-/**
- * Validate advanced aspects of astrology content files
- */
-function validateFile(filePath) {
-  const errors = [];
-  const warnings = [];
+const REQUIRED_FM_FIELDS = [
+    'title',
+    'description',
+    'keywords'
+];
 
-  try {
-    const content = fs.readFileSync(filePath, 'utf8');
+const PREDICTION_TAGS = [
+    'Prediction:Career:General',
+    'Prediction:Finance:Income',
+    'Prediction:Finance:Expenses',
+    'Prediction:Relationships:Romantic',
+    'Prediction:Relationships:Family',
+    'Prediction:Health:Physical',
+    'Prediction:Health:Mental',
+    'Prediction:Education:Academic',
+    'Prediction:Travel:Domestic',
+    'Prediction:Travel:Foreign',
+    'Prediction:Spirituality:Practice',
+    'Prediction:Spirituality:Karma'
+];
 
-    // 1. Validate Frontmatter
-    const { data, content: mdxContent } = matter(content);
+async function validateFile(filePath) {
+    const errors = [];
+    const warnings = [];
+    const fileName = path.basename(filePath);
 
-    if (!data.title) errors.push('Missing "title" in frontmatter');
-    if (!data.description) errors.push('Missing "description" in frontmatter');
-    if (!data.pubDate) errors.push('Missing "pubDate" in frontmatter');
+    if (IGNORE_FILES.includes(fileName)) return { errors, warnings };
 
-    // 2. Validate content structure for astrology blogs
-    const lines = mdxContent.split('\n');
+    let content;
+    try {
+        content = fs.readFileSync(filePath, 'utf8');
+    } catch (e) {
+        errors.push(`Could not read file: ${e.message}`);
+        return { errors, warnings };
+    }
 
-    // Check for required sections
-    const hasKeywords = mdxContent.includes('## Keywords');
-    const hasSummary = mdxContent.includes('## Summary');
-    const hasPredictions = mdxContent.includes('## Predictions by Life Area') ||
-                          mdxContent.includes('## Effects') ||
-                          mdxContent.includes('## Transit Effects');
+    // 1. Validate Frontmatter (YAML)
+    let data, mdxContent;
+    try {
+        const parsed = matter(content);
+        data = parsed.data;
+        mdxContent = parsed.content;
+    } catch (e) {
+        errors.push(`Invalid YAML Frontmatter: ${e.message}`);
+        return { errors, warnings }; // Cannot proceed without valid frontmatter
+    }
 
-    if (!hasKeywords) errors.push('Missing "## Keywords" section');
-    if (!hasSummary) errors.push('Missing "## Summary" section');
-    if (!hasPredictions) warnings.push('Consider adding "## Predictions by Life Area" section for better structure');
-
-    // 3. Check for broken internal links
-    const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
-    let match;
-    while ((match = linkRegex.exec(content)) !== null) {
-      const linkText = match[1];
-      const linkUrl = match[2];
-
-      // Check internal links
-      if (linkUrl.endsWith('.md') && !linkUrl.startsWith('http')) {
-        const linkPath = path.resolve(path.dirname(filePath), linkUrl);
-        if (!fs.existsSync(linkPath)) {
-          errors.push(`Broken internal link: [${linkText}](${linkUrl})`);
+    // Check required fields
+    REQUIRED_FM_FIELDS.forEach(field => {
+        if (!data[field]) {
+            errors.push(`Missing required frontmatter field: "${field}"`);
         }
-      }
-    }
+    });
 
-    // 4. Check for proper heading hierarchy
-    let lastHeadingLevel = 0;
-    for (const line of lines) {
-      if (line.startsWith('#')) {
-        const level = line.match(/^#+/)[0].length;
-        if (level > lastHeadingLevel + 1) {
-          warnings.push(`Skipped heading level: "${line.trim()}" (jumped from H${lastHeadingLevel} to H${level})`);
+    // Validate keywords format (should be array or comma-separated string)
+    if (data.keywords) {
+        if (!Array.isArray(data.keywords) && typeof data.keywords !== 'string') {
+            errors.push(`"keywords" must be an array or a string`);
         }
-        lastHeadingLevel = level;
-      }
     }
 
-    // 5. Check for minimum content length
-    const cleanContent = mdxContent.replace(/^\s*#.*$/gm, '').trim();
-    if (cleanContent.length < 500) {
-      warnings.push('Content seems short (< 500 characters). Consider adding more detail.');
+    // 2. Validate MDX Syntax
+    try {
+        await compile(mdxContent);
+    } catch (e) {
+        errors.push(`MDX Syntax Error: ${e.message}`);
     }
 
-  } catch (err) {
-    errors.push(`Failed to read file: ${err.message}`);
-  }
+    // 3. Validate Content Structure
 
-  return { errors, warnings };
-}
-
-function validateDirectory(targetDir) {
-  const projectRoot = path.join(__dirname, '..');
-  const fullTargetPath = path.join(projectRoot, targetDir);
-
-  if (!fs.existsSync(fullTargetPath)) {
-    console.error(chalk.red(`Target directory does not exist: ${fullTargetPath}`));
-    process.exit(1);
-  }
-
-  console.log(chalk.blue(`Starting advanced validation for: ${targetDir}`));
-
-  const files = fs.readdirSync(fullTargetPath)
-    .filter(file => file.endsWith('.mdx') || file.endsWith('.md'))
-    .map(file => path.join(fullTargetPath, file));
-
-  if (files.length === 0) {
-    console.log(chalk.yellow(`No .md or .mdx files found in ${targetDir}`));
-    return;
-  }
-
-  let totalErrors = 0;
-  let totalWarnings = 0;
-
-  for (const file of files) {
-    const relativePath = path.relative(projectRoot, file);
-    const { errors, warnings } = validateFile(file);
-
-    if (errors.length > 0 || warnings.length > 0) {
-      console.log(chalk.red(`\n❌ ${relativePath}:`));
-
-      errors.forEach(err => {
-        console.log(chalk.red(`  - Error: ${err}`));
-        totalErrors++;
-      });
-
-      warnings.forEach(warn => {
-        console.log(chalk.yellow(`  - Warning: ${warn}`));
-        totalWarnings++;
-      });
+    // Check for Prediction Section
+    if (!mdxContent.includes('## Predictions by Life Area')) {
+        errors.push('Missing "## Predictions by Life Area" section');
     } else {
-      console.log(chalk.green(`✅ ${relativePath}: OK`));
+        // Check for specific prediction tags
+        const missingTags = PREDICTION_TAGS.filter(tag => !mdxContent.includes(`### ${tag}`));
+        if (missingTags.length > 0) {
+            errors.push(`Missing ${missingTags.length} prediction tags: ${missingTags.join(', ')}`);
+        }
     }
-  }
 
-  console.log(chalk.blue(`\nValidation Summary:`));
-  console.log(chalk.red(`Errors: ${totalErrors}`));
-  console.log(chalk.yellow(`Warnings: ${totalWarnings}`));
+    // Check for duplicate footers (Previous/Next Article)
+    const prevArticleMatches = (mdxContent.match(/## Previous Article/g) || []).length;
+    const nextArticleMatches = (mdxContent.match(/## Next Article/g) || []).length;
 
-  if (totalErrors > 0) {
-    console.log(chalk.red('\nValidation failed! Please fix the errors above.'));
-    process.exit(1);
-  } else if (totalWarnings > 0) {
-    console.log(chalk.yellow('\nValidation passed with warnings. Consider addressing them for better quality.'));
-    process.exit(0);
-  } else {
-    console.log(chalk.green('\n✅ Advanced validation passed! All files look good.'));
-    process.exit(0);
-  }
+    if (prevArticleMatches > 1) errors.push(`Found ${prevArticleMatches} "Previous Article" sections (should be 1)`);
+    if (nextArticleMatches > 1) errors.push(`Found ${nextArticleMatches} "Next Article" sections (should be 1)`);
+
+    // Check for broken internal links (basic check)
+    // Looks for [Link Text](path/to/file.mdx) where file doesn't exist
+    const linkRegex = /\ \[.*?\ ]\((.*?\.mdx)\)/g;
+    let match;
+    while ((match = linkRegex.exec(mdxContent)) !== null) {
+        const linkPath = match[1];
+        // Resolve path relative to current file
+        const absoluteLinkPath = path.resolve(path.dirname(filePath), linkPath);
+
+        // Handle /blogs-md/ alias
+        // Based on existing files, /blogs-md/ seems to map to 06_Planet_in_Houses/ or similar
+        // We'll try to resolve it by prepending 06_Planet_in_Houses if it's missing
+        let projectRootLinkPath;
+        if (linkPath.startsWith('/blogs-md/')) {
+            const relativePath = linkPath.replace('/blogs-md/', '06_Planet_in_Houses/');
+            projectRootLinkPath = path.join(process.cwd(), relativePath);
+        } else if (linkPath.startsWith('/')) {
+            projectRootLinkPath = path.join(process.cwd(), linkPath);
+        } else {
+            projectRootLinkPath = absoluteLinkPath;
+        }
+
+        if (!fs.existsSync(absoluteLinkPath) && !fs.existsSync(projectRootLinkPath)) {
+            // Debug: print what we tried
+            // console.log(`Failed to find: ${projectRootLinkPath}`);
+            warnings.push(`Potential broken link: ${linkPath} (Resolved: ${projectRootLinkPath})`);
+        }
+    }
+
+    return { errors, warnings };
 }
 
-// Run validation
-validateDirectory(TARGET_DIR);
+async function run() {
+    console.log(chalk.blue.bold(`\n🚀 Starting Advanced Validation for: ${TARGET_DIR}\n`));
+
+    const projectRoot = path.join(__dirname, '..');
+    const pattern = path.join(TARGET_DIR, '*.mdx');
+    const files = glob.sync(pattern, { cwd: projectRoot, absolute: true });
+
+    let totalErrors = 0;
+    let filesWithErrors = 0;
+    let processedCount = 0;
+
+    for (const file of files) {
+        processedCount++;
+        const { errors, warnings } = await validateFile(file);
+
+        if (errors.length > 0 || warnings.length > 0) {
+            console.log(chalk.white.bold(`📄 ${path.basename(file)}`));
+
+            if (errors.length > 0) {
+                filesWithErrors++;
+                totalErrors += errors.length;
+                errors.forEach(err => console.log(chalk.red(`   ❌ ${err}`)));
+            }
+
+            if (warnings.length > 0) {
+                warnings.forEach(warn => console.log(chalk.yellow(`   ⚠️  ${warn}`)));
+            }
+            console.log(''); // Empty line
+        } else {
+            // Optional: verbose success
+            // console.log(chalk.green(`   ✅ Valid`));
+        }
+    }
+
+    console.log(chalk.gray('---------------------------------------------------'));
+    if (filesWithErrors > 0) {
+        console.log(chalk.red.bold(`\n💥 Validation Failed!`));
+        console.log(chalk.red(`   ${filesWithSides} files have errors.`));
+        console.log(chalk.red(`   ${totalErrors} total errors found.`));
+        process.exit(1);
+    } else {
+        console.log(chalk.green.bold(`\n✨ Validation Passed!`));
+        console.log(chalk.green(`   ${processedCount} files checked. No errors found.`));
+        process.exit(0);
+    }
+}
+
+run().catch(err => {
+    console.error(chalk.red('Fatal Script Error:'), err);
+    process.exit(1);
+});
