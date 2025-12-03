@@ -1,7 +1,6 @@
 ---
-title:  "Moon transit 5th house from natal moon"
-description: |
-   "When the Moon transits the 5th house from the natal Moon
+title: "Moon transit 5th house from natal moon"
+description: "When the Moon transits the 5th house from the natal Moon"
 pubDate: '2024-09-19'
 ---
 
@@ -69,17 +68,6 @@ Individuals may feel an increased desire for independence while engaging in acti
 3.*Pamper Yourself*: Treat yourself special small gestures go long way boosting self-esteem confidence levels overall well-being holistic approach towards life’s journey undertaken daily basis consistently without fail ensuring smooth transitions moving forward successfully achieving set goals dreams aspirations envisioned long-term future plans ahead too!
 
 ## FAQs About Moon Transit Fifth
----
-
-## Previous Article
-- [Moon transit 4th house from natal moon](200104_Moon_transit_4th_house_from_natal_moon.md)
-
----
-
-## Next Article
-- [Moon transit 6th house from natal moon](200106_Moon_transit_6th_house_from_natal_moon.md)
-
----
 ---
 
 ## Previous Article
