@@ -105,17 +105,14 @@ def get_category_summary(category_name):
         "Rasi": "Explores the twelve zodiac signs (Rasis) of Vedic astrology, detailing their characteristics, planetary rulers, nakshatra divisions, and house placements.",
         "Houses": "Covers the twelve astrological houses (Bhavas), explaining their significance, areas of life influenced, and planetary relationships.",
         "Planets": "Provides in-depth profiles of the nine grahas (planets) in Vedic astrology, including their characteristics, significations, and cosmic roles.",
-        "DashaSystem": "Explains the planetary period systems (Dashas), particularly Vimshottari Dasha, detailing their timing mechanics and life effects.",
+        "Dasha System": "Explains the planetary period systems (Dashas), particularly Vimshottari Dasha, detailing their timing mechanics and life effects.",
         "Nakshatra": "Details the 27 lunar mansions (Nakshatras), exploring their mythological symbols, ruling deities, planetary lords, and psychological profiles.",
         "Planet in Houses": "Analyzes the specific astrological impact, benefits, and challenges of different planets placed across the twelve houses.",
         "Calculations": "Covers mathematical and astronomical calculations in Jyotish, including planetary positions, divisional charts, and strength measurements.",
-        "House Lord Placements": "Analyzes the placements and effects of house lords residing in different houses.",
-        "Conjunctions": "Explores planetary alignments and conjunctions, detailing how combined energies of grahas affect human life and destiny.",
-        "Planet in Rashi": "Details the characteristics and astrological outcomes of various planets residing in the twelve zodiac signs.",
-        "Lords in Houses": "Analyzes the placements and effects of house lords residing in different houses.",
-        "Remedies": "Suggests Vedic remedial measures (Upayas) such as mantras, gemstones, fasting, and charity to balance planetary energies.",
-        "Lord in Houses": "Analyzes the placements and effects of house lords residing in different houses.",
         "Planets Conjunctions": "Explores planetary alignments and conjunctions, detailing how combined energies of grahas affect human life and destiny.",
+        "Planet in Rashi": "Details the characteristics and astrological outcomes of various planets residing in the twelve zodiac signs.",
+        "Lord in Houses": "Analyzes the placements and effects of house lords residing in different houses.",
+        "Remedies": "Suggests Vedic remedial measures (Upayas) such as mantras, gemstones, fasting, and charity to balance planetary energies.",
         "Articles": "Miscellaneous articles on Vedic astrology concepts, advanced techniques, and historical contexts.",
         "Divisional Charts": "Explores divisional charts (Vargas) like Navamsa (D9) and Dashamsa (D10) for micro-analysis of specific life areas.",
         "Planet in Nakshatra": "Analyzes the placement of different planets in the 27 nakshatras and their specific life predictions.",
@@ -127,24 +124,37 @@ def get_category_summary(category_name):
     }
     return summaries.get(category_name, f"Comprehensive guide and articles about {category_name} in Vedic astrology.")
 
+def get_normalized_category_name(dir_name):
+    clean = clean_name(dir_name)
+    # Merge duplicate/overlapping directories:
+    if clean in ["Lords in Houses", "Lord in Houses", "House Lord Placements"]:
+        return "Lord in Houses"
+    if clean in ["Conjunctions", "Planets Conjunctions"]:
+        return "Planets Conjunctions"
+    if clean == "DashaSystem":
+        return "Dasha System"
+    return clean
+
 def process_repo():
-    tree = []
+    categories_map = {}
     
     # List top level directories starting with a digit
     dirs = [d for d in os.listdir('.') if os.path.isdir(d) and re.match(r'^\d+_', d)]
     dirs.sort()
     
     for d in dirs:
-        category_name = clean_name(d)
-        category_obj = {
-            "category": category_name,
-            "summary": get_category_summary(category_name),
-            "children": []
-        }
+        norm_name = get_normalized_category_name(d)
+        if norm_name not in categories_map:
+            categories_map[norm_name] = {
+                "category": norm_name,
+                "summary": get_category_summary(norm_name),
+                "children": []
+            }
+        
+        category_obj = categories_map[norm_name]
         
         # Walk to find all .mdx files
         for root, _, files in os.walk(d):
-            # Sort files to ensure deterministic output
             files.sort()
             for file in files:
                 if file.endswith('.mdx') and not file.startswith('_') and file not in ['README.mdx', 'GEMINI.mdx']:
@@ -160,9 +170,8 @@ def process_repo():
                             body = content[fm_match.end():]
                             try:
                                 fm = yaml.safe_load(fm_content)
-                            except Exception as ye:
+                            except Exception:
                                 fm = {}
-                                # Fallback regex matching for title and description
                                 title_m = re.search(r"^title:\s*['\"]?(.*?)['\"]?$", fm_content, re.MULTILINE)
                                 desc_m = re.search(r"^description:\s*['\"]?(.*?)['\"]?$", fm_content, re.MULTILINE)
                                 if title_m: fm['title'] = title_m.group(1)
@@ -171,29 +180,45 @@ def process_repo():
                             fm = {}
                             body = content
                             
-                        # Use clean slug based on title if filename is not preferred, or filename without prefix
-                        # Clean filename prefix (e.g. 0101_Mesha -> Mesha -> mesha)
+                        # Slug normalization (strip leading numbers and underscores/spaces)
                         base_file = os.path.splitext(file)[0]
-                        clean_base = re.sub(r'^\d+_+', '', base_file)
+                        clean_base = re.sub(r'^[\d_-]+', '', base_file)
                         slug = slugify(clean_base)
                         
                         title = fm.get('title', clean_name(base_file))
                         summary = fm.get('description', '')
+                        
+                        # If summary is missing or too short, extract/synthesize one
+                        if not summary or len(summary.strip()) < 80:
+                            cleaned_body = clean_text_for_summary(body)
+                            fallback = extract_sentences(cleaned_body, 2)
+                            if len(fallback) >= 80:
+                                summary = fallback
+                            else:
+                                combined = f"Comprehensive analysis of {title}. {fallback}".strip()
+                                if len(combined) >= 80:
+                                    summary = combined
+                                else:
+                                    summary = f"Comprehensive analysis and detailed astrological guide covering {title} in Vedic astrology."
                         
                         sections = extract_sections(body, title)
                         
                         category_obj["children"].append({
                             "title": title,
                             "slug": slug,
-                            "summary": summary,
+                            "summary": summary.strip(),
                             "sections": sections
                         })
                     except Exception as e:
                         print(f"Error processing {file_path}: {e}")
                         
-        if category_obj["children"]:
-            tree.append(category_obj)
-            
+    # Sort children in each category by title to ensure deterministic order
+    for cat in categories_map.values():
+        cat["children"].sort(key=lambda x: x["title"])
+        
+    # Build list of categories sorted by name, filtering out any with no children
+    tree = [cat for cat in categories_map.values() if cat["children"]]
+    tree.sort(key=lambda x: x["category"])
     return tree
 
 if __name__ == "__main__":
