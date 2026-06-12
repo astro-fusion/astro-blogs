@@ -5,6 +5,8 @@ def clean_text_for_summary(text):
     text = re.sub(r'<FAQBlock.*?>.*?</FAQBlock>', '', text, flags=re.DOTALL)
     text = re.sub(r'<[A-Za-z0-9]+[^>]*/>', '', text)
     text = re.sub(r'<[A-Za-z0-9]+[^>]*>.*?</[A-Za-z0-9]+>', '', text, flags=re.DOTALL)
+    # Strip any remaining tags (e.g. nested tags or loose closing tags)
+    text = re.sub(r'<[^>]+>', '', text)
     text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)
     text = re.sub(r'\*\*|__|\*|_', '', text)
     text = re.sub(r'\|', ' ', text)
@@ -106,17 +108,21 @@ def process_file(file_path):
     return False
 
 def main():
-    nakshatras_dir = '05_Nakshatra'
+    # Find all directories that start with a digit
+    dirs = [d for d in os.listdir('.') if os.path.isdir(d) and re.match(r'^\d+_', d)]
+    dirs.sort()
+    
     count = 0
-    for root, _, files in os.walk(nakshatras_dir):
-        files.sort()
-        for file in files:
-            if file.endswith('.mdx') and not file.startswith('_'):
-                file_path = os.path.join(root, file)
-                if process_file(file_path):
-                    print(f"Injected BLUF summaries into {file_path}")
-                    count += 1
-    print(f"Successfully modified {count} Nakshatra files.")
+    for d in dirs:
+        for root, _, files in os.walk(d):
+            files.sort()
+            for file in files:
+                if file.endswith('.mdx') and not file.startswith('_') and file not in ['README.mdx', 'GEMINI.mdx']:
+                    file_path = os.path.join(root, file)
+                    if process_file(file_path):
+                        print(f"Injected BLUF summaries into {file_path}")
+                        count += 1
+    print(f"Successfully modified {count} MDX files across all categories.")
 
 if __name__ == '__main__':
     main()
