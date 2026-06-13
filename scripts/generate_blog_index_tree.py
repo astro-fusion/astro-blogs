@@ -223,6 +223,20 @@ def process_repo():
 
 if __name__ == "__main__":
     result = process_repo()
+    # 1. Output full tree index
     with open('blog-index-tree.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
-    print(f"Successfully processed {len(result)} categories and generated blog-index-tree.json.")
+    
+    # 2. Output master category-only index (extremely lightweight, < 10KB)
+    category_index = [{"category": cat["category"], "summary": cat["summary"]} for cat in result]
+    with open('blog-category-index.json', 'w', encoding='utf-8') as f:
+        json.dump(category_index, f, indent=2, ensure_ascii=False)
+        
+    # 3. Output split category-specific index files (each ~300KB to 900KB)
+    for cat in result:
+        cat_slug = slugify(cat["category"])
+        filename = f"blog-index-{cat_slug}.json"
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(cat, f, indent=2, ensure_ascii=False)
+            
+    print(f"Successfully processed {len(result)} categories, generated blog-index-tree.json, blog-category-index.json, and {len(result)} split category index files.")
