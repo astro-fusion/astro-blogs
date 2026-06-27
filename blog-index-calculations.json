@@ -1,0 +1,160 @@
+{
+  "category": "Calculations",
+  "summary": "Covers mathematical and astronomical calculations in Jyotish, including planetary positions, divisional charts, and strength measurements.",
+  "children": [
+    {
+      "title": "Ashtakavarga System Explained: The Points of Destiny",
+      "slug": "ashtakavarga-system",
+      "summary": "Unlock the secrets of the Ashtakavarga system in Vedic Astrology. Learn about Sarvashtakavarga, Bhinnashtakavarga, and how to use these points to predict transits and life events with precision.",
+      "sections": [
+        {
+          "id": "sec-introduction",
+          "heading": "Introduction",
+          "summary": "In the vast ocean of Vedic Astrology, prediction often relies on complex interactions between planets, signs, and houses. However, there is one system that simplifies this complexity into a clear, numerical score: Ashtakavarga. Ashtakavarga (Eight-fold Division) is a method of evaluating the strength of planets and houses based on their positions relative to each other."
+        },
+        {
+          "id": "sec-main-content",
+          "heading": "Main Content",
+          "summary": "This section discusses the astrological characteristics, significance, and details of Main Content in relation to Ashtakavarga System Explained: The Points of Destiny."
+        },
+        {
+          "id": "sec-what-is-ashtakavarga",
+          "heading": "What is Ashtakavarga?",
+          "summary": "The term Ashtakavarga comes from Sanskrit: Ashta (Eight) and Varga (Division). It refers to the eight reference points used to calculate strength: Sun Moon Mars Mercury Jupiter Venus Saturn Ascendant (Lagna) (Note: Rahu and Ketu are generally excluded from standard Ashtakavarga calculations)."
+        },
+        {
+          "id": "sec-key-concepts-bhinnashtakavarga-vs-sarvashtakavarga",
+          "heading": "Key Concepts: Bhinnashtakavarga vs. Sarvashtakavarga",
+          "summary": "Bhinnashtakavarga (Individual Scores) Bhinnashtakavarga (BAV) refers to the individual point distribution for each planet. Every planet (Sun through Saturn) has its own BAV chart."
+        },
+        {
+          "id": "sec-how-to-interpret-ashtakavarga-scores",
+          "heading": "How to Interpret Ashtakavarga Scores",
+          "summary": "#### Analyzing Houses (Bhavas) The Sarvashtakavarga points in each house reveal the potential of that area of life: 1st House (Self): High points (>30) indicate strong vitality, fame, and a charismatic personality. 2nd House (Wealth): High points suggest good accumulation of wealth and family support."
+        },
+        {
+          "id": "sec-special-applications-of-ashtakavarga",
+          "heading": "Special Applications of Ashtakavarga",
+          "summary": "Kakshya (Orbital Divisions) Each sign of 30 degrees is divided into 8 parts (Kakshyas) of 3°45' each. Each Kakshya is ruled by a planet."
+        },
+        {
+          "id": "sec-1-what-is-a-good-ashtakavarga-score",
+          "heading": "1. What is a \"good\" Ashtakavarga score?",
+          "summary": "Generally, 28 is the benchmark. 28-30: Good/Average."
+        },
+        {
+          "id": "sec-2-can-ashtakavarga-override-a-bad-dasha",
+          "heading": "2. Can Ashtakavarga override a bad Dasha?",
+          "summary": "It can mitigate it. If you are running a difficult Dasha but the Dasha lord is transiting a sign with high points, the negative effects will be lessened."
+        },
+        {
+          "id": "sec-3-why-is-the-11th-house-score-important",
+          "heading": "3. Why is the 11th house score important?",
+          "summary": "The 11th house represents gains and fulfillment of desires. In Ashtakavarga, it is considered auspicious if the 11th house has more points than the 10th (gains exceeding effort) and the 12th (income exceeding expenditure)."
+        },
+        {
+          "id": "sec-4-how-do-i-calculate-my-ashtakavarga",
+          "heading": "4. How do I calculate my Ashtakavarga?",
+          "summary": "Manual calculation is tedious as it involves checking the position of 7 planets relative to 8 reference points for all 12 signs. It is best to use reliable astrology software or our online tools."
+        },
+        {
+          "id": "sec-conclusion",
+          "heading": "Conclusion",
+          "summary": "The Ashtakavarga System is a powerful, objective tool in Vedic Astrology. It cuts through the ambiguity of conflicting planetary aspects and provides a clear \"strength map\" of your life. By understanding which houses hold the most points, you can focus your energy where it will yield the best results and prepare for times when the cosmic support is lower."
+        }
+      ]
+    },
+    {
+      "title": "Shadbala in Vedic Astrology: How to Calculate Planetary Strength",
+      "slug": "shadbala-strength",
+      "summary": "Complete guide to Shadbala (Sixfold Strength) in Vedic Astrology. Learn how to calculate and interpret Sthana Bala, Dig Bala, Kala Bala, Chesta Bala, Naisargika Bala, and Drik Bala to understand planetary power.",
+      "sections": [
+        {
+          "id": "sec-introduction",
+          "heading": "Introduction",
+          "summary": "In Vedic Astrology, a planet's position in a sign or house is just the beginning of the analysis. To truly understand a planet's capacity to deliver results—whether positive or negative—we must evaluate its strength. This quantitative assessment is known as Shadbala (Sixfold Strength)."
+        },
+        {
+          "id": "sec-main-content",
+          "heading": "Main Content",
+          "summary": "This section discusses the astrological characteristics, significance, and details of Main Content in relation to Shadbala in Vedic Astrology: How to Calculate Planetary Strength."
+        },
+        {
+          "id": "sec-what-is-shadbala",
+          "heading": "What is Shadbala?",
+          "summary": "Shadbala translates to \"Six Strengths\" (Shad = Six, Bala = Strength). It is a composite score derived from six distinct sources of power."
+        },
+        {
+          "id": "sec-1-sthana-bala-positional-strength",
+          "heading": "1. Sthana Bala (Positional Strength)",
+          "summary": "Sthana Bala measures the strength a planet derives from its position in the zodiac. It is one of the most significant contributors to the total Shadbala score."
+        },
+        {
+          "id": "sec-2-dig-bala-directional-strength",
+          "heading": "2. Dig Bala (Directional Strength)",
+          "summary": "Dig Bala refers to the strength a planet gains from being in a specific direction or house in the chart. Each planet has a \"favorite\" direction where it is most powerful."
+        },
+        {
+          "id": "sec-3-kala-bala-temporal-strength",
+          "heading": "3. Kala Bala (Temporal Strength)",
+          "summary": "Kala Bala depends on the time of birth and various time-related cycles. It is a complex calculation involving several sub-factors."
+        },
+        {
+          "id": "sec-4-chesta-bala-motional-strength",
+          "heading": "4. Chesta Bala (Motional Strength)",
+          "summary": "Chesta Bala is derived from planetary motion. It essentially measures how slow or retrograde a planet is."
+        },
+        {
+          "id": "sec-5-naisargika-bala-natural-strength",
+          "heading": "5. Naisargika Bala (Natural Strength)",
+          "summary": "Naisargika Bala is a fixed value assigned to each planet based on its natural luminosity and size. This value does not change from chart to chart."
+        },
+        {
+          "id": "sec-6-drik-bala-aspectual-strength",
+          "heading": "6. Drik Bala (Aspectual Strength)",
+          "summary": "Drik Bala measures the strength a planet receives from the aspects (Drishti) of other planets. Benefic Aspects: Aspects from Jupiter, Venus, and Mercury (if benefic) increase Drik Bala."
+        },
+        {
+          "id": "sec-interpreting-total-shadbala-scores",
+          "heading": "Interpreting Total Shadbala Scores",
+          "summary": "Once all six strengths are calculated, they are summed up to give the total Shadbala in Rupas. To determine if a planet is strong, we compare its total score to a Minimum Required Strength (which varies by planet). Planet Minimum Required Strength (Rupas) Minimum Required Strength (Shashtiamshas) :--- :--- :--- Sun 6.5 390 Moon 6.0 360 Mars 5.0 300 Mercury 7.0 420 Jupiter 6.5 390 Venus 5.5 330 Saturn 5.0 300."
+        },
+        {
+          "id": "sec-analysis-guide",
+          "heading": "Analysis Guide:",
+          "summary": "Above Minimum: The planet is considered strong and capable of delivering its results effectively. Below Minimum: The planet is weak."
+        },
+        {
+          "id": "sec-shadbala-calculator",
+          "heading": "Shadbala Calculator",
+          "summary": "Calculating Shadbala manually is extremely complex and time-consuming. It involves precise astronomical data and intricate formulas. > [!TIP] > Use our internal Shadbala Calculator to instantly get the detailed strength analysis of all planets in your chart."
+        },
+        {
+          "id": "sec-1-which-bala-is-the-most-important",
+          "heading": "1. Which Bala is the most important?",
+          "summary": "While all are important, Sthana Bala (Positional Strength) and Dig Bala (Directional Strength) are often given more weight in predictive astrology because they relate directly to the chart's structure."
+        },
+        {
+          "id": "sec-2-can-a-debilitated-planet-have-high-shadbala",
+          "heading": "2. Can a debilitated planet have high Shadbala?",
+          "summary": "A debilitated planet (low Uchcha Bala) can still have high total Shadbala if it has strong Dig Bala, Chesta Bala (e.g., retrograde), or Kala Bala. This is why \"cancellation of debilitation\" (Neecha Bhanga) works—the planet finds strength through other means."
+        },
+        {
+          "id": "sec-3-what-if-my-chart-ruler-has-low-shadbala",
+          "heading": "3. What if my chart ruler has low Shadbala?",
+          "summary": "If the Ascendant Lord (Lagna Lord) has low Shadbala, it can indicate health issues, lack of confidence, or struggles in life. Remedies like gemstones (if applicable), mantras, and lifestyle changes are recommended to strengthen it."
+        },
+        {
+          "id": "sec-4-does-shadbala-apply-to-rahu-and-ketu",
+          "heading": "4. Does Shadbala apply to Rahu and Ketu?",
+          "summary": "Traditionally, Shadbala is calculated for the seven visible planets. Rahu and Ketu are shadow planets and do not have physical mass or luminosity in the same way."
+        },
+        {
+          "id": "sec-conclusion",
+          "heading": "Conclusion",
+          "summary": "Shadbala is an indispensable tool for any serious student of Vedic Astrology. It moves the analysis from qualitative guesswork to quantitative precision. By understanding the six sources of strength, you can see why a planet acts the way it does."
+        }
+      ]
+    }
+  ]
+}
