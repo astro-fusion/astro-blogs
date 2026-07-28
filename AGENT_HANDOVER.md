@@ -423,10 +423,10 @@ Process files in this order — highest-impact first:
 ### BATCH 3 — Moon in Houses
 | Priority | File | Keyword | Status |
 |---|---|---|---|
-| 🔴 HIGH | `06_Planet_in_Houses/0602_Moon_in_Houses/060212_Moon_in_1st_House.mdx` | Moon in lagna | [ ] |
-| 🟠 MED | `06_Planet_in_Houses/0602_Moon_in_Houses/060204_Moon_in_4th_House.mdx` | Moon in 4th house | [ ] |
-| 🟠 MED | `06_Planet_in_Houses/0602_Moon_in_Houses/060205_Moon_in_5th_House.mdx` | Moon in 5th house | [ ] |
-| 🟡 LOW | All remaining Moon files | | [ ] |
+| 🔴 HIGH | `06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_11th_House.mdx` | Moon in lagna (filename quirk) | [x] |
+| 🟠 MED | `06_Planet_in_Houses/0602_Moon_in_Houses/060204_Moon_in_4th_House.mdx` | Moon in 4th house | [x] |
+| 🟠 MED | `06_Planet_in_Houses/0602_Moon_in_Houses/060205_Moon_in_5th_House.mdx` | Moon in 5th house | [x] |
+| 🟡 LOW | All remaining Moon files (2nd–3rd,6th–12th) | | [x] |
 
 ### BATCH 4 — All Remaining Lord-in-Houses (144 files total, all 12 lords × 12 houses)
 Process the full `10_Lord_in_Houses/` directory folder by folder:
@@ -576,6 +576,7 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Composer | BATCH 1 complete + BATCH 2 HIGH/MED | BATCH 1: finished 100800, 100202; fixed /blogs-md/ links on 100802 + 100208. BATCH 2: processed Sun in 1st (`060101` filename quirk), 2nd, 4th, 5th — KundaliChart + FAQBlock + `/blogs/[category]/[slug]` links + modifiedDate. Note: `060101_Sun_in_11th_House.mdx` = Sun in 1st content; `060112` = Sun in 12th. Remaining BATCH 2 LOW + BATCH 3 next. |
 | 2026-07-28 | Composer | BATCH 2 complete (all Sun houses) | Processed remaining LOW Sun files: 3rd, 6th, 7th, 8th, 9th, 10th, 11th, 12th (`060112`). BATCH 2 fully done. Next: BATCH 3 Moon in Houses. |
 | 2026-07-28 | Composer | VALIDATION GATE passed | BATCH 1+2: 17/17 MDX checklist pass. Main app: path-resolver + kundali-chart-math + content-processor green (22 tests). Fixed leftover Prev/Next .mdx links. Cleared for BATCH 3 Moon. |
+| 2026-07-28 | Composer | BATCH 3 complete (Moon in Houses) | Processed all 12 Moon-in-house articles (060201=1st/Cancer lagna; 060212=12th). Fixed corrupted 4th/5th frontmatter. Validated 12/12 checklist before commit. |
 | | | | |
 
 ---
