@@ -430,18 +430,18 @@ Process files in this order — highest-impact first:
 
 ### BATCH 4 — All Remaining Lord-in-Houses (144 files total, all 12 lords × 12 houses)
 Process the full `10_Lord_in_Houses/` directory folder by folder:
-- [x] `1001_1st_Lord_in_all_Houses` (12 files)
-- [ ] `1002_2nd_Lord_in_all_Houses` (12 files)
-- [ ] `1003_3rd_Lord_in_all_Houses` (12 files)
-- [ ] `1004_4th_Lord_in_all_Houses` (12 files)
-- [ ] `1005_5th_Lord_in_all_Houses` (12 files)
-- [ ] `1006_6th_Lord_in_all_Houses` (12 files)
-- [ ] `1007_7th_Lord_in_all_Houses` (12 files)
-- [ ] `1008_8th_Lord_in_all_Houses` (12 files)
-- [ ] `1009_9th_Lord_in_all_Houses` (12 files)
-- [ ] `1010_10th_Lord_in_all_Houses` (12 files)
-- [ ] `1011_11th_Lord_in_all_Houses` (12 files)
-- [ ] `1012_12th_Lord_in_all_Houses` (12 files)
+- [x] `1001_1st_Lord_in_all_Houses` (12 files) — `95e1378`
+- [x] `1002_2nd_Lord_in_all_Houses` (12 files) — `cd8fc93`
+- [x] `1003_3rd_Lord_in_all_Houses` (12 files) — `4c61a53`, `f6ea2be`
+- [x] `1004_4th_Lord_in_all_Houses` (13 files: overview + 12 houses) — Moon as Aries 4th lord
+- [ ] `1005_5th_Lord_in_all_Houses` (13 files)
+- [ ] `1006_6th_Lord_in_all_Houses` (13 files)
+- [ ] `1007_7th_Lord_in_all_Houses` (13 files)
+- [ ] `1008_8th_Lord_in_all_Houses` (13 files; priority `100800`/`100802` already done)
+- [ ] `1009_9th_Lord_in_all_Houses` (13 files)
+- [ ] `1010_10th_Lord_in_all_Houses` (13 files)
+- [ ] `1011_11th_Lord_in_all_Houses` (13 files)
+- [ ] `1012_12th_Lord_in_all_Houses` (13 files)
 
 ### BATCH 5 — All Remaining Planet-in-Houses (Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu)
 - [ ] `0603_Mars_in_Houses` (12 files)
@@ -578,6 +578,9 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Composer | VALIDATION GATE passed | BATCH 1+2: 17/17 MDX checklist pass. Main app: path-resolver + kundali-chart-math + content-processor green (22 tests). Fixed leftover Prev/Next .mdx links. Cleared for BATCH 3 Moon. |
 | 2026-07-28 | Composer | BATCH 3 complete (Moon in Houses) | Processed all 12 Moon-in-house articles (060201=1st/Cancer lagna; 060212=12th). Fixed corrupted 4th/5th frontmatter. Validated 12/12 checklist before commit. |
 | 2026-07-28 | Codex | BATCH 4 folder 1001 complete | Processed 11 remaining 1st-Lord articles (100101 is 1st-house content despite its filename); added charts, FAQBlock, modifiedDate, canonical internal links, and validated 11/11. |
+| 2026-07-28 | Codex | BATCH 4 folder 1002 complete | Embedded charts in all 2nd-lord articles (`cd8fc93`). |
+| 2026-07-28 | Codex | BATCH 4 folder 1003 complete | Embedded charts in all 3rd-lord articles (`4c61a53`); refreshed modified dates (`f6ea2be`). Link normalization still needs a follow-up pass on some 3rd-lord relative paths. |
+| 2026-07-28 | Composer | BATCH 4 folder 1004 complete | Processed all 13 fourth-lord articles (overview + 12 houses). `100401` filename says 11th but H1 is 1st house — chart uses Moon in house 1, `isLordOf: 4`. Normalized legacy `.mdx` links to `/blogs/...`. Validated 13/13. |
 | | | | |
 
 ---
@@ -602,9 +605,14 @@ Enhance MDX blogs in `06_Planet_in_Houses/` and `10_Lord_in_Houses/` by embeddin
 | **BATCH 1** | GSC-priority Lord-in-Houses (5 files) | ✅ Done + validated | `7bd1699`, link fix `92db15b` |
 | **BATCH 2** | All Sun in Houses (12 files) | ✅ Done + validated | `9501770` |
 | **BATCH 3** | All Moon in Houses (12 files) | ✅ Done + validated | `2a09eb5` |
+| **BATCH 4 / 1001** | 1st Lord in all houses | ✅ Done | `95e1378` |
+| **BATCH 4 / 1002** | 2nd Lord in all houses | ✅ Done | `cd8fc93` |
+| **BATCH 4 / 1003** | 3rd Lord in all houses | ✅ Done (link polish residual) | `4c61a53`, `f6ea2be` |
+| **BATCH 4 / 1004** | 4th Lord overview + 12 houses (13 files) | ✅ Done + validated | (this milestone) |
+| SEO path fix | `1nd` → `12th` filenames/slugs/indexes | ✅ Done | `77ae707`, `6a2b3ab` |
 | Validation gate | BATCH 1–2 checklist 17/17; Moon 12/12 | ✅ Passed before BATCH 3 | `c741c8a`, `92db15b` |
 
-**Main-app supporting commit:** `3e03b7e67d` — short-link suffix matching in `findCanonicalPath` + Kundali chart lagna label fix + unit tests.
+**Main-app supporting commits:** `3e03b7e67d` (path-resolver + chart lagna labels); `916e127227` (chat router uses canonical `*-in-12th-house` slugs).
 
 ### Per-file quality checklist (MUST pass before marking done)
 - [ ] `<KundaliChart />` with correct planet/house/`lagnaRashi`
@@ -673,16 +681,16 @@ Lords (same pattern across folders):
 - When linking, use the **actual filename** that exists on disk
 
 ### What BATCH 4 must do next
-1. Process remaining `10_Lord_in_Houses/` folder-by-folder (see BATCH 4 checklist above).
-2. **Already done inside those folders** (do not redo / do not regress):
-   - `100802`, `100800` (8th lord)
-   - `100208`, `100202` (2nd lord)
-   - `100112` (1st lord in 12th — renamed from typo `1nd` → `12th`)
+1. **Next folder:** `1005_5th_Lord_in_all_Houses` (Sun = Aries 5th lord), then 1006→1012.
+2. **Already done** (do not redo / do not regress):
+   - Full folders: `1001`, `1002`, `1003`, `1004`
+   - Priority singles: `100802`, `100800`, `100208`, `100202`, `100112`
 3. For each remaining file: embed chart, FAQBlock, modifiedDate, fix links, Related Articles.
-4. Parivartana pairs (§9): when editing both sides of an exchange, add dual-planet chart + cross-links + `<InfoBlock>`.
-5. **Validate each folder** (or batch) before committing: checklist above + no `/blogs-md/` + no `.mdx` in links.
-6. **Commit after each folder/milestone** on `dev` (user requested milestone commits).
-7. Then BATCH 5 (Mars→Ketu planet-in-houses).
+4. **Link caveat:** some older Lord articles (esp. 3rd-lord) may still have relative/`#fragment`-only leftovers outside pure anchors — normalize article links to `/blogs/[category]/[slug]` while keeping valid `#anchors`.
+5. Parivartana pairs (§9): dual-planet chart + cross-links + `<InfoBlock>` still pending for 2nd↔8th, 1st↔7th, 5th↔9th, 4th↔10th (current 2nd/8th and 4th/10th singles have single-placement charts only).
+6. **Validate each folder** before committing: checklist + no `/blogs-md/` + no `.mdx` in article links + ignore pure `#` anchors.
+7. **Commit after each folder/milestone** on `dev`.
+8. Then BATCH 5 (Mars→Ketu planet-in-houses).
 
 ### Suggested validation one-liner (content repo)
 Check each processed file for: `KundaliChart`, `FAQBlock`, `modifiedDate: '2026-07-28'`, zero `/blogs-md/`, zero `](...mdx)` links, `lagnaRashi`/`house` match content.
@@ -711,5 +719,5 @@ Leave alone unless explicitly asked:
 `<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
 
 
-*Last updated: 2026-07-28 by Composer (status §15 written for agent continuation)*
+*Last updated: 2026-07-28 by Composer (BATCH 4 / 1004 fourth-lord folder complete)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
