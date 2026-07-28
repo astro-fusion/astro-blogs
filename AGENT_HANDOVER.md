@@ -434,7 +434,7 @@ Process the full `10_Lord_in_Houses/` directory folder by folder:
 - [x] `1002_2nd_Lord_in_all_Houses` (12 files) — `cd8fc93`
 - [x] `1003_3rd_Lord_in_all_Houses` (12 files) — `4c61a53`, `f6ea2be`
 - [x] `1004_4th_Lord_in_all_Houses` (13 files: overview + 12 houses) — Moon as Aries 4th lord
-- [ ] `1005_5th_Lord_in_all_Houses` (13 files)
+- [x] `1005_5th_Lord_in_all_Houses` (13 files)
 - [ ] `1006_6th_Lord_in_all_Houses` (13 files)
 - [ ] `1007_7th_Lord_in_all_Houses` (13 files)
 - [ ] `1008_8th_Lord_in_all_Houses` (13 files; priority `100800`/`100802` already done)
@@ -581,6 +581,7 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Codex | BATCH 4 folder 1002 complete | Embedded charts in all 2nd-lord articles (`cd8fc93`). |
 | 2026-07-28 | Codex | BATCH 4 folder 1003 complete | Embedded charts in all 3rd-lord articles (`4c61a53`); refreshed modified dates (`f6ea2be`). Link normalization still needs a follow-up pass on some 3rd-lord relative paths. |
 | 2026-07-28 | Composer | BATCH 4 folder 1004 complete | Processed all 13 fourth-lord articles (overview + 12 houses). `100401` filename says 11th but H1 is 1st house — chart uses Moon in house 1, `isLordOf: 4`. Normalized legacy `.mdx` links to `/blogs/...`. Validated 13/13. |
+| 2026-07-28 | Codex | BATCH 4 folder 1005 complete | Processed all 13 fifth-lord articles (overview + 12 houses). `100501` filename says 11th but H1 is 1st house — chart uses Sun in house 1, `isLordOf: 5`. Normalized legacy links and validated 13/13. |
 | | | | |
 
 ---
@@ -719,5 +720,5 @@ Leave alone unless explicitly asked:
 `<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
 
 
-*Last updated: 2026-07-28 by Composer (BATCH 4 / 1004 fourth-lord folder complete)*
+*Last updated: 2026-07-28 by Codex (BATCH 4 / 1005 fifth-lord folder complete)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
