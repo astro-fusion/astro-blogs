@@ -444,13 +444,13 @@ Process the full `10_Lord_in_Houses/` directory folder by folder:
 - [x] `1012_12th_Lord_in_all_Houses` (13 files)
 
 ### BATCH 5 — All Remaining Planet-in-Houses (Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu)
-- [x] `0603_Mars_in_Houses` (13 scoped files; 2 sign/aspect reference files excluded)
-- [ ] `0604_Mercury_in_Houses` (12 files)
-- [ ] `0605_Jupiter_in_Houses` (12 files)
-- [ ] `0606_Venus_in_Houses` (12 files)
-- [ ] `0607_Saturn_in_Houses` (12 files)
-- [ ] `0608_Rahu_in_Houses` (12 files)
-- [ ] `0609_Ketu_in_Houses` (12 files)
+- [x] `0603_Mars_in_Houses` (13 scoped; exclude `0603002_mars_sign`, `0603003_mars_aspects`)
+- [x] `0604_Mercury_in_Houses` (13 scoped; 1st house uses `lagnaRashi={3}`) — `f1a18a0`
+- [x] `0605_Jupiter_in_Houses` (13 house/overview scoped; sign/aspect refs excluded) — `930c70d` + scope cleanup
+- [x] `0606_Venus_in_Houses` (13 house/overview scoped; sign/aspect refs excluded) — `930c70d` + scope cleanup
+- [x] `0607_Saturn_in_Houses` (12 house files; 1st=`lagnaRashi={10}`; H1 may omit “the”) — `6ea2d0c`
+- [x] `0608_Rahu_in_Houses` (13 scoped; exclude `0608002_Rahu_in_sign`) — this milestone
+- [x] `0609_Ketu_in_Houses` (13 scoped; exclude `060900_ketu_in_sign`) — this milestone
 
 ---
 
@@ -586,6 +586,10 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Codex | BATCH 4 folders 1008–1009 complete | Completed all 26 eighth-/ninth-Lord articles, including polishing priority 8th-Lord files; validated 26/26. Commit `50c73cb`. |
 | 2026-07-28 | Codex | BATCH 4 folders 1010–1012 complete | Completed 39 tenth-/eleventh-/twelfth-Lord articles, including nested 1011/1012 paths; validated 39/39. Commit `6b14225`. |
 | 2026-07-28 | Codex | BATCH 5 Mars complete | Processed 13 Mars-in-house articles (overview + 12 houses); excluded Mars-in-signs and Mars-aspects reference articles, validated 13/13. Commits `90ea848`, `26b62cd`. |
+| 2026-07-28 | Composer | BATCH 5 Mercury complete | 13 Mercury-in-house articles (`f1a18a0`); 1st house uses Gemini lagna. |
+| 2026-07-28 | Composer | BATCH 5 Jupiter/Venus complete | House articles in `930c70d`; later removed accidental house charts from sign/aspect reference files (`0605002`, `06050031`, `0606002`, `06060031`). |
+| 2026-07-28 | Composer | BATCH 5 Saturn fix | Corrected staged Saturn charts for houses 7–12 (H1 omits “the”); Capricorn lagna for 1st only. Commit `6ea2d0c`. |
+| 2026-07-28 | Composer | BATCH 5 Rahu/Ketu complete | Processed 13+13 house/overview articles; Aries lagna; excluded sign reference files; validated 26/26. |
 | | | | |
 
 ---
@@ -617,8 +621,16 @@ Enhance MDX blogs in `06_Planet_in_Houses/` and `10_Lord_in_Houses/` by embeddin
 | **BATCH 4 / 1005–1012** | Remaining Lord-in-Houses folders | ✅ Done + validated | `cb19063`, `5976e58`, `50c73cb`, `6b14225` |
 | SEO path fix | `1nd` → `12th` filenames/slugs/indexes | ✅ Done | `77ae707`, `6a2b3ab` |
 | Validation gate | BATCH 1–2 checklist 17/17; Moon 12/12 | ✅ Passed before BATCH 3 | `c741c8a`, `92db15b` |
+| **BATCH 5** | Mars → Ketu planet-in-houses (scoped) | ✅ Done | `90ea848`, `f1a18a0`, `930c70d`, `6ea2d0c`, Rahu/Ketu milestone |
 
 **Main-app supporting commits:** `3e03b7e67d` (path-resolver + chart lagna labels); `916e127227` (chat router uses canonical `*-in-12th-house` slugs).
+
+**BATCH 5 reference-file exclusions (do not add house charts):**
+- Mars: `0603002_mars_sign.mdx`, `0603003_mars_aspects.mdx`
+- Jupiter: `0605002_jupiter_in_sign.mdx`, `06050031_Jupiter_aspects_by_planets.mdx`
+- Venus: `0606002_Venus_in_sign.mdx`, `06060031_Venus_aspects_by_Planets.mdx`
+- Rahu: `0608002_Rahu_in_sign.mdx`
+- Ketu: `060900_ketu_in_sign.mdx`
 
 ### Per-file quality checklist (MUST pass before marking done)
 - [ ] `<KundaliChart />` with correct planet/house/`lagnaRashi`
@@ -686,17 +698,12 @@ Lords (same pattern across folders):
 - Example: `100801_8th_Lord_in_11th_House.mdx` = 8th lord in **1st**; `100812_8th_Lord_in_12th_House.mdx` = 8th lord in **12th**
 - When linking, use the **actual filename** that exists on disk
 
-### What BATCH 4 must do next
-1. **Batch 4 folder work is complete:** `1001` through `1012` are processed and committed.
-2. **Already done** (do not redo / do not regress):
-   - Full folders: `1001` through `1012`
-   - Priority singles: `100802`, `100800`, `100208`, `100202`, `100112`
-3. For each remaining file: embed chart, FAQBlock, modifiedDate, fix links, Related Articles.
-4. **Link caveat:** some older Lord articles (esp. 3rd-lord) may still have relative/`#fragment`-only leftovers outside pure anchors — normalize article links to `/blogs/[category]/[slug]` while keeping valid `#anchors`.
-5. Parivartana pairs (§9): dual-planet chart + cross-links + `<InfoBlock>` still pending for 2nd↔8th, 1st↔7th, 5th↔9th, 4th↔10th (current 2nd/8th and 4th/10th singles have single-placement charts only).
-6. **Validate each folder** before committing: checklist + no `/blogs-md/` + no `.mdx` in article links + ignore pure `#` anchors.
-7. **Commit after each folder/milestone** on `dev`.
-8. Next: finish the link-polish pass, complete Parivartana pairs, then begin BATCH 5 (Mars→Ketu planet-in-houses).
+### What to do next (post BATCH 5)
+1. **BATCH 5 planet-in-houses is complete** for scoped house/overview articles (Mars through Ketu).
+2. **Repository-wide link audit:** normalize `/blogs/06_Planet_in_Houses/...` → `/blogs/060X_...`; remove `.md`/`.mdx` and `/blogs-md/`; keep valid `#fragment` anchors. Sign/rashi reference articles still have legacy relative links — separate pass.
+3. **Parivartana pairs (§9):** add dual-planet charts + `<InfoBlock>` + cross-links for 2nd↔8th, 1st↔7th, 5th↔9th, 4th↔10th.
+4. **Optional:** chart-embed Sun/Moon overview articles (`060100`, `060200` if present).
+5. **Do not regress:** lord folders 1001–1012; planet house articles; Saturn H1 parser must accept `Saturn in 7th House` (no “the”).
 
 ### Suggested validation one-liner (content repo)
 Check each processed file for: `KundaliChart`, `FAQBlock`, `modifiedDate: '2026-07-28'`, zero `/blogs-md/`, zero `](...mdx)` links, `lagnaRashi`/`house` match content.
@@ -725,5 +732,5 @@ Leave alone unless explicitly asked:
 `<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
 
 
-*Last updated: 2026-07-28 by Codex (BATCH 5 Mars complete)*
+*Last updated: 2026-07-28 by Composer (BATCH 5 complete: Mars→Ketu scoped house articles)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
