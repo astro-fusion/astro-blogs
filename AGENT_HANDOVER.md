@@ -540,7 +540,7 @@ If you encounter a file where you cannot determine the planet or house from the 
 3. If still ambiguous, skip and mark with `[SKIP]` in the tracker with a note
 
 Common filename quirks in this repo:
-- `060112_Sun_in_1st_House.mdx` → "12th" = 1st (typo in filenames, should be "1st")
+- `060112_Sun_in_12th_House.mdx` → **Sun in 12th**
 - `100801_8th_Lord_in_11th_House.mdx` and `100811_8th_Lord_in_11th_House.mdx` → check file content for which house is actually covered (known duplicate filenames)
 
 ---
