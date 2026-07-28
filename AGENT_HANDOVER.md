@@ -575,6 +575,7 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Kilo | 1 blog file | Processed 100112_1st_Lord_in_1nd_House.mdx (1st Lord in 12th House): Embedded KundaliChart, updated SEO frontmatter, replaced FAQ with FAQBlock, updated Related Articles. |
 | 2026-07-28 | Composer | BATCH 1 complete + BATCH 2 HIGH/MED | BATCH 1: finished 100800, 100202; fixed /blogs-md/ links on 100802 + 100208. BATCH 2: processed Sun in 1st (`060101` filename quirk), 2nd, 4th, 5th — KundaliChart + FAQBlock + `/blogs/[category]/[slug]` links + modifiedDate. Note: `060101_Sun_in_11th_House.mdx` = Sun in 1st content; `060112` = Sun in 12th. Remaining BATCH 2 LOW + BATCH 3 next. |
 | 2026-07-28 | Composer | BATCH 2 complete (all Sun houses) | Processed remaining LOW Sun files: 3rd, 6th, 7th, 8th, 9th, 10th, 11th, 12th (`060112`). BATCH 2 fully done. Next: BATCH 3 Moon in Houses. |
+| 2026-07-28 | Composer | VALIDATION GATE passed | BATCH 1+2: 17/17 MDX checklist pass. Main app: path-resolver + kundali-chart-math + content-processor green (22 tests). Fixed leftover Prev/Next .mdx links. Cleared for BATCH 3 Moon. |
 | | | | |
 
 ---
