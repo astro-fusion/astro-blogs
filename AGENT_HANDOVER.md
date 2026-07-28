@@ -400,7 +400,7 @@ Process files in this order — highest-impact first:
 |---|---|---|---|
 | 🔴 HIGH | `10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2nd_House.mdx` | 8th lord in 2nd house | [x] |
 | 🔴 HIGH | `10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100208_2nd_Lord_in_8th_House.mdx` | 2nd lord in 8th house | [x] |
-| 🔴 HIGH | `10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_1nd_House.mdx` | 1st lord in 12th house | [x] |
+| 🔴 HIGH | `10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100112_1st_Lord_in_12th_House.mdx` | 1st lord in 12th house | [x] |
 | 🟠 MED | `10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100800_8th_Lord_in_all_12_Houses.mdx` | 8th lord in houses | [x] |
 | 🟠 MED | `10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100202_2nd_Lord_in_2nd_House.mdx` | 2nd lord in 2nd house | [x] |
 
@@ -418,7 +418,7 @@ Process files in this order — highest-impact first:
 | 🟡 LOW | `06_Planet_in_Houses/0601_Sun_in_Houses/060106_Sun_in_6th_House.mdx` | Sun in 6th house | [x] |
 | 🟡 LOW | `06_Planet_in_Houses/0601_Sun_in_Houses/060109_Sun_in_9th_House.mdx` | Sun in 9th house | [x] |
 | 🟡 LOW | `06_Planet_in_Houses/0601_Sun_in_Houses/060111_Sun_in_11th_House.mdx` | Sun in 11th house | [x] |
-| 🟡 LOW | `06_Planet_in_Houses/0601_Sun_in_Houses/060112_Sun_in_1nd_House.mdx` | Sun in 12th house (filename: 1nd) | [x] |
+| 🟡 LOW | `06_Planet_in_Houses/0601_Sun_in_Houses/060112_Sun_in_12th_House.mdx` | Sun in 12th house | [x] |
 
 ### BATCH 3 — Moon in Houses
 | Priority | File | Keyword | Status |
@@ -540,7 +540,7 @@ If you encounter a file where you cannot determine the planet or house from the 
 3. If still ambiguous, skip and mark with `[SKIP]` in the tracker with a note
 
 Common filename quirks in this repo:
-- `060112_Sun_in_1st_House.mdx` → "1nd" = 1st (typo in filenames, should be "1st")
+- `060112_Sun_in_1st_House.mdx` → "12th" = 1st (typo in filenames, should be "1st")
 - `100801_8th_Lord_in_11th_House.mdx` and `100811_8th_Lord_in_11th_House.mdx` → check file content for which house is actually covered (known duplicate filenames)
 
 ---
@@ -572,7 +572,7 @@ Use this section to record what was done in each agent session.
 
 | Date | Agent | Files Processed | Notes |
 |---|---|---|---|
-| 2026-07-28 | Kilo | 1 blog file | Processed 100112_1st_Lord_in_1nd_House.mdx (1st Lord in 12th House): Embedded KundaliChart, updated SEO frontmatter, replaced FAQ with FAQBlock, updated Related Articles. |
+| 2026-07-28 | Kilo | 1 blog file | Processed 100112_1st_Lord_in_12th_House.mdx (1st Lord in 12th House): Embedded KundaliChart, updated SEO frontmatter, replaced FAQ with FAQBlock, updated Related Articles. |
 | 2026-07-28 | Composer | BATCH 1 complete + BATCH 2 HIGH/MED | BATCH 1: finished 100800, 100202; fixed /blogs-md/ links on 100802 + 100208. BATCH 2: processed Sun in 1st (`060101` filename quirk), 2nd, 4th, 5th — KundaliChart + FAQBlock + `/blogs/[category]/[slug]` links + modifiedDate. Note: `060101_Sun_in_11th_House.mdx` = Sun in 1st content; `060112` = Sun in 12th. Remaining BATCH 2 LOW + BATCH 3 next. |
 | 2026-07-28 | Composer | BATCH 2 complete (all Sun houses) | Processed remaining LOW Sun files: 3rd, 6th, 7th, 8th, 9th, 10th, 11th, 12th (`060112`). BATCH 2 fully done. Next: BATCH 3 Moon in Houses. |
 | 2026-07-28 | Composer | VALIDATION GATE passed | BATCH 1+2: 17/17 MDX checklist pass. Main app: path-resolver + kundali-chart-math + content-processor green (22 tests). Fixed leftover Prev/Next .mdx links. Cleared for BATCH 3 Moon. |
@@ -649,22 +649,27 @@ Main app now resolves short category paths even when canonical path includes par
 **Component aliases** (registered in main app `custom-components.tsx`): `KundaliChart`, `KundaliIllustration`, `BlogInteractiveKundaliChart` — no import needed in MDX.
 
 ### CRITICAL filename quirks (content ≠ filename)
+
+**Historical typo fixed 2026-07-28:** filenames/slugs that used `1nd` meant **12th** (not 1st).
+All `*1nd*` paths were renamed to `*12th*` (files, `_meta.json`, blog-index JSON, internal links).
+Do **not** run any `1nd`→`1st` rename script — that would be wrong.
+
 **Always trust H1/title content over filename.**
 
 Sun (`0601_Sun_in_Houses/`):
 - `060101_Sun_in_11th_House.mdx` → **Sun in 1st** (use lagnaRashi=5)
 - `060111_Sun_in_11th_House.mdx` → Sun in 11th
-- `060112_Sun_in_1nd_House.mdx` → **Sun in 12th**
+- `060112_Sun_in_12th_House.mdx` → **Sun in 12th**
 
 Moon (`0602_Moon_in_Houses/`):
 - `060201_Moon_in_11th_House.mdx` → **Moon in 1st** (use lagnaRashi=4)
 - `060211_Moon_in_11th_House.mdx` → Moon in 11th
-- `060212_Moon_in_1nd_House.mdx` → **Moon in 12th**
+- `060212_Moon_in_12th_House.mdx` → **Moon in 12th**
 
 Lords (same pattern across folders):
 - `*01_*_11th_House.mdx` often = **1st house** content
-- `*12_*_1nd_House.mdx` often = **12th house** content
-- Example: `100801_8th_Lord_in_11th_House.mdx` = 8th lord in **1st**; `100812_8th_Lord_in_1nd_House.mdx` = 8th lord in **12th**
+- `*12_*_12th_House.mdx` often = **12th house** content
+- Example: `100801_8th_Lord_in_11th_House.mdx` = 8th lord in **1st**; `100812_8th_Lord_in_12th_House.mdx` = 8th lord in **12th**
 - When linking, use the **actual filename** that exists on disk
 
 ### What BATCH 4 must do next
@@ -672,7 +677,7 @@ Lords (same pattern across folders):
 2. **Already done inside those folders** (do not redo / do not regress):
    - `100802`, `100800` (8th lord)
    - `100208`, `100202` (2nd lord)
-   - `100112` (1st lord in 12th — filename `1nd`)
+   - `100112` (1st lord in 12th — renamed from typo `1nd` → `12th`)
 3. For each remaining file: embed chart, FAQBlock, modifiedDate, fix links, Related Articles.
 4. Parivartana pairs (§9): when editing both sides of an exchange, add dual-planet chart + cross-links + `<InfoBlock>`.
 5. **Validate each folder** (or batch) before committing: checklist above + no `/blogs-md/` + no `.mdx` in links.
