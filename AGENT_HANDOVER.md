@@ -430,7 +430,7 @@ Process files in this order — highest-impact first:
 
 ### BATCH 4 — All Remaining Lord-in-Houses (144 files total, all 12 lords × 12 houses)
 Process the full `10_Lord_in_Houses/` directory folder by folder:
-- [ ] `1001_1st_Lord_in_all_Houses` (12 files)
+- [x] `1001_1st_Lord_in_all_Houses` (12 files)
 - [ ] `1002_2nd_Lord_in_all_Houses` (12 files)
 - [ ] `1003_3rd_Lord_in_all_Houses` (12 files)
 - [ ] `1004_4th_Lord_in_all_Houses` (12 files)
@@ -577,6 +577,7 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Composer | BATCH 2 complete (all Sun houses) | Processed remaining LOW Sun files: 3rd, 6th, 7th, 8th, 9th, 10th, 11th, 12th (`060112`). BATCH 2 fully done. Next: BATCH 3 Moon in Houses. |
 | 2026-07-28 | Composer | VALIDATION GATE passed | BATCH 1+2: 17/17 MDX checklist pass. Main app: path-resolver + kundali-chart-math + content-processor green (22 tests). Fixed leftover Prev/Next .mdx links. Cleared for BATCH 3 Moon. |
 | 2026-07-28 | Composer | BATCH 3 complete (Moon in Houses) | Processed all 12 Moon-in-house articles (060201=1st/Cancer lagna; 060212=12th). Fixed corrupted 4th/5th frontmatter. Validated 12/12 checklist before commit. |
+| 2026-07-28 | Codex | BATCH 4 folder 1001 complete | Processed 11 remaining 1st-Lord articles (100101 is 1st-house content despite its filename); added charts, FAQBlock, modifiedDate, canonical internal links, and validated 11/11. |
 | | | | |
 
 ---
