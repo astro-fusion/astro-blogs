@@ -435,13 +435,13 @@ Process the full `10_Lord_in_Houses/` directory folder by folder:
 - [x] `1003_3rd_Lord_in_all_Houses` (12 files) — `4c61a53`, `f6ea2be`
 - [x] `1004_4th_Lord_in_all_Houses` (13 files: overview + 12 houses) — Moon as Aries 4th lord
 - [x] `1005_5th_Lord_in_all_Houses` (13 files)
-- [ ] `1006_6th_Lord_in_all_Houses` (13 files)
-- [ ] `1007_7th_Lord_in_all_Houses` (13 files)
-- [ ] `1008_8th_Lord_in_all_Houses` (13 files; priority `100800`/`100802` already done)
-- [ ] `1009_9th_Lord_in_all_Houses` (13 files)
-- [ ] `1010_10th_Lord_in_all_Houses` (13 files)
-- [ ] `1011_11th_Lord_in_all_Houses` (13 files)
-- [ ] `1012_12th_Lord_in_all_Houses` (13 files)
+- [x] `1006_6th_Lord_in_all_Houses` (13 files)
+- [x] `1007_7th_Lord_in_all_Houses` (13 files)
+- [x] `1008_8th_Lord_in_all_Houses` (13 files)
+- [x] `1009_9th_Lord_in_all_Houses` (13 files)
+- [x] `1010_10th_Lord_in_all_Houses` (13 files)
+- [x] `1011_11th_Lord_in_all_Houses` (13 files)
+- [x] `1012_12th_Lord_in_all_Houses` (13 files)
 
 ### BATCH 5 — All Remaining Planet-in-Houses (Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu)
 - [ ] `0603_Mars_in_Houses` (12 files)
@@ -582,6 +582,9 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Codex | BATCH 4 folder 1003 complete | Embedded charts in all 3rd-lord articles (`4c61a53`); refreshed modified dates (`f6ea2be`). Link normalization still needs a follow-up pass on some 3rd-lord relative paths. |
 | 2026-07-28 | Composer | BATCH 4 folder 1004 complete | Processed all 13 fourth-lord articles (overview + 12 houses). `100401` filename says 11th but H1 is 1st house — chart uses Moon in house 1, `isLordOf: 4`. Normalized legacy `.mdx` links to `/blogs/...`. Validated 13/13. |
 | 2026-07-28 | Codex | BATCH 4 folder 1005 complete | Processed all 13 fifth-lord articles (overview + 12 houses). `100501` filename says 11th but H1 is 1st house — chart uses Sun in house 1, `isLordOf: 5`. Normalized legacy links and validated 13/13. |
+| 2026-07-28 | Codex | BATCH 4 folders 1006–1007 complete | Processed 26 sixth-/seventh-Lord articles, added charts, FAQs, modified dates, canonical links, and validated 26/26. Commit `5976e58`. |
+| 2026-07-28 | Codex | BATCH 4 folders 1008–1009 complete | Completed all 26 eighth-/ninth-Lord articles, including polishing priority 8th-Lord files; validated 26/26. Commit `50c73cb`. |
+| 2026-07-28 | Codex | BATCH 4 folders 1010–1012 complete | Completed 39 tenth-/eleventh-/twelfth-Lord articles, including nested 1011/1012 paths; validated 39/39. Commit `6b14225`. |
 | | | | |
 
 ---
@@ -609,7 +612,8 @@ Enhance MDX blogs in `06_Planet_in_Houses/` and `10_Lord_in_Houses/` by embeddin
 | **BATCH 4 / 1001** | 1st Lord in all houses | ✅ Done | `95e1378` |
 | **BATCH 4 / 1002** | 2nd Lord in all houses | ✅ Done | `cd8fc93` |
 | **BATCH 4 / 1003** | 3rd Lord in all houses | ✅ Done (link polish residual) | `4c61a53`, `f6ea2be` |
-| **BATCH 4 / 1004** | 4th Lord overview + 12 houses (13 files) | ✅ Done + validated | (this milestone) |
+| **BATCH 4 / 1004** | 4th Lord overview + 12 houses (13 files) | ✅ Done + validated | `0e66073` |
+| **BATCH 4 / 1005–1012** | Remaining Lord-in-Houses folders | ✅ Done + validated | `cb19063`, `5976e58`, `50c73cb`, `6b14225` |
 | SEO path fix | `1nd` → `12th` filenames/slugs/indexes | ✅ Done | `77ae707`, `6a2b3ab` |
 | Validation gate | BATCH 1–2 checklist 17/17; Moon 12/12 | ✅ Passed before BATCH 3 | `c741c8a`, `92db15b` |
 
@@ -682,16 +686,16 @@ Lords (same pattern across folders):
 - When linking, use the **actual filename** that exists on disk
 
 ### What BATCH 4 must do next
-1. **Next folder:** `1005_5th_Lord_in_all_Houses` (Sun = Aries 5th lord), then 1006→1012.
+1. **Batch 4 folder work is complete:** `1001` through `1012` are processed and committed.
 2. **Already done** (do not redo / do not regress):
-   - Full folders: `1001`, `1002`, `1003`, `1004`
+   - Full folders: `1001` through `1012`
    - Priority singles: `100802`, `100800`, `100208`, `100202`, `100112`
 3. For each remaining file: embed chart, FAQBlock, modifiedDate, fix links, Related Articles.
 4. **Link caveat:** some older Lord articles (esp. 3rd-lord) may still have relative/`#fragment`-only leftovers outside pure anchors — normalize article links to `/blogs/[category]/[slug]` while keeping valid `#anchors`.
 5. Parivartana pairs (§9): dual-planet chart + cross-links + `<InfoBlock>` still pending for 2nd↔8th, 1st↔7th, 5th↔9th, 4th↔10th (current 2nd/8th and 4th/10th singles have single-placement charts only).
 6. **Validate each folder** before committing: checklist + no `/blogs-md/` + no `.mdx` in article links + ignore pure `#` anchors.
 7. **Commit after each folder/milestone** on `dev`.
-8. Then BATCH 5 (Mars→Ketu planet-in-houses).
+8. Next: finish the link-polish pass, complete Parivartana pairs, then begin BATCH 5 (Mars→Ketu planet-in-houses).
 
 ### Suggested validation one-liner (content repo)
 Check each processed file for: `KundaliChart`, `FAQBlock`, `modifiedDate: '2026-07-28'`, zero `/blogs-md/`, zero `](...mdx)` links, `lagnaRashi`/`house` match content.
@@ -720,5 +724,5 @@ Leave alone unless explicitly asked:
 `<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
 
 
-*Last updated: 2026-07-28 by Codex (BATCH 4 / 1005 fifth-lord folder complete)*
+*Last updated: 2026-07-28 by Codex (BATCH 4 complete through 1012)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
