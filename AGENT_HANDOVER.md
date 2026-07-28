@@ -444,7 +444,7 @@ Process the full `10_Lord_in_Houses/` directory folder by folder:
 - [x] `1012_12th_Lord_in_all_Houses` (13 files)
 
 ### BATCH 5 — All Remaining Planet-in-Houses (Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu)
-- [ ] `0603_Mars_in_Houses` (12 files)
+- [x] `0603_Mars_in_Houses` (13 scoped files; 2 sign/aspect reference files excluded)
 - [ ] `0604_Mercury_in_Houses` (12 files)
 - [ ] `0605_Jupiter_in_Houses` (12 files)
 - [ ] `0606_Venus_in_Houses` (12 files)
@@ -585,6 +585,7 @@ Use this section to record what was done in each agent session.
 | 2026-07-28 | Codex | BATCH 4 folders 1006–1007 complete | Processed 26 sixth-/seventh-Lord articles, added charts, FAQs, modified dates, canonical links, and validated 26/26. Commit `5976e58`. |
 | 2026-07-28 | Codex | BATCH 4 folders 1008–1009 complete | Completed all 26 eighth-/ninth-Lord articles, including polishing priority 8th-Lord files; validated 26/26. Commit `50c73cb`. |
 | 2026-07-28 | Codex | BATCH 4 folders 1010–1012 complete | Completed 39 tenth-/eleventh-/twelfth-Lord articles, including nested 1011/1012 paths; validated 39/39. Commit `6b14225`. |
+| 2026-07-28 | Codex | BATCH 5 Mars complete | Processed 13 Mars-in-house articles (overview + 12 houses); excluded Mars-in-signs and Mars-aspects reference articles, validated 13/13. Commits `90ea848`, `26b62cd`. |
 | | | | |
 
 ---
@@ -724,5 +725,5 @@ Leave alone unless explicitly asked:
 `<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
 
 
-*Last updated: 2026-07-28 by Codex (BATCH 4 complete through 1012)*
+*Last updated: 2026-07-28 by Codex (BATCH 5 Mars complete)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
