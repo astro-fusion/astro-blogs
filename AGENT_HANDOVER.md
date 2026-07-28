@@ -581,5 +581,129 @@ Use this section to record what was done in each agent session.
 
 ---
 
-*Last updated: 2026-07-28 by Composer*
+
+---
+
+## 15. CURRENT STATUS HANDOVER (2026-07-28) — READ THIS FIRST FOR CONTINUATION
+
+### Mission (unchanged)
+Enhance MDX blogs in `06_Planet_in_Houses/` and `10_Lord_in_Houses/` by embedding interactive `<KundaliChart />`, `<FAQBlock />`, SEO frontmatter (`modifiedDate: '2026-07-28'`), and standardized internal links. Spec + API + workflow live in sections 1–14 of this file.
+
+### Repositories
+| Repo | Path | Branch | Role |
+|---|---|---|---|
+| **Content** | `/Users/bishalghimire/Documents/WORK/Open Source/astro-blogs` | `dev` | All `.mdx` blog content |
+| **Main app** | `/Users/bishalghimire/Documents/WORK/Code/AstroFusion/astrofusion-nextjs` | `dev` | MDX component registry + path resolver |
+
+### Completed batches (validated + committed)
+| Batch | Scope | Status | Content commit(s) |
+|---|---|---|---|
+| **BATCH 1** | GSC-priority Lord-in-Houses (5 files) | ✅ Done + validated | `7bd1699`, link fix `92db15b` |
+| **BATCH 2** | All Sun in Houses (12 files) | ✅ Done + validated | `9501770` |
+| **BATCH 3** | All Moon in Houses (12 files) | ✅ Done + validated | `2a09eb5` |
+| Validation gate | BATCH 1–2 checklist 17/17; Moon 12/12 | ✅ Passed before BATCH 3 | `c741c8a`, `92db15b` |
+
+**Main-app supporting commit:** `3e03b7e67d` — short-link suffix matching in `findCanonicalPath` + Kundali chart lagna label fix + unit tests.
+
+### Per-file quality checklist (MUST pass before marking done)
+- [ ] `<KundaliChart />` with correct planet/house/`lagnaRashi`
+- [ ] `highlightHouses` matches discussed houses
+- [ ] `effects` derived from article (3–4 bullets)
+- [ ] Frontmatter title contains primary keyword; description ~150–160 chars
+- [ ] `modifiedDate: '2026-07-28'`
+- [ ] `<FAQBlock faqs={[...]} />` with **4+** Q&As
+- [ ] `## Related Articles` with **3+** `/blogs/...` links (no `.md`/`.mdx`, never `/blogs-md/`)
+- [ ] Do not remove body content; only add/improve
+
+### Internal link standard (CRITICAL)
+Format: `/blogs/[category]/[slug]` — **no** `.md`/`.mdx`, **no** `/blogs-md/`.
+
+Examples that work (app path-resolver suffix-matches nested paths):
+- `/blogs/1008_8th_Lord_in_all_Houses/100802_8th_Lord_in_2nd_House`
+- `/blogs/0601_Sun_in_Houses/060102_Sun_in_2nd_House`
+- `/blogs/0602_Moon_in_Houses/060204_Moon_in_4th_House`
+- `/blogs/02_Houses/202_2nd_House_in_Vedic_Astrology`
+- `/blogs/03_Planets/0301_Sun`
+
+Main app now resolves short category paths even when canonical path includes parent folder (`10_Lord_in_Houses/...`, `06_Planet_in_Houses/...`) via suffix/segment-tail match in:
+`packages/services/content/src/blogs/utils/path-resolver.ts`
+
+### KundaliChart rules (quick reference)
+**Planet-in-House (default):** `lagnaRashi={1}` (Aries), `placements={[{ planet, house }]}`, `highlightHouses={[house]}`.
+
+**Planet in 1st House (special):**
+| Planet | lagnaRashi | Reason |
+|---|---|---|
+| Sun | 5 (Leo) | Sun rules Leo |
+| Moon | 4 (Cancer) | Moon rules Cancer |
+| Mars | 1 | Mars rules Aries |
+| Mercury | 3 | Gemini |
+| Jupiter | 9 | Sagittarius |
+| Venus | 2 | Taurus |
+| Saturn | 10 | Capricorn |
+| Rahu/Ketu | 1 | Generic Aries |
+
+**Lord-in-House (Aries lagna default):** use lord→planet table in §4. Example: 8th lord = Mars in house M with `isLordOf: 8`, `highlightHouses={[8, M]}`.
+
+**Component aliases** (registered in main app `custom-components.tsx`): `KundaliChart`, `KundaliIllustration`, `BlogInteractiveKundaliChart` — no import needed in MDX.
+
+### CRITICAL filename quirks (content ≠ filename)
+**Always trust H1/title content over filename.**
+
+Sun (`0601_Sun_in_Houses/`):
+- `060101_Sun_in_11th_House.mdx` → **Sun in 1st** (use lagnaRashi=5)
+- `060111_Sun_in_11th_House.mdx` → Sun in 11th
+- `060112_Sun_in_1nd_House.mdx` → **Sun in 12th**
+
+Moon (`0602_Moon_in_Houses/`):
+- `060201_Moon_in_11th_House.mdx` → **Moon in 1st** (use lagnaRashi=4)
+- `060211_Moon_in_11th_House.mdx` → Moon in 11th
+- `060212_Moon_in_1nd_House.mdx` → **Moon in 12th**
+
+Lords (same pattern across folders):
+- `*01_*_11th_House.mdx` often = **1st house** content
+- `*12_*_1nd_House.mdx` often = **12th house** content
+- Example: `100801_8th_Lord_in_11th_House.mdx` = 8th lord in **1st**; `100812_8th_Lord_in_1nd_House.mdx` = 8th lord in **12th**
+- When linking, use the **actual filename** that exists on disk
+
+### What BATCH 4 must do next
+1. Process remaining `10_Lord_in_Houses/` folder-by-folder (see BATCH 4 checklist above).
+2. **Already done inside those folders** (do not redo / do not regress):
+   - `100802`, `100800` (8th lord)
+   - `100208`, `100202` (2nd lord)
+   - `100112` (1st lord in 12th — filename `1nd`)
+3. For each remaining file: embed chart, FAQBlock, modifiedDate, fix links, Related Articles.
+4. Parivartana pairs (§9): when editing both sides of an exchange, add dual-planet chart + cross-links + `<InfoBlock>`.
+5. **Validate each folder** (or batch) before committing: checklist above + no `/blogs-md/` + no `.mdx` in links.
+6. **Commit after each folder/milestone** on `dev` (user requested milestone commits).
+7. Then BATCH 5 (Mars→Ketu planet-in-houses).
+
+### Suggested validation one-liner (content repo)
+Check each processed file for: `KundaliChart`, `FAQBlock`, `modifiedDate: '2026-07-28'`, zero `/blogs-md/`, zero `](...mdx)` links, `lagnaRashi`/`house` match content.
+
+### Main-app tests (relevant)
+```bash
+cd /Users/bishalghimire/Documents/WORK/Code/AstroFusion/astrofusion-nextjs
+pnpm exec vitest run packages/services/content/src/blogs/utils/__tests__/path-resolver.test.ts \
+  apps/web/astro-fusion/src/app/[locale]/blogs/components/mdx/__tests__/kundali-chart-math.test.ts
+cd apps/web/astro-fusion && pnpm exec vitest run "src/app/[locale]/blogs/__tests__/content-processor.test.ts"
+```
+Note: older `apps/web/astro-fusion/src/tests/lib/blogs/*` suites use **local outdated mock copies** of path helpers and fail; ignore unless rewriting them to import `@astrofusion/services-content`.
+
+### DO NOT TOUCH (other agents / unrelated dirty files in content repo)
+Leave alone unless explicitly asked:
+- Uncommitted edits under `02_Houses/201–208`, `05_Nakshatra/0501–0502`
+- `blog-index-*.json`, `raw-index-structure.json`
+- Untracked `rename.sh`, `rename_all.sh`, `rename_files.py`, `temp_categories/`
+
+### Git rules for agents
+- Work on `dev` only; no stash; no hard reset; no force push
+- Commit only your files; milestone commits after each completed batch/folder
+- Content changes → `astro-blogs`; component/resolver changes → `astrofusion-nextjs`
+
+### Insertion point reminder
+`<KundaliChart />` AFTER opening `<AIBlufSummary>` (or first intro paragraph), BEFORE first major `##` body section. FAQBlock near end before Related Articles.
+
+
+*Last updated: 2026-07-28 by Composer (status §15 written for agent continuation)*
 *Source of truth for: `astro-fusion/astro-blogs` Kundali Chart Embedding Project*
