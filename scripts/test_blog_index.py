@@ -1,7 +1,10 @@
 import unittest
 import os
+import sys
 import re
 import json
+
+sys.path.insert(0, os.path.dirname(__file__))
 
 # Import functions from generate_blog_index_tree
 from generate_blog_index_tree import (
@@ -12,6 +15,7 @@ from generate_blog_index_tree import (
     extract_sections,
     get_normalized_category_name
 )
+
 
 class TestBlogIndexGeneration(unittest.TestCase):
 

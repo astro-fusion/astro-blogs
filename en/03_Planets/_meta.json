@@ -1,0 +1,49 @@
+{
+  "03 Planets": [
+    {
+      "file": "0301_Sun.mdx",
+      "title": "Sun",
+      "order": 301
+    },
+    {
+      "file": "0302_Moon.mdx",
+      "title": "Moon",
+      "order": 302
+    },
+    {
+      "file": "0303_Mars.mdx",
+      "title": "Mars",
+      "order": 303
+    },
+    {
+      "file": "0304_Mercury.mdx",
+      "title": "Mercury",
+      "order": 304
+    },
+    {
+      "file": "0305_Jupiter.mdx",
+      "title": "Jupiter",
+      "order": 305
+    },
+    {
+      "file": "0306_Venus.mdx",
+      "title": "Venus",
+      "order": 306
+    },
+    {
+      "file": "0307_Saturn.mdx",
+      "title": "Saturn",
+      "order": 307
+    },
+    {
+      "file": "0308_Rahu.mdx",
+      "title": "Rahu",
+      "order": 308
+    },
+    {
+      "file": "0309_Ketu.mdx",
+      "title": "Ketu",
+      "order": 309
+    }
+  ]
+}

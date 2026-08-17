@@ -1,0 +1,69 @@
+{
+  "0601 Sun in Houses": [
+    {
+      "file": "060100_sun_knowledge.mdx",
+      "title": "sun knowledge",
+      "order": 60100
+    },
+    {
+      "file": "060101_Sun_in_1st_House.mdx",
+      "title": "Sun in 1st House",
+      "order": 60101
+    },
+    {
+      "file": "060102_Sun_in_2nd_House.mdx",
+      "title": "Sun in 2nd House",
+      "order": 60102
+    },
+    {
+      "file": "060103_Sun_in_3rd_House.mdx",
+      "title": "Sun in 3rd House",
+      "order": 60103
+    },
+    {
+      "file": "060104_Sun_in_4th_House.mdx",
+      "title": "Sun in 4th House",
+      "order": 60104
+    },
+    {
+      "file": "060105_Sun_in_5th_House.mdx",
+      "title": "Sun in 5th House",
+      "order": 60105
+    },
+    {
+      "file": "060106_Sun_in_6th_House.mdx",
+      "title": "Sun in 6th House",
+      "order": 60106
+    },
+    {
+      "file": "060107_Sun_in_7th_House.mdx",
+      "title": "Sun in 7th House",
+      "order": 60107
+    },
+    {
+      "file": "060108_Sun_in_8th_House.mdx",
+      "title": "Sun in 8th House",
+      "order": 60108
+    },
+    {
+      "file": "060109_Sun_in_9th_House.mdx",
+      "title": "Sun in 9th House",
+      "order": 60109
+    },
+    {
+      "file": "060110_Sun_in_10th_House.mdx",
+      "title": "Sun in 10th House",
+      "order": 60110
+    },
+    {
+      "file": "060111_Sun_in_11th_House.mdx",
+      "title": "Sun in 11th House",
+      "order": 60111
+    },
+    {
+      "file": "060112_Sun_in_12th_House.mdx",
+      "title": "Sun in 12th House",
+      "order": 60112
+    }
+  ]
+}

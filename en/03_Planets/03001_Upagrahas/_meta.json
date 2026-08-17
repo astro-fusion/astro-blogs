@@ -1,0 +1,44 @@
+{
+  "03001 Upagrahas": [
+    {
+      "file": "0310_Uranus.mdx",
+      "title": "Uranus",
+      "order": 310
+    },
+    {
+      "file": "0311_Neptune.mdx",
+      "title": "Neptune",
+      "order": 311
+    },
+    {
+      "file": "0312_Pluto.mdx",
+      "title": "Pluto",
+      "order": 312
+    },
+    {
+      "file": "0313_Dhooma.mdx",
+      "title": "Dhooma",
+      "order": 313
+    },
+    {
+      "file": "0314_Vyatipata.mdx",
+      "title": "Vyatipata",
+      "order": 314
+    },
+    {
+      "file": "0315_Parivesha.mdx",
+      "title": "Parivesha",
+      "order": 315
+    },
+    {
+      "file": "0316_indra_chapa.mdx",
+      "title": "indra chapa",
+      "order": 316
+    },
+    {
+      "file": "0317_Upaketu.mdx",
+      "title": "Upaketu",
+      "order": 317
+    }
+  ]
+}

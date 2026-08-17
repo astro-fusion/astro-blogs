@@ -1,0 +1,534 @@
+{
+  "4 Planet Conjuctions": [
+    {
+      "file": "1101020304_Sun_Moon_Mars_and_Mercury_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Mercury in conjunction",
+      "order": 1101020304
+    },
+    {
+      "file": "1101020305_Sun_Moon_Mars_and_Jupiter_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Jupiter in conjunction",
+      "order": 1101020305
+    },
+    {
+      "file": "1101020306_Sun_Moon_Mars_and_Venus_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Venus in conjunction",
+      "order": 1101020306
+    },
+    {
+      "file": "1101020307_Sun_Moon_Mars_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Saturn in conjunction",
+      "order": 1101020307
+    },
+    {
+      "file": "1101020308_Sun_Moon_Mars_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Rahu in conjunction",
+      "order": 1101020308
+    },
+    {
+      "file": "1101020309_Sun_Moon_Mars_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Moon Mars and Ketu in conjunction",
+      "order": 1101020309
+    },
+    {
+      "file": "1101020405_Sun_Moon_Mercury_and_Jupiter_in_conjunction.mdx",
+      "title": "Sun Moon Mercury and Jupiter in conjunction",
+      "order": 1101020405
+    },
+    {
+      "file": "1101020406_Sun_Moon_Mercury_and_Venus_in_conjunction.mdx",
+      "title": "Sun Moon Mercury and Venus in conjunction",
+      "order": 1101020406
+    },
+    {
+      "file": "1101020407_Sun_Moon_Mercury_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Moon Mercury and Saturn in conjunction",
+      "order": 1101020407
+    },
+    {
+      "file": "1101020408_Sun_Moon_Mercury_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Moon Mercury and Rahu in conjunction",
+      "order": 1101020408
+    },
+    {
+      "file": "1101020409_Sun_Moon_Mercury_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Moon Mercury and Ketu in conjunction",
+      "order": 1101020409
+    },
+    {
+      "file": "1101020506_Sun_Moon_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Sun Moon Jupiter and Venus in conjunction",
+      "order": 1101020506
+    },
+    {
+      "file": "1101020507_Sun_Moon_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Moon Jupiter and Saturn in conjunction",
+      "order": 1101020507
+    },
+    {
+      "file": "1101020508_Sun_Moon_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Moon Jupiter and Rahu in conjunction",
+      "order": 1101020508
+    },
+    {
+      "file": "1101020509_Sun_Moon_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Moon Jupiter and Ketu in conjunction",
+      "order": 1101020509
+    },
+    {
+      "file": "1101020607_Sun_Moon_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Moon Venus and Saturn in conjunction",
+      "order": 1101020607
+    },
+    {
+      "file": "1101020608_Sun_Moon_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Moon Venus and Rahu in conjunction",
+      "order": 1101020608
+    },
+    {
+      "file": "1101020609_Sun_Moon_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Moon Venus and Ketu in conjunction",
+      "order": 1101020609
+    },
+    {
+      "file": "1101020708_Sun_Moon_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Moon Saturn and Rahu in conjunction",
+      "order": 1101020708
+    },
+    {
+      "file": "1101020709_Sun_Moon_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Moon Saturn and Ketu in conjunction",
+      "order": 1101020709
+    },
+    {
+      "file": "1101030405_Sun_Mars_Mercury_and_Jupiter_in_conjunction.mdx",
+      "title": "Sun Mars Mercury and Jupiter in conjunction",
+      "order": 1101030405
+    },
+    {
+      "file": "1101030406_Sun_Mars_Mercury_and_Venus_in_conjunction.mdx",
+      "title": "Sun Mars Mercury and Venus in conjunction",
+      "order": 1101030406
+    },
+    {
+      "file": "1101030407_Sun_Mars_Mercury_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Mars Mercury and Saturn in conjunction",
+      "order": 1101030407
+    },
+    {
+      "file": "1101030408_Sun_Mars_Mercury_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mars Mercury and Rahu in conjunction",
+      "order": 1101030408
+    },
+    {
+      "file": "1101030409_Sun_Mars_Mercury_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mars Mercury and Ketu in conjunction",
+      "order": 1101030409
+    },
+    {
+      "file": "1101030506_Sun_Mars_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Sun Mars Jupiter and Venus in conjunction",
+      "order": 1101030506
+    },
+    {
+      "file": "1101030507_Sun_Mars_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Mars Jupiter and Saturn in conjunction",
+      "order": 1101030507
+    },
+    {
+      "file": "1101030508_Sun_Mars_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mars Jupiter and Rahu in conjunction",
+      "order": 1101030508
+    },
+    {
+      "file": "1101030509_Sun_Mars_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mars Jupiter and Ketu in conjunction",
+      "order": 1101030509
+    },
+    {
+      "file": "1101030607_Sun_Mars_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Mars Venus and Saturn in conjunction",
+      "order": 1101030607
+    },
+    {
+      "file": "1101030608_Sun_Mars_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mars Venus and Rahu in conjunction",
+      "order": 1101030608
+    },
+    {
+      "file": "1101030609_Sun_Mars_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mars Venus and Ketu in conjunction",
+      "order": 1101030609
+    },
+    {
+      "file": "1101030708_Sun_Mars_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mars Saturn and Rahu in conjunction",
+      "order": 1101030708
+    },
+    {
+      "file": "1101030709_Sun_Mars_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mars Saturn and Ketu in conjunction",
+      "order": 1101030709
+    },
+    {
+      "file": "1101040506_Sun_Mercury_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Sun Mercury Jupiter and Venus in conjunction",
+      "order": 1101040506
+    },
+    {
+      "file": "1101040507_Sun_Mercury_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Mercury Jupiter and Saturn in conjunction",
+      "order": 1101040507
+    },
+    {
+      "file": "1101040508_Sun_Mercury_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mercury Jupiter and Rahu in conjunction",
+      "order": 1101040508
+    },
+    {
+      "file": "1101040509_Sun_Mercury_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mercury Jupiter and Ketu in conjunction",
+      "order": 1101040509
+    },
+    {
+      "file": "1101040607_Sun_Mercury_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Mercury Venus and Saturn in conjunction",
+      "order": 1101040607
+    },
+    {
+      "file": "1101040608_Sun_Mercury_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mercury Venus and Rahu in conjunction",
+      "order": 1101040608
+    },
+    {
+      "file": "1101040609_Sun_Mercury_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mercury Venus and Ketu in conjunction",
+      "order": 1101040609
+    },
+    {
+      "file": "1101040708_Sun_Mercury_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Mercury Saturn and Rahu in conjunction",
+      "order": 1101040708
+    },
+    {
+      "file": "1101040709_Sun_Mercury_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Mercury Saturn and Ketu in conjunction",
+      "order": 1101040709
+    },
+    {
+      "file": "1101050607_Sun_Jupiter_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Sun Jupiter Venus and Saturn in conjunction",
+      "order": 1101050607
+    },
+    {
+      "file": "1101050608_Sun_Jupiter_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Jupiter Venus and Rahu in conjunction",
+      "order": 1101050608
+    },
+    {
+      "file": "1101050609_Sun_Jupiter_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Jupiter Venus and Ketu in conjunction",
+      "order": 1101050609
+    },
+    {
+      "file": "1101050708_Sun_Jupiter_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Jupiter Saturn and Rahu in conjunction",
+      "order": 1101050708
+    },
+    {
+      "file": "1101050709_Sun_Jupiter_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Jupiter Saturn and Ketu in conjunction",
+      "order": 1101050709
+    },
+    {
+      "file": "1101060708_Sun_Venus_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Sun Venus Saturn and Rahu in conjunction",
+      "order": 1101060708
+    },
+    {
+      "file": "1101060709_Sun_Venus_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Venus Saturn and Ketu in conjunction",
+      "order": 1101060709
+    },
+    {
+      "file": "1101070809_Sun_Saturn_Rahu_and_Ketu_in_conjunction.mdx",
+      "title": "Sun Saturn Rahu and Ketu in conjunction",
+      "order": 1101070809
+    },
+    {
+      "file": "1102030405_Moon_Mars_Mercury_and_Jupiter_in_conjunction.mdx",
+      "title": "Moon Mars Mercury and Jupiter in conjunction",
+      "order": 1102030405
+    },
+    {
+      "file": "1102030406_Moon_Mars_Mercury_and_Venus_in_conjunction.mdx",
+      "title": "Moon Mars Mercury and Venus in conjunction",
+      "order": 1102030406
+    },
+    {
+      "file": "1102030407_Moon_Mars_Mercury_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Mars Mercury and Saturn in conjunction",
+      "order": 1102030407
+    },
+    {
+      "file": "1102030408_Moon_Mars_Mercury_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mars Mercury and Rahu in conjunction",
+      "order": 1102030408
+    },
+    {
+      "file": "1102030409_Moon_Mars_Mercury_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mars Mercury and Ketu in conjunction",
+      "order": 1102030409
+    },
+    {
+      "file": "1102030506_Moon_Mars_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Moon Mars Jupiter and Venus in conjunction",
+      "order": 1102030506
+    },
+    {
+      "file": "1102030507_Moon_Mars_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Mars Jupiter and Saturn in conjunction",
+      "order": 1102030507
+    },
+    {
+      "file": "1102030508_Moon_Mars_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mars Jupiter and Rahu in conjunction",
+      "order": 1102030508
+    },
+    {
+      "file": "1102030509_Moon_Mars_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mars Jupiter and Ketu in conjunction",
+      "order": 1102030509
+    },
+    {
+      "file": "1102030607_Moon_Mars_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Mars Venus and Saturn in conjunction",
+      "order": 1102030607
+    },
+    {
+      "file": "1102030608_Moon_Mars_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mars Venus and Rahu in conjunction",
+      "order": 1102030608
+    },
+    {
+      "file": "1102030609_Moon_Mars_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mars Venus and Ketu in conjunction",
+      "order": 1102030609
+    },
+    {
+      "file": "1102030708_Moon_Mars_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mars Saturn and Rahu in conjunction",
+      "order": 1102030708
+    },
+    {
+      "file": "1102030709_Moon_Mars_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mars Saturn and Ketu in conjunction",
+      "order": 1102030709
+    },
+    {
+      "file": "1102040506_Moon_Mercury_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Moon Mercury Jupiter and Venus in conjunction",
+      "order": 1102040506
+    },
+    {
+      "file": "1102040507_Moon_Mercury_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Mercury Jupiter and Saturn in conjunction",
+      "order": 1102040507
+    },
+    {
+      "file": "1102040508_Moon_Mercury_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mercury Jupiter and Rahu in conjunction",
+      "order": 1102040508
+    },
+    {
+      "file": "1102040509_Moon_Mercury_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mercury Jupiter and Ketu in conjunction",
+      "order": 1102040509
+    },
+    {
+      "file": "1102040607_Moon_Mercury_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Mercury Venus and Saturn in conjunction",
+      "order": 1102040607
+    },
+    {
+      "file": "1102040608_Moon_Mercury_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mercury Venus and Rahu in conjunction",
+      "order": 1102040608
+    },
+    {
+      "file": "1102040609_Moon_Mercury_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mercury Venus and Ketu in conjunction",
+      "order": 1102040609
+    },
+    {
+      "file": "1102040708_Moon_Mercury_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Mercury Saturn and Rahu in conjunction",
+      "order": 1102040708
+    },
+    {
+      "file": "1102040709_Moon_Mercury_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Mercury Saturn and Ketu in conjunction",
+      "order": 1102040709
+    },
+    {
+      "file": "1102050607_Moon_Jupiter_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Moon Jupiter Venus and Saturn in conjunction",
+      "order": 1102050607
+    },
+    {
+      "file": "1102050608_Moon_Jupiter_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Jupiter Venus and Rahu in conjunction",
+      "order": 1102050608
+    },
+    {
+      "file": "1102050609_Moon_Jupiter_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Jupiter Venus and Ketu in conjunction",
+      "order": 1102050609
+    },
+    {
+      "file": "1102050708_Moon_Jupiter_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Jupiter Saturn and Rahu in conjunction",
+      "order": 1102050708
+    },
+    {
+      "file": "1102050709_Moon_Jupiter_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Jupiter Saturn and Ketu in conjunction",
+      "order": 1102050709
+    },
+    {
+      "file": "1102060708_Moon_Venus_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Moon Venus Saturn and Rahu in conjunction",
+      "order": 1102060708
+    },
+    {
+      "file": "1102060709_Moon_Venus_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Moon Venus Saturn and Ketu in conjunction",
+      "order": 1102060709
+    },
+    {
+      "file": "1103040506_Mars_Mercury_Jupiter_and_Venus_in_conjunction.mdx",
+      "title": "Mars Mercury Jupiter and Venus in conjunction",
+      "order": 1103040506
+    },
+    {
+      "file": "1103040507_Mars_Mercury_Jupiter_and_Saturn_in_conjunction.mdx",
+      "title": "Mars Mercury Jupiter and Saturn in conjunction",
+      "order": 1103040507
+    },
+    {
+      "file": "1103040508_Mars_Mercury_Jupiter_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Mercury Jupiter and Rahu in conjunction",
+      "order": 1103040508
+    },
+    {
+      "file": "1103040509_Mars_Mercury_Jupiter_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Mercury Jupiter and Ketu in conjunction",
+      "order": 1103040509
+    },
+    {
+      "file": "1103040607_Mars_Mercury_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Mars Mercury Venus and Saturn in conjunction",
+      "order": 1103040607
+    },
+    {
+      "file": "1103040608_Mars_Mercury_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Mercury Venus and Rahu in conjunction",
+      "order": 1103040608
+    },
+    {
+      "file": "1103040609_Mars_Mercury_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Mercury Venus and Ketu in conjunction",
+      "order": 1103040609
+    },
+    {
+      "file": "1103040708_Mars_Mercury_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Mercury Saturn and Rahu in conjunction",
+      "order": 1103040708
+    },
+    {
+      "file": "1103040709_Mars_Mercury_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Mercury Saturn and Ketu in conjunction",
+      "order": 1103040709
+    },
+    {
+      "file": "1103050607_Mars_Jupiter_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Mars Jupiter Venus and Saturn in conjunction",
+      "order": 1103050607
+    },
+    {
+      "file": "1103050608_Mars_Jupiter_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Jupiter Venus and Rahu in conjunction",
+      "order": 1103050608
+    },
+    {
+      "file": "1103050609_Mars_Jupiter_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Jupiter Venus and Ketu in conjunction",
+      "order": 1103050609
+    },
+    {
+      "file": "1103050708_Mars_Jupiter_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Jupiter Saturn and Rahu in conjunction",
+      "order": 1103050708
+    },
+    {
+      "file": "1103050709_Mars_Jupiter_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Jupiter Saturn and Ketu in conjunction",
+      "order": 1103050709
+    },
+    {
+      "file": "1103060708_Mars_Venus_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Mars Venus Saturn and Rahu in conjunction",
+      "order": 1103060708
+    },
+    {
+      "file": "1103060709_Mars_Venus_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Mars Venus Saturn and Ketu in conjunction",
+      "order": 1103060709
+    },
+    {
+      "file": "1104050607_Mercury_Jupiter_Venus_and_Saturn_in_conjunction.mdx",
+      "title": "Mercury Jupiter Venus and Saturn in conjunction",
+      "order": 1104050607
+    },
+    {
+      "file": "1104050608_Mercury_Jupiter_Venus_and_Rahu_in_conjunction.mdx",
+      "title": "Mercury Jupiter Venus and Rahu in conjunction",
+      "order": 1104050608
+    },
+    {
+      "file": "1104050609_Mercury_Jupiter_Venus_and_Ketu_in_conjunction.mdx",
+      "title": "Mercury Jupiter Venus and Ketu in conjunction",
+      "order": 1104050609
+    },
+    {
+      "file": "1104050708_Mercury_Jupiter_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Mercury Jupiter Saturn and Rahu in conjunction",
+      "order": 1104050708
+    },
+    {
+      "file": "1104050709_Mercury_Jupiter_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Mercury Jupiter Saturn and Ketu in conjunction",
+      "order": 1104050709
+    },
+    {
+      "file": "1104060708_Mercury_Venus_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Mercury Venus Saturn and Rahu in conjunction",
+      "order": 1104060708
+    },
+    {
+      "file": "1104060709_Mercury_Venus_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Mercury Venus Saturn and Ketu in conjunction",
+      "order": 1104060709
+    },
+    {
+      "file": "1105060708_Jupiter_Venus_Saturn_and_Rahu_in_conjunction.mdx",
+      "title": "Jupiter Venus Saturn and Rahu in conjunction",
+      "order": 1105060708
+    },
+    {
+      "file": "1105060709_Jupiter_Venus_Saturn_and_Ketu_in_conjunction.mdx",
+      "title": "Jupiter Venus Saturn and Ketu in conjunction",
+      "order": 1105060709
+    }
+  ]
+}

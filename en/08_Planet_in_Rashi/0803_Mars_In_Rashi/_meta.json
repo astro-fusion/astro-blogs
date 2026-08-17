@@ -1,0 +1,64 @@
+{
+  "0803 Mars In Rashi": [
+    {
+      "file": "080301_Mars_in_Aries.mdx",
+      "title": "Mars in Aries",
+      "order": 80301
+    },
+    {
+      "file": "080302_Mars_in_Taurus.mdx",
+      "title": "Mars in Taurus",
+      "order": 80302
+    },
+    {
+      "file": "080303_Mars_in_Gemini.mdx",
+      "title": "Mars in Gemini",
+      "order": 80303
+    },
+    {
+      "file": "080304_Mars_in_Cancer.mdx",
+      "title": "Mars in Cancer",
+      "order": 80304
+    },
+    {
+      "file": "080305_Mars_in_Leo.mdx",
+      "title": "Mars in Leo",
+      "order": 80305
+    },
+    {
+      "file": "080306_Mars_in_Virgo.mdx",
+      "title": "Mars in Virgo",
+      "order": 80306
+    },
+    {
+      "file": "080307_Mars_in_Libra.mdx",
+      "title": "Mars in Libra",
+      "order": 80307
+    },
+    {
+      "file": "080308_Mars_in_Scorpio.mdx",
+      "title": "Mars in Scorpio",
+      "order": 80308
+    },
+    {
+      "file": "080309_Mars_in_Sagittarius.mdx",
+      "title": "Mars in Sagittarius",
+      "order": 80309
+    },
+    {
+      "file": "080310_Mars_in_Capricorn.mdx",
+      "title": "Mars in Capricorn",
+      "order": 80310
+    },
+    {
+      "file": "080311_Mars_in_Aquarius.mdx",
+      "title": "Mars in Aquarius",
+      "order": 80311
+    },
+    {
+      "file": "080312_Mars_in_Pisces.mdx",
+      "title": "Mars in Pisces",
+      "order": 80312
+    }
+  ]
+}
