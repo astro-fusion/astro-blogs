@@ -126,12 +126,13 @@ class AuditRunner:
         if open_bluf != close_bluf:
             self.errors.append(f"[{rel_path}] Mismatched <AIBlufSummary> tags ({open_bluf} open vs {close_bluf} close)")
 
-        # 3. BookReference validation
-        for match in re.finditer(r'<BookReference\b([\s\S]*?)(?:/>|</BookReference>)', content):
+        # 3. BookReference & BookShlokaSnippet validation
+        for match in re.finditer(r'<(?:BookReference|BookShlokaSnippet)\b([\s\S]*?)(?:/>|</(?:BookReference|BookShlokaSnippet)>)', content):
             tag_attrs = match.group(1)
             book_match = re.search(r'book=["\']([^"\']+)["\']', tag_attrs)
             if not book_match or book_match.group(1) not in VALID_BOOKS:
-                self.errors.append(f"[{rel_path}] Invalid or missing book in <BookReference>: '{book_match.group(1) if book_match else 'None'}'")
+                self.errors.append(f"[{rel_path}] Invalid or missing book in book citation: '{book_match.group(1) if book_match else 'None'}'")
+
 
         # 4. YogaDeepLink validation
         for match in re.finditer(r'<YogaDeepLink\b([\s\S]*?)(?:/>|</YogaDeepLink>)', content):

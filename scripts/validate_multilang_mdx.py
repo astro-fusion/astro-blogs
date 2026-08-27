@@ -38,16 +38,18 @@ def validate_file(file_path: Path):
         if "keywords:" not in raw_yaml and "tags:" not in raw_yaml:
             errors.append("Frontmatter missing 'keywords' or 'tags'")
     
-    # 2. Check BookReference tags if present
-    for match in re.finditer(r'<BookReference\s+[^>]*book=["\']([^"\']+)["\']', content):
-        book = match.group(1)
-        if book not in VALID_BOOKS:
-            errors.append(f"Unrecognized book in <BookReference>: '{book}'")
+    # 2. Check BookReference & BookShlokaSnippet tags if present
+    for match in re.finditer(r'<(?:BookReference|BookShlokaSnippet)\b([\s\S]*?)(?:/>|</(?:BookReference|BookShlokaSnippet)>)', content):
+        tag_attrs = match.group(1)
+        book_match = re.search(r'book=["\']([^"\']+)["\']', tag_attrs)
+        if book_match and book_match.group(1) not in VALID_BOOKS:
+            errors.append(f"Unrecognized book in book citation: '{book_match.group(1)}'")
 
     # 3. Check YogaDeepLink tags if present
-    for match in re.finditer(r'<YogaDeepLink\s+[^>]*yogaId=["\']([^"\']+)["\']', content):
-        yoga_id = match.group(1)
-        if not yoga_id.strip():
+    for match in re.finditer(r'<YogaDeepLink\b([\s\S]*?)(?:/>|</YogaDeepLink>)', content):
+        tag_attrs = match.group(1)
+        yoga_match = re.search(r'yogaId=["\']([^"\']+)["\']', tag_attrs)
+        if not yoga_match or not yoga_match.group(1).strip():
             errors.append("Empty yogaId in <YogaDeepLink>")
 
     # 4. Check KundaliChart tags if present
@@ -56,6 +58,7 @@ def validate_file(file_path: Path):
             errors.append("<KundaliChart /> missing 'lagnaRashi' prop")
         if "placements=" not in content:
             errors.append("<KundaliChart /> missing 'placements' prop")
+
 
     # 5. Check FAQBlock tags if present
     if "<FAQBlock" in content:
