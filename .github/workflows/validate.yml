@@ -1,0 +1,25 @@
+name: Validate content
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Quick structure check
+        run: |
+          # Fail fast if the main index file is missing
+          if [ ! -f "index.mdx" ]; then
+            echo "index.mdx not found at repository root."
+            exit 1
+          fi
+          echo "Basic structure OK."
+
+
