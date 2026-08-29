@@ -407,7 +407,7 @@ Process files in this order — highest-impact first:
 ### BATCH 2 — Sun in Houses (Planet-in-Houses)
 | Priority | File | Keyword | Status |
 |---|---|---|---|
-| 🔴 HIGH | `06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_11th_House.mdx` | Sun in 1st house / lagna | [x] |
+| 🔴 HIGH | `06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.mdx` | Sun in 1st house / lagna | [x] |
 | 🟠 MED | `06_Planet_in_Houses/0601_Sun_in_Houses/060102_Sun_in_2nd_House.mdx` | Sun in 2nd house | [x] |
 | 🟠 MED | `06_Planet_in_Houses/0601_Sun_in_Houses/060104_Sun_in_4th_House.mdx` | Sun in 4th house | [x] |
 | 🟠 MED | `06_Planet_in_Houses/0601_Sun_in_Houses/060105_Sun_in_5th_House.mdx` | Sun in 5th house | [x] |
@@ -683,12 +683,12 @@ Do **not** run any `1nd`→`1st` rename script — that would be wrong.
 **Always trust H1/title content over filename.**
 
 Sun (`0601_Sun_in_Houses/`):
-- `060101_Sun_in_11th_House.mdx` → **Sun in 1st** (use lagnaRashi=5)
+- `060101_Sun_in_1st_House.mdx` → **Sun in 1st** (use lagnaRashi=5)
 - `060111_Sun_in_11th_House.mdx` → Sun in 11th
 - `060112_Sun_in_12th_House.mdx` → **Sun in 12th**
 
 Moon (`0602_Moon_in_Houses/`):
-- `060201_Moon_in_11th_House.mdx` → **Moon in 1st** (use lagnaRashi=4)
+- `060201_Moon_in_1st_House.mdx` → **Moon in 1st** (use lagnaRashi=4)
 - `060211_Moon_in_11th_House.mdx` → Moon in 11th
 - `060212_Moon_in_12th_House.mdx` → **Moon in 12th**
 

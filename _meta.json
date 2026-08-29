@@ -4,7 +4,7 @@
     "hi",
     "ne"
   ],
-  "totalArticles": 1240,
+  "totalArticles": 1238,
   "articles": {
     "01_Rasi/0101_Mesha.mdx": {
       "path": "01_Rasi/0101_Mesha.mdx",
@@ -780,8 +780,8 @@
       ],
       "title": "Complete Guide to Sun in Vedic Astrology: Houses, Effects & Remedies"
     },
-    "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_11th_House.mdx",
+    "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -897,8 +897,8 @@
       ],
       "title": "Moon in Houses: Complete Astrological Guide & Effects"
     },
-    "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_11th_House.mdx",
+    "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1032,8 +1032,8 @@
       ],
       "title": "Mars Aspects in Astrology: How Mars Interacts With Other Planets"
     },
-    "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_11th_House.mdx",
+    "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1167,8 +1167,8 @@
       ],
       "title": "Mercury in Signs: Complete Astrological Guide to Communication Styles"
     },
-    "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_11th_House.mdx",
+    "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1302,8 +1302,8 @@
       ],
       "title": "Jupiter Aspects by Planets in Vedic Astrology: Complete Guide for All 12 Signs"
     },
-    "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_11th_House.mdx",
+    "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1437,8 +1437,8 @@
       ],
       "title": "Venus Aspects by Different Planets"
     },
-    "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_11th_House.mdx",
+    "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1545,8 +1545,8 @@
       ],
       "title": "Venus in 12th House: Spirituality, Hidden Talents & Foreign Connections"
     },
-    "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_11th_House.mdx",
+    "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1671,8 +1671,8 @@
       ],
       "title": "Rahu in Different Zodiac Signs: Complete Guide to North Node Sign Placements in Vedic Astrology"
     },
-    "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_11th_House.mdx",
+    "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -1797,8 +1797,8 @@
       ],
       "title": "Ketu in 12 Zodiac Signs: Complete Vedic Astrology Analysis 2024"
     },
-    "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_11th_House.mdx": {
-      "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_11th_House.mdx",
+    "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_1st_House.mdx": {
+      "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -2922,8 +2922,8 @@
       ],
       "title": "8th Lord in Different Houses: Transformation & Sudden Events"
     },
-    "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3030,8 +3030,8 @@
       ],
       "title": ">-"
     },
-    "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3138,8 +3138,8 @@
       ],
       "title": "2nd Lord in 12th House: Hidden Wealth and Spiritual Prosperity - Complete Vedic Astrology Guide"
     },
-    "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3255,8 +3255,8 @@
       ],
       "title": "4th Lord in All 12 Houses: Complete Guide to Home, Family & Emotional Foundation in Vedic Astrology"
     },
-    "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3372,8 +3372,8 @@
       ],
       "title": ">-"
     },
-    "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3489,8 +3489,8 @@
       ],
       "title": "100600 6th lord in all 12 houses knowledge"
     },
-    "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3606,8 +3606,8 @@
       ],
       "title": "7th Lord in All 12 Houses: Complete Guide to Partnership Astrology"
     },
-    "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3722,15 +3722,6 @@
         "ne"
       ],
       "title": "8th Lord in Houses: All 12 Placements & Effects in Vedic Astrology"
-    },
-    "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_11th_House.mdx",
-      "availableLocales": [
-        "en",
-        "hi",
-        "ne"
-      ],
-      "title": "8th Lord in 1st House"
     },
     "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1st_House.mdx": {
       "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_1st_House.mdx",
@@ -3849,8 +3840,8 @@
       ],
       "title": ">-"
     },
-    "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -3966,8 +3957,8 @@
       ],
       "title": "10th Lord in All 12 Houses: Complete Career Success Guide | Vedic Astrology"
     },
-    "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -4083,8 +4074,8 @@
       ],
       "title": ">-"
     },
-    "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_1st_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_1st_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -4200,8 +4191,8 @@
       ],
       "title": "101200 12th Lord in all 12 Houses"
     },
-    "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_11th_House.mdx": {
-      "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_11th_House.mdx",
+    "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.mdx": {
+      "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.mdx",
       "availableLocales": [
         "en",
         "hi",
@@ -11132,13 +11123,6 @@
         "hi"
       ],
       "title": "Sun in 12th House (द्वादश भाव में सूर्य) — Vedic Astrology Analysis"
-    },
-    "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.mdx": {
-      "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.mdx",
-      "availableLocales": [
-        "hi"
-      ],
-      "title": "2nd Lord in 1st House (प्रथम भाव में द्वितीयेश (धनेश)) — Vedic Astrology Analysis"
     }
   }
 }

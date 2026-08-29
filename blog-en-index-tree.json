@@ -1,6 +1,6 @@
 {
   "locale": "en",
-  "count": 1227,
+  "count": 1226,
   "articles": [
     {
       "path": "01_Rasi/0101_Mesha.mdx",
@@ -519,7 +519,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0601_Sun_in_Houses/060101_Sun_in_1st_House.mdx",
       "title": "Sun in 1st House Vedic Astrology: Leadership, Personality & Life Effects",
       "description": ">",
       "locale": "en"
@@ -597,7 +597,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0602_Moon_in_Houses/060201_Moon_in_1st_House.mdx",
       "title": "Moon in 1st House: Complete Vedic Astrology Guide 2024",
       "description": "|",
       "locale": "en"
@@ -687,7 +687,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0603_Mars_in_Houses/060301_Mars_in_1st_House.mdx",
       "title": "Mars in 1st House: The Warriors Personality | Complete Vedic Astrology Guide",
       "description": ">-",
       "locale": "en"
@@ -777,7 +777,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0604_Mercury_in_Houses/060401_Mercury_in_1st_House.mdx",
       "title": "Mercury in 1st House: Intelligence, Communication & Personal Magnetism",
       "description": ">",
       "locale": "en"
@@ -867,7 +867,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0605_Jupiter_in_Houses/060501_Jupiter_in_1st_House.mdx",
       "title": "Jupiter in 1st House",
       "description": ">",
       "locale": "en"
@@ -957,7 +957,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0606_Venus_in_Houses/060601_Venus_in_1st_House.mdx",
       "title": "Venus in 1st House: Magnetic Charm and Natural Beauty in Vedic Astrology",
       "description": "|",
       "locale": "en"
@@ -1029,7 +1029,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0607_Saturn_in_Houses/060701_Saturn_in_1st_House.mdx",
       "title": "Saturn in 1st House: Complete Guide to Personality & Life Path | Vedic Astrology",
       "description": "|",
       "locale": "en"
@@ -1113,7 +1113,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0608_Rahu_in_Houses/060801_Rahu_in_1st_House.mdx",
       "title": "Rahu in 1st House: Complete Guide to Ambition, Identity & Life Path in Vedic Astrology",
       "description": "|",
       "locale": "en"
@@ -1197,7 +1197,7 @@
       "locale": "en"
     },
     {
-      "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_11th_House.mdx",
+      "path": "06_Planet_in_Houses/0609_Ketu_in_Houses/060901_Ketu_in_1st_House.mdx",
       "title": ">-",
       "description": "|",
       "locale": "en"
@@ -1947,7 +1947,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1001_1st_Lord_in_all_Houses/100101_1st_Lord_in_1st_House.mdx",
       "title": "1st Lord in 1st House: Complete Guide to Self-Mastery in Vedic Astrology",
       "description": ">",
       "locale": "en"
@@ -2019,7 +2019,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1002_2nd_Lord_in_all_Houses/100201_2nd_Lord_in_1st_House.mdx",
       "title": "2nd Lord in 1st House: Wealth Through Personality & Self-Expression in Vedic Astrology",
       "description": "|",
       "locale": "en"
@@ -2091,7 +2091,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1003_3rd_Lord_in_all_Houses/100301_3rd_Lord_in_1st_House.mdx",
       "title": "3rd Lord in 1st House: Communication Skills, Courage & Self-Expression in Vedic Astrology",
       "description": "Discover how the 3rd lord in 1st house creates dynamic personalities with enhanced communication skills, courage, and strong sibling bonds. Learn effects of different planetary rulers, remedies, and timing for career success.",
       "locale": "en"
@@ -2169,7 +2169,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1004_4th_Lord_in_all_Houses/100401_4th_Lord_in_1st_House.mdx",
       "title": "4th Lord in 1st House: Home and Heart Shape Your Identity - Complete Vedic Astrology Analysis",
       "description": "|",
       "locale": "en"
@@ -2247,7 +2247,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1005_5th_Lord_in_all_Houses/100501_5th_Lord_in_1st_House.mdx",
       "title": "5th Lord in 1st House: Creative Self-Expression in Vedic Astrology",
       "description": ">",
       "locale": "en"
@@ -2325,7 +2325,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1006_6th_Lord_in_all_Houses/100601_6th_Lord_in_1st_House.mdx",
       "title": "6th Lord in 1st House: Health, Service & Self-Identity in Vedic Astrology",
       "description": "|",
       "locale": "en"
@@ -2403,7 +2403,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1007_7th_Lord_in_all_Houses/100701_7th_Lord_in_1st_House.mdx",
       "title": "7th Lord in 1st House: Partnership Impact on Personality",
       "description": ">",
       "locale": "en"
@@ -2477,12 +2477,6 @@
     {
       "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100800_8th_Lord_in_all_12_Houses.mdx",
       "title": "8th Lord in Houses: All 12 Placements & Effects in Vedic Astrology",
-      "description": ">",
-      "locale": "en"
-    },
-    {
-      "path": "10_Lord_in_Houses/1008_8th_Lord_in_all_Houses/100801_8th_Lord_in_11th_House.mdx",
-      "title": "8th Lord in 1st House",
       "description": ">",
       "locale": "en"
     },
@@ -2565,7 +2559,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1009_9th_Lord_in_all_Houses/100901_9th_Lord_in_1st_House.mdx",
       "title": ">-",
       "description": ">",
       "locale": "en"
@@ -2643,7 +2637,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1010_10th_Lord_in_all_Houses/101001_10th_Lord_in_1st_House.mdx",
       "title": ">-",
       "description": ">",
       "locale": "en"
@@ -2721,7 +2715,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_1st_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1011_11th_Lord_in_all_Houses/1011_11th_Lord_in_all_Houses/101101_11th_Lord_in_1st_House.mdx",
       "title": "11th Lord in 1st House: Complete Vedic Astrology Guide | Personality & Gains",
       "description": ">",
       "locale": "en"
@@ -2799,7 +2793,7 @@
       "locale": "en"
     },
     {
-      "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_11th_House.mdx",
+      "path": "10_Lord_in_Houses/1012_12th_Lord_in_all_Houses/1012_12th_Lord_in_all_Houses/101201_12th_Lord_in_1st_House.mdx",
       "title": "12th Lord in 1st House: Spiritual Identity and Self-Transformation in Vedic Astrology",
       "description": "|",
       "locale": "en"
