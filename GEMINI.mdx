@@ -41,10 +41,13 @@ Create a YAML block (`---`) with the following keys:
 -   **`description`**: A concise, meta-description-friendly summary (150-160 characters) of the article's content.
 -   **`keywords`**: A comma-separated list of relevant primary and secondary keywords.
 -   **`summary`**: A slightly longer summary (2-3 sentences) used for article previews.
+-   **`locale`**: Target locale code (`en`, `hi`, `ne`). Default `en`.
+-   **`audioUrl`**: (Optional) CDN link to synthesized audio summary.
 
-#### b. Article Body
+#### b. Article Body & AI BLUF Summaries
+-   **AI BLUF Summaries (`<AIBlufSummary>`)**: Every major section (especially `## Introduction` and primary thematic sections) MUST begin with an `<AIBlufSummary>...</AIBlufSummary>` block containing a clear, 2-3 sentence bottom-line summary for rapid AI citation and TTS voice generation.
 -   **Content Quality:** The content must be extremely detailed, with "minute details" as requested. Demonstrate deep analysis and critical thinking. The target length should be substantial, around 400 lines, to ensure comprehensive coverage.
--   **Introduction (`# Introduction...`)**: Start with a captivating introduction that defines the topic and explains its importance to the reader.
+-   **Introduction (`# Introduction...` / `## Introduction...`)**: Start with a captivating introduction that defines the topic and explains its importance to the reader.
 -   **Subheadings (`## Subheading...`)**: Use descriptive H2 subheadings to break the main topic into logical, easy-to-digest sections.
 -   **Detailed Paragraphs**: Under each subheading, provide in-depth explanations, practical examples, and actionable insights.
 -   **FAQ Section (`## FAQ`)**: Include a dedicated FAQ section with 3-4 relevant questions and their clear, concise answers.
@@ -56,7 +59,8 @@ Create a YAML block (`---`) with the following keys:
 ## Guiding Principles
 1.  **Analyze, Don't Just Summarize**: Do not simply rephrase the topic. Use your web search capabilities to research the subject thoroughly and synthesize the information into a unique, high-quality article.
 2.  **Strictly Adhere to Reference Structure**: The provided reference `.mdx` file is the template for success. Match its structural flow, heading levels, and the depth of its content.
-3.  **SEO is Paramount**: Naturally weave keywords into the title, headings, and body content. Ensure the `description` and `title` are optimized for search engine results pages (SERPs).
+3.  **BLUF Summaries for Audio/AI**: Ensure every `<AIBlufSummary>` is concise, punchy, and self-contained for optimal TTS voice synthesis.
+4.  **SEO is Paramount**: Naturally weave keywords into the title, headings, and body content. Ensure the `description` and `title` are optimized for search engine results pages (SERPs).
 
 ---
 

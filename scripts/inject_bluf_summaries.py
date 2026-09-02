@@ -42,9 +42,11 @@ def process_file(file_path):
         line = lines[i]
         new_lines.append(line)
         
-        # Check if this line is a H2 heading
-        if line.startswith('## '):
-            heading_text = line[3:].strip()
+        # Check if this line is a H2, H3, or H4 heading
+        heading_match = re.match(r'^(#{2,4})\s+(.*)$', line)
+        if heading_match:
+            heading_level = heading_match.group(1)
+            heading_text = heading_match.group(2).strip()
             lower_heading = heading_text.lower()
             
             # Skip structural headings
@@ -80,7 +82,7 @@ def process_file(file_path):
             section_lines = []
             scan_idx = i + 1
             while scan_idx < len(lines):
-                if lines[scan_idx].startswith('##'):
+                if re.match(r'^#{1,4}\s+', lines[scan_idx]):
                     break
                 section_lines.append(lines[scan_idx])
                 scan_idx += 1
