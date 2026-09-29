@@ -1,0 +1,69 @@
+{
+  "0601 Sun in Houses": [
+    {
+      "file": "060100_sun_knowledge.mdx",
+      "title": "सूर्य ज्ञान सम्पूर्ण मार्गदर्शन",
+      "order": 60100
+    },
+    {
+      "file": "060101_Sun_in_1st_House.mdx",
+      "title": "प्रथम भाव में सूर्य",
+      "order": 60101
+    },
+    {
+      "file": "060102_Sun_in_2nd_House.mdx",
+      "title": "द्वितीय भाव में सूर्य",
+      "order": 60102
+    },
+    {
+      "file": "060103_Sun_in_3rd_House.mdx",
+      "title": "तृतीय भाव में सूर्य",
+      "order": 60103
+    },
+    {
+      "file": "060104_Sun_in_4th_House.mdx",
+      "title": "चतुर्थ भाव में सूर्य",
+      "order": 60104
+    },
+    {
+      "file": "060105_Sun_in_5th_House.mdx",
+      "title": "पंचम भाव में सूर्य",
+      "order": 60105
+    },
+    {
+      "file": "060106_Sun_in_6th_House.mdx",
+      "title": "षष्ठ भाव में सूर्य",
+      "order": 60106
+    },
+    {
+      "file": "060107_Sun_in_7th_House.mdx",
+      "title": "सप्तम भाव में सूर्य",
+      "order": 60107
+    },
+    {
+      "file": "060108_Sun_in_8th_House.mdx",
+      "title": "अष्टम भाव में सूर्य",
+      "order": 60108
+    },
+    {
+      "file": "060109_Sun_in_9th_House.mdx",
+      "title": "नवम भाव में सूर्य",
+      "order": 60109
+    },
+    {
+      "file": "060110_Sun_in_10th_House.mdx",
+      "title": "दशम भाव में सूर्य",
+      "order": 60110
+    },
+    {
+      "file": "060111_Sun_in_11th_House.mdx",
+      "title": "एकादश भाव में सूर्य",
+      "order": 60111
+    },
+    {
+      "file": "060112_Sun_in_12th_House.mdx",
+      "title": "द्वादश भाव में सूर्य",
+      "order": 60112
+    }
+  ]
+}
