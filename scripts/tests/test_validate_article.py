@@ -260,7 +260,8 @@ class MeasurementTests(unittest.TestCase):
                   "Aim for 900 mm (about 3 ft).", "A 150 x 190 cm (5 x 6 ft 3 in) bed.",
                   "75 सेमी (2 फुट 6 इंच) जगह", "3 मीटर (10 फीट) चौड़ा",
                   "75 सेमी (2 फिट 6 इन्च) ठाउँ", "3 मिटर (10 फिट) चौडा",
-                  "90 सेन्टिमिटर (3 फिट) बाटो"):
+                  "90 सेन्टिमिटर (3 फिट) बाटो", "74 वर्ग मीटर (800 वर्ग फुट) का फ्लैट",
+                  "12 वर्ग मिटर (130 वर्ग फिट) कोठा"):
             self.assertTrue(a.has_metric_with_imperial(s), s)
 
     def test_rejected(self):

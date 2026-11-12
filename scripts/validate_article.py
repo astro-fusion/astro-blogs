@@ -50,7 +50,7 @@ FAQ_HEADING = re.compile(r"\bFAQs?\b|frequently asked|common questions|प्र
 # ---------------------------------------------------------------- measurement
 
 _METRIC = (r"\d+(?:[.,]\d+)?(?:\s*(?:x|×|by)\s*\d+(?:[.,]\d+)?)*\s*"
-           r"(?:mm|cm|m²|m2|sq\.?\s?m|m|सेंटीमीटर|सेन्टिमिटर|सेमी|मिमी|मीटर|मिटर|मी)"
+           r"(?:mm|cm|m²|m2|sq\.?\s?m|m|वर्ग\s+मीटर|वर्ग\s+मिटर|सेंटीमीटर|सेन्टिमिटर|सेमी|मिमी|मीटर|मिटर|मी)"
            rf"(?![A-Za-z{DEVA}])")
 _IMPERIAL = (r"\s*\([^()]*?\d[^()]*?(?:ft|feet|foot|inches|inch|in|फुट|फीट|फिट|इंच|इन्च)"
              rf"(?![A-Za-z{DEVA}])[^()]*\)")
