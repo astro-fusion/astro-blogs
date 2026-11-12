@@ -258,7 +258,9 @@ class MeasurementTests(unittest.TestCase):
     def test_accepted(self):
         for s in ("Leave 75 cm (2 ft 6 in) free.", "A 3.0 x 3.6 m (10 x 12 ft) bedroom.",
                   "Aim for 900 mm (about 3 ft).", "A 150 x 190 cm (5 x 6 ft 3 in) bed.",
-                  "75 सेमी (2 फुट 6 इंच) जगह", "3 मीटर (10 फीट) चौड़ा"):
+                  "75 सेमी (2 फुट 6 इंच) जगह", "3 मीटर (10 फीट) चौड़ा",
+                  "75 सेमी (2 फिट 6 इन्च) ठाउँ", "3 मिटर (10 फिट) चौडा",
+                  "90 सेन्टिमिटर (3 फिट) बाटो"):
             self.assertTrue(a.has_metric_with_imperial(s), s)
 
     def test_rejected(self):
