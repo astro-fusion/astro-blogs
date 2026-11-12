@@ -151,17 +151,10 @@ def english_info(text):
 
 # ---------------------------------------------------------------- rules
 
-def rule_frontmatter(fm, locale, en_pubdate):
+def rule_common_fields(fm):
+    """Title, description and keyword checks shared by every article spec."""
     errs = []
-    if not fm["found"]:
-        return ["missing or unterminated frontmatter"]
-    if fm["keys"] != EXPECTED_KEYS:
-        errs.append(f"keys {fm['keys']} are not exactly {EXPECTED_KEYS} in that order")
     vals = fm["values"]
-    if vals.get("locale") != locale:
-        errs.append(f"locale {vals.get('locale')!r} does not match folder {locale!r}")
-    if vals.get("sourceLocale") != "en":
-        errs.append(f"sourceLocale {vals.get('sourceLocale')!r} must be 'en'")
     title = vals.get("title", "")
     if not 30 <= len(title) <= 65:
         errs.append(f"title length {len(title)} not in 30-65")
@@ -174,6 +167,21 @@ def rule_frontmatter(fm, locale, en_pubdate):
         errs.append("keywords must be a YAML list")
     elif not 5 <= len(fm["keywords"]) <= 8:
         errs.append(f"keywords count {len(fm['keywords'])} not in 5-8")
+    return errs
+
+
+def rule_frontmatter(fm, locale, en_pubdate):
+    errs = []
+    if not fm["found"]:
+        return ["missing or unterminated frontmatter"]
+    if fm["keys"] != EXPECTED_KEYS:
+        errs.append(f"keys {fm['keys']} are not exactly {EXPECTED_KEYS} in that order")
+    vals = fm["values"]
+    if vals.get("locale") != locale:
+        errs.append(f"locale {vals.get('locale')!r} does not match folder {locale!r}")
+    if vals.get("sourceLocale") != "en":
+        errs.append(f"sourceLocale {vals.get('sourceLocale')!r} must be 'en'")
+    errs += rule_common_fields(fm)
     if en_pubdate is not None and vals.get("pubDate") != en_pubdate:
         errs.append(f"pubDate {vals.get('pubDate')!r} differs from English {en_pubdate!r}")
     return errs
