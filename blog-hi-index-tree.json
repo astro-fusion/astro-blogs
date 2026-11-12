@@ -1,6 +1,6 @@
 {
   "locale": "hi",
-  "count": 1238,
+  "count": 1298,
   "articles": [
     {
       "path": "01_Rasi/0101_Mesha.mdx",
@@ -7428,6 +7428,366 @@
       "path": "21_Numerology/2110_MasterLevelRemedies/211006_Advanced_Training_Standards_and_Professional_Certification_Pathways.mdx",
       "title": "Advanced Training Standards and Professional Certification Pathways — अंक ज्योतिष (Numerology) विश्लेषण एवं मार्गदर्शन",
       "description": "वैदिक एवं पाश्चात्य अंक ज्योतिष के अनुसार Advanced Training Standards and Professional Certification Pathways: मूलांक, भाग्यांक प्रभाव, शुभ अंक, करियर एवं अनुकूल दिशा।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220101_setting_up_a_small_bedroom.mdx",
+      "title": "छोटा बेडरूम सजाएं: बेड, वार्डरोब और चलने की जगह",
+      "description": "3.0 x 3.6 मीटर के बेडरूम में बेड, वार्डरोब और चलने की खुली जगह कैसे बैठाएं। असली नाप, पूरा उदाहरण और टेप से जांचने की चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220102_living_room_for_a_family_of_five.mdx",
+      "title": "पांच लोगों के परिवार के लिए लिविंग रूम कैसे सजाएं",
+      "description": "3.6 x 4.5 मीटर के लिविंग रूम में पांच लोगों की बैठक कैसे बनाएं: सोफे के नाप, टेबल की दूरी, टीवी की दूरी, रास्ते, पूरा उदाहरण और चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220103_kitchen_work_triangle_and_counter_heights.mdx",
+      "title": "किचन का लेआउट: वर्क ट्राएंगल और प्लेटफॉर्म की ऊंचाई",
+      "description": "सिंक, हॉब और फ्रिज ऐसे रखें कि खाना बनाना आसान हो, और अपने कद के हिसाब से प्लेटफॉर्म की ऊंचाई चुनें। असली दूरियां और 2.4 x 3.0 मीटर का उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220104_study_corner_in_a_shared_room.mdx",
+      "title": "साझा कमरे में पढ़ाई का कोना कैसे बनाएं",
+      "description": "जिस बेडरूम या लिविंग रूम में दूसरे लोग भी रहते हैं, वहां डेस्क, कुर्सी, लैंप और स्टोरेज कैसे लगाएं। असली नाप, 3.0 x 3.6 मीटर का उदाहरण, चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220105_childrens_room_that_grows_with_the_child.mdx",
+      "title": "बच्चों का कमरा, जो बच्चे के साथ बड़ा होता जाए",
+      "description": "बच्चे के कमरे की योजना एक बार बनाएं और उम्र के साथ बदलें: बेड, स्टोरेज की ऊंचाई, डेस्क और खेलने की जगह। 3.0 x 3.3 मीटर का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220106_room_for_elderly_parents.mdx",
+      "title": "बुजुर्ग माता-पिता के लिए सुरक्षित और आसान कमरा",
+      "description": "बुजुर्ग माता-पिता का कमरा ऐसे बनाएं कि चलने की जगह खुली हो, बेड सही ऊंचाई पर हो, रात की रोशनी और फर्श सुरक्षित हों। पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220107_entrance_and_shoe_area.mdx",
+      "title": "मुख्य दरवाजे का हिस्सा: जूते, बैग और बैठने की जगह",
+      "description": "छोटे प्रवेश हिस्से में शू कैबिनेट, हुक, बेंच और खुली जगह कैसे रखें। असली नाप और संकरे फोयर का पूरा उदाहरण, ताकि हर चीज को ठिकाना मिले।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220108_bathroom_layout_wet_and_dry_areas.mdx",
+      "title": "बाथरूम का लेआउट: गीला और सूखा हिस्सा अलग रखें",
+      "description": "छोटे बाथरूम में शॉवर को बेसिन और टॉयलेट से अलग रखने का तरीका। असली नाप और 1.5 x 2.1 मीटर के बाथरूम का पूरा उदाहरण, ताकि फर्श सूखा रहे।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220109_dining_space_in_a_small_home.mdx",
+      "title": "छोटे घर में डाइनिंग की जगह: नाप और खाली जगह",
+      "description": "छोटे फ्लैट में सही साइज की डाइनिंग टेबल, कुर्सियों की जगह और चलने का रास्ता कैसे रखें। 2.4 x 3.0 मीटर के कोने का पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220110_puja_space_in_a_modern_flat.mdx",
+      "title": "आधुनिक फ्लैट में पूजा की जगह: नाप, ऊंचाई और सुरक्षा",
+      "description": "फ्लैट में सम्मान के साथ पूजा की जगह कैसे बनाएं: जगह चुनना, शेल्फ और बैठने की जगह के नाप, दीपक और अगरबत्ती की सुरक्षा। पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220201_making_a_2bhk_feel_bigger.mdx",
+      "title": "2BHK फ्लैट को बिना दीवार तोड़े बड़ा कैसे दिखाएं",
+      "description": "2BHK फ्लैट को खुला-खुला कैसे बनाएं: खाली फर्श, हल्का फर्नीचर, बेहतर पर्दे और खुली नजर। लिविंग रूम का नापा हुआ पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220202_storage_in_a_600_sq_ft_flat.mdx",
+      "title": "600 वर्ग फुट के फ्लैट में स्टोरेज की जगह कहां निकालें",
+      "description": "600 वर्ग फुट के फ्लैट में स्टोरेज कैसे निकालें: ऊंचाई, बेड के नीचे और दीवार की गहराई का इस्तेमाल, एक बेडरूम का घन नाप वाला पूरा हिसाब।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220203_one_room_two_uses.mdx",
+      "title": "एक कमरा, दो काम: गेस्ट रूम और स्टडी साथ-साथ",
+      "description": "खाली कमरे को दिन में स्टडी और रात में गेस्ट रूम कैसे बनाएं: डेस्क, सिंगल बेड या दीवान के नाप, चलने की जगह और पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220204_studio_and_single_room_living.mdx",
+      "title": "एक कमरे में आराम से रहना: काम करने वाला लेआउट",
+      "description": "एक ही कमरे में सोना, बैठना, खाना, पकाना और सामान रखना कैसे बैठाएं: खाली जगह, जोन और 3.6 x 4.5 मीटर के कमरे का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220205_balcony_as_a_usable_room.mdx",
+      "title": "बालकनी को काम की जगह कैसे बनाएं",
+      "description": "छोटी बालकनी में बैठने, कपड़े सुखाने और कुछ पौधों की जगह कैसे बनाएं: नाप, रेलिंग की सुरक्षा, छांव और बारिश, साथ में 1.2 x 3.0 मीटर का उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220206_under_stair_and_loft_storage.mdx",
+      "title": "सीढ़ी के नीचे और लॉफ्ट में स्टोरेज सही तरीके से बनाएं",
+      "description": "सीढ़ी के नीचे और गलियारे के ऊपर की खाली जगह को काम की स्टोरेज कैसे बनाएं। असली ऊंचाई, गहराई और पूरे नाप-जोख वाला एक उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220207_furniture_sizes_for_small_rooms.mdx",
+      "title": "छोटे कमरों में फिट होने वाले फर्नीचर के साइज",
+      "description": "नेपाल और भारत में मिलने वाले बेड, सोफा, मेज, वार्डरोब और डेस्क के आम साइज, उनके आसपास छोड़ी जाने वाली जगह और 3.0 x 4.0 मीटर के कमरे का उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220208_joint_family_in_a_three_bedroom_home.mdx",
+      "title": "तीन बेडरूम के घर में संयुक्त परिवार कैसे रहे",
+      "description": "तीन पीढ़ियां तीन बेडरूम, दो बाथरूम और एक किचन कैसे बांटें। कमरों के नाप, बंक बेड का हिसाब और सुबह की बाथरूम योजना के साथ पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220209_working_from_home_in_a_small_flat.mdx",
+      "title": "छोटे फ्लैट में घर से काम करने की जगह कैसे बनाएं",
+      "description": "छोटे फ्लैट में काम का कोना कैसे चुनें, नापें और सजाएं। डेस्क और कुर्सी की ऊंचाई, रोशनी, बिजली कटौती, शोर और लिविंग रूम का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220210_decluttering_room_by_room.mdx",
+      "title": "कमरा-कमरा करके घर की छंटाई: एक व्यावहारिक क्रम",
+      "description": "छोटे घर की छंटाई का व्यावहारिक क्रम, एंट्री से स्टोर रूम तक। समय का अंदाज, वार्डरोब की रेल का हिसाब और एक चेकलिस्ट के साथ।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220301_daylight_in_a_north_facing_room.mdx",
+      "title": "उत्तर मुखी कमरे में ज्यादा दिन की रोशनी कैसे लाएं",
+      "description": "नेपाल और भारत में उत्तर मुखी कमरे को कैसी रोशनी मिलती है, और खिड़की का आकार, दीवार का रंग और फर्नीचर की ऊंचाई उसे कैसे बढ़ाते हैं। पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220302_cross_ventilation_basics.mdx",
+      "title": "क्रॉस वेंटिलेशन: घर में हवा असल में कैसे चलती है",
+      "description": "जानिए कमरों में हवा कैसे चलती है, एक ही दीवार की दो खिड़कियां हवा क्यों नहीं बनातीं, और फ्लैट में आर पार हवा के लिए खुले हिस्से का नाप और जगह कैसे तय करें।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220303_keeping_a_top_floor_flat_cool.mdx",
+      "title": "गर्मियों में सबसे ऊपरी मंजिल के फ्लैट को ठंडा कैसे रखें",
+      "description": "तराई और मैदानी इलाकों में सबसे ऊपरी मंजिल का फ्लैट क्यों तपता है, और छत, खिड़की व हवा के कौन से उपाय उसे ठंडा रखते हैं। पूरा उदाहरण और चेकलिस्ट साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220304_keeping_a_home_warm_in_a_hill_winter.mdx",
+      "title": "पहाड़ की सर्दी में घर को गर्म कैसे रखें",
+      "description": "पहाड़ी इलाके में सर्दियों में घर गर्म रखने के व्यावहारिक तरीके: धूप, हवा के रिसाव, पर्दे, गलीचे और सुरक्षित हीटिंग। पूरा उदाहरण और चेकलिस्ट साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220305_damp_and_mould_causes_and_first_steps.mdx",
+      "title": "सीलन और फफूंद: कारण और शुरुआती कदम",
+      "description": "जानिए नेपाल और भारत के घरों में सीलन और फफूंद क्यों आती है, रिसाव और संघनन में फर्क कैसे पहचानें, कौन से आसान कदम काम आते हैं और पेशेवर को कब बुलाएं।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220306_monsoon_proofing_your_home.mdx",
+      "title": "मानसून से पहले घर को तैयार करें: एक चेकलिस्ट",
+      "description": "नेपाल या भारत के फ्लैट या मकान के लिए बरसात से पहले की चेकलिस्ट: छत और नालियां, खिड़कियां, फर्श, बिजली गुल होना और घर के अंदर कपड़े सुखाना।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220307_reducing_noise_in_a_city_flat.mdx",
+      "title": "शहरी फ्लैट में शोर कम करें: दरवाजे, खिड़कियां और फर्श",
+      "description": "फ्लैट में सड़क, पड़ोसी और कदमों का शोर कैसे घटाएं: दरारें भरना, भारी पर्दे, गलीचा और फर्नीचर की जगह। असली नाप और पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220308_curtains_blinds_and_privacy.mdx",
+      "title": "पर्दे, ब्लाइंड और निजता, बिना रोशनी गंवाए",
+      "description": "सड़क या सामने की इमारत से निजता रखें और दिन की रोशनी भी बनाए रखें: पर्दे, जालीदार पर्दे और ब्लाइंड चुनें, रॉड के नाप और कपड़े का हिसाब सीखें।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220309_indoor_plants_that_survive.mdx",
+      "title": "घर के अंदर टिकने वाले पौधे और उन्हें कहां रखें",
+      "description": "नेपाल या भारत के फ्लैट के लिए मजबूत घरेलू पौधे चुनें और रोशनी के हिसाब से रखें: पानी, गमले और निकासी की सलाह और खिड़की की शेल्फ का उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220310_kitchen_smoke_and_smell_ventilation.mdx",
+      "title": "रसोई का धुआं और गंध: चिमनी, एक्जॉस्ट फैन और खिड़कियां",
+      "description": "ज्यादा तलने वाली रसोई के लिए चिमनी की ऊंचाई और चौड़ाई, एक्जॉस्ट फैन की जगह और ताजी हवा का रास्ता तय करें। पूरा उदाहरण और चेकलिस्ट साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230101_clearances_around_bed_sofa_and_table.mdx",
+      "title": "बेड, सोफा और डाइनिंग टेबल के चारों ओर कितनी जगह छोड़ें",
+      "description": "बेड, सोफा, सेंटर टेबल और डाइनिंग टेबल के आसपास चलने और कुर्सी खींचने की जगह कितनी रखें। बेडरूम का पूरा उदाहरण और टेप से जांचने की चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230102_arranging_a_long_narrow_room.mdx",
+      "title": "लंबे और संकरे कमरे को सजाएं: हिस्से, रास्ता और फर्नीचर",
+      "description": "लंबे, संकरे लिविंग रूम या बेडरूम को हिस्सों में बांटें, एक साफ रास्ता रखें और सही फर्नीचर चुनें। पूरा उदाहरण और टेप से जांचने की चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230103_sofa_and_tv_distances.mdx",
+      "title": "सोफा और टीवी: देखने की दूरी, ऊंचाई और कोण",
+      "description": "सोफा टीवी से कितनी दूर हो, स्क्रीन कितनी ऊंचाई पर लगे और चमक से कैसे बचें। आम स्क्रीन के नाप और लिविंग रूम का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230104_wardrobe_planning_and_internal_layout.mdx",
+      "title": "वार्डरोब की प्लानिंग: चौड़ाई, गहराई और भीतर की बनावट",
+      "description": "कारपेंटर के काम शुरू करने से पहले बेडरूम वार्डरोब की गहराई, ऊंचाई, दरवाज़े, रॉड, शेल्फ और दराज तय करें। पूरा उदाहरण और चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230105_door_swings_and_circulation_paths.mdx",
+      "title": "दरवाज़े का खुलना और चलने का रास्ता: हलचल की प्लानिंग",
+      "description": "दरवाज़े और गलियारे कितने चौड़े हों, दरवाज़ा कितना घेरता है और फ्लैट में रास्ते कैसे खाली रखें। बेडरूम का पूरा उदाहरण और चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230106_modular_kitchen_planning.mdx",
+      "title": "मॉड्यूलर किचन की प्लानिंग: शेप, नाप और काम का क्रम",
+      "description": "किचन का शेप चुनें, काउंटर और कैबिनेट की ऊंचाई तय करें, और फ्रिज, सिंक व हॉब सही क्रम में लगाएं। L शेप किचन का पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230107_bed_placement_and_side_tables.mdx",
+      "title": "बेड कहां रखें और उसके बगल में क्या लगाएं",
+      "description": "बेड ऐसे रखें कि चढ़ना-उतरना आसान रहे, सही ऊंचाई और साइज की साइड टेबल चुनें, और 3.0 x 3.6 मीटर के बेडरूम के उदाहरण से नाप जांचें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230108_open_plan_living_and_dining.mdx",
+      "title": "खुला लिविंग और डाइनिंग: बिना दीवार के अलग हिस्से",
+      "description": "एक बड़े हॉल को फर्नीचर, रग और लाइट से लिविंग और डाइनिंग हिस्सों में बांटें। असली नाप, खाली जगह और 3.6 x 6.0 मीटर का पूरा उदाहरण साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230109_mirrors_shelves_and_wall_heights.mdx",
+      "title": "शीशे, शेल्फ, स्विच और तस्वीरें लगाने की सही ऊंचाई",
+      "description": "शीशे, शेल्फ, तस्वीर, तौलिया रॉड और स्विच की आम ऊंचाइयां, तस्वीरों की जोड़ी का पूरा उदाहरण और फ्लैट के लिए नापने की चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230110_reading_a_floor_plan.mdx",
+      "title": "खरीदने या किराये पर लेने से पहले फ्लोर प्लान कैसे पढ़ें",
+      "description": "बिल्डर के फ्लोर प्लान में स्केल, दीवारें, दरवाज़े, खिड़कियां और एरिया के शब्द पढ़ना सीखें, और 1:100 के उदाहरण से जांचें कि फर्नीचर आएगा या नहीं।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230201_choosing_wall_colours_by_light.mdx",
+      "title": "कमरे की रोशनी देखकर दीवार का रंग कैसे चुनें",
+      "description": "जानिए उत्तर, दक्षिण, पूर्व और पश्चिम की खिड़की रंग को कैसे बदलती है, सैंपल दीवार पर कैसे परखें और कितने लीटर पेंट चाहिए, यह कैसे निकालें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230202_warm_and_cool_lamps.mdx",
+      "title": "वार्म और कूल व्हाइट लैंप: किस कमरे में कौन सी रोशनी",
+      "description": "केल्विन और ल्यूमेन का मतलब समझिए, हर कमरे के लिए वार्म या कूल व्हाइट लैंप चुनिए और एक आसान हिसाब से जानिए कि बेडरूम को कितने ल्यूमेन चाहिए।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230203_layered_lighting_for_a_living_room.mdx",
+      "title": "लिविंग रूम की रोशनी की परतें: एम्बिएंट, टास्क, एक्सेंट",
+      "description": "लिविंग रूम में रोशनी की तीन परतें बनाइए: छत की, पढ़ने की और सजावट की। ऊंचाइयां, 3.6 x 4.5 मीटर के कमरे का ल्यूमेन हिसाब और चेकलिस्ट।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230204_flooring_for_nepali_and_indian_climates.mdx",
+      "title": "नेपाल और भारत के मौसम के लिए फर्श: कहां क्या ठीक रहता है",
+      "description": "गर्म मैदान, पहाड़ की सर्दी और मानसून की सीलन के लिए विट्रीफाइड टाइल, पत्थर, लकड़ी और लैमिनेट की तुलना करें और 3.0 x 3.6 मीटर के कमरे की टाइलें गिनें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230205_paint_finishes_and_where_to_use_them.mdx",
+      "title": "पेंट की फिनिश: घर में कौन सी फिनिश कहां लगाएं",
+      "description": "मैट, लो शीन, सैटिन और ग्लॉस पेंट की तुलना: धुलाई, चौंध और दीवार की खामियां। 2.4 x 3.0 मीटर के किचन के लिए पेंट की गिनती का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230206_wood_plywood_and_laminates.mdx",
+      "title": "लकड़ी, प्लाईवुड और लैमिनेट: फर्नीचर किससे बनता है",
+      "description": "ठोस लकड़ी, प्लाईवुड, एमडीएफ और लैमिनेट का फर्क, कौन सी मोटाई मांगें, और वार्डरोब के लिए कितनी शीट लगेंगी, इसका पूरा हिसाब।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230207_tiles_for_bathrooms_and_kitchens.mdx",
+      "title": "बाथरूम और किचन की टाइलें: साइज, पकड़ और ग्राउट",
+      "description": "बाथरूम और किचन की टाइल साइज, पकड़ की रेटिंग और ग्राउट की चौड़ाई से चुनें, और छोटे बाथरूम में कितनी टाइलें लगेंगी, इसका पूरा हिसाब देखें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230208_making_a_low_ceiling_feel_higher.mdx",
+      "title": "नीची छत को ऊंचा दिखाएं: काम के उपाय",
+      "description": "पेंट, पर्दे, रोशनी और फर्नीचर की ऊंचाई से 2.4 मीटर या उससे नीची छत को ऊंचा दिखाएं। पर्दों का पूरा उदाहरण और चेकलिस्ट साथ में।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230209_colour_for_a_small_room.mdx",
+      "title": "छोटे कमरे में रंग: असल में क्या काम आता है",
+      "description": "जानें कि रोशनी लौटाने की क्षमता, दिन की रोशनी की दिशा और रंग की जगह छोटे कमरे पर कैसे असर डालती है, और 2.7 x 3.0 मीटर के बेडरूम का पेंट बंटवारा तय करें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230210_fabrics_rugs_and_soft_furnishings.mdx",
+      "title": "कपड़े, कालीन और सॉफ्ट फर्निशिंग जो लंबे चलें",
+      "description": "धूल, धूप और बरसात की सीलन झेलने वाले सोफे के कपड़े, पर्दे, कालीन और कुशन चुनें, और कालीन का साइज और पर्दे का कपड़ा मीटर में निकालें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230301_what_to_do_first_on_a_small_budget.mdx",
+      "title": "कम बजट में सबसे पहले क्या करें: खर्च का सही क्रम",
+      "description": "घर का छोटा बजट किस क्रम में खर्च करें: पहले खराबी, फिर पेंट, रोशनी और सबसे ज्यादा काम आने वाला फर्नीचर। 12 हिस्सों के बंटवारे का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230302_working_with_a_carpenter.mdx",
+      "title": "बढ़ई के साथ काम: ड्रॉइंग, नाप और जांच की पूरी गाइड",
+      "description": "बढ़ई को सही ब्रीफ कैसे दें, ताकि वार्डरोब या अलमारी ठीक बैठे: नाप वाला स्केच, बोर्ड का साइज, वार्डरोब का पूरा उदाहरण और भुगतान से पहले की जांच।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230303_working_with_a_contractor.mdx",
+      "title": "ठेकेदार के साथ काम: दायरा, चरण और हैंडओवर की जांच",
+      "description": "घर के काम के लिए ठेकेदार कैसे चुनें: काम का दायरा लिखें, चरणों में भुगतान तय करें, अतिरिक्त काम संभालें और आखिरी भुगतान से पहले फिनिश जांचें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230304_order_of_work_in_a_home_renovation.mdx",
+      "title": "घर की मरम्मत में काम का सही क्रम: क्या पहले, क्या बाद में",
+      "description": "घर के नवीनीकरण में कौन सा काम पहले आता है, तोड़फोड़ और पाइप से पेंट और फर्नीचर तक। बेडरूम और बाथरूम के कार्य-दिवसों की पूरी गिनती के साथ।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230305_measuring_a_room_properly.mdx",
+      "title": "फर्नीचर और अलमारी के लिए कमरा सही तरीके से कैसे नापें",
+      "description": "फर्नीचर और अलमारी ठीक बैठें, इसके लिए कमरा कैसे नापें: औजार, नापने का क्रम, विकर्ण से कोनों की जांच और 3.0 x 3.6 मीटर के कमरे का पूरा उदाहरण।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230306_estimating_paint_and_tiles.mdx",
+      "title": "खरीदने से पहले पेंट और टाइल का अंदाजा लगाएं",
+      "description": "एक कमरे में कितना पेंट और कितनी फर्श टाइलें लगेंगी, यह दीवार के क्षेत्रफल, प्रति लीटर कवरेज, बर्बादी और बेडरूम के पूरे उदाहरण से निकालें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230307_renting_improvements_you_can_take_with_you.mdx",
+      "title": "किराये के घर में वे बदलाव, जो साथ ले जा सकें",
+      "description": "किराये के फ्लैट या कमरे को बिना ड्रिल किए घर जैसा बनाएं, ऐसे बदलावों से जो आपके साथ चलें, और जानें कि शुरू से पहले मकान मालिक से क्या तय करें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230308_furnishing_a_new_home_in_stages.mdx",
+      "title": "नए घर को चरणों में सजाएं, सही क्रम से",
+      "description": "नए घर में पहले, दूसरे और आखिर में क्या खरीदें, इसका चरणवार क्रम, कमरे में फिट होने की जांच का पूरा उदाहरण और बजट बांटने का सीधा तरीका।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230309_electrical_points_planning_checklist.mdx",
+      "title": "स्विच और सॉकेट की योजना: इलेक्ट्रीशियन के लिए सूची",
+      "description": "हर कमरे में स्विच और सॉकेट कहां और किस ऊंचाई पर काम के हैं, यह तय करें और काम शुरू होने से पहले लाइसेंसधारी इलेक्ट्रीशियन को साफ सूची दें।",
+      "locale": "hi"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230310_handover_checklist_for_a_new_flat.mdx",
+      "title": "नए फ्लैट का कब्ज़ा लेते समय की चेकलिस्ट",
+      "description": "चाबियां लेने से पहले नए फ्लैट को कमरे-दर-कमरे जांचें: नाप, दरवाजे, नल, नालियां, दीवारें, प्वाइंट और कागज, और कमियों की सूची लिखित में बनाएं।",
       "locale": "hi"
     }
   ]

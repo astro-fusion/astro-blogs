@@ -11033,6 +11033,546 @@
     ],
     "title": "Advanced Training Standards and Professional Certification Pathways"
   },
+  "22_Home_Living/2201_Room_by_Room/220101_setting_up_a_small_bedroom.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220101_setting_up_a_small_bedroom.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Setting up a small bedroom: bed, wardrobe and walking space"
+  },
+  "22_Home_Living/2201_Room_by_Room/220102_living_room_for_a_family_of_five.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220102_living_room_for_a_family_of_five.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A living room that seats a family of five"
+  },
+  "22_Home_Living/2201_Room_by_Room/220103_kitchen_work_triangle_and_counter_heights.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220103_kitchen_work_triangle_and_counter_heights.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Kitchen layout: the work triangle and counter heights"
+  },
+  "22_Home_Living/2201_Room_by_Room/220104_study_corner_in_a_shared_room.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220104_study_corner_in_a_shared_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Making a study corner in a shared room"
+  },
+  "22_Home_Living/2201_Room_by_Room/220105_childrens_room_that_grows_with_the_child.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220105_childrens_room_that_grows_with_the_child.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A children's room that grows with the child"
+  },
+  "22_Home_Living/2201_Room_by_Room/220106_room_for_elderly_parents.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220106_room_for_elderly_parents.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A safe, easy room for elderly parents"
+  },
+  "22_Home_Living/2201_Room_by_Room/220107_entrance_and_shoe_area.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220107_entrance_and_shoe_area.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "The entrance: shoes, bags and a place to sit"
+  },
+  "22_Home_Living/2201_Room_by_Room/220108_bathroom_layout_wet_and_dry_areas.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220108_bathroom_layout_wet_and_dry_areas.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Bathroom layout: keeping wet and dry areas apart"
+  },
+  "22_Home_Living/2201_Room_by_Room/220109_dining_space_in_a_small_home.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220109_dining_space_in_a_small_home.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A dining space in a small home: sizes and clearances"
+  },
+  "22_Home_Living/2201_Room_by_Room/220110_puja_space_in_a_modern_flat.mdx": {
+    "path": "22_Home_Living/2201_Room_by_Room/220110_puja_space_in_a_modern_flat.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A puja space in a modern flat: size, height and safety"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220201_making_a_2bhk_feel_bigger.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220201_making_a_2bhk_feel_bigger.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Making a 2BHK Feel Bigger Without Breaking a Wall"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220202_storage_in_a_600_sq_ft_flat.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220202_storage_in_a_600_sq_ft_flat.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Storage in a 600 Sq Ft Flat: Where to Find Space"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220203_one_room_two_uses.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220203_one_room_two_uses.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "One Room, Two Uses: A Guest Room and Study Together"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220204_studio_and_single_room_living.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220204_studio_and_single_room_living.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Living Well in a Single Room: A Layout That Works"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220205_balcony_as_a_usable_room.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220205_balcony_as_a_usable_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Turning a Balcony into a Usable Space"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220206_under_stair_and_loft_storage.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220206_under_stair_and_loft_storage.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Under-stair and loft storage done properly"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220207_furniture_sizes_for_small_rooms.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220207_furniture_sizes_for_small_rooms.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Furniture sizes that fit small rooms"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220208_joint_family_in_a_three_bedroom_home.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220208_joint_family_in_a_three_bedroom_home.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A joint family in a three-bedroom home"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220209_working_from_home_in_a_small_flat.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220209_working_from_home_in_a_small_flat.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Working from home in a small flat"
+  },
+  "22_Home_Living/2202_Small_Homes_and_Flats/220210_decluttering_room_by_room.mdx": {
+    "path": "22_Home_Living/2202_Small_Homes_and_Flats/220210_decluttering_room_by_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Decluttering room by room: a practical order"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220301_daylight_in_a_north_facing_room.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220301_daylight_in_a_north_facing_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Getting more daylight into a north-facing room"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220302_cross_ventilation_basics.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220302_cross_ventilation_basics.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Cross ventilation: how air really moves through a home"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220303_keeping_a_top_floor_flat_cool.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220303_keeping_a_top_floor_flat_cool.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Keeping a top-floor flat cool in summer"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220304_keeping_a_home_warm_in_a_hill_winter.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220304_keeping_a_home_warm_in_a_hill_winter.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Keeping a home warm in a hill winter"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220305_damp_and_mould_causes_and_first_steps.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220305_damp_and_mould_causes_and_first_steps.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Damp and mould: causes and first steps"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220306_monsoon_proofing_your_home.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220306_monsoon_proofing_your_home.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Getting your home ready for the monsoon: a checklist"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220307_reducing_noise_in_a_city_flat.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220307_reducing_noise_in_a_city_flat.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Reducing noise in a city flat: doors, windows and floors"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220308_curtains_blinds_and_privacy.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220308_curtains_blinds_and_privacy.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Curtains, blinds and privacy without losing light"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220309_indoor_plants_that_survive.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220309_indoor_plants_that_survive.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Indoor plants that survive, and where to put them"
+  },
+  "22_Home_Living/2203_Light_Air_and_Comfort/220310_kitchen_smoke_and_smell_ventilation.mdx": {
+    "path": "22_Home_Living/2203_Light_Air_and_Comfort/220310_kitchen_smoke_and_smell_ventilation.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Kitchen smoke and smell: chimney, exhaust fan and windows"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230101_clearances_around_bed_sofa_and_table.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230101_clearances_around_bed_sofa_and_table.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Clearances around a bed, a sofa and a dining table"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230102_arranging_a_long_narrow_room.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230102_arranging_a_long_narrow_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Arranging a long, narrow room: zones, paths and furniture"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230103_sofa_and_tv_distances.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230103_sofa_and_tv_distances.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Sofa and TV: viewing distance, height and angle"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230104_wardrobe_planning_and_internal_layout.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230104_wardrobe_planning_and_internal_layout.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Planning a wardrobe: width, depth and inside layout"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230105_door_swings_and_circulation_paths.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230105_door_swings_and_circulation_paths.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Door swings and walking paths: planning how you move"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230106_modular_kitchen_planning.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230106_modular_kitchen_planning.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Planning a modular kitchen: shapes, sizes and order of work"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230107_bed_placement_and_side_tables.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230107_bed_placement_and_side_tables.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Where to put the bed, and what goes beside it"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230108_open_plan_living_and_dining.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230108_open_plan_living_and_dining.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Open living and dining: zoning without walls"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230109_mirrors_shelves_and_wall_heights.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230109_mirrors_shelves_and_wall_heights.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Hanging heights for mirrors, shelves, switches and pictures"
+  },
+  "23_Interior_Design/2301_Layout_and_Furniture/230110_reading_a_floor_plan.mdx": {
+    "path": "23_Interior_Design/2301_Layout_and_Furniture/230110_reading_a_floor_plan.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "How to read a floor plan before you buy or rent"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230201_choosing_wall_colours_by_light.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230201_choosing_wall_colours_by_light.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Choosing Wall Colours by the Light a Room Gets"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230202_warm_and_cool_lamps.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230202_warm_and_cool_lamps.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Warm and Cool Lamps: Which Light for Which Room"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230203_layered_lighting_for_a_living_room.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230203_layered_lighting_for_a_living_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Layered Lighting for a Living Room: Ambient, Task, Accent"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230204_flooring_for_nepali_and_indian_climates.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230204_flooring_for_nepali_and_indian_climates.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Flooring for Nepali and Indian Climates: What Suits Where"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230205_paint_finishes_and_where_to_use_them.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230205_paint_finishes_and_where_to_use_them.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Paint Finishes and Where to Use Each in Your Home"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230206_wood_plywood_and_laminates.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230206_wood_plywood_and_laminates.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Wood, Plywood and Laminates: What Furniture Is Made Of"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230207_tiles_for_bathrooms_and_kitchens.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230207_tiles_for_bathrooms_and_kitchens.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Tiles for Bathrooms and Kitchens: Size, Grip and Grout"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230208_making_a_low_ceiling_feel_higher.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230208_making_a_low_ceiling_feel_higher.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Making a Low Ceiling Feel Higher: Practical Fixes"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230209_colour_for_a_small_room.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230209_colour_for_a_small_room.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Colour in a Small Room: What Really Helps"
+  },
+  "23_Interior_Design/2302_Colour_Light_and_Materials/230210_fabrics_rugs_and_soft_furnishings.mdx": {
+    "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230210_fabrics_rugs_and_soft_furnishings.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Fabrics, Rugs and Soft Furnishings That Last"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230301_what_to_do_first_on_a_small_budget.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230301_what_to_do_first_on_a_small_budget.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "What to do first on a small budget"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230302_working_with_a_carpenter.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230302_working_with_a_carpenter.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Working with a carpenter: drawings, measurements and checks"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230303_working_with_a_contractor.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230303_working_with_a_contractor.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Working with a contractor: scope, stages and handover"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230304_order_of_work_in_a_home_renovation.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230304_order_of_work_in_a_home_renovation.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "The right order of work in a home renovation"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230305_measuring_a_room_properly.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230305_measuring_a_room_properly.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Measuring a room properly for furniture and cupboards"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230306_estimating_paint_and_tiles.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230306_estimating_paint_and_tiles.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Estimating paint and tiles before you buy"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230307_renting_improvements_you_can_take_with_you.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230307_renting_improvements_you_can_take_with_you.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Renting: improvements you can take with you"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230308_furnishing_a_new_home_in_stages.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230308_furnishing_a_new_home_in_stages.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Furnishing a new home in stages, in a sensible order"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230309_electrical_points_planning_checklist.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230309_electrical_points_planning_checklist.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "Planning switches and sockets: a list for your electrician"
+  },
+  "23_Interior_Design/2303_Budget_and_Planning/230310_handover_checklist_for_a_new_flat.mdx": {
+    "path": "23_Interior_Design/2303_Budget_and_Planning/230310_handover_checklist_for_a_new_flat.mdx",
+    "availableLocales": [
+      "en",
+      "hi",
+      "ne"
+    ],
+    "title": "A handover checklist for a new flat"
+  },
   "06_Planet_in_Houses/0601_Sun_in_all_Houses/060101_Sun_in_1st_House.mdx": {
     "path": "06_Planet_in_Houses/0601_Sun_in_all_Houses/060101_Sun_in_1st_House.mdx",
     "availableLocales": [

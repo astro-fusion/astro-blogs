@@ -1,6 +1,6 @@
 {
   "locale": "en",
-  "count": 1226,
+  "count": 1286,
   "articles": [
     {
       "path": "01_Rasi/0101_Mesha.mdx",
@@ -7356,6 +7356,366 @@
       "path": "21_Numerology/2110_MasterLevelRemedies/211006_Advanced_Training_Standards_and_Professional_Certification_Pathways.mdx",
       "title": "Advanced Training Standards and Professional Certification Pathways",
       "description": ">-",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220101_setting_up_a_small_bedroom.mdx",
+      "title": "Setting up a small bedroom: bed, wardrobe and walking space",
+      "description": "Fit a bed, a wardrobe and clear walking space into a 3.0 x 3.6 m bedroom, with real clearances, a worked layout and a tape-measure checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220102_living_room_for_a_family_of_five.mdx",
+      "title": "A living room that seats a family of five",
+      "description": "Plan seating for five in a 3.6 x 4.5 m living room: sofa sizes, table gaps, TV distance and walking paths, with a worked layout and checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220103_kitchen_work_triangle_and_counter_heights.mdx",
+      "title": "Kitchen layout: the work triangle and counter heights",
+      "description": "Place the sink, hob and fridge so cooking is easy, and pick a counter height that fits you. Real distances and a worked 2.4 x 3.0 m kitchen.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220104_study_corner_in_a_shared_room.mdx",
+      "title": "Making a study corner in a shared room",
+      "description": "Set up a desk, chair, lamp and storage for study in a bedroom or living room that others use. Real sizes, a worked 3.0 x 3.6 m layout, checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220105_childrens_room_that_grows_with_the_child.mdx",
+      "title": "A children's room that grows with the child",
+      "description": "Plan a children's room once and change it as the child grows: bed, storage heights, desk and play space, with a worked 3.0 x 3.3 m example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220106_room_for_elderly_parents.mdx",
+      "title": "A safe, easy room for elderly parents",
+      "description": "Plan a room for elderly parents with clear walking space, a bed at the right height, good night lighting and safe floors, with a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220107_entrance_and_shoe_area.mdx",
+      "title": "The entrance: shoes, bags and a place to sit",
+      "description": "Plan a small entrance with a shoe cabinet, hooks, a bench and a landing space, using real sizes and a worked example for a narrow foyer.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220108_bathroom_layout_wet_and_dry_areas.mdx",
+      "title": "Bathroom layout: keeping wet and dry areas apart",
+      "description": "Plan a small bathroom so the shower area stays separate from the basin and toilet, with real clearances and a worked example for 1.5 x 2.1 m.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220109_dining_space_in_a_small_home.mdx",
+      "title": "A dining space in a small home: sizes and clearances",
+      "description": "Fit a dining table into a small flat with the right table size, chair space and walking room, with a worked example for a 2.4 x 3.0 m nook.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2201_Room_by_Room/220110_puja_space_in_a_modern_flat.mdx",
+      "title": "A puja space in a modern flat: size, height and safety",
+      "description": "Plan a respectful puja space in a flat: choose a spot, size the shelf and sitting area, handle lamps and incense safely, with a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220201_making_a_2bhk_feel_bigger.mdx",
+      "title": "Making a 2BHK Feel Bigger Without Breaking a Wall",
+      "description": "Practical ways to make a 2BHK flat feel roomier: clear floor, lighter furniture, better curtains and sight lines, with a measured living room example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220202_storage_in_a_600_sq_ft_flat.mdx",
+      "title": "Storage in a 600 Sq Ft Flat: Where to Find Space",
+      "description": "Find storage in a 600 sq ft flat without crowding it: use height, the bed base and wall depth, with the cubic arithmetic for one bedroom shown.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220203_one_room_two_uses.mdx",
+      "title": "One Room, Two Uses: A Guest Room and Study Together",
+      "description": "Plan a spare room as a study by day and a guest room at night: sizes for the desk, a single bed or diwan, and the walking space, with a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220204_studio_and_single_room_living.mdx",
+      "title": "Living Well in a Single Room: A Layout That Works",
+      "description": "How to arrange one room for sleeping, sitting, eating, cooking and storage: clearances, zones and a worked example for a 3.6 x 4.5 m room.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220205_balcony_as_a_usable_room.mdx",
+      "title": "Turning a Balcony into a Usable Space",
+      "description": "Plan a small balcony for sitting, drying clothes and a few plants: sizes, railing safety, shade and rain, with a worked example for a 1.2 x 3.0 m balcony.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220206_under_stair_and_loft_storage.mdx",
+      "title": "Under-stair and loft storage done properly",
+      "description": "How to turn the space under a staircase and the loft above a corridor into storage you will actually use, with real heights, depths and a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220207_furniture_sizes_for_small_rooms.mdx",
+      "title": "Furniture sizes that fit small rooms",
+      "description": "Common bed, sofa, table, wardrobe and desk sizes in Nepal and India, the gaps to leave around them, and a worked example in a 3.0 x 4.0 m room.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220208_joint_family_in_a_three_bedroom_home.mdx",
+      "title": "A joint family in a three-bedroom home",
+      "description": "How to share three bedrooms, two bathrooms and one kitchen between three generations, with room sizes, bunk-bed arithmetic and a morning bathroom plan.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220209_working_from_home_in_a_small_flat.mdx",
+      "title": "Working from home in a small flat",
+      "description": "How to find, measure and set up a work corner in a small flat: desk and chair heights, light, power cuts, noise and a worked example in a living room.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2202_Small_Homes_and_Flats/220210_decluttering_room_by_room.mdx",
+      "title": "Decluttering room by room: a practical order",
+      "description": "A practical order for sorting a small home, from the entrance to the store room, with time estimates, a wardrobe rail calculation and a checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220301_daylight_in_a_north_facing_room.mdx",
+      "title": "Getting more daylight into a north-facing room",
+      "description": "How a north-facing room gets light in Nepal and India, and how window size, wall colour and furniture height bring more daylight in. Includes a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220302_cross_ventilation_basics.mdx",
+      "title": "Cross ventilation: how air really moves through a home",
+      "description": "Learn how air moves through rooms, why two windows on one wall do not ventilate, and how to size and place openings for a real through-breeze in a flat.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220303_keeping_a_top_floor_flat_cool.mdx",
+      "title": "Keeping a top-floor flat cool in summer",
+      "description": "Why top-floor flats get hot in the Terai and the plains, and which roof, window and ventilation measures cool them, with a worked example and a checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220304_keeping_a_home_warm_in_a_hill_winter.mdx",
+      "title": "Keeping a home warm in a hill winter",
+      "description": "Practical ways to keep a home in the hills warmer in winter: sun, draughts, curtains, rugs and safe heating, with a worked example and a checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220305_damp_and_mould_causes_and_first_steps.mdx",
+      "title": "Damp and mould: causes and first steps",
+      "description": "Find out why damp and mould appear in Nepali and Indian homes, how to tell a leak from condensation, which simple steps help, and when to call a professional.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220306_monsoon_proofing_your_home.mdx",
+      "title": "Getting your home ready for the monsoon: a checklist",
+      "description": "A before-the-rains checklist for a flat or house in Nepal or India: roof and drains, windows, floors, power cuts and drying clothes indoors.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220307_reducing_noise_in_a_city_flat.mdx",
+      "title": "Reducing noise in a city flat: doors, windows and floors",
+      "description": "Cut traffic, neighbour and footstep noise in a flat with gap sealing, heavy curtains, rugs and furniture placement, with sizes and a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220308_curtains_blinds_and_privacy.mdx",
+      "title": "Curtains, blinds and privacy without losing light",
+      "description": "Choose curtains, sheers and blinds that give privacy from the street or the next building and keep daylight, with rod sizes and fabric arithmetic.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220309_indoor_plants_that_survive.mdx",
+      "title": "Indoor plants that survive, and where to put them",
+      "description": "Pick hardy houseplants for a flat in Nepal or India and place them by light, with watering, pot and drainage advice and a window shelf example.",
+      "locale": "en"
+    },
+    {
+      "path": "22_Home_Living/2203_Light_Air_and_Comfort/220310_kitchen_smoke_and_smell_ventilation.mdx",
+      "title": "Kitchen smoke and smell: chimney, exhaust fan and windows",
+      "description": "Plan chimney height and width, exhaust fan position and a make-up air opening for a kitchen with heavy frying, with a worked example and checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230101_clearances_around_bed_sofa_and_table.mdx",
+      "title": "Clearances around a bed, a sofa and a dining table",
+      "description": "Walking and pulling-out gaps to leave around a bed, sofa, coffee table and dining table, with a worked bedroom example and a tape-measure checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230102_arranging_a_long_narrow_room.mdx",
+      "title": "Arranging a long, narrow room: zones, paths and furniture",
+      "description": "How to arrange a long, narrow living room or bedroom: split it into zones, keep one clear path, and choose furniture that fits, with a worked example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230103_sofa_and_tv_distances.mdx",
+      "title": "Sofa and TV: viewing distance, height and angle",
+      "description": "How far to place the sofa from the TV, how high to hang the screen, and how to avoid glare, with common screen sizes and a worked living room example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230104_wardrobe_planning_and_internal_layout.mdx",
+      "title": "Planning a wardrobe: width, depth and inside layout",
+      "description": "Plan a bedroom wardrobe before the carpenter starts: depth, height, door type, hanging rods, shelves and drawers, with a worked example and checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230105_door_swings_and_circulation_paths.mdx",
+      "title": "Door swings and walking paths: planning how you move",
+      "description": "How wide doors and passages should be, how far a door swings, and how to keep walking paths clear in a flat, with a worked bedroom example and checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230106_modular_kitchen_planning.mdx",
+      "title": "Planning a modular kitchen: shapes, sizes and order of work",
+      "description": "Choose a kitchen shape, set counter and cabinet heights, and place the fridge, sink and hob in the right order, with a worked L-shaped example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230107_bed_placement_and_side_tables.mdx",
+      "title": "Where to put the bed, and what goes beside it",
+      "description": "Place the bed so you can get in and out easily, choose side tables of the right height and size, and check the fit with a worked 3.0 x 3.6 m bedroom.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230108_open_plan_living_and_dining.mdx",
+      "title": "Open living and dining: zoning without walls",
+      "description": "Divide one large room into a living zone and a dining zone using furniture, rugs and lights, with sizes, clearances and a worked 3.6 x 6.0 m example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230109_mirrors_shelves_and_wall_heights.mdx",
+      "title": "Hanging heights for mirrors, shelves, switches and pictures",
+      "description": "Common hanging heights for mirrors, shelves, pictures, towel rails and switches, with a worked picture-pair example and a measuring checklist for a flat.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2301_Layout_and_Furniture/230110_reading_a_floor_plan.mdx",
+      "title": "How to read a floor plan before you buy or rent",
+      "description": "Read the scale, walls, doors, windows and area terms on a builder's floor plan, and test whether your furniture fits, with a worked 1:100 example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230201_choosing_wall_colours_by_light.mdx",
+      "title": "Choosing Wall Colours by the Light a Room Gets",
+      "description": "Learn how north, south, east and west light change a paint colour, how to test samples on the wall, and how to work out the litres of paint you need.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230202_warm_and_cool_lamps.mdx",
+      "title": "Warm and Cool Lamps: Which Light for Which Room",
+      "description": "Understand kelvin and lumens, pick warm or cool white lamps for each room, and work out how many lumens a bedroom needs with a simple sum.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230203_layered_lighting_for_a_living_room.mdx",
+      "title": "Layered Lighting for a Living Room: Ambient, Task, Accent",
+      "description": "Plan a living room with three layers of light: ceiling, reading and accent. Includes heights, a lumen sum for a 3.6 x 4.5 m room and a checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230204_flooring_for_nepali_and_indian_climates.mdx",
+      "title": "Flooring for Nepali and Indian Climates: What Suits Where",
+      "description": "Compare vitrified tile, stone, wood and laminate for hot plains, hill winters and monsoon damp, and count the tiles for a 3.0 x 3.6 m room.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230205_paint_finishes_and_where_to_use_them.mdx",
+      "title": "Paint Finishes and Where to Use Each in Your Home",
+      "description": "Matt, low sheen, satin and gloss paint compared by washability, glare and wall flaws. Includes a worked paint count for a 2.4 x 3.0 m kitchen.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230206_wood_plywood_and_laminates.mdx",
+      "title": "Wood, Plywood and Laminates: What Furniture Is Made Of",
+      "description": "Learn the difference between solid wood, plywood, MDF and laminates, which thickness to ask for, and how to count the sheets for a wardrobe.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230207_tiles_for_bathrooms_and_kitchens.mdx",
+      "title": "Tiles for Bathrooms and Kitchens: Size, Grip and Grout",
+      "description": "Choose bathroom and kitchen tiles by size, grip rating and grout width, and count how many tiles a small bathroom needs with the sums shown.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230208_making_a_low_ceiling_feel_higher.mdx",
+      "title": "Making a Low Ceiling Feel Higher: Practical Fixes",
+      "description": "Use paint, curtains, lighting and furniture height to make a ceiling of 2.4 m or less look taller, with a worked curtain example and a checklist.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230209_colour_for_a_small_room.mdx",
+      "title": "Colour in a Small Room: What Really Helps",
+      "description": "Learn how light reflectance, daylight direction and colour placement affect a small room, and plan the paint split for a 2.7 x 3.0 m bedroom.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2302_Colour_Light_and_Materials/230210_fabrics_rugs_and_soft_furnishings.mdx",
+      "title": "Fabrics, Rugs and Soft Furnishings That Last",
+      "description": "Choose sofa fabric, curtains, rugs and cushions that cope with dust, sun and monsoon damp, and work out rug size and curtain fabric by the metre.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230301_what_to_do_first_on_a_small_budget.mdx",
+      "title": "What to do first on a small budget",
+      "description": "A simple order for spending a small home budget: fix what is broken, then paint, light and the one piece of furniture you use most. With a worked split.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230302_working_with_a_carpenter.mdx",
+      "title": "Working with a carpenter: drawings, measurements and checks",
+      "description": "How to brief a carpenter so the wardrobe or cupboard fits: a dimensioned sketch, board sizes, a worked wardrobe example and checks before you pay.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230303_working_with_a_contractor.mdx",
+      "title": "Working with a contractor: scope, stages and handover",
+      "description": "How to hire a contractor for a home job: write the scope, agree stages and payments, handle extra work, and check the finish before the last payment.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230304_order_of_work_in_a_home_renovation.mdx",
+      "title": "The right order of work in a home renovation",
+      "description": "Which jobs come first in a home renovation, from demolition and pipes to paint and furniture, with a worked day count for a bedroom and a bathroom.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230305_measuring_a_room_properly.mdx",
+      "title": "Measuring a room properly for furniture and cupboards",
+      "description": "How to measure a room so furniture and cupboards fit: tools, the order to measure in, checking corners with diagonals, and a worked 3.0 x 3.6 m example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230306_estimating_paint_and_tiles.mdx",
+      "title": "Estimating paint and tiles before you buy",
+      "description": "Work out how much paint and how many floor tiles a room needs, with wall areas, coverage per litre, wastage and a worked bedroom example.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230307_renting_improvements_you_can_take_with_you.mdx",
+      "title": "Renting: improvements you can take with you",
+      "description": "Make a rented flat or room feel like home with changes that need no drilling and move with you, and learn what to agree with the landlord first.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230308_furnishing_a_new_home_in_stages.mdx",
+      "title": "Furnishing a new home in stages, in a sensible order",
+      "description": "Plan what to buy first, second and last when you move into a new home, with a stage list, a room-fit worked example and a simple way to split the budget.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230309_electrical_points_planning_checklist.mdx",
+      "title": "Planning switches and sockets: a list for your electrician",
+      "description": "Decide where switches and sockets are useful in each room and at what heights, then hand a clear list to your licensed electrician before work starts.",
+      "locale": "en"
+    },
+    {
+      "path": "23_Interior_Design/2303_Budget_and_Planning/230310_handover_checklist_for_a_new_flat.mdx",
+      "title": "A handover checklist for a new flat",
+      "description": "Check a new flat room by room before you accept the keys: measurements, doors, taps, drains, walls, points and papers, with a written snag list.",
       "locale": "en"
     }
   ]
