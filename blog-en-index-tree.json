@@ -1,6 +1,6 @@
 {
   "locale": "en",
-  "count": 1226,
+  "count": 1287,
   "articles": [
     {
       "path": "01_Rasi/0101_Mesha.mdx",
@@ -7356,6 +7356,372 @@
       "path": "21_Numerology/2110_MasterLevelRemedies/211006_Advanced_Training_Standards_and_Professional_Certification_Pathways.mdx",
       "title": "Advanced Training Standards and Professional Certification Pathways",
       "description": ">-",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Afghanistan_Birth_Chart.mdx",
+      "title": "Afghanistan Birth Chart: Five Founding Dates, No Agreed Chart",
+      "description": "Astrologers use five different founding dates for Afghanistan. The most used is the republic of 17 July 1973 at midnight in Kabul, but it scored below chance (12 of 22 against 14.0) while the dawn version scored above it. Confidence is low.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Argentina_Birth_Chart.mdx",
+      "title": "Argentina Birth Chart: Libra Rising on a Noon Convention",
+      "description": "The Argentina birth chart most used is the declaration of independence of 9 July 1816, noon local mean time at Tucumán: Libra rising, Moon in Uttara Ashadha. Confidence is low. It scored 13 of 18 on nine events against a chance level of 13.2.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Australia_Birth_Chart.mdx",
+      "title": "Australia Birth Chart: Virgo Rising at Midnight, and Why the Time Is Disputed",
+      "description": "Australia's birth chart is most often cast for Federation, 1 January 1901, midnight, Melbourne: Virgo rising in the sidereal zodiac, medium confidence. We tested five timed candidates against eleven dated events. The midnight chart scores 12 of 22, barely above chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Bahrain_Birth_Chart.mdx",
+      "title": "Bahrain Birth Chart: Libra Rising at Noon, and the +04:00 Trap",
+      "description": "The Bahrain birth chart most used is 15 August 1971 at noon in Manama: Libra rising, Moon in Rohini. The noon is a placeholder and confidence is low. It scored 7 of 12 on six events against a chance level of 7.9, which is below chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Bangladesh_Birth_Chart.mdx",
+      "title": "Bangladesh Birth Chart: Taurus Rising on Victory Day, Low Confidence",
+      "description": "The Bangladesh chart most used is Victory Day, 16 December 1971, 17:00, Dhaka: Taurus rising at 28.0 degrees, Moon in Scorpio. Confidence is low: one author, a disputed time, and a score of 5 of 12 against a chance level of 7.8.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Bhutan_Birth_Chart.mdx",
+      "title": "Bhutan Birth Chart: Taurus Rising at a Midnight Convention",
+      "description": "Bhutan has no agreed birth chart. The one found is the India-Bhutan Treaty of Friendship, 8 August 1949, at a symbolic midnight in Thimphu: Taurus rising, Moon in Capricorn. Confidence is low. It scored 11 of 16 against dated events, chance 9.7.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Brazil_Birth_Chart.mdx",
+      "title": "Brazil Birth Chart: Aquarius Rising at Ipiranga, Time Unknown",
+      "description": "Brazil's birth chart is cast for independence, 7 September 1822, about 16:30 at Ipiranga. Sidereal Aquarius rises for every candidate time, but the hour is unrecorded and the ten scored events all sit below chance. Confidence is low; the 1988 Constitution chart has a recorded time.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Canada_Birth_Chart.mdx",
+      "title": "Canada Birth Chart: Aries Rising at Midnight, 1 July 1867",
+      "description": "Canada's most used birth chart is 1 July 1867 at 00:00 in Ottawa, with the Sun joined to Uranus in Cancer. Confidence is medium. The midnight chart scores 12 of 18 on nine dated events against chance 11.0; the noon charts score 2 of 18.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/China_Birth_Chart.mdx",
+      "title": "China Birth Chart: Capricorn Rising on 1 October 1949, 15:15",
+      "description": "The People's Republic of China chart is cast for 1 October 1949 in Beijing. At 15:15, the common time, Capricorn rises at 12.8 degrees with the Moon in Shravana. The date is near-unanimous, the time is not: confidence is medium, and the score is 7 of 12 against 6.7.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Egypt_Birth_Chart.mdx",
+      "title": "Egypt Birth Chart: Aries Rising and the 18 June or 19 June Trap",
+      "description": "The Egypt birth chart most used is the republic of 18/19 June 1953, 01:30 in Cairo (23:30 GMT): Aries rising, Moon in Uttara Phalguni. Confidence is medium. It scored 17 of 20 on ten events against a chance level of 12.5.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/France_Birth_Chart.mdx",
+      "title": "France Birth Chart: Pisces Rising at the Fifth Republic, 1958",
+      "description": "The France chart most visible online is the Fifth Republic, 6 October 1958, 18:30 Paris (Astrodienst). Confidence is low: five regime foundings compete. The chart scores 10 of 16 on eight events against chance 9.5; a 1792 First Republic chart scores 14 of 16 against 10.3.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Germany_Birth_Chart.mdx",
+      "title": "Germany Birth Chart: Cancer Rising at Reunification, 3 Oct 1990",
+      "description": "Germany has three founding charts: 1871, 1949 and 1990. We lead with reunification, 3 October 1990, 00:00 Berlin (Cancer rising, Jupiter in the 1st). Confidence is low: sources split by era, and the 1871 chart scores 10 of 16 against a chance level of 10.5.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Greece_Birth_Chart.mdx",
+      "title": "Greece Birth Chart: Gemini Rising, and Why Astrologers Split",
+      "description": "The Greece birth chart most used is the Third Hellenic Republic, 24 July 1974, 04:00 in Athens (Campion): Gemini rising, Moon in Hasta. Confidence is low, and three events after it scored 0 of 6. Astrologers also use 1821, 1822 and 1830.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/India_Birth_Chart.mdx",
+      "title": "India Birth Chart: Taurus Rising at Midnight, and What Is Disputed",
+      "description": "India's birth chart is cast for midnight, 15 August 1947, New Delhi, and 8 of 9 pages we read use it. The ascendant is Taurus 7.7, with five planets in Cancer. Confidence is medium: the time is a convention. It scores 11 of 18 against a chance level of 9.0.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Indonesia_Birth_Chart.mdx",
+      "title": "Indonesia Birth Chart: Virgo Rising, and the Time-Zone Trap",
+      "description": "Indonesia's chart is the Proclamation of 17 August 1945, 10:00 in Jakarta, charted at +09:00 (Japanese occupation time). That gives Virgo rising, not the Libra a +07:00 clock gives. Confidence is medium; it scored below chance against dated events.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Iran_Birth_Chart.mdx",
+      "title": "Iran Birth Chart: Leo Rising on 1 April 1979, and an Unsettled Time",
+      "description": "Iran's birth chart is most often cast for the Islamic Republic proclamation of 1 April 1979, about 15:00 in Tehran (Leo rising, Moon in Taurus). Research confidence is medium for the date and low for the hour. It scored 9 of 12 in our test against 8.8 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Iraq_Birth_Chart.mdx",
+      "title": "Iraq Birth Chart: Sagittarius Rising, 1921 or 1932?",
+      "description": "Iraq has two rival birth charts: independence on 3 October 1932, 13:30 Baghdad, and the kingdom of 23 August 1921. The sources split evenly, confidence is low, and neither chart scores far above chance (13 and 12 of 20).",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Ireland_Birth_Chart.mdx",
+      "title": "Ireland Birth Chart: Scorpio Rising and the 23:00 or Midnight Doubt",
+      "description": "The Ireland birth chart most used is the Republic of 17 April 1949, 23:00 in Dublin (Campion): Scorpio rising, Moon in Mula. Confidence is medium. It scored 4 of 10 on five events against a chance level of 5.4, and the time may be 00:00 on 18 April.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Israel_Birth_Chart.mdx",
+      "title": "Israel Birth Chart: Virgo Rising at 16:00, and a Score Below Chance",
+      "description": "Israel's birth chart is cast for the Declaration of 14 May 1948, 16:00, Tel Aviv, with research confidence high on the date and moderate on the hour. In our test the 16:00 chart scored 5 of 18 against 10.4 expected by chance; the midnight chart scored 11 of 18.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Italy_Birth_Chart.mdx",
+      "title": "Italy Birth Chart: Libra Rising, With Only One Source for the Time",
+      "description": "The Italy birth chart most used is the Republic of 10 June 1946, 18:00 in Rome (4 pm GMT, Liz Greene): Libra rising, Moon in Swati. Confidence is low. Only three events fall after it, and it scored 5 of 6 against a chance level of 4.7.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Japan_Birth_Chart.mdx",
+      "title": "Japan Birth Chart: Capricorn Rising, and a Chart That Scores Below Chance",
+      "description": "Japan's birth chart is most often cast for the constitution in force, 3 May 1947, midnight, Tokyo: Capricorn rising (sidereal), low confidence. We tested five candidates against ten dated events. The midnight chart scores 7 of 20 against a chance level of 11.8.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Jordan_Birth_Chart.mdx",
+      "title": "Jordan Birth Chart: Scorpio Rising, Set for Amman, Signed in London",
+      "description": "The only Jordan chart found is the Treaty of London, 22 March 1946, set for midnight in Amman: Scorpio rising, Moon in Vishakha. The time is a placeholder and confidence is low. It scored 11 of 18 on nine events against a chance level of 12.2.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Kazakhstan_Birth_Chart.mdx",
+      "title": "Kazakhstan Birth Chart: Cancer Rising, and the 14:00 Question",
+      "description": "Kazakhstan's chart is the independence law of 16 December 1991 in Almaty. Read 14:00 as UT (19:00 local) it gives Cancer rising; read as local time, Aries rising. Confidence is low. The two scored 4 and 13 of 14.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Kenya_Birth_Chart.mdx",
+      "title": "Kenya Birth Chart: Leo Rising on a Midnight Placeholder",
+      "description": "The Kenya birth chart in use is independence on 12 December 1963, set for midnight in Nairobi: Leo rising, Moon in Swati. The time is a placeholder. Confidence is low. It scored 2 of 12 on six events against a chance level of 4.6.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Kuwait_Birth_Chart.mdx",
+      "title": "Kuwait Birth Chart: Pisces Rising at Midnight, a Placeholder Time",
+      "description": "The only Kuwait birth chart we found is independence, 19 June 1961, set for midnight in Kuwait City: Pisces rising, Moon in Magha. The time is a placeholder and confidence is low. It scored 15 of 20 on ten events against a chance level of 10.2.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Lebanon_Birth_Chart.mdx",
+      "title": "Lebanon Birth Chart: Leo Rising at 00:01, for a Morning Event",
+      "description": "The only Lebanon birth chart found is independence, 22 November 1943, set for 00:01 in Beirut: Leo rising, Moon in Uttara Phalguni. The time is a placeholder and confidence is low. It scored 8 of 22 on eleven events against a chance level of 12.4, well below chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Malaysia_Birth_Chart.mdx",
+      "title": "Malaysia Birth Chart: Virgo Rising and Three Competing Foundings",
+      "description": "Malaysia's chart is cast for Merdeka, 31 August 1957, 09:30 in Kuala Lumpur at +07:30: Virgo rising, Moon in Scorpio. Confidence is low. Astrologers split between 1957 and 1963, and only three events could be scored, so the scores prove little.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Maldives_Birth_Chart.mdx",
+      "title": "Maldives Birth Chart: Aries Rising and a Midnight Default",
+      "description": "The Maldives chart is cast for independence on 26 July 1965 at a symbolic midnight in Male: Aries rising, Moon in Gemini. Confidence is low. The chart scored 6 of 18 against dated events, below the chance level of 8.7.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Mexico_Birth_Chart.mdx",
+      "title": "Mexico Birth Chart: Gemini Rising and a Disputed 1917 Time",
+      "description": "The Mexico birth chart most used is the constitution of 31 January 1917, 16:00, with Querétaro assumed as the place: Gemini rising, Moon in Rohini. Confidence is low. It scored 6 of 12 on six events against a chance level of 8.4.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Myanmar_Birth_Chart.mdx",
+      "title": "Myanmar Birth Chart: Scorpio Rising at an Astrologers' Hour",
+      "description": "Myanmar's chart is cast for independence on 4 January 1948 at 04:20 in Rangoon, an hour chosen by Burmese astrologers: Scorpio rising, Moon in Virgo. Confidence is medium. It scored 15 of 18 against dated events, where chance is 10.9.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Nepal_Birth_Chart.mdx",
+      "title": "Nepal Birth Chart: Why 1768 Has No Ascendant, and What 2008 Shows",
+      "description": "Nepal has no agreed birth time. The usual date is 25 September 1768, Prithvi Narayan Shah entering Kathmandu, with no recorded hour. We show the planets across that day, then read the 2008 republic chart (Capricorn rising) that two Vedic authors use. Confidence: low.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Netherlands_Birth_Chart.mdx",
+      "title": "Netherlands Birth Chart: Gemini Rising for 1815, and the 1581 Gap",
+      "description": "Most astrologers date the Netherlands to the 1581 Act of Abjuration, but that chart is older than 1700 and could not be computed here. We built the 1815 kingdom chart (10:30, The Hague): Gemini rising, scoring 8 of 16 against 11.3 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/New_Zealand_Birth_Chart.mdx",
+      "title": "New Zealand Birth Chart: Aries Rising at Waitangi, Time Disputed",
+      "description": "New Zealand's birth chart is most often cast for the Treaty of Waitangi, 6 February 1840, 10:52: Aries rising at 1.9, low confidence. A 13:00 chart also gives Aries, at 28.1. The 10:52 chart scores 11 of 16 against 10.8 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Nigeria_Birth_Chart.mdx",
+      "title": "Nigeria Birth Chart: A Midnight Chart for 1 October 1960",
+      "description": "The Nigeria birth chart in use is independence on 1 October 1960, set for midnight in Lagos: Gemini rising, Moon in Shravana. The time is a placeholder. Confidence is low. It scored 12 of 16 on eight events against a chance level of 10.0.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/North_Korea_Birth_Chart.mdx",
+      "title": "North Korea Birth Chart: Scorpio Rising, Rectified to 12:39",
+      "description": "The most specific North Korea chart is 9 September 1948 at 12:39 in Pyongyang, one astrologer's rectification: Scorpio rising, Moon in Scorpio. Confidence is low. It scored 6 of 12 against dated events, below the chance level of 7.4.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Oman_Birth_Chart.mdx",
+      "title": "Oman Birth Chart: Virgo Rising in 1743, Tied to No Known Event",
+      "description": "The only Oman chart we found is 20 June 1743 at noon in Muscat, tied to no event we could identify. Virgo rising, Moon in Rohini, low confidence. It scored 10 of 16 on eight events against a chance level of 9.8, which is chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Pakistan_Birth_Chart.mdx",
+      "title": "Pakistan Birth Chart: Aries Rising at Midnight, 14/15 August 1947",
+      "description": "Pakistan's birth chart is cast for midnight, 14/15 August 1947, Karachi: Aries rising at 24.4 degrees, Moon in Cancer. Most sources agree on the moment, so confidence is medium, but the chart scores below chance (10 of 22 against 11.1) on eleven events.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Philippines_Birth_Chart.mdx",
+      "title": "Philippines Birth Chart: Leo Rising, and a Score Below Chance",
+      "description": "The Philippines chart is the Republic's independence, 4 July 1946, 9:15 am in Manila (+08:00): Leo rising, Moon in Leo. Confidence is low, and the chart scored 14 of 24 against dated events, below the chance figure of 17.0.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Poland_Birth_Chart.mdx",
+      "title": "Poland Birth Chart: Scorpio Rising, 14 November 1918, Low Confidence",
+      "description": "Poland's birth chart is most often cast for 14 November 1918, 10:30 in Warsaw: Scorpio rising at 26.2, low confidence because sources split between 10, 11 and 14 November. The lead chart scores 13 of 20 against 13.8 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Portugal_Birth_Chart.mdx",
+      "title": "Portugal Birth Chart: Libra Rising and a Crowded 12th House",
+      "description": "The Portugal birth chart we use is the republic of 5 October 1910, 09:00 in Lisbon: Libra rising, five planets in Virgo in the 12th house. Confidence is low. It scored 9 of 12 on six events against a chance level of 9.4.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Qatar_Birth_Chart.mdx",
+      "title": "Qatar Birth Chart: Pisces Rising at 20:00, and the +04:00 Trap",
+      "description": "The Qatar birth chart most used is 1 September 1971, 20:00 in Doha: Pisces rising, Moon in Uttara Ashadha. Confidence is low. A chart cast at +03:00 is an hour off. It scored 11 of 12 on six events against a chance level of 7.2.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Russia_Birth_Chart.mdx",
+      "title": "Russia Birth Chart: The Candidate Charts, and Why None Wins",
+      "description": "Russia has no agreed birth chart. The most used is 25 December 1991, 19:45 Moscow (+02:00), with Leo rising and Moon in Leo, but research confidence is low. It scored 9 of 18 against 9.2 by chance; five candidate charts are compared here.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Saudi_Arabia_Birth_Chart.mdx",
+      "title": "Saudi Arabia Birth Chart: 23 September 1932, No Recorded Time",
+      "description": "Saudi Arabia's birth chart is cast for the kingdom's unification on 23 September 1932, but no time is documented, so no rising sign is fact. Using a noon convention in Riyadh gives sidereal Scorpio rising; the chart scores 7 of 16 against a chance level of 9.7. Confidence is low.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Singapore_Birth_Chart.mdx",
+      "title": "Singapore Birth Chart: Virgo Rising at a Time No One Can Source",
+      "description": "Singapore's chart is cast for 9 August 1965, 10:00, at +07:30. It gives Virgo rising and Moon in Sagittarius. Confidence is low: we found no record of the 10:00 time, and no scored event could be tested because none is dated to the day.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/South_Africa_Birth_Chart.mdx",
+      "title": "South Africa Birth Chart: Gemini Rising for 27 April 1994",
+      "description": "The South Africa birth chart most used is the new constitution of 27 April 1994, 10:59 in Pretoria: Gemini rising, Moon in Anuradha. Confidence is low. It scored 8 of 8 on four events against a chance level of 5.3, too few to prove anything.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/South_Korea_Birth_Chart.mdx",
+      "title": "South Korea Birth Chart: Virgo Rising at 11:00, Certain Date, Doubtful Hour",
+      "description": "South Korea's birth chart is cast for 15 August 1948, 11:00, Seoul, at +10:00 because Korea was on daylight time. The date is certain, the time is not. Sidereal Virgo rising; both timed charts score below chance in our test.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Spain_Birth_Chart.mdx",
+      "title": "Spain Birth Chart: Capricorn Rising in the Juan Carlos Chart",
+      "description": "The Spain birth chart most used is the swearing-in of Juan Carlos I, 22 November 1975, 12:45 in Madrid: Capricorn rising, Moon in Ardra. Confidence is medium. Five events follow it, and it scored 7 of 10 against a chance level of 7.4.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Sri_Lanka_Birth_Chart.mdx",
+      "title": "Sri Lanka Birth Chart: Capricorn Rising, and One Source Behind It All",
+      "description": "Sri Lanka's chart is cast for independence on 4 February 1948 at 06:00 in Colombo: Capricorn rising, Moon in Scorpio. Confidence is low. Every astrologer page we found traces to one database entry, and the chart scores below chance against dated events.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Sweden_Birth_Chart.mdx",
+      "title": "Sweden Birth Chart: No Time for 1523, So We Built 1865",
+      "description": "Sweden's birth chart is usually cast for the election of Gustav Vasa, 6 June 1523, which has no recorded time and is older than 1700. We computed the 1865 constitution chart (15:20, Stockholm): Gemini rising, low confidence, 3 of 8 against 4.7 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Switzerland_Birth_Chart.mdx",
+      "title": "Switzerland Birth Chart: Libra Rising at 11:12, or Scorpio at 12:50",
+      "description": "Switzerland's birth chart is most often cast for the Federal Constitution, 12 September 1848, 11:12 in Bern: Libra rising at 29.7, medium confidence. A rival 12:50 chart gives Scorpio. The 11:12 chart scores 10 of 18 against 12.6 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Syria_Birth_Chart.mdx",
+      "title": "Syria Birth Chart: Virgo Rising at Midnight, Three Dates",
+      "description": "Syria's chart most used in the West is 1 January 1944, midnight, Damascus (+02:00): Virgo rising, Moon in Aquarius. Midnight is a convention, confidence is medium, and the chart scored at chance (12 of 24 against 11.6).",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Taiwan_Birth_Chart.mdx",
+      "title": "Taiwan Birth Chart: Pisces Rising on a Noon Convention",
+      "description": "Astrologers who chart Taiwan use charts for the Republic of China, mostly 1 January 1912 in Nanjing. At a noon convention it gives Pisces rising, Moon in Aries. Confidence is low. It scored 15 of 18 against dated events, chance 11.9.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Thailand_Birth_Chart.mdx",
+      "title": "Thailand Birth Chart: Candidate Charts, No Agreed Founding",
+      "description": "Thailand has no agreed national chart. Western astrologers use the coup of 24 June 1932 at 05:00 (Taurus rising); Thai tradition prefers the 1782 city pillar chart (Aries rising). Confidence is low, and the 1932 charts score below chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Turkey_Birth_Chart.mdx",
+      "title": "Turkey Birth Chart: Gemini Rising and Four Planets in Libra",
+      "description": "Turkey's birth chart is cast for the proclamation of the Republic, 29 October 1923, 20:30 in Ankara. Gemini rises with the Moon and four planets in Libra. Confidence is medium for the date, low for the hour; the chart scored 12 of 22 against 13.7 by chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Ukraine_Birth_Chart.mdx",
+      "title": "Ukraine Birth Chart: Sagittarius Rising on 24 August 1991",
+      "description": "Ukraine's birth chart is cast for the Act of Independence, 24 August 1991, 18:00 in Kyiv (+03:00, summer time), with Sagittarius rising and four planets in Leo. Confidence is medium; it scored 11 of 14 against 10.0 by chance, a small lead.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/United_Arab_Emirates_Birth_Chart.mdx",
+      "title": "UAE Birth Chart: Aquarius Rising at a Noon Nobody Recorded",
+      "description": "The UAE birth chart most used is 2 December 1971, noon, Dubai: Aquarius rising, Moon in Rohini. Noon is a convention, so confidence is low. It scored 15 of 18 on nine events against a chance level of 11.6.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/United_Kingdom_Birth_Chart.mdx",
+      "title": "United Kingdom Birth Chart: Virgo Rising at Midnight, 1 January 1801",
+      "description": "The UK chart most astrologers use is the Act of Union, 1 January 1801, 00:00 in London. Confidence is medium: the date is agreed, the midnight hour is a convention, and on eleven dated events the chart scores 14 of 22 against a chance level of 12.1.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/United_States_Birth_Chart.mdx",
+      "title": "United States Birth Chart: Sagittarius Rising and a Disputed Hour",
+      "description": "The most used US birth chart is Sibly's: 4 July 1776, 17:10 local time, Philadelphia. Confidence is medium. The date is near-unanimous, the hour is not, and on ten dated events the chart scores 12 of 20 against a chance level of 13.7, which is below chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Vietnam_Birth_Chart.mdx",
+      "title": "Vietnam Birth Chart: Scorpio Rising and the +07:00 Trap",
+      "description": "Vietnam's chart is the Declaration of Independence, 2 September 1945, Hanoi, charted at noon and +07:00 (Japan-era +09:00 had ended). Scorpio rising, Moon in Gemini. Confidence is low: no time is recorded, and the chart scored below chance.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/124_Country_Charts/Yemen_Birth_Chart.mdx",
+      "title": "Yemen Birth Chart: Leo Rising at Noon, Three Founding Dates",
+      "description": "Yemen's chart is the unification of 22 May 1990, noon in Aden (+03:00): Leo rising, Moon in Aries. Noon is a placeholder, confidence is low, and the chart scored 10 of 12 against dated events where chance is 7.8.",
+      "locale": "en"
+    },
+    {
+      "path": "12_Articles/123_Celebrity_Dasha/Jensen_Huang_Birth_Time.mdx",
+      "title": "Jensen Huang: No Birth Time, Two Candidate Charts, One Mars With Rahu",
+      "description": "Jensen Huang was born on 17 February 1963 and no birth time is on record. We tested all twelve rising signs against ten dated events of his life and show the method, the scores and why two candidates remain. Moon in Scorpio and Mars in Cancer exchange signs all day; the dasha running in November 2026 is Sun, Moon or Mars depending on the hour.",
       "locale": "en"
     }
   ]
